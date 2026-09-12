@@ -6,6 +6,20 @@
       "lesson": 1,
       "vocabulary": "./data/year1/lesson01/vocabulary.json",
       "grammar": "./data/year1/lesson01/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 2,
+      "vocabulary": "./data/year1/lesson02/vocabulary.json",
+      "grammar": "./data/year1/lesson02/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 3,
+      "vocabulary": "./data/year1/lesson03/vocabulary.json",
+      "grammar": "./data/year1/lesson03/grammar.json"
     }
   ]
 }

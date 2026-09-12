@@ -6,7 +6,7 @@ const escapeHtml=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;'
 
 async function loadData(){
   try{
-    const manifestResponse=await fetch('./data/manifest.json');
+    const manifestResponse=await fetch('./data/manifest.json',{cache:'no-cache'});
     if(!manifestResponse.ok)throw new Error(`教材清單載入失敗 (${manifestResponse.status})`);
     const manifest=await manifestResponse.json();
     if(!Array.isArray(manifest.lessons))throw new Error('教材清單格式無效');
@@ -210,7 +210,7 @@ $$('.library-filter').forEach(root=>{
   root.querySelector('.filter-all').addEventListener('click',()=>clearLibraryFilter(key));
   root.querySelector('.filter-options').addEventListener('change',()=>{state.library[key]=[...root.querySelectorAll('input:checked')].map(input=>input.value);if(key==='years')refreshLibraryLessonFilter();updateLibraryFilterControls();saveLibraryFilters();renderLibrary();});
 });
-$('#clear-filters').addEventListener('click',()=>{state.library={query:'',years:[],lessons:[],types:[]};$('#search-input').value='';$$('.library-filter input').forEach(input=>input.checked=false);updateLibraryFilterControls();saveLibraryFilters();renderLibrary();});
+$('#clear-filters').addEventListener('click',()=>{state.library={query:'',years:[],lessons:[],types:[]};$('#search-input').value='';$$('.library-filter input').forEach(input=>input.checked=false);refreshLibraryLessonFilter();updateLibraryFilterControls();saveLibraryFilters();renderLibrary();});
 document.addEventListener('click',event=>{if(!event.target.closest('.library-filter'))closeFilterMenus();});
 document.addEventListener('keydown',event=>{if(event.key==='Escape'){const open=$('.library-filter .filter-menu:not([hidden])');if(open){const root=open.closest('.library-filter');closeFilterMenus();root.querySelector('.filter-trigger').focus();}}});
 document.addEventListener('keydown',event=>{if(state.view!=='review'||/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName))return;if(!state.ratingEnabled){if(!state.revealed&&event.code==='Space'){event.preventDefault();revealCard();}else if(state.revealed&&(event.code==='Space'||event.key==='ArrowRight')){event.preventDefault();nextQuickCard();}else if(event.key==='ArrowLeft'){event.preventDefault();previousQuickCard();}return;}if(event.code==='Space'&&!state.revealed){event.preventDefault();revealCard();}if(state.revealed&&['1','2','3'].includes(event.key))rateCard({1:'again',2:'hard',3:'good'}[event.key]);});
