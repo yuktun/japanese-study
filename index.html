@@ -55,19 +55,29 @@
         <div class="review-layout">
           <aside class="deck-settings" aria-label="卡組設定">
             <div class="setting-heading"><span>今次溫習</span><b id="deck-total">17 張</b></div>
-            <label for="deck-type">內容</label>
-            <select id="deck-type">
-              <option value="all">生字 + 文法</option>
-              <option value="vocabulary">生字 Vocabulary</option>
-              <option value="grammar">文法 Grammar</option>
-            </select>
-            <label for="card-direction">卡片方向</label>
-            <select id="card-direction">
-              <option value="ja-zh">日文 → 中文</option>
-              <option value="zh-ja">中文 → 日文</option>
-            </select>
-            <label for="lesson-select">課堂</label>
-            <select id="lesson-select"><option>Year 1 · Lesson 1</option></select>
+            <div class="mode-switch">
+              <div><label for="rating-options">熟悉度評分</label><small>關閉後揭曉答案，直接下一張</small></div>
+              <label class="switch-control"><input id="rating-options" type="checkbox"><span aria-hidden="true"></span></label>
+            </div>
+            <div class="setting-field">
+              <label for="deck-type">內容</label>
+              <select id="deck-type">
+                <option value="all">生字 + 文法</option>
+                <option value="vocabulary">生字 Vocabulary</option>
+                <option value="grammar">文法 Grammar</option>
+              </select>
+            </div>
+            <div class="setting-field" id="direction-setting">
+              <label for="card-direction">卡片方向</label>
+              <select id="card-direction">
+                <option value="ja-zh">日文 → 中文</option>
+                <option value="zh-ja">中文 → 日文</option>
+              </select>
+            </div>
+            <div class="setting-field">
+              <label for="lesson-select">課堂</label>
+              <select id="lesson-select"><option>Year 1 · Lesson 1</option></select>
+            </div>
             <div class="deck-info"><span>初級 I</span><p>現有 Lesson 1：10 個生字、7 項文法。</p></div>
           </aside>
 
@@ -91,7 +101,7 @@
               <button class="reveal-button" id="reveal-button">顯示答案 <span>Space</span></button>
             </div>
 
-            <div class="session-numbers">
+            <div class="session-numbers" id="session-numbers">
               <span><i class="number-dot again"></i><b id="again-count">0</b> 待重溫</span>
               <span><i class="number-dot good"></i><b id="good-count">0</b> 已記起</span>
             </div>

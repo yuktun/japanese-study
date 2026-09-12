@@ -1,4 +1,4 @@
-const state={all:[],deck:[],index:0,revealed:false,again:0,good:0,type:'all',direction:'ja-zh',view:'review'};
+const state={all:[],deck:[],index:0,revealed:false,again:0,good:0,quickSeen:0,type:'all',direction:'ja-zh',ratingEnabled:localStorage.getItem('jp-study-rating-options')==='true',view:'review'};
 const $=selector=>document.querySelector(selector);
 const $$=selector=>[...document.querySelectorAll(selector)];
 const escapeHtml=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
@@ -25,17 +25,18 @@ function japaneseFor(item){return item.pattern||item.kanji||item.kana;}
 function resetDeck(shuffle=false){
   state.deck=[...currentPool()];
   if(shuffle){for(let i=state.deck.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[state.deck[i],state.deck[j]]=[state.deck[j],state.deck[i]];}}
-  state.index=0;state.revealed=false;state.again=0;state.good=0;
+  state.index=0;state.revealed=false;state.again=0;state.good=0;state.quickSeen=0;
   renderCard();
 }
 
 function renderCard(){
   const total=state.deck.length;
   $('#deck-total').textContent=`${total} 張`;
+  $('#rating-options').checked=state.ratingEnabled;
   $('#card-position').textContent=state.index<total?`Card ${state.index+1} of ${total}`:'Session complete';
-  $('#session-type').textContent=state.type==='all'?'Mixed review':state.type==='grammar'?'Grammar':'Vocabulary';
+  $('#session-type').textContent=state.ratingEnabled?(state.type==='all'?'Memory check':state.type==='grammar'?'Grammar check':'Vocabulary check'):'Quick flashcards';
   $('#progress-fill').style.width=`${total?Math.min(state.index/total*100,100):0}%`;
-  $('#again-count').textContent=state.again;$('#good-count').textContent=state.good;
+  $('#session-numbers').innerHTML=state.ratingEnabled?`<span><i class="number-dot again"></i><b id="again-count">${state.again}</b> 待重溫</span><span><i class="number-dot good"></i><b id="good-count">${state.good}</b> 已記起</span>`:`<span><i class="number-dot good"></i><b>${Math.min(state.quickSeen,total)}</b> 已瀏覽</span><span>揭曉答案後直接下一張</span>`;
   if(!total){$('#flashcard').className='flashcard finished';$('#flashcard').innerHTML='<h2>呢個卡組未有內容</h2>';$('#answer-actions').innerHTML='';return;}
   if(state.index>=total){renderFinished();return;}
   const item=state.deck[state.index];
@@ -43,9 +44,16 @@ function renderCard(){
   $('#flashcard').className='flashcard';
   $('#flashcard').setAttribute('aria-label',state.revealed?'答案已顯示':'溫習卡，按下顯示答案');
   $('#flashcard').innerHTML=`<div class="card-topline"><span class="type-badge">${escapeHtml(labelFor(item))}</span><span>初級 I · Lesson 01</span></div><div class="card-content"><p class="card-prompt">${state.revealed?'答案':reverse?'呢句中文，日文點講？':'仲記唔記得佢嘅意思？'}</p>${state.revealed?answerHtml(item,japanese):`<h2 lang="${reverse?'zh-HK':'ja'}">${escapeHtml(reverse?item.meaningZh:japanese)}</h2><p class="tap-hint">點擊卡片顯示答案</p>`}</div>`;
-  $('#answer-actions').innerHTML=state.revealed?'<button class="rate-again" data-rate="again">唔記得</button><button class="rate-hard" data-rate="hard">有啲難</button><button class="rate-good" data-rate="good">記得了</button>':'<button class="reveal-button" id="reveal-button">顯示答案 <span>Space</span></button>';
-  if(state.revealed)$$('[data-rate]').forEach(button=>button.addEventListener('click',()=>rateCard(button.dataset.rate)));
+  $('#answer-actions').innerHTML=state.revealed?(state.ratingEnabled?'<button class="rate-again" data-rate="again">唔記得</button><button class="rate-hard" data-rate="hard">有啲難</button><button class="rate-good" data-rate="good">記得了</button>':`<button class="previous-button" id="previous-button" ${state.index===0?'disabled':''}>← 上一張</button><button class="next-button" id="next-button">${state.index===total-1?'完成':'下一張 →'} <span>Space</span></button>`):'<button class="reveal-button" id="reveal-button">顯示答案 <span>Space</span></button>';
+  if(state.revealed&&state.ratingEnabled)$$('[data-rate]').forEach(button=>button.addEventListener('click',()=>rateCard(button.dataset.rate)));
+  else if(state.revealed){$('#previous-button').addEventListener('click',previousQuickCard);$('#next-button').addEventListener('click',nextQuickCard);}
   else $('#reveal-button').addEventListener('click',revealCard);
+}
+
+function previousQuickCard(){if(state.index===0)return;state.index--;renderCard();}
+function nextQuickCard(){
+  state.quickSeen=Math.max(state.quickSeen,state.index+1);incrementToday();state.index++;
+  renderCard();
 }
 
 function answerHtml(item,japanese){
@@ -63,7 +71,7 @@ function rateCard(rating){
 }
 function renderFinished(){
   $('#progress-fill').style.width='100%';$('#flashcard').className='flashcard finished';
-  $('#flashcard').innerHTML=`<div class="finished-mark">✓</div><p class="eyebrow">SESSION COMPLETE</p><h2>今次溫習完成。</h2><p>${state.good} 張已記起${state.again?`，${state.again} 張已經再溫過。`:'。做得好。'}</p>`;
+  $('#flashcard').innerHTML=`<div class="finished-mark">✓</div><p class="eyebrow">SESSION COMPLETE</p><h2>今次溫習完成。</h2><p>${state.ratingEnabled?`${state.good} 張已記起${state.again?`，${state.again} 張已經再溫過。`:'。做得好。'}`:`已經快速睇完 ${state.deck.length} 張卡片。`}</p>`;
   $('#answer-actions').innerHTML='<button class="reveal-button" id="restart-button">再溫一次</button>';
   $('#restart-button').addEventListener('click',()=>resetDeck());
 }
@@ -89,10 +97,11 @@ function showToast(message){const toast=$('#toast');toast.textContent=message;to
 $$('.nav-item').forEach(item=>item.addEventListener('click',()=>switchView(item.dataset.view)));
 $('#menu-button').addEventListener('click',()=>{const open=$('.sidebar').classList.toggle('open');$('#menu-button').setAttribute('aria-expanded',String(open));});
 $('#deck-type').addEventListener('change',event=>{state.type=event.target.value;resetDeck();});
+$('#rating-options').addEventListener('change',event=>{state.ratingEnabled=event.target.checked;localStorage.setItem('jp-study-rating-options',String(state.ratingEnabled));resetDeck();showToast(state.ratingEnabled?'已開啟熟悉度評分':'已關閉熟悉度評分');});
 $('#card-direction').addEventListener('change',event=>{state.direction=event.target.value;resetDeck();});
 $('#shuffle-button').addEventListener('click',()=>{resetDeck(true);showToast('卡片已經洗牌');});
 $('#flashcard').addEventListener('click',()=>{if(!state.revealed)revealCard();});
 $('#flashcard').addEventListener('keydown',event=>{if((event.key==='Enter'||event.key===' ')&&!state.revealed){event.preventDefault();revealCard();}});
 $('#search-input').addEventListener('input',renderLibrary);$('#library-type').addEventListener('change',renderLibrary);
-document.addEventListener('keydown',event=>{if(state.view!=='review'||/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName))return;if(event.code==='Space'&&!state.revealed){event.preventDefault();revealCard();}if(state.revealed&&['1','2','3'].includes(event.key))rateCard({1:'again',2:'hard',3:'good'}[event.key]);});
+document.addEventListener('keydown',event=>{if(state.view!=='review'||/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName))return;if(!state.ratingEnabled){if(!state.revealed&&event.code==='Space'){event.preventDefault();revealCard();}else if(state.revealed&&(event.code==='Space'||event.key==='ArrowRight')){event.preventDefault();nextQuickCard();}else if(event.key==='ArrowLeft'){event.preventDefault();previousQuickCard();}return;}if(event.code==='Space'&&!state.revealed){event.preventDefault();revealCard();}if(state.revealed&&['1','2','3'].includes(event.key))rateCard({1:'again',2:'hard',3:'good'}[event.key]);});
 updateToday();loadData();
