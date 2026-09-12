@@ -1,0 +1,19 @@
+[
+  {
+    "id": "y1-l03-r001",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 3,
+    "sourceOrder": 5,
+    "title": "こそあど系統",
+    "type": "reference",
+    "content": "「こ」「そ」「あ」「ど」の指示詞系統。",
+    "table": [
+      {"category": "物", "ko": "これ", "so": "それ", "a": "あれ", "do": "どれ（第16課）"},
+      {"category": "物・人", "ko": "このN", "so": "そのN", "a": "あのN", "do": "どのN（第16課）"},
+      {"category": "場所", "ko": "ここ", "so": "そこ", "a": "あそこ", "do": "どこ"},
+      {"category": "場所（鄭重）・方向", "ko": "こちら", "so": "そちら", "a": "あちら", "do": "どちら"}
+    ],
+    "source": {"type": "school_pdf", "driveFileId": "1-qTcxXKglJ35zCnTZ5aURDwn5YOH5fhc", "fileName": "g_1_03.pdf"}
+  }
+]

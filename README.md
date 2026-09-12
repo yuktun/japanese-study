@@ -31,6 +31,15 @@ Priority:
 
 AI-added material must be explicitly labelled as supplementary and must not overwrite school material.
 
+### Migration completeness
+
+- The school PDF is authoritative for migrated course content.
+- Every grammar point must preserve its pattern, Chinese meaning, full explanation, every note or caution, and every example in the original order.
+- Substantive omissions are not allowed unless the source is unreadable. Unreadable or ambiguous text must be flagged for review instead of guessed.
+- Formatting, punctuation, whitespace, and ruby/furigana extraction may be normalized without changing meaning.
+- Any AI-added explanation must be clearly marked as supplementary and kept distinct from school material.
+- Grammar records use `sourceOrder` to make their ordering against the source PDF auditable. Supplementary school reference material may be stored in an optional lesson-level `reference.json` file.
+
 ## Data structure
 
 ```text
@@ -41,9 +50,11 @@ data/
     lesson01/
       vocabulary.json
       grammar.json
+      reference.json  # optional school supplementary/reference content
 schemas/
   vocabulary.schema.json
   grammar.schema.json
+  reference.schema.json
 ```
 
 The structure is intentionally lesson-based so that the app can browse by school year while still supporting cross-year search.

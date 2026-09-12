@@ -33,6 +33,10 @@
       "type": "integer",
       "minimum": 1
     },
+    "sourceOrder": {
+      "type": "integer",
+      "minimum": 1
+    },
     "pattern": {
       "type": "string"
     },

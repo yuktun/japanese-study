@@ -19,7 +19,8 @@
       "book": "初級 I",
       "lesson": 3,
       "vocabulary": "./data/year1/lesson03/vocabulary.json",
-      "grammar": "./data/year1/lesson03/grammar.json"
+      "grammar": "./data/year1/lesson03/grammar.json",
+      "reference": "./data/year1/lesson03/reference.json"
     }
   ]
 }

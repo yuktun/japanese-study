@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Japanese Study lesson reference item",
+  "type": "object",
+  "required": ["id", "schoolYear", "book", "lesson", "title", "type", "source"],
+  "properties": {
+    "id": {"type": "string"},
+    "schoolYear": {"type": "integer", "minimum": 1, "maximum": 5},
+    "book": {"enum": ["初級 I", "初級 II", "中級 I", "中級 II"]},
+    "lesson": {"type": "integer", "minimum": 1},
+    "sourceOrder": {"type": "integer", "minimum": 1},
+    "title": {"type": "string"},
+    "type": {"const": "reference"},
+    "content": {"type": "string"},
+    "table": {"type": "array", "items": {"type": "object"}},
+    "source": {"type": "object"}
+  }
+}

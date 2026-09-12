@@ -1,4 +1,4 @@
-const state={all:[],lessons:[],deck:[],index:0,revealed:false,again:0,good:0,quickSeen:0,type:'all',direction:'ja-zh',year:null,lesson:null,ratingEnabled:localStorage.getItem('jp-study-rating-options')==='true',view:'review',library:{query:'',years:[],lessons:[],types:[]}};
+const state={all:[],references:[],lessons:[],deck:[],index:0,revealed:false,again:0,good:0,quickSeen:0,type:'all',direction:'ja-zh',year:null,lesson:null,ratingEnabled:localStorage.getItem('jp-study-rating-options')==='true',view:'review',library:{query:'',years:[],lessons:[],types:[]}};
 let fallbackAudio=null;
 const $=selector=>document.querySelector(selector);
 const $$=selector=>[...document.querySelectorAll(selector)];
@@ -18,7 +18,17 @@ async function loadData(){
       if(!Array.isArray(items))throw new Error(`${lesson[type]} 格式無效`);
       return items.map(item=>({...item,type}));
     })));
+    const referenceGroups=await Promise.all(manifest.lessons.filter(lesson=>lesson.reference).map(async lesson=>{
+      try{
+        const response=await fetch(lesson.reference);
+        if(!response.ok)throw new Error(`${lesson.reference} 載入失敗 (${response.status})`);
+        const items=await response.json();
+        if(!Array.isArray(items))throw new Error(`${lesson.reference} 格式無效`);
+        return items;
+      }catch(error){console.warn(error);return [];}
+    }));
     state.all=groups.flat();
+    state.references=referenceGroups.flat();
     initialiseFilters();resetDeck();renderLibrary();
   }catch(error){
     console.error(error);
