@@ -1,5 +1,7 @@
 # Japanese Study
 
+Live prototype: **https://yuktun.github.io/japanese-study/**
+
 Personal Japanese revision archive based on **大家的日本語 (Minna no Nihongo)** and school materials.
 
 ## Course mapping
