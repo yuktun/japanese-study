@@ -1,0 +1,184 @@
+[
+  {
+    "id": "y1-l01-g001",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "pattern": "N1 の N2",
+    "meaningZh": "N1 的 N2",
+    "explanationZh": "「の」是助詞，用前面的名詞 N1 修飾後面的名詞 N2，表示所屬。",
+    "notes": [
+      "助詞通常不能單獨使用。"
+    ],
+    "examples": [
+      {
+        "ja": "富士大学の学生",
+        "zh": "富士大學的學生"
+      },
+      {
+        "ja": "桜大学の先生",
+        "zh": "櫻花大學的老師"
+      },
+      {
+        "ja": "神戸病院の医者",
+        "zh": "神戶醫院的醫生"
+      },
+      {
+        "ja": "IMCの社員",
+        "zh": "IMC 的職員"
+      }
+    ],
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1PweBWor5p4cWSmt8ueXK_qIatt24-Bzq",
+      "fileName": "g_1_01.pdf"
+    }
+  },
+  {
+    "id": "y1-l01-g002",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "pattern": "N1 は N2 です",
+    "meaningZh": "N1 是 N2。",
+    "explanationZh": "「は」表示句子主題；「です」放於名詞句最後表示肯定，屬禮貌文體。",
+    "notes": [
+      "「は」作助詞時讀作「わ」。"
+    ],
+    "examples": [
+      {
+        "ja": "わたしはマイク・ミラーです。",
+        "zh": "我是邁克・米勒。"
+      },
+      {
+        "ja": "ワンさんは中国人です。",
+        "zh": "小王是中國人。"
+      }
+    ],
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1PweBWor5p4cWSmt8ueXK_qIatt24-Bzq",
+      "fileName": "g_1_01.pdf"
+    }
+  },
+  {
+    "id": "y1-l01-g003",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "pattern": "N1 は N2 じゃありません",
+    "meaningZh": "N1 不是 N2。",
+    "explanationZh": "「じゃありません」是「です」的否定形，表示否定。",
+    "notes": [
+      "「じゃ」是「では」的縮約形；較正式可用「ではありません」。"
+    ],
+    "examples": [
+      {
+        "ja": "わたしは教師じゃありません。",
+        "zh": "我不是教師。"
+      }
+    ],
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1PweBWor5p4cWSmt8ueXK_qIatt24-Bzq",
+      "fileName": "g_1_01.pdf"
+    }
+  },
+  {
+    "id": "y1-l01-g004",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "pattern": "N1 は N2 ですか",
+    "meaningZh": "N1 是 N2 嗎？",
+    "explanationZh": "句末助詞「か」表示疑問。",
+    "notes": [
+      "一般疑問句可用「はい／いいえ」回答。"
+    ],
+    "examples": [
+      {
+        "ja": "山田さんは銀行員ですか。",
+        "zh": "山田先生是銀行職員嗎？"
+      }
+    ],
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1PweBWor5p4cWSmt8ueXK_qIatt24-Bzq",
+      "fileName": "g_1_01.pdf"
+    }
+  },
+  {
+    "id": "y1-l01-g005",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "pattern": "N1 も N2 です",
+    "meaningZh": "N1 也是 N2。",
+    "explanationZh": "「も」取代「は」，表示兼提，有「也」的意思。",
+    "examples": [
+      {
+        "ja": "グプタさんも会社員です。",
+        "zh": "古普塔也是公司職員。"
+      }
+    ],
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1PweBWor5p4cWSmt8ueXK_qIatt24-Bzq",
+      "fileName": "g_1_01.pdf"
+    }
+  },
+  {
+    "id": "y1-l01-g006",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "pattern": "N は QW ですか",
+    "meaningZh": "N 是誰／幾歲呢？",
+    "explanationZh": "將適當疑問詞放進想知道的內容部分。",
+    "notes": [
+      "這類提問不用「はい／いいえ」回答。"
+    ],
+    "examples": [
+      {
+        "ja": "あの方はどなたですか。",
+        "zh": "那位先生是誰呀？"
+      },
+      {
+        "ja": "イーさんは何歳／おいくつですか。",
+        "zh": "李小姐多大年紀了？"
+      }
+    ],
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1PweBWor5p4cWSmt8ueXK_qIatt24-Bzq",
+      "fileName": "g_1_01.pdf"
+    }
+  },
+  {
+    "id": "y1-l01-g007",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "pattern": "～さん／～ちゃん",
+    "meaningZh": "～先生／～小姐／～太太；～ちゃん用於小孩或親暱稱呼。",
+    "explanationZh": "姓名後加「さん」表示尊敬；對小孩常加「ちゃん」。",
+    "notes": [
+      "不能在自己的姓名後加「さん」。"
+    ],
+    "examples": [
+      {
+        "ja": "あの方はミラーさんです。",
+        "zh": "那位是米勒先生。"
+      },
+      {
+        "ja": "太郎ちゃんは9歳です。",
+        "zh": "太郎9歲。"
+      }
+    ],
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1PweBWor5p4cWSmt8ueXK_qIatt24-Bzq",
+      "fileName": "g_1_01.pdf"
+    }
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Japanese Study Vocabulary Item",
+  "type": "object",
+  "required": [
+    "id",
+    "schoolYear",
+    "book",
+    "lesson",
+    "kana",
+    "meaningZh",
+    "source"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "schoolYear": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    "book": {
+      "type": "string",
+      "enum": [
+        "初級 I",
+        "初級 II",
+        "中級 I",
+        "中級 II"
+      ]
+    },
+    "lesson": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "category": {
+      "type": "string"
+    },
+    "kana": {
+      "type": "string"
+    },
+    "kanji": {
+      "type": "string"
+    },
+    "meaningZh": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "string"
+    },
+    "source": {
+      "type": "object"
+    }
+  }
+}

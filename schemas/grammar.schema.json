@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Japanese Study Grammar Item",
+  "type": "object",
+  "required": [
+    "id",
+    "schoolYear",
+    "book",
+    "lesson",
+    "pattern",
+    "meaningZh",
+    "source"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "schoolYear": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 5
+    },
+    "book": {
+      "type": "string",
+      "enum": [
+        "初級 I",
+        "初級 II",
+        "中級 I",
+        "中級 II"
+      ]
+    },
+    "lesson": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "pattern": {
+      "type": "string"
+    },
+    "meaningZh": {
+      "type": "string"
+    },
+    "explanationZh": {
+      "type": "string"
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "examples": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "source": {
+      "type": "object"
+    }
+  }
+}

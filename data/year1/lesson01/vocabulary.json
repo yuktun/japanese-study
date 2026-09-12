@@ -1,0 +1,153 @@
+[
+  {
+    "id": "y1-l01-v001",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "名詞",
+    "kana": "わたし",
+    "kanji": "",
+    "meaningZh": "我",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
+      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l01-v002",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "名詞",
+    "kana": "あなた",
+    "kanji": "",
+    "meaningZh": "你、妳",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
+      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l01-v003",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "名詞",
+    "kana": "あの ひと",
+    "kanji": "あの 人",
+    "meaningZh": "他、她、那個人",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
+      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l01-v004",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "名詞",
+    "kana": "あの かた",
+    "kanji": "あの 方",
+    "meaningZh": "他、她、那個人（禮貌形）",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
+      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l01-v005",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "名詞",
+    "kana": "いしゃ",
+    "kanji": "医者",
+    "meaningZh": "醫生",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
+      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l01-v006",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "名詞",
+    "kana": "かいしゃいん",
+    "kanji": "会社員",
+    "meaningZh": "公司職員",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
+      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l01-v007",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "名詞",
+    "kana": "しゃいん",
+    "kanji": "社員",
+    "meaningZh": "～公司的職員",
+    "notes": "和公司名稱一起使用，如 IMCのしゃいん",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
+      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l01-v008",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "名詞",
+    "kana": "きょうし",
+    "kanji": "教師",
+    "meaningZh": "教師",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
+      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l01-v009",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "名詞",
+    "kana": "ぎんこういん",
+    "kanji": "銀行員",
+    "meaningZh": "銀行員",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
+      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l01-v010",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "名詞",
+    "kana": "けんきゅうしゃ",
+    "kanji": "研究者",
+    "meaningZh": "研究人員",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
+      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+    }
+  }
+]

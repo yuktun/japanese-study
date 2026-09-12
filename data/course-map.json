@@ -1,0 +1,72 @@
+{
+  "series": "大家的日本語",
+  "sourcePriority": [
+    "school_pdf",
+    "textbook",
+    "supplementary_ai"
+  ],
+  "years": [
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lessons": {
+        "from": 1,
+        "to": 20
+      }
+    },
+    {
+      "schoolYear": 2,
+      "segments": [
+        {
+          "book": "初級 I",
+          "lessons": {
+            "from": 21,
+            "to": 25
+          }
+        },
+        {
+          "book": "初級 II",
+          "lessons": {
+            "from": 26,
+            "to": 40
+          }
+        }
+      ]
+    },
+    {
+      "schoolYear": 3,
+      "segments": [
+        {
+          "book": "初級 II",
+          "lessons": {
+            "from": 41,
+            "to": 50
+          }
+        },
+        {
+          "book": "中級 I",
+          "lessons": {
+            "from": 1,
+            "to": 4
+          }
+        }
+      ]
+    },
+    {
+      "schoolYear": 4,
+      "book": "中級 I",
+      "lessons": {
+        "from": 5,
+        "to": 12
+      }
+    },
+    {
+      "schoolYear": 5,
+      "book": "中級 II",
+      "lessons": {
+        "from": 13,
+        "to": 20
+      }
+    }
+  ]
+}
