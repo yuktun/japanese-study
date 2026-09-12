@@ -8,7 +8,7 @@
   <title>日本語 Review Room</title>
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23e11d48'/%3E%3Ccircle cx='47' cy='17' r='8' fill='%23fff1f4'/%3E%3Ctext x='13' y='47' font-size='37' fill='white'%3E日%3C/text%3E%3C/svg%3E">
   <script>try{const saved=localStorage.getItem('jp-study-theme');document.documentElement.dataset.theme=saved||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light')}catch{document.documentElement.dataset.theme='light'}</script>
-  <link rel="stylesheet" href="./styles.css?v=670c833">
+  <link rel="stylesheet" href="./styles.css?v=filters1">
 </head>
 <body>
   <div class="app-shell">
@@ -79,8 +79,12 @@
               </select>
             </div>
             <div class="setting-field">
+              <label for="year-select">學年</label>
+              <select id="year-select" aria-label="選擇學年"></select>
+            </div>
+            <div class="setting-field">
               <label for="lesson-select">課堂</label>
-              <select id="lesson-select"><option>Year 1 · Lesson 1</option></select>
+              <select id="lesson-select" aria-label="選擇課堂"></select>
             </div>
             <div class="deck-info"><span>初級 I</span><p>現有 Lesson 1：10 個生字、7 項文法。</p></div>
           </aside>
@@ -117,7 +121,21 @@
         <div class="library-heading"><div><p class="eyebrow">STUDY ARCHIVE</p><h1 id="library-title">以前學過，隨時搵得返。</h1><p>用日文、假名或中文搜尋。</p></div></div>
         <div class="library-toolbar">
           <label class="search-box"><span>⌕</span><input id="search-input" type="search" placeholder="例如：醫生、会社員、N1 は…" aria-label="搜尋教材"></label>
-          <select id="library-type" aria-label="內容分類"><option value="all">全部內容</option><option value="vocabulary">生字</option><option value="grammar">文法</option></select>
+          <div class="library-filters" aria-label="資料庫篩選">
+            <div class="library-filter" data-library-filter="years">
+              <button class="filter-trigger" type="button" aria-expanded="false" aria-controls="filter-years-menu"><span>學年</span><b hidden></b><span aria-hidden="true">⌄</span></button>
+              <div class="filter-menu" id="filter-years-menu" hidden><button class="filter-all" type="button">全部學年</button><div class="filter-options"></div></div>
+            </div>
+            <div class="library-filter" data-library-filter="lessons">
+              <button class="filter-trigger" type="button" aria-expanded="false" aria-controls="filter-lessons-menu"><span>課堂</span><b hidden></b><span aria-hidden="true">⌄</span></button>
+              <div class="filter-menu" id="filter-lessons-menu" hidden><button class="filter-all" type="button">全部課堂</button><div class="filter-options"></div></div>
+            </div>
+            <div class="library-filter" data-library-filter="types">
+              <button class="filter-trigger" type="button" aria-expanded="false" aria-controls="filter-types-menu"><span>內容</span><b hidden></b><span aria-hidden="true">⌄</span></button>
+              <div class="filter-menu" id="filter-types-menu" hidden><button class="filter-all" type="button">全部內容</button><div class="filter-options"></div></div>
+            </div>
+            <button class="clear-filters" id="clear-filters" type="button" hidden>清除全部</button>
+          </div>
         </div>
         <div class="result-summary"><b id="result-count">17 項內容</b><span>Year 1 · Lesson 1</span></div>
         <div class="library-grid" id="library-grid" aria-live="polite"></div>
@@ -126,6 +144,6 @@
   </div>
 
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
-  <script src="./app.js?v=670c833"></script>
+  <script src="./app.js?v=filters1"></script>
 </body>
 </html>
