@@ -44,9 +44,10 @@ function renderCard(){
   const japanese=japaneseFor(item),reverse=state.direction==='zh-ja';
   const frontText=reverse?item.meaningZh:japanese;
   const frontReading=!reverse&&item.type==='vocabulary'&&item.kanji?`<p class="answer-reading" lang="ja">${escapeHtml(item.kana)}</p>`:'';
-  $('#flashcard').className=`flashcard${state.revealed?' is-flipped':''}`;
+  const frontLabel=reverse?'中文意思':item.type==='grammar'?'文法句型':item.kanji?'漢字表記':'平假名／片假名';
+  $('#flashcard').className=`flashcard${item.type==='grammar'?' grammar-card':''}${state.revealed?' is-flipped':''}`;
   $('#flashcard').setAttribute('aria-label',state.revealed?'答案已顯示':'溫習卡，按下顯示答案');
-  $('#flashcard').innerHTML=`<div class="card-inner"><section class="card-face card-front"><div class="card-topline"><span class="type-badge">${escapeHtml(labelFor(item))}</span><span>初級 I · Lesson 01</span></div>${speakerButton()}<div class="card-content"><p class="card-prompt">${reverse?'呢句中文，日文點講？':'仲記唔記得佢嘅意思？'}</p><h2 lang="${reverse?'zh-HK':'ja'}">${escapeHtml(frontText)}</h2>${frontReading}<p class="flip-hint">↻ 點擊卡片翻轉</p></div></section><section class="card-face card-back"><div class="card-topline"><span>答案</span><span>初級 I · Lesson 01</span></div>${speakerButton()}<div class="card-content">${answerBackHtml(item,japanese,reverse)}<p class="flip-hint">↻ 點擊返回題目</p></div></section></div>`;
+  $('#flashcard').innerHTML=`<div class="card-inner"><section class="card-face card-front"><div class="card-topline"><span class="type-badge">${escapeHtml(labelFor(item))}</span><span>${state.index+1} / ${total}</span></div>${speakerButton()}<div class="card-content"><p class="face-label">${frontLabel}</p><h2 lang="${reverse?'zh-HK':'ja'}">${escapeHtml(frontText)}</h2>${frontReading}<p class="flip-hint">↻ 點擊翻面查看答案</p></div></section><section class="card-face card-back"><div class="card-topline"><span class="back-badge">答案與內容</span><span>${state.index+1} / ${total}</span></div>${speakerButton()}<div class="card-content">${answerBackHtml(item,japanese,reverse)}<p class="flip-hint">↻ 點擊返回題目</p></div></section></div>`;
   bindSpeakButtons(japanese);
   renderAnswerActions(total);
 }
@@ -68,8 +69,12 @@ function answerBackHtml(item,japanese,reverse){
   const reading=item.type==='vocabulary'&&item.kanji?`<p class="answer-reading" lang="ja">${escapeHtml(item.kana)}</p>`:'';
   const explanation=item.explanationZh||item.notes||'';
   const firstExample=item.examples?.[0];
-  const main=reverse?`<h2 lang="ja" style="font-size:${item.type==='grammar'?'2.1rem':'2.8rem'}">${escapeHtml(japanese)}</h2>${reading}`:`<p class="answer-meaning">${escapeHtml(item.meaningZh)}</p>${reading}`;
-  return `${main}${explanation?`<p class="answer-explain">${escapeHtml(explanation)}</p>`:''}${firstExample?`<div class="answer-example"><span lang="ja">${escapeHtml(firstExample.ja)}</span><small>${escapeHtml(firstExample.zh)}</small></div>`:''}`;
+  const category=item.type==='grammar'?'文法':item.category||'生字';
+  const answerLabel=reverse?'日文答案':'中文意思';
+  const main=reverse
+    ?`<p class="face-label">${answerLabel}</p><h2 lang="ja" class="back-main">${escapeHtml(japanese)}</h2>${reading}`
+    :`<p class="face-label">${answerLabel}</p><h2 class="back-main" lang="zh-HK">${escapeHtml(item.meaningZh)}</h2><div class="back-term"><b lang="ja">${escapeHtml(japanese)}</b>${reading}</div>`;
+  return `${main}<span class="back-category">${escapeHtml(category)}</span>${explanation?`<p class="answer-explain">${escapeHtml(explanation)}</p>`:''}${firstExample?`<div class="answer-example"><span lang="ja">${escapeHtml(firstExample.ja)}</span><small>${escapeHtml(firstExample.zh)}</small></div>`:''}`;
 }
 
 function speakerButton(){return '<button class="speak-button" data-speak type="button" aria-label="播放日文發音" title="播放日文發音"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4.03v8.05A4.5 4.5 0 0 0 16.5 12zm-2.5-8.7v2.06a7 7 0 0 1 0 13.28v2.06a9 9 0 0 0 0-17.4z"/></svg></button>';}
