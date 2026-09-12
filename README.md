@@ -35,6 +35,7 @@ AI-added material must be explicitly labelled as supplementary and must not over
 
 ```text
 data/
+  manifest.json
   course-map.json
   year1/
     lesson01/
@@ -46,3 +47,15 @@ schemas/
 ```
 
 The structure is intentionally lesson-based so that the app can browse by school year while still supporting cross-year search.
+
+`data/manifest.json` is the frontend source of truth for available lessons. Add a lesson's metadata and vocabulary and/or grammar path there after its data files are ready; the app discovers all listed lessons automatically.
+
+## Validate lesson data
+
+Run the Node.js standard-library validator before committing data changes:
+
+```bash
+node scripts/validate-data.mjs
+```
+
+It checks the manifest, referenced files, required fields, lesson metadata, and globally unique item IDs.

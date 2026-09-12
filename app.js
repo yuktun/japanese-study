@@ -1,4 +1,4 @@
-const state={all:[],deck:[],index:0,revealed:false,again:0,good:0,quickSeen:0,type:'all',direction:'ja-zh',year:null,lesson:null,ratingEnabled:localStorage.getItem('jp-study-rating-options')==='true',view:'review',library:{query:'',years:[],lessons:[],types:[]}};
+const state={all:[],lessons:[],deck:[],index:0,revealed:false,again:0,good:0,quickSeen:0,type:'all',direction:'ja-zh',year:null,lesson:null,ratingEnabled:localStorage.getItem('jp-study-rating-options')==='true',view:'review',library:{query:'',years:[],lessons:[],types:[]}};
 let fallbackAudio=null;
 const $=selector=>document.querySelector(selector);
 const $$=selector=>[...document.querySelectorAll(selector)];
@@ -6,28 +6,45 @@ const escapeHtml=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;'
 
 async function loadData(){
   try{
-    const [vocabulary,grammar]=await Promise.all([
-      fetch('./data/year1/lesson01/vocabulary.json').then(response=>{if(!response.ok)throw new Error('Vocabulary data');return response.json();}),
-      fetch('./data/year1/lesson01/grammar.json').then(response=>{if(!response.ok)throw new Error('Grammar data');return response.json();})
-    ]);
-    state.all=[...vocabulary.map(item=>({...item,type:'vocabulary'})),...grammar.map(item=>({...item,type:'grammar'}))];
+    const manifestResponse=await fetch('./data/manifest.json');
+    if(!manifestResponse.ok)throw new Error(`教材清單載入失敗 (${manifestResponse.status})`);
+    const manifest=await manifestResponse.json();
+    if(!Array.isArray(manifest.lessons))throw new Error('教材清單格式無效');
+    state.lessons=manifest.lessons;
+    const groups=await Promise.all(manifest.lessons.flatMap(lesson=>['vocabulary','grammar'].filter(type=>lesson[type]).map(async type=>{
+      const response=await fetch(lesson[type]);
+      if(!response.ok)throw new Error(`${lesson[type]} 載入失敗 (${response.status})`);
+      const items=await response.json();
+      if(!Array.isArray(items))throw new Error(`${lesson[type]} 格式無效`);
+      return items.map(item=>({...item,type}));
+    })));
+    state.all=groups.flat();
     initialiseFilters();resetDeck();renderLibrary();
   }catch(error){
+    console.error(error);
     $('#card-content').innerHTML='<p class="card-prompt">資料暫時載入唔到</p><h2 style="font-size:1.5rem">請重新整理頁面</h2>';
     $('#answer-actions').innerHTML='';
-    showToast('教材載入失敗，請稍後再試。');
+    showToast(error.message||'教材載入失敗，請稍後再試。');
   }
 }
 
 function currentPool(){return state.all.filter(item=>(state.type==='all'||item.type===state.type)&&item.schoolYear===state.year&&item.lesson===state.lesson);}
 function labelFor(item){return item.type==='grammar'?'文法 Grammar':`生字 · ${item.category||'Vocabulary'}`;}
 function japaneseFor(item){return item.pattern||item.kanji||item.kana;}
+function selectedLessonMeta(){return state.lessons.find(item=>item.schoolYear===state.year&&item.lesson===state.lesson)||state.all.find(item=>item.schoolYear===state.year&&item.lesson===state.lesson);}
+function updateCourseDetails(){
+  const meta=selectedLessonMeta(),lessonItems=state.all.filter(item=>item.schoolYear===state.year&&item.lesson===state.lesson);
+  const vocabularyCount=lessonItems.filter(item=>item.type==='vocabulary').length,grammarCount=lessonItems.filter(item=>item.type==='grammar').length;
+  $('#course-year').textContent=`Year ${state.year}`;$('#course-book').textContent=`大家的日本語 · ${meta?.book||''}`;$('#course-lesson').textContent=`Lesson ${state.lesson} 已加入`;
+  $('.deck-info span').textContent=meta?.book||'';$('.deck-info p').textContent=`現有 Lesson ${state.lesson}：${vocabularyCount} 個生字、${grammarCount} 項文法。`;
+}
 
 function resetDeck(shuffle=false){
   state.deck=[...currentPool()];
   if(shuffle){for(let i=state.deck.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[state.deck[i],state.deck[j]]=[state.deck[j],state.deck[i]];}}
   state.index=0;state.revealed=false;state.again=0;state.good=0;state.quickSeen=0;
   $('.crumb span').textContent=`Year ${state.year}`;$('.crumb b').textContent=`Lesson ${String(state.lesson).padStart(2,'0')}`;
+  updateCourseDetails();
   renderCard();
 }
 
@@ -100,8 +117,15 @@ function renderFinished(){
 
 function masteredIds(){try{return new Set(JSON.parse(localStorage.getItem('jp-study-mastered')||'[]'));}catch{return new Set();}}
 function saveMastered(id){const ids=masteredIds();ids.add(id);localStorage.setItem('jp-study-mastered',JSON.stringify([...ids]));}
-function incrementToday(){const key=new Date().toISOString().slice(0,10),saved=JSON.parse(localStorage.getItem('jp-study-today')||'{}');saved[key]=(saved[key]||0)+1;localStorage.setItem('jp-study-today',JSON.stringify(saved));updateToday();}
-function updateToday(){const key=new Date().toISOString().slice(0,10),saved=JSON.parse(localStorage.getItem('jp-study-today')||'{}');$('#today-count').textContent=`${saved[key]||0} 張`;}
+function localDateKey(date=new Date()){return `${date.getFullYear()}-${String(date.getMonth()+1).padStart(2,'0')}-${String(date.getDate()).padStart(2,'0')}`;}
+function incrementToday(){const key=localDateKey(),saved=JSON.parse(localStorage.getItem('jp-study-today')||'{}');saved[key]=(saved[key]||0)+1;localStorage.setItem('jp-study-today',JSON.stringify(saved));updateToday();}
+function updateToday(){const key=localDateKey(),saved=JSON.parse(localStorage.getItem('jp-study-today')||'{}');$('#today-count').textContent=`${saved[key]||0} 張`;}
+function normalizeSearch(value){return String(value??'').normalize('NFKC').toLocaleLowerCase();}
+function searchableText(item){
+  const examples=Array.isArray(item.examples)?item.examples.flatMap(example=>[example?.ja,example?.zh]):[];
+  const notes=Array.isArray(item.notes)?item.notes:[item.notes];
+  return normalizeSearch([item.kana,item.kanji,item.meaningZh,item.pattern,item.explanationZh,...notes,item.category,...examples,item.book,item.schoolYear,item.lesson].filter(value=>value!==undefined&&value!==null).join(' '));
+}
 
 function sortedUnique(values){return [...new Set(values)].sort((a,b)=>String(a).localeCompare(String(b),undefined,{numeric:true}));}
 function readJsonStorage(key,fallback){try{return JSON.parse(localStorage.getItem(key)||'null')??fallback;}catch{return fallback;}}
@@ -117,9 +141,10 @@ function initialiseFilters(){
   for(const key of ['years','lessons','types'])state.library[key]=Array.isArray(saved[key])?saved[key].map(String).filter(value=>valid[key].has(value)):[];
   $('#search-input').value=state.library.query;
   populateLibraryFilter('years',years.map(value=>({value:String(value),label:`Year ${value}`})));
-  populateLibraryFilter('lessons',sortedUnique(state.all.map(item=>item.lesson)).map(value=>({value:String(value),label:`Lesson ${String(value).padStart(2,'0')}`})));
+  refreshLibraryLessonFilter();
   populateLibraryFilter('types',[{value:'vocabulary',label:'生字 Vocabulary'},{value:'grammar',label:'文法 Grammar'}].filter(option=>valid.types.has(option.value)));
   updateLibraryFilterControls();
+  saveLibraryFilters();
 }
 function populateYearSelect(years){$('#year-select').innerHTML=years.map(year=>`<option value="${year}">Year ${year}</option>`).join('');$('#year-select').value=String(state.year);}
 function populateLessonSelect(preferred){
@@ -133,6 +158,12 @@ function populateLibraryFilter(key,options){
   const container=$(`[data-library-filter="${key}"] .filter-options`);
   container.innerHTML=options.map(option=>`<label><input type="checkbox" value="${escapeHtml(option.value)}" ${state.library[key].includes(option.value)?'checked':''}><span>${escapeHtml(option.label)}</span></label>`).join('');
 }
+function refreshLibraryLessonFilter(){
+  const available=sortedUnique(state.all.filter(item=>!state.library.years.length||state.library.years.includes(String(item.schoolYear))).map(item=>item.lesson));
+  const valid=new Set(available.map(String));
+  state.library.lessons=state.library.lessons.filter(value=>valid.has(value));
+  populateLibraryFilter('lessons',available.map(value=>({value:String(value),label:`Lesson ${String(value).padStart(2,'0')}`})));
+}
 function saveLibraryFilters(){localStorage.setItem('jp-study-library-filters',JSON.stringify(state.library));}
 function updateLibraryFilterControls(){
   for(const key of ['years','lessons','types']){
@@ -143,11 +174,11 @@ function updateLibraryFilterControls(){
   $('#clear-filters').hidden=!state.library.query&&!['years','lessons','types'].some(key=>state.library[key].length);
 }
 function closeFilterMenus(except=null){$$('.library-filter').forEach(root=>{if(root===except)return;root.querySelector('.filter-menu').hidden=true;root.querySelector('.filter-trigger').setAttribute('aria-expanded','false');});}
-function clearLibraryFilter(key){state.library[key]=[];$(`[data-library-filter="${key}"]`).querySelectorAll('input').forEach(input=>input.checked=false);updateLibraryFilterControls();saveLibraryFilters();renderLibrary();}
+function clearLibraryFilter(key){state.library[key]=[];$(`[data-library-filter="${key}"]`).querySelectorAll('input').forEach(input=>input.checked=false);if(key==='years')refreshLibraryLessonFilter();updateLibraryFilterControls();saveLibraryFilters();renderLibrary();}
 
 function renderLibrary(){
-  const query=state.library.query.trim().toLowerCase(),mastered=masteredIds();
-  const items=state.all.filter(item=>(!state.library.years.length||state.library.years.includes(String(item.schoolYear)))&&(!state.library.lessons.length||state.library.lessons.includes(String(item.lesson)))&&(!state.library.types.length||state.library.types.includes(item.type))&&(!query||Object.values(item).flat(Infinity).join(' ').toLowerCase().includes(query)));
+  const query=normalizeSearch(state.library.query.trim()),mastered=masteredIds();
+  const items=state.all.filter(item=>(!state.library.years.length||state.library.years.includes(String(item.schoolYear)))&&(!state.library.lessons.length||state.library.lessons.includes(String(item.lesson)))&&(!state.library.types.length||state.library.types.includes(item.type))&&(!query||searchableText(item).includes(query)));
   $('#result-count').textContent=`${items.length} 項內容`;
   const activeCount=['years','lessons','types'].filter(key=>state.library[key].length).length+(query?1:0);$('.result-summary span').textContent=activeCount?`已套用 ${activeCount} 組條件`:`全部 ${state.all.length} 項內容`;
   $('#library-grid').innerHTML=items.length?items.map(item=>{const japanese=japaneseFor(item);return `<article class="library-card"><div class="library-card-top"><span class="type-badge">${escapeHtml(labelFor(item))}</span><button class="library-speak" data-library-speak="${escapeHtml(item.id)}" aria-label="播放 ${escapeHtml(japanese)}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4.03v8.05A4.5 4.5 0 0 0 16.5 12zm-2.5-8.7v2.06a7 7 0 0 1 0 13.28v2.06a9 9 0 0 0 0-17.4z"/></svg></button><span class="${mastered.has(item.id)?'mastered-chip':''}">${mastered.has(item.id)?'✓ 已記起':`Year ${item.schoolYear} · Lesson ${String(item.lesson).padStart(2,'0')}`}</span></div><h2 lang="ja">${escapeHtml(japanese)}</h2>${item.kanji?`<div class="library-reading" lang="ja">${escapeHtml(item.kana)}</div>`:''}<div class="library-meaning">${escapeHtml(item.meaningZh)}</div>${item.explanationZh?`<p class="library-explain">${escapeHtml(item.explanationZh)}</p>`:''}</article>`;}).join(''):'<div class="empty-state"><b>搵唔到相符內容</b><br>試吓其他日文、假名、中文關鍵字或者篩選條件。</div>';
@@ -177,7 +208,7 @@ $$('.library-filter').forEach(root=>{
   const trigger=root.querySelector('.filter-trigger'),menu=root.querySelector('.filter-menu'),key=root.dataset.libraryFilter;
   trigger.addEventListener('click',()=>{const opening=menu.hidden;closeFilterMenus(root);menu.hidden=!opening;trigger.setAttribute('aria-expanded',String(opening));if(opening)menu.querySelector('input,button')?.focus();});
   root.querySelector('.filter-all').addEventListener('click',()=>clearLibraryFilter(key));
-  root.querySelector('.filter-options').addEventListener('change',()=>{state.library[key]=[...root.querySelectorAll('input:checked')].map(input=>input.value);updateLibraryFilterControls();saveLibraryFilters();renderLibrary();});
+  root.querySelector('.filter-options').addEventListener('change',()=>{state.library[key]=[...root.querySelectorAll('input:checked')].map(input=>input.value);if(key==='years')refreshLibraryLessonFilter();updateLibraryFilterControls();saveLibraryFilters();renderLibrary();});
 });
 $('#clear-filters').addEventListener('click',()=>{state.library={query:'',years:[],lessons:[],types:[]};$('#search-input').value='';$$('.library-filter input').forEach(input=>input.checked=false);updateLibraryFilterControls();saveLibraryFilters();renderLibrary();});
 document.addEventListener('click',event=>{if(!event.target.closest('.library-filter'))closeFilterMenus();});

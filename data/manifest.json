@@ -1,0 +1,11 @@
+{
+  "lessons": [
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 1,
+      "vocabulary": "./data/year1/lesson01/vocabulary.json",
+      "grammar": "./data/year1/lesson01/grammar.json"
+    }
+  ]
+}
