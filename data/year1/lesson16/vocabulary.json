@@ -1,0 +1,767 @@
+[
+  {
+    "id": "y1-l16-v001",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "のります [でんしゃに～]",
+    "meaningZh": "のります [でんしゃに～] 乗ります [電車に～] Ⅰ 搭乘、坐 [電車]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "のります [でんしゃに～] 乗ります [電車に～] Ⅰ 搭乘、坐 [電車]"
+  },
+  {
+    "id": "y1-l16-v002",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "おります [でんしゃを～]",
+    "meaningZh": "おります [でんしゃを～] 降ります [電車を～] Ⅱ 下 [電車]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "おります [でんしゃを～] 降ります [電車を～] Ⅱ 下 [電車]"
+  },
+  {
+    "id": "y1-l16-v003",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "のりかえます",
+    "meaningZh": "のりかえます 乗り換えます Ⅱ 換乘",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "のりかえます 乗り換えます Ⅱ 換乘"
+  },
+  {
+    "id": "y1-l16-v004",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "あびます [シャワーを～]",
+    "meaningZh": "あびます [シャワーを～] 浴びます [シャワーを～] Ⅱ 洗澡 [淋浴]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "あびます [シャワーを～] 浴びます [シャワーを～] Ⅱ 洗澡 [淋浴]"
+  },
+  {
+    "id": "y1-l16-v005",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "いれます",
+    "meaningZh": "いれます 入れます Ⅱ 放入、放進",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "いれます 入れます Ⅱ 放入、放進"
+  },
+  {
+    "id": "y1-l16-v006",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "だします",
+    "meaningZh": "だします 出します Ⅰ 拿出、取出",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "だします 出します Ⅰ 拿出、取出"
+  },
+  {
+    "id": "y1-l16-v007",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "はいります [だいがくに～]",
+    "meaningZh": "はいります [だいがくに～] 入ります [大学に～] Ⅰ 進入、上 [大學]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "はいります [だいがくに～] 入ります [大学に～] Ⅰ 進入、上 [大學]"
+  },
+  {
+    "id": "y1-l16-v008",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "でます [だいがくを～]",
+    "meaningZh": "でます [だいがくを～] 出ます [大学を～] Ⅱ 出，[大學] 畢業",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "でます [だいがくを～] 出ます [大学を～] Ⅱ 出，[大學] 畢業"
+  },
+  {
+    "id": "y1-l16-v009",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "けんがくします",
+    "meaningZh": "けんがくします 見学します Ⅲ 參觀、見習",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "けんがくします 見学します Ⅲ 參觀、見習"
+  },
+  {
+    "id": "y1-l16-v010",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "でんわします",
+    "meaningZh": "でんわします 電話します Ⅲ 打電話",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "でんわします 電話します Ⅲ 打電話"
+  },
+  {
+    "id": "y1-l16-v011",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "おします",
+    "meaningZh": "おします 押します Ⅰ 推、按",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "おします 押します Ⅰ 推、按"
+  },
+  {
+    "id": "y1-l16-v012",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "おろします [おかねを～]",
+    "meaningZh": "おろします [おかねを～] 下ろします [お金を～] Ⅰ 取下 [提款]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "おろします [おかねを～] 下ろします [お金を～] Ⅰ 取下 [提款]"
+  },
+  {
+    "id": "y1-l16-v013",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "のみます",
+    "meaningZh": "のみます 飲みます Ⅰ 飲（飲みに 行きます：去飲酒）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "のみます 飲みます Ⅰ 飲（飲みに 行きます：去飲酒）"
+  },
+  {
+    "id": "y1-l16-v014",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "からだ",
+    "meaningZh": "からだ 体 身體",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "からだ 体 身體"
+  },
+  {
+    "id": "y1-l16-v015",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "せ",
+    "meaningZh": "せ 背 背 (～が たかい：個子高的）",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "せ 背 背 (～が たかい：個子高的）"
+  },
+  {
+    "id": "y1-l16-v016",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "あたま",
+    "meaningZh": "あたま 頭 頭",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "あたま 頭 頭"
+  },
+  {
+    "id": "y1-l16-v017",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "かみ",
+    "meaningZh": "かみ 髪 頭髮",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "かみ 髪 頭髮"
+  },
+  {
+    "id": "y1-l16-v018",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "かお",
+    "meaningZh": "かお 顔 臉",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "かお 顔 臉"
+  },
+  {
+    "id": "y1-l16-v019",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "め",
+    "meaningZh": "め 目 眼睛",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "め 目 眼睛"
+  },
+  {
+    "id": "y1-l16-v020",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "みみ",
+    "meaningZh": "みみ 耳 耳朵",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "みみ 耳 耳朵"
+  },
+  {
+    "id": "y1-l16-v021",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "くち",
+    "meaningZh": "くち 口 嘴巴",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "くち 口 嘴巴"
+  },
+  {
+    "id": "y1-l16-v022",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "はな",
+    "meaningZh": "はな 鼻 鼻",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "はな 鼻 鼻"
+  },
+  {
+    "id": "y1-l16-v023",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "は",
+    "meaningZh": "は 歯 牙齒",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "は 歯 牙齒"
+  },
+  {
+    "id": "y1-l16-v024",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "おなか",
+    "meaningZh": "肚子",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "おなか - 肚子"
+  },
+  {
+    "id": "y1-l16-v025",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "あし",
+    "meaningZh": "あし 足 腳、腿",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "あし 足 腳、腿"
+  },
+  {
+    "id": "y1-l16-v026",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "サービス",
+    "meaningZh": "服務",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "サービス - 服務"
+  },
+  {
+    "id": "y1-l16-v027",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "ジョギング",
+    "meaningZh": "跑步 (～を します﹕跑步)",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "ジョギング - 跑步 (～を します﹕跑步)"
+  },
+  {
+    "id": "y1-l16-v028",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "シャワー",
+    "meaningZh": "淋浴",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "シャワー - 淋浴"
+  },
+  {
+    "id": "y1-l16-v029",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "みどり",
+    "meaningZh": "みどり 緑 綠色、綠意",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "みどり 緑 綠色、綠意"
+  },
+  {
+    "id": "y1-l16-v030",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "[お] てら [お]",
+    "meaningZh": "[お] てら [お] 寺 寺廟",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "[お] てら [お] 寺 寺廟"
+  },
+  {
+    "id": "y1-l16-v031",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "じんじゃ",
+    "meaningZh": "じんじゃ 神社 神社",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "じんじゃ 神社 神社"
+  },
+  {
+    "id": "y1-l16-v032",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "～ばん",
+    "meaningZh": "～ばん ～番 ～號",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "～ばん ～番 ～號"
+  },
+  {
+    "id": "y1-l16-v033",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "キャッシュカード",
+    "meaningZh": "提款卡、現金卡",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "キャッシュカード - 提款卡、現金卡"
+  },
+  {
+    "id": "y1-l16-v034",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "あんしょうばんごう",
+    "meaningZh": "あんしょうばんごう 暗証番号 密碼",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "あんしょうばんごう 暗証番号 密碼"
+  },
+  {
+    "id": "y1-l16-v035",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "きんがく",
+    "meaningZh": "きんがく 金額 金額",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "きんがく 金額 金額"
+  },
+  {
+    "id": "y1-l16-v036",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "かくにん",
+    "meaningZh": "かくにん 確認 確認 (～します﹕進行確認)",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "かくにん 確認 確認 (～します﹕進行確認)"
+  },
+  {
+    "id": "y1-l16-v037",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "ボタン",
+    "meaningZh": "按鈕",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "ボタン - 按鈕"
+  },
+  {
+    "id": "y1-l16-v038",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "わかい",
+    "meaningZh": "わかい 若い 年輕的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "わかい 若い 年輕的"
+  },
+  {
+    "id": "y1-l16-v039",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "ながい",
+    "meaningZh": "ながい 長い 長的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "ながい 長い 長的"
+  },
+  {
+    "id": "y1-l16-v040",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "みじかい",
+    "meaningZh": "みじかい 短い 短的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "みじかい 短い 短的"
+  },
+  {
+    "id": "y1-l16-v041",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "あかるい",
+    "meaningZh": "あかるい 明るい 明亮的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "あかるい 明るい 明亮的"
+  },
+  {
+    "id": "y1-l16-v042",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "くらい",
+    "meaningZh": "くらい 暗い 昏暗的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "くらい 暗い 昏暗的"
+  },
+  {
+    "id": "y1-l16-v043",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "どうやって",
+    "meaningZh": "怎樣、如何",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "どうやって - 怎樣、如何"
+  },
+  {
+    "id": "y1-l16-v044",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "どの～",
+    "meaningZh": "哪個～ (用於三者或以上)",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "どの～ - 哪個～ (用於三者或以上)"
+  },
+  {
+    "id": "y1-l16-v045",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "どれ",
+    "meaningZh": "哪個",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "どれ - 哪個"
+  },
+  {
+    "id": "y1-l16-v046",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "おひきだしですか。",
+    "meaningZh": "おひきだしですか。 お引き出しですか。 您提款嗎﹖",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "おひきだしですか。 お引き出しですか。 您提款嗎﹖"
+  },
+  {
+    "id": "y1-l16-v047",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "まず",
+    "meaningZh": "首先",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "まず - 首先"
+  },
+  {
+    "id": "y1-l16-v048",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "つぎに",
+    "meaningZh": "つぎに 次に 然後，下個步驟",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "つぎに 次に 然後，下個步驟"
+  },
+  {
+    "id": "y1-l16-v049",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "はじめます。",
+    "meaningZh": "はじめます。 始めます。 開始",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "はじめます。 始めます。 開始"
+  },
+  {
+    "id": "y1-l16-v050",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "すごいですね。",
+    "meaningZh": "真是了不起呀。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "すごいですね。 - 真是了不起呀。"
+  },
+  {
+    "id": "y1-l16-v051",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 16,
+    "kana": "[いいえ、] まだまだです。",
+    "meaningZh": "[不，] 還不行。還差得遠。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19LuAyi-wOcDQRZE4989GOz9YfisagNbG",
+      "fileName": "japanese_vocab_lv1_ch16.pdf.pdf"
+    },
+    "sourceText": "[いいえ、] まだまだです。 - [不，] 還不行。還差得遠。"
+  }
+]

@@ -6,7 +6,7 @@ const escapeHtml=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;'
 
 async function loadData(){
   try{
-    const manifestResponse=await fetch('./data/manifest.json',{cache:'no-cache'});
+    const manifestResponse=await fetch('./data/manifest.json?v=year1-complete',{cache:'no-cache'});
     if(!manifestResponse.ok)throw new Error(`教材清單載入失敗 (${manifestResponse.status})`);
     const manifest=await manifestResponse.json();
     if(!Array.isArray(manifest.lessons))throw new Error('教材清單格式無效');
@@ -139,7 +139,7 @@ function searchableText(item){
   const examples=Array.isArray(item.examples)?item.examples.flatMap(example=>[example?.ja,example?.zh]):[];
   const notes=Array.isArray(item.notes)?item.notes:[item.notes];
   const supplementary=item.supplementary&&typeof item.supplementary==='object'?Object.values(item.supplementary):[];
-  return normalizeSearch([item.kana,item.kanji,item.meaningZh,item.pattern,item.explanationZh,...notes,...supplementary,item.category,...examples,item.book,item.schoolYear,item.lesson].filter(value=>value!==undefined&&value!==null).join(' '));
+  return normalizeSearch([item.kana,item.kanji,item.meaningZh,item.pattern,item.explanationZh,item.sourceText,...notes,...supplementary,item.category,...examples,item.book,item.schoolYear,item.lesson].filter(value=>value!==undefined&&value!==null).join(' '));
 }
 
 function sortedUnique(values){return [...new Set(values)].sort((a,b)=>String(a).localeCompare(String(b),undefined,{numeric:true}));}

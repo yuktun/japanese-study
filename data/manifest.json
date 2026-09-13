@@ -70,6 +70,76 @@
       "lesson": 10,
       "vocabulary": "./data/year1/lesson10/vocabulary.json",
       "grammar": "./data/year1/lesson10/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 11,
+      "vocabulary": "./data/year1/lesson11/vocabulary.json",
+      "grammar": "./data/year1/lesson11/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 12,
+      "vocabulary": "./data/year1/lesson12/vocabulary.json",
+      "grammar": "./data/year1/lesson12/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 13,
+      "vocabulary": "./data/year1/lesson13/vocabulary.json",
+      "grammar": "./data/year1/lesson13/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 14,
+      "vocabulary": "./data/year1/lesson14/vocabulary.json",
+      "grammar": "./data/year1/lesson14/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 15,
+      "vocabulary": "./data/year1/lesson15/vocabulary.json",
+      "grammar": "./data/year1/lesson15/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 16,
+      "vocabulary": "./data/year1/lesson16/vocabulary.json",
+      "grammar": "./data/year1/lesson16/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 17,
+      "vocabulary": "./data/year1/lesson17/vocabulary.json",
+      "grammar": "./data/year1/lesson17/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 18,
+      "vocabulary": "./data/year1/lesson18/vocabulary.json",
+      "grammar": "./data/year1/lesson18/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 19,
+      "vocabulary": "./data/year1/lesson19/vocabulary.json",
+      "grammar": "./data/year1/lesson19/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 20,
+      "vocabulary": "./data/year1/lesson20/vocabulary.json",
+      "grammar": "./data/year1/lesson20/grammar.json"
     }
   ]
 }

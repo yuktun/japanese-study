@@ -1,0 +1,467 @@
+[
+  {
+    "id": "y1-l13-v001",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "あそびます",
+    "meaningZh": "あそびます 遊びます 玩、玩樂",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "あそびます 遊びます 玩、玩樂"
+  },
+  {
+    "id": "y1-l13-v002",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "およぎます",
+    "meaningZh": "およぎます 泳ぎます 游泳",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "およぎます 泳ぎます 游泳"
+  },
+  {
+    "id": "y1-l13-v003",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "むかえます",
+    "meaningZh": "むかえます 迎えます 迎接、歡迎",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "むかえます 迎えます 迎接、歡迎"
+  },
+  {
+    "id": "y1-l13-v004",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "つかれます",
+    "meaningZh": "つかれます 疲れます 疲累",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "つかれます 疲れます 疲累"
+  },
+  {
+    "id": "y1-l13-v005",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "けっこんします",
+    "meaningZh": "けっこんします 結婚します 結婚",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "けっこんします 結婚します 結婚"
+  },
+  {
+    "id": "y1-l13-v006",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "かいものします",
+    "meaningZh": "かいものします 買い物します 購物、買東西",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "かいものします 買い物します 購物、買東西"
+  },
+  {
+    "id": "y1-l13-v007",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "しょくじします",
+    "meaningZh": "しょくじします 食事します 用餐、吃飯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "しょくじします 食事します 用餐、吃飯"
+  },
+  {
+    "id": "y1-l13-v008",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "さんぽします [こうえんを～]",
+    "meaningZh": "さんぽします [こうえんを～] 散歩します [公園を～] [在公園] 散步",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "さんぽします [こうえんを～] 散歩します [公園を～] [在公園] 散步"
+  },
+  {
+    "id": "y1-l13-v009",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "プール",
+    "meaningZh": "游泳池",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "プール - 游泳池"
+  },
+  {
+    "id": "y1-l13-v010",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "かわ",
+    "meaningZh": "かわ 川 河川",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "かわ 川 河川"
+  },
+  {
+    "id": "y1-l13-v011",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "びじゅつ",
+    "meaningZh": "びじゅつ 美術 美術",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "びじゅつ 美術 美術"
+  },
+  {
+    "id": "y1-l13-v012",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "つり",
+    "meaningZh": "つり 釣り 釣魚 (～を します﹕釣魚)",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "つり 釣り 釣魚 (～を します﹕釣魚)"
+  },
+  {
+    "id": "y1-l13-v013",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "スキー",
+    "meaningZh": "滑雪 (～を します﹕滑雪)",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "スキー - 滑雪 (～を します﹕滑雪)"
+  },
+  {
+    "id": "y1-l13-v014",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "[お] しょうがつ [お]",
+    "meaningZh": "[お] しょうがつ [お] 正月 正月、新年",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "[お] しょうがつ [お] 正月 正月、新年"
+  },
+  {
+    "id": "y1-l13-v015",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "しゅうまつ",
+    "meaningZh": "しゅうまつ 週末 週末",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "しゅうまつ 週末 週末"
+  },
+  {
+    "id": "y1-l13-v016",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "ていしょく",
+    "meaningZh": "ていしょく 定食 定食、套餐",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "ていしょく 定食 定食、套餐"
+  },
+  {
+    "id": "y1-l13-v017",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "ぎゅうどん",
+    "meaningZh": "ぎゅうどん 牛どん 牛肉蓋飯",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "ぎゅうどん 牛どん 牛肉蓋飯"
+  },
+  {
+    "id": "y1-l13-v018",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "ほしい",
+    "meaningZh": "ほしい 欲しい 想要 (某事物)",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "ほしい 欲しい 想要 (某事物)"
+  },
+  {
+    "id": "y1-l13-v019",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "ひろい",
+    "meaningZh": "ひろい 広い 寬廣的、廣闊的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "ひろい 広い 寬廣的、廣闊的"
+  },
+  {
+    "id": "y1-l13-v020",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "せまい",
+    "meaningZh": "せまい 狭い 狹窄的、小的 (房間等)",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "せまい 狭い 狹窄的、小的 (房間等)"
+  },
+  {
+    "id": "y1-l13-v021",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "たいへん [な]",
+    "meaningZh": "たいへん [な] 大変 [な] 夠受的",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "たいへん [な] 大変 [な] 夠受的"
+  },
+  {
+    "id": "y1-l13-v022",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "べつべつに",
+    "meaningZh": "べつべつに 別々に 分開、各自",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "べつべつに 別々に 分開、各自"
+  },
+  {
+    "id": "y1-l13-v023",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "なにか",
+    "meaningZh": "なにか 何か 某些東西",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "なにか 何か 某些東西"
+  },
+  {
+    "id": "y1-l13-v024",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "どこか",
+    "meaningZh": "某處、某場所",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "どこか - 某處、某場所"
+  },
+  {
+    "id": "y1-l13-v025",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "～ごろ",
+    "meaningZh": "～左右 (用於時間)",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "～ごろ - ～左右 (用於時間)"
+  },
+  {
+    "id": "y1-l13-v026",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "～で ございます",
+    "meaningZh": "「です」的禮貌形",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "～で ございます - 「です」的禮貌形"
+  },
+  {
+    "id": "y1-l13-v027",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "おなかが すきます。",
+    "meaningZh": "肚子餓了。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "おなかが すきます。 - 肚子餓了。"
+  },
+  {
+    "id": "y1-l13-v028",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "のどが かわきます。",
+    "meaningZh": "口渴了。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "のどが かわきます。 - 口渴了。"
+  },
+  {
+    "id": "y1-l13-v029",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "そう しましょう。",
+    "meaningZh": "就這麼辦吧 (表示同意他人的意見)。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "そう しましょう。 - 就這麼辦吧 (表示同意他人的意見)。"
+  },
+  {
+    "id": "y1-l13-v030",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "ごちゅうもんは？",
+    "meaningZh": "ごちゅうもんは？ ご注文は？ 您要點什麼﹖",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "ごちゅうもんは？ ご注文は？ 您要點什麼﹖"
+  },
+  {
+    "id": "y1-l13-v031",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 13,
+    "kana": "[しょうしょう]",
+    "meaningZh": "[しょうしょう] おまち ください。 [少々] お待ち ください。 請 [稍] 等。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1wVnSnoGxtPbiwzF2LDzUigM6aZ_mJCAl",
+      "fileName": "japanese_vocab_lv1_ch13.pdf.pdf"
+    },
+    "sourceText": "[しょうしょう] おまち ください。 [少々] お待ち ください。 請 [稍] 等。"
+  }
+]
