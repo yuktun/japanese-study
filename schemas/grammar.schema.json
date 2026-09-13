@@ -7,8 +7,8 @@
     "schoolYear",
     "book",
     "lesson",
+    "sourceOrder",
     "pattern",
-    "meaningZh",
     "source"
   ],
   "properties": {
@@ -56,6 +56,20 @@
       "type": "array",
       "items": {
         "type": "object"
+      }
+    },
+    "table": {
+      "type": "array"
+    },
+    "supplementary": {
+      "type": "object",
+      "required": [
+        "contentSource"
+      ],
+      "properties": {
+        "contentSource": {
+          "const": "ai_derived"
+        }
       }
     },
     "source": {

@@ -5,13 +5,21 @@ import { fileURLToPath } from 'node:url';
 const root=resolve(dirname(fileURLToPath(import.meta.url)),'..');
 const required={
   vocabulary:['id','schoolYear','book','lesson','kana','meaningZh','source'],
-  grammar:['id','schoolYear','book','lesson','pattern','meaningZh','source'],
+  grammar:['id','schoolYear','book','lesson','sourceOrder','pattern','source'],
   reference:['id','schoolYear','book','lesson','title','type','source']
 };
 const allowedBooks=new Set(['初級 I','初級 II','中級 I','中級 II']);
 const fail=message=>{throw new Error(message);};
 const readJson=async path=>{try{return JSON.parse(await readFile(path,'utf8'));}catch(error){fail(`${path}: ${error.message}`);}};
 const present=value=>value!==undefined&&value!==null&&value!=='';
+const nonEmptyText=value=>typeof value==='string'&&present(value.trim());
+const validateOptionalText=(value,label)=>{
+  if(!nonEmptyText(value))fail(`${label} must be a non-empty string when present.`);
+};
+const validateOptionalNotes=(value,label)=>{
+  if(typeof value==='string'){validateOptionalText(value,label);return;}
+  if(!Array.isArray(value)||value.some(note=>!nonEmptyText(note)))fail(`${label} must be a non-empty string or an array of non-empty strings when present.`);
+};
 
 const manifestPath=resolve(root,'data','manifest.json');
 const manifest=await readJson(manifestPath);
@@ -47,6 +55,20 @@ for(const [lessonIndex,lesson] of manifest.lessons.entries()){
       if(!present(item.source.type))fail(`${itemLabel} source.type is required.`);
       if(!Object.entries(item.source).some(([key,value])=>key!=='type'&&present(value)))fail(`${itemLabel} source requires at least one reference field.`);
       if(type==='grammar'&&item.sourceOrder!==itemIndex+1)fail(`${itemLabel} sourceOrder must be ${itemIndex+1} to match its PDF order.`);
+      if(type==='grammar'){
+        for(const field of ['meaningZh','explanationZh'])if(field in item)validateOptionalText(item[field],`${itemLabel} ${field}`);
+        if('notes' in item)validateOptionalNotes(item.notes,`${itemLabel} notes`);
+        if('supplementary' in item){
+          if(!item.supplementary||Array.isArray(item.supplementary)||typeof item.supplementary!=='object')fail(`${itemLabel} supplementary must be an object when present.`);
+          if(item.supplementary.contentSource!=='ai_derived')fail(`${itemLabel} supplementary.contentSource must be ai_derived.`);
+          const supplementaryFields=Object.entries(item.supplementary).filter(([key])=>key!=='contentSource');
+          if(!supplementaryFields.length)fail(`${itemLabel} supplementary must contain derived content.`);
+          for(const [field,value] of supplementaryFields){
+            if(field==='notes')validateOptionalNotes(value,`${itemLabel} supplementary.${field}`);
+            else validateOptionalText(value,`${itemLabel} supplementary.${field}`);
+          }
+        }
+      }
       if(type==='reference'&&item.type!=='reference')fail(`${itemLabel} type must be reference.`);
       if(item.schoolYear!==lesson.schoolYear||item.book!==lesson.book||item.lesson!==lesson.lesson)fail(`${itemLabel} metadata does not match its manifest lesson.`);
       if(ids.has(item.id))fail(`${itemLabel} has duplicate id: ${item.id}`);

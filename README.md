@@ -34,10 +34,10 @@ AI-added material must be explicitly labelled as supplementary and must not over
 ### Migration completeness
 
 - The school PDF is authoritative for migrated course content.
-- Every grammar point must preserve its pattern, Chinese meaning, full explanation, every note or caution, and every example in the original order.
+- Every grammar point must preserve its pattern/source heading and, whenever the school PDF provides them, its Chinese meaning, full explanation, every note or caution, and every example in the original order. A school-derived field must be omitted when the PDF does not explicitly provide it; it must never be inferred to fill a schema field.
 - Substantive omissions are not allowed unless the source is unreadable. Unreadable or ambiguous text must be flagged for review instead of guessed.
 - Formatting, punctuation, whitespace, and ruby/furigana extraction may be normalized without changing meaning.
-- Any AI-added explanation must be clearly marked as supplementary and kept distinct from school material.
+- Any AI-added explanation must be clearly marked as supplementary, stored separately from school-derived fields with `contentSource: "ai_derived"`, and kept distinct from school material.
 - Grammar records use `sourceOrder` to make their ordering against the source PDF auditable. Supplementary school reference material may be stored in an optional lesson-level `reference.json` file.
 
 ## Data structure

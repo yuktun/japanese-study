@@ -46,7 +46,9 @@ function updateCourseDetails(){
   const meta=selectedLessonMeta(),lessonItems=state.all.filter(item=>item.schoolYear===state.year&&item.lesson===state.lesson);
   const vocabularyCount=lessonItems.filter(item=>item.type==='vocabulary').length,grammarCount=lessonItems.filter(item=>item.type==='grammar').length;
   $('#course-year').textContent=`Year ${state.year}`;$('#course-book').textContent=`大家的日本語 · ${meta?.book||''}`;$('#course-lesson').textContent=`Lesson ${state.lesson} 已加入`;
-  $('.deck-info span').textContent=meta?.book||'';$('.deck-info p').textContent=`現有 Lesson ${state.lesson}：${vocabularyCount} 個生字、${grammarCount} 項文法。`;
+  const deckBook=$('.deck-info span'),deckSummary=$('.deck-info p');
+  if(deckBook)deckBook.textContent=meta?.book||'';
+  if(deckSummary)deckSummary.textContent=`現有 Lesson ${state.lesson}：${vocabularyCount} 個生字、${grammarCount} 項文法。`;
 }
 
 function resetDeck(shuffle=false){
@@ -70,7 +72,8 @@ function renderCard(){
   if(state.index>=total){renderFinished();return;}
   const item=state.deck[state.index];
   const japanese=japaneseFor(item),reverse=state.direction==='zh-ja';
-  const frontText=reverse?item.meaningZh:japanese;
+  const schoolMeaning=item.meaningZh||'（學校教材未提供中文意思）';
+  const frontText=reverse?schoolMeaning:japanese;
   const frontReading=!reverse&&item.type==='vocabulary'&&item.kanji?`<p class="answer-reading" lang="ja">${escapeHtml(item.kana)}</p>`:'';
   const frontLabel=reverse?'中文意思':item.type==='grammar'?'文法句型':item.kanji?'漢字表記':'平假名／片假名';
   $('#flashcard').className=`flashcard${item.type==='grammar'?' grammar-card':''}${state.revealed?' is-flipped':''}`;
@@ -99,9 +102,10 @@ function answerBackHtml(item,japanese,reverse){
   const firstExample=item.examples?.[0];
   const category=item.type==='grammar'?'文法':item.category||'生字';
   const answerLabel=reverse?'日文答案':'中文意思';
+  const schoolMeaning=item.meaningZh||'（學校教材未提供中文意思）';
   const main=reverse
     ?`<p class="face-label">${answerLabel}</p><h2 lang="ja" class="back-main">${escapeHtml(japanese)}</h2>${reading}`
-    :`<p class="face-label">${answerLabel}</p><h2 class="back-main" lang="zh-HK">${escapeHtml(item.meaningZh)}</h2><div class="back-term"><b lang="ja">${escapeHtml(japanese)}</b>${reading}</div>`;
+    :`<p class="face-label">${answerLabel}</p><h2 class="back-main" lang="zh-HK">${escapeHtml(schoolMeaning)}</h2><div class="back-term"><b lang="ja">${escapeHtml(japanese)}</b>${reading}</div>`;
   return `${main}<span class="back-category">${escapeHtml(category)}</span>${explanation?`<p class="answer-explain">${escapeHtml(explanation)}</p>`:''}${firstExample?`<div class="answer-example"><span lang="ja">${escapeHtml(firstExample.ja)}</span><small>${escapeHtml(firstExample.zh)}</small></div>`:''}`;
 }
 
@@ -134,7 +138,8 @@ function normalizeSearch(value){return String(value??'').normalize('NFKC').toLoc
 function searchableText(item){
   const examples=Array.isArray(item.examples)?item.examples.flatMap(example=>[example?.ja,example?.zh]):[];
   const notes=Array.isArray(item.notes)?item.notes:[item.notes];
-  return normalizeSearch([item.kana,item.kanji,item.meaningZh,item.pattern,item.explanationZh,...notes,item.category,...examples,item.book,item.schoolYear,item.lesson].filter(value=>value!==undefined&&value!==null).join(' '));
+  const supplementary=item.supplementary&&typeof item.supplementary==='object'?Object.values(item.supplementary):[];
+  return normalizeSearch([item.kana,item.kanji,item.meaningZh,item.pattern,item.explanationZh,...notes,...supplementary,item.category,...examples,item.book,item.schoolYear,item.lesson].filter(value=>value!==undefined&&value!==null).join(' '));
 }
 
 function sortedUnique(values){return [...new Set(values)].sort((a,b)=>String(a).localeCompare(String(b),undefined,{numeric:true}));}
@@ -191,7 +196,7 @@ function renderLibrary(){
   const items=state.all.filter(item=>(!state.library.years.length||state.library.years.includes(String(item.schoolYear)))&&(!state.library.lessons.length||state.library.lessons.includes(String(item.lesson)))&&(!state.library.types.length||state.library.types.includes(item.type))&&(!query||searchableText(item).includes(query)));
   $('#result-count').textContent=`${items.length} 項內容`;
   const activeCount=['years','lessons','types'].filter(key=>state.library[key].length).length+(query?1:0);$('.result-summary span').textContent=activeCount?`已套用 ${activeCount} 組條件`:`全部 ${state.all.length} 項內容`;
-  $('#library-grid').innerHTML=items.length?items.map(item=>{const japanese=japaneseFor(item);return `<article class="library-card"><div class="library-card-top"><span class="type-badge">${escapeHtml(labelFor(item))}</span><button class="library-speak" data-library-speak="${escapeHtml(item.id)}" aria-label="播放 ${escapeHtml(japanese)}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4.03v8.05A4.5 4.5 0 0 0 16.5 12zm-2.5-8.7v2.06a7 7 0 0 1 0 13.28v2.06a9 9 0 0 0 0-17.4z"/></svg></button><span class="${mastered.has(item.id)?'mastered-chip':''}">${mastered.has(item.id)?'✓ 已記起':`Year ${item.schoolYear} · Lesson ${String(item.lesson).padStart(2,'0')}`}</span></div><h2 lang="ja">${escapeHtml(japanese)}</h2>${item.kanji?`<div class="library-reading" lang="ja">${escapeHtml(item.kana)}</div>`:''}<div class="library-meaning">${escapeHtml(item.meaningZh)}</div>${item.explanationZh?`<p class="library-explain">${escapeHtml(item.explanationZh)}</p>`:''}</article>`;}).join(''):'<div class="empty-state"><b>搵唔到相符內容</b><br>試吓其他日文、假名、中文關鍵字或者篩選條件。</div>';
+  $('#library-grid').innerHTML=items.length?items.map(item=>{const japanese=japaneseFor(item);return `<article class="library-card"><div class="library-card-top"><span class="type-badge">${escapeHtml(labelFor(item))}</span><button class="library-speak" data-library-speak="${escapeHtml(item.id)}" aria-label="播放 ${escapeHtml(japanese)}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4.03v8.05A4.5 4.5 0 0 0 16.5 12zm-2.5-8.7v2.06a7 7 0 0 1 0 13.28v2.06a9 9 0 0 0 0-17.4z"/></svg></button><span class="${mastered.has(item.id)?'mastered-chip':''}">${mastered.has(item.id)?'✓ 已記起':`Year ${item.schoolYear} · Lesson ${String(item.lesson).padStart(2,'0')}`}</span></div><h2 lang="ja">${escapeHtml(japanese)}</h2>${item.kanji?`<div class="library-reading" lang="ja">${escapeHtml(item.kana)}</div>`:''}${item.meaningZh?`<div class="library-meaning">${escapeHtml(item.meaningZh)}</div>`:''}${item.explanationZh?`<p class="library-explain">${escapeHtml(item.explanationZh)}</p>`:''}</article>`;}).join(''):'<div class="empty-state"><b>搵唔到相符內容</b><br>試吓其他日文、假名、中文關鍵字或者篩選條件。</div>';
   $$('[data-library-speak]').forEach(button=>button.addEventListener('click',()=>{const item=state.all.find(entry=>entry.id===button.dataset.librarySpeak);if(item)speakJapanese(japaneseFor(item));}));
 }
 
