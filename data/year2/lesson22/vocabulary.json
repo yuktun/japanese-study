@@ -1,0 +1,452 @@
+[
+  {
+    "id": "y2-l22-v001",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "きます",
+    "meaningZh": "きます |ます| きる |辞| 着ます 着る Ⅱ 穿（上衣、外套等）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "きます |ます| きる |辞| 着ます 着る Ⅱ 穿（上衣、外套等）"
+  },
+  {
+    "id": "y2-l22-v002",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "はきます |ます| はく |辞|",
+    "meaningZh": "Ⅰ 穿（褲子、鞋子等）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "はきます |ます| はく |辞| - Ⅰ 穿（褲子、鞋子等）"
+  },
+  {
+    "id": "y2-l22-v003",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "かけます",
+    "meaningZh": "かけます [めがねを～] |ます| かける[めがねを∼] |辞| かけます [眼鏡を～] かける[眼鏡を∼] Ⅱ 戴（眼鏡）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "かけます [めがねを～] |ます| かける[めがねを∼] |辞| かけます [眼鏡を～] かける[眼鏡を∼] Ⅱ 戴（眼鏡）"
+  },
+  {
+    "id": "y2-l22-v004",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "かぶります |ます| かぶる |辞|",
+    "meaningZh": "Ⅰ 戴（帽子）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "かぶります |ます| かぶる |辞| - Ⅰ 戴（帽子）"
+  },
+  {
+    "id": "y2-l22-v005",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "します [ネクタイを～] |ます| する |辞|",
+    "meaningZh": "Ⅲ 打（領帶）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "します [ネクタイを～] |ます| する |辞| - Ⅲ 打（領帶）"
+  },
+  {
+    "id": "y2-l22-v006",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "うまれます",
+    "meaningZh": "うまれます |ます| うまれる |辞| 生まれます 生まれる Ⅱ 出生",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "うまれます |ます| うまれる |辞| 生まれます 生まれる Ⅱ 出生"
+  },
+  {
+    "id": "y2-l22-v007",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "[お] べんとう [お]",
+    "meaningZh": "[お] べんとう [お] 弁当 盒飯",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "[お] べんとう [お] 弁当 盒飯"
+  },
+  {
+    "id": "y2-l22-v008",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "わたしたち",
+    "meaningZh": "我們",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "わたしたち - 我們"
+  },
+  {
+    "id": "y2-l22-v009",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "ケーキ",
+    "meaningZh": "蛋糕",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "ケーキ - 蛋糕"
+  },
+  {
+    "id": "y2-l22-v010",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "コート",
+    "meaningZh": "大衣",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "コート - 大衣"
+  },
+  {
+    "id": "y2-l22-v011",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "スーツ",
+    "meaningZh": "西裝",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "スーツ - 西裝"
+  },
+  {
+    "id": "y2-l22-v012",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "セーター",
+    "meaningZh": "毛衣",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "セーター - 毛衣"
+  },
+  {
+    "id": "y2-l22-v013",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "ぼうし",
+    "meaningZh": "ぼうし 帽子 帽子",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "ぼうし 帽子 帽子"
+  },
+  {
+    "id": "y2-l22-v014",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "めがね",
+    "meaningZh": "めがね 眼鏡 眼鏡",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "めがね 眼鏡 眼鏡"
+  },
+  {
+    "id": "y2-l22-v015",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "ユーモア",
+    "meaningZh": "幽默",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "ユーモア - 幽默"
+  },
+  {
+    "id": "y2-l22-v016",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "ロボット",
+    "meaningZh": "機器人",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "ロボット - 機器人"
+  },
+  {
+    "id": "y2-l22-v017",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "つごう",
+    "meaningZh": "つごう 都合 方便",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "つごう 都合 方便"
+  },
+  {
+    "id": "y2-l22-v018",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "やちん",
+    "meaningZh": "やちん 家賃 房租",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "やちん 家賃 房租"
+  },
+  {
+    "id": "y2-l22-v019",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "わしつ",
+    "meaningZh": "わしつ 和室 日式房間",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "わしつ 和室 日式房間"
+  },
+  {
+    "id": "y2-l22-v020",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "おしいれ",
+    "meaningZh": "おしいれ 押し入れ 日式壁櫃、壁櫥",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "おしいれ 押し入れ 日式壁櫃、壁櫥"
+  },
+  {
+    "id": "y2-l22-v021",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "ふとん",
+    "meaningZh": "ふとん 布団 被褥",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "ふとん 布団 被褥"
+  },
+  {
+    "id": "y2-l22-v022",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "ダイニングキッチン",
+    "meaningZh": "帶餐廳的廚房",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "ダイニングキッチン - 帶餐廳的廚房"
+  },
+  {
+    "id": "y2-l22-v023",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "よく",
+    "meaningZh": "經常",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "よく - 經常"
+  },
+  {
+    "id": "y2-l22-v024",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "えーと",
+    "meaningZh": "那個…（用於思考時）",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "えーと - 那個…（用於思考時）"
+  },
+  {
+    "id": "y2-l22-v025",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "おめでとう [ございます]。",
+    "meaningZh": "恭喜，祝你～快樂（生日、 結婚、新年時用）",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "おめでとう [ございます]。 - 恭喜，祝你～快樂（生日、 結婚、新年時用）"
+  },
+  {
+    "id": "y2-l22-v026",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "おさがしですか。",
+    "meaningZh": "おさがしですか。 お探しですか。 您在找～嗎？",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "おさがしですか。 お探しですか。 您在找～嗎？"
+  },
+  {
+    "id": "y2-l22-v027",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "こちら",
+    "meaningZh": "這（「これ」的禮貌用語）",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "こちら - 這（「これ」的禮貌用語）"
+  },
+  {
+    "id": "y2-l22-v028",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "では",
+    "meaningZh": "那麽 固有名詞",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "では - 那麽 固有名詞"
+  },
+  {
+    "id": "y2-l22-v029",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "パリ",
+    "meaningZh": "巴黎",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "パリ - 巴黎"
+  },
+  {
+    "id": "y2-l22-v030",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 22,
+    "kana": "ばんりのちょうじょう",
+    "meaningZh": "ばんりのちょうじょう 万里の長城 萬里長城",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1irfBdyvZSOpgPCZfsyRE6iUF3an3yedH",
+      "fileName": "japanese_vocab_lv1_ch22.pdf.pdf"
+    },
+    "sourceText": "ばんりのちょうじょう 万里の長城 萬里長城"
+  }
+]

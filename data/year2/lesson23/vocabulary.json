@@ -1,0 +1,377 @@
+[
+  {
+    "id": "y2-l23-v001",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "ききます",
+    "meaningZh": "ききます [せんせいに～] |ます| きく[せんせいに∼] |辞| 聞きます [先生に～] 聞く[先生に∼] Ⅰ 問[老師]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "ききます [せんせいに～] |ます| きく[せんせいに∼] |辞| 聞きます [先生に～] 聞く[先生に∼] Ⅰ 問[老師]"
+  },
+  {
+    "id": "y2-l23-v002",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "まわします",
+    "meaningZh": "まわします |ます| まわす |辞| 回します 回す Ⅰ 扭、轉動",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "まわします |ます| まわす |辞| 回します 回す Ⅰ 扭、轉動"
+  },
+  {
+    "id": "y2-l23-v003",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "ひきます",
+    "meaningZh": "ひきます |ます| ひく |辞| 引きます 引く Ⅰ 拉、扯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "ひきます |ます| ひく |辞| 引きます 引く Ⅰ 拉、扯"
+  },
+  {
+    "id": "y2-l23-v004",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "かえます",
+    "meaningZh": "かえます |ます| かえる |辞| 変えます 変える Ⅱ 改變",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "かえます |ます| かえる |辞| 変えます 変える Ⅱ 改變"
+  },
+  {
+    "id": "y2-l23-v005",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "さわります",
+    "meaningZh": "さわります [ドアに～] |ます| さわる[ドアに∼] |辞| 触ります [ドアに～] 触る[ドアに∼] Ⅰ 碰、摸",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "さわります [ドアに～] |ます| さわる[ドアに∼] |辞| 触ります [ドアに～] 触る[ドアに∼] Ⅰ 碰、摸"
+  },
+  {
+    "id": "y2-l23-v006",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "でます",
+    "meaningZh": "でます [おつりが～] |ます| でる[おつりが∼] |辞| 出ます [お釣りが～] 出る[お釣りが∼] Ⅱ [零錢]出來",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "でます [おつりが～] |ます| でる[おつりが∼] |辞| 出ます [お釣りが～] 出る[お釣りが∼] Ⅱ [零錢]出來"
+  },
+  {
+    "id": "y2-l23-v007",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "あるきます",
+    "meaningZh": "あるきます |ます| あるく |辞| 歩きます 歩く Ⅰ 走路",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "あるきます |ます| あるく |辞| 歩きます 歩く Ⅰ 走路"
+  },
+  {
+    "id": "y2-l23-v008",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "わたります",
+    "meaningZh": "わたります [はしを～] |ます| わたる[はしを∼] |辞| 渡ります [橋を～] 渡る[橋を∼] Ⅰ 過[橋]、「道を～」過[馬 路]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "わたります [はしを～] |ます| わたる[はしを∼] |辞| 渡ります [橋を～] 渡る[橋を∼] Ⅰ 過[橋]、「道を～」過[馬 路]"
+  },
+  {
+    "id": "y2-l23-v009",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "まがります",
+    "meaningZh": "まがります [みぎへ～] |ます| まがる[みぎへ∼] |辞| 曲がります [右へ～] 曲がる[右へ∼] Ⅰ [向右]拐彎、轉彎",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "まがります [みぎへ～] |ます| まがる[みぎへ∼] |辞| 曲がります [右へ～] 曲がる[右へ∼] Ⅰ [向右]拐彎、轉彎"
+  },
+  {
+    "id": "y2-l23-v010",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "さびしい",
+    "meaningZh": "さびしい 寂しい 寂寞",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "さびしい 寂しい 寂寞"
+  },
+  {
+    "id": "y2-l23-v011",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "[お] ゆ [お]",
+    "meaningZh": "[お] ゆ [お] 湯 熱水",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "[お] ゆ [お] 湯 熱水"
+  },
+  {
+    "id": "y2-l23-v012",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "おと",
+    "meaningZh": "おと 音 （物體發出的）聲音",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "おと 音 （物體發出的）聲音"
+  },
+  {
+    "id": "y2-l23-v013",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "サイズ",
+    "meaningZh": "尺寸、大小",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "サイズ - 尺寸、大小"
+  },
+  {
+    "id": "y2-l23-v014",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "こしょう",
+    "meaningZh": "こしょう 故障 故障（～します：出故障）",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "こしょう 故障 故障（～します：出故障）"
+  },
+  {
+    "id": "y2-l23-v015",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "みち",
+    "meaningZh": "みち 道 道路",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "みち 道 道路"
+  },
+  {
+    "id": "y2-l23-v016",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "こうさてん",
+    "meaningZh": "こうさてん 交差点 十字路口",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "こうさてん 交差点 十字路口"
+  },
+  {
+    "id": "y2-l23-v017",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "かど",
+    "meaningZh": "かど 角 拐角、路口",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "かど 角 拐角、路口"
+  },
+  {
+    "id": "y2-l23-v018",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "はし",
+    "meaningZh": "はし 橋 橋",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "はし 橋 橋"
+  },
+  {
+    "id": "y2-l23-v019",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "しんごう",
+    "meaningZh": "しんごう 信号 紅綠燈",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "しんごう 信号 紅綠燈"
+  },
+  {
+    "id": "y2-l23-v020",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "たてもの",
+    "meaningZh": "たてもの 建物 建築物",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "たてもの 建物 建築物"
+  },
+  {
+    "id": "y2-l23-v021",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "ちゅうしゃじょう",
+    "meaningZh": "ちゅうしゃじょう 駐車場 停車場",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "ちゅうしゃじょう 駐車場 停車場"
+  },
+  {
+    "id": "y2-l23-v022",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "なんかいも",
+    "meaningZh": "なんかいも 何回も 多次、好幾次",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "なんかいも 何回も 多次、好幾次"
+  },
+  {
+    "id": "y2-l23-v023",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "～め",
+    "meaningZh": "～め ～目 第～（指順序） 読み物",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "～め ～目 第～（指順序） 読み物"
+  },
+  {
+    "id": "y2-l23-v024",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "しょうとくたいし",
+    "meaningZh": "しょうとくたいし 聖徳太子 聖德太子（574-622）",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "しょうとくたいし 聖徳太子 聖德太子（574-622）"
+  },
+  {
+    "id": "y2-l23-v025",
+    "schoolYear": 2,
+    "book": "初級 I",
+    "lesson": 23,
+    "kana": "ほうりゅうじ",
+    "meaningZh": "法隆寺（公元7世紀初，聖 德太子下令修建的位于奈良 的寺廟）",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "15tCtBOkK8Qz433zT-KrTjvQcQLJiXnF1",
+      "fileName": "japanese_vocab_lv1_ch23.pdf.pdf"
+    },
+    "sourceText": "ほうりゅうじ - 法隆寺（公元7世紀初，聖 德太子下令修建的位于奈良 的寺廟）"
+  }
+]
