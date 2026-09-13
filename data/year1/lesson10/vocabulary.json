@@ -1,0 +1,691 @@
+[
+  {
+    "id": "y1-l10-v001",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "あります",
+    "meaningZh": "有，在 (表示物件・植物的存在)",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v002",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "います",
+    "meaningZh": "有，在 (表示人・動物的存在)",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v003",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "おとこの ひと",
+    "kanji": "男の 人",
+    "meaningZh": "男子",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v004",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "おんなの ひと",
+    "kanji": "女の 人",
+    "meaningZh": "女子",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v005",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "おとこの こ",
+    "kanji": "男の 子",
+    "meaningZh": "男孩",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v006",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "おんなの こ",
+    "kanji": "女の 子",
+    "meaningZh": "女孩",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v007",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "いぬ",
+    "kanji": "犬",
+    "meaningZh": "狗",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v008",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "ねこ",
+    "kanji": "猫",
+    "meaningZh": "貓",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v009",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "パンダ",
+    "meaningZh": "熊貓",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v010",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "ぞう",
+    "kanji": "象",
+    "meaningZh": "大象",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v011",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "き",
+    "kanji": "木",
+    "meaningZh": "樹、木頭",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v012",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "もの",
+    "kanji": "物",
+    "meaningZh": "物品、東西",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v013",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "でんち",
+    "kanji": "電池",
+    "meaningZh": "電池",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v014",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "はこ",
+    "kanji": "箱",
+    "meaningZh": "盒子",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v015",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "スイッチ",
+    "meaningZh": "開關",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v016",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "れいぞうこ",
+    "kanji": "冷蔵庫",
+    "meaningZh": "冰箱",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v017",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "ナンプラー",
+    "meaningZh": "魚醬",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v018",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "テーブル",
+    "meaningZh": "餐桌",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v019",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "ベッド",
+    "meaningZh": "床",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v020",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "たな",
+    "kanji": "棚",
+    "meaningZh": "架子",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v021",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "コーナー",
+    "meaningZh": "櫃檯、（超市的）貨架",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v022",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "ドア",
+    "meaningZh": "門",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v023",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "まど",
+    "kanji": "窓",
+    "meaningZh": "窗戶",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v024",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "ポスト",
+    "meaningZh": "郵筒、信箱",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v025",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "ビル",
+    "meaningZh": "大廈、大樓",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v026",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "エーティーエム",
+    "kanji": "ATM",
+    "meaningZh": "自動櫃員機",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v027",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "コンビニ",
+    "meaningZh": "便利店",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v028",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "こうえん",
+    "kanji": "公園",
+    "meaningZh": "公園",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v029",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "きっさてん",
+    "kanji": "喫茶店",
+    "meaningZh": "咖啡館",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v030",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "～や",
+    "kanji": "～屋",
+    "meaningZh": "～店",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v031",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "のりば",
+    "kanji": "乗り場",
+    "meaningZh": "搭乘火車、計程車等交通工 具的場所",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v032",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "けん",
+    "kanji": "県",
+    "meaningZh": "縣",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v033",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "うえ",
+    "kanji": "上",
+    "meaningZh": "上、上面",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v034",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "した",
+    "kanji": "下",
+    "meaningZh": "下、下面",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v035",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "まえ",
+    "kanji": "前",
+    "meaningZh": "前、前面",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v036",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "うしろ",
+    "meaningZh": "後、後面",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v037",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "みぎ",
+    "kanji": "右",
+    "meaningZh": "右 (邊)",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v038",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "ひだり",
+    "kanji": "左",
+    "meaningZh": "左 (邊)",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v039",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "なか",
+    "kanji": "中",
+    "meaningZh": "裡面",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v040",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "そと",
+    "kanji": "外",
+    "meaningZh": "外面",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v041",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "となり",
+    "kanji": "隣",
+    "meaningZh": "隔壁、旁邊",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v042",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "ちかく",
+    "kanji": "近く",
+    "meaningZh": "附近",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v043",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "あいだ",
+    "kanji": "間",
+    "meaningZh": "之間、中間",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v044",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "いろいろ [な]",
+    "meaningZh": "各式各樣〔的〕",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v045",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "～や ～ [など]",
+    "meaningZh": "～啦 ～ [等]",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v046",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "[どうも] すみません。",
+    "meaningZh": "謝謝。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l10-v047",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 10,
+    "kana": "いちばん した",
+    "kanji": "いちばん 下",
+    "meaningZh": "最下面、最低",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1efBZliBes0nI2wHSDFzeYuUfj-8abiLc",
+      "fileName": "japanese_vocab_lv1_ch10.pdf.pdf"
+    }
+  }
+]

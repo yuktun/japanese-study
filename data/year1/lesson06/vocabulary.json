@@ -1,0 +1,748 @@
+[
+  {
+    "id": "y1-l06-v001",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "たべます",
+    "kanji": "食べます",
+    "meaningZh": "吃",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v002",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "のみます",
+    "kanji": "飲みます",
+    "meaningZh": "喝、飲、服用",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v003",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "すいます [たばこを～]",
+    "kanji": "吸います [たばこを～]",
+    "meaningZh": "吸〔菸〕",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v004",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "みます",
+    "kanji": "見ます",
+    "meaningZh": "看",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v005",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "ききます",
+    "kanji": "聞きます",
+    "meaningZh": "聽",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v006",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "よみます",
+    "kanji": "読みます",
+    "meaningZh": "閱讀",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v007",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "かきます",
+    "kanji": "書きます",
+    "meaningZh": "書寫",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v008",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "かいます",
+    "kanji": "買います",
+    "meaningZh": "購買",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v009",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "とります [しゃしんを～]",
+    "kanji": "撮ります [写真を～]",
+    "meaningZh": "拍〔照〕",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v010",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "します",
+    "meaningZh": "做",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v011",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "あいます [ともだちに～]",
+    "kanji": "会います [友達に～]",
+    "meaningZh": "遇見、會見〔朋友〕",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v012",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "ごはん",
+    "meaningZh": "餐、米飯",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v013",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "あさごはん",
+    "kanji": "朝ごはん",
+    "meaningZh": "早餐",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v014",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "ひるごはん",
+    "kanji": "昼ごはん",
+    "meaningZh": "中餐",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v015",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "ばんごはん",
+    "kanji": "晩ごはん",
+    "meaningZh": "晚餐",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v016",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "パン",
+    "meaningZh": "麵包",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v017",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "たまご",
+    "kanji": "卵",
+    "meaningZh": "雞蛋",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v018",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "にく",
+    "kanji": "肉",
+    "meaningZh": "肉",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v019",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "さかな",
+    "kanji": "魚",
+    "meaningZh": "魚",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v020",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "やさい",
+    "kanji": "野菜",
+    "meaningZh": "蔬菜",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v021",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "くだもの",
+    "kanji": "果物",
+    "meaningZh": "水果",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v022",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "みず",
+    "kanji": "水",
+    "meaningZh": "水",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v023",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "おちゃ",
+    "kanji": "お茶",
+    "meaningZh": "茶",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v024",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "こうちゃ",
+    "kanji": "紅茶",
+    "meaningZh": "紅茶",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v025",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "ぎゅうにゅう",
+    "kanji": "牛乳",
+    "meaningZh": "牛奶",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v026",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "ミルク",
+    "meaningZh": "牛奶",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v027",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "ジュース",
+    "meaningZh": "果汁",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v028",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "ビール",
+    "meaningZh": "啤酒",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v029",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "[お] さけ",
+    "kanji": "[お] 酒",
+    "meaningZh": "酒類、日本酒",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v030",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "たばこ",
+    "meaningZh": "香菸",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v031",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "てがみ",
+    "kanji": "手紙",
+    "meaningZh": "信",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v032",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "レポート",
+    "meaningZh": "報告",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v033",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "しゃしん",
+    "kanji": "写真",
+    "meaningZh": "相片",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v034",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "ビデオ",
+    "meaningZh": "錄影帶、錄影機",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v035",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "みせ",
+    "kanji": "店",
+    "meaningZh": "商店",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v036",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "にわ",
+    "kanji": "庭",
+    "meaningZh": "院子",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v037",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "しゅくだい",
+    "kanji": "宿題",
+    "meaningZh": "作業（～を します︰做作業）",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v038",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "テニス",
+    "meaningZh": "網球（～を します︰打網球）",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v039",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "サッカー",
+    "meaningZh": "足球（～を します︰踢足球）",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v040",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "[お] はなみ",
+    "kanji": "[お] 花見",
+    "meaningZh": "賞櫻花（～をします：去賞櫻花）",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v041",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "なに",
+    "kanji": "何",
+    "meaningZh": "什麼",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v042",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "いっしょに",
+    "meaningZh": "一起",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v043",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "ちょっと",
+    "meaningZh": "一下子、稍",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v044",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "いつも",
+    "meaningZh": "總是",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v045",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "ときどき",
+    "kanji": "時々",
+    "meaningZh": "時常、有時",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v046",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "それから",
+    "meaningZh": "然後",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v047",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "ええ",
+    "meaningZh": "是，嗯 〔表贊同〕",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v048",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "いいですね。",
+    "meaningZh": "好呀。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v049",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "わかりました。",
+    "meaningZh": "我明白了。/ 我知道了。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v050",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "なんですか。",
+    "kanji": "何ですか。",
+    "meaningZh": "甚麽事？",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v051",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "じゃ、また [あした]。",
+    "meaningZh": "那麼，明天見。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "19rGBgqtzbhlyPpIMSoDDa1nDx5gBoq_b",
+      "fileName": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  }
+]

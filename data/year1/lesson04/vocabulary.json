@@ -1,0 +1,786 @@
+[
+  {
+    "id": "y1-l04-v001",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "おきます",
+    "kanji": "起きます",
+    "meaningZh": "起床、起來",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v002",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "おわります",
+    "kanji": "終わります",
+    "meaningZh": "結束",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v003",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "ねます",
+    "kanji": "寝ます",
+    "meaningZh": "睡覺、就寢",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v004",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "はたらきます",
+    "kanji": "働きます",
+    "meaningZh": "工作",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v005",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "べんきょうします",
+    "kanji": "勉強します",
+    "meaningZh": "唸書，學習",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v006",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "やすみます",
+    "kanji": "休みます",
+    "meaningZh": "休息、暫停",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v007",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "あさ",
+    "kanji": "朝",
+    "meaningZh": "早上",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v008",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "あさって",
+    "meaningZh": "後天",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v009",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "あした",
+    "meaningZh": "明天",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v010",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "いま",
+    "kanji": "今",
+    "meaningZh": "現在",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v011",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "えいが",
+    "kanji": "映画",
+    "meaningZh": "電影",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v012",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "おととい",
+    "meaningZh": "前天",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v013",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "かいぎ",
+    "kanji": "会議",
+    "meaningZh": "會議",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v014",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "きのう",
+    "meaningZh": "昨天",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v015",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "きょう",
+    "meaningZh": "今天",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v016",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "ぎんこう",
+    "kanji": "銀行",
+    "meaningZh": "銀行",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v017",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "けさ",
+    "meaningZh": "今天早上",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v018",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "ごご",
+    "kanji": "午後",
+    "meaningZh": "下午",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v019",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "ごぜん",
+    "kanji": "午前",
+    "meaningZh": "上午",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v020",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "こんばん",
+    "kanji": "今晩",
+    "meaningZh": "今天晚上",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v021",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "しけん",
+    "kanji": "試験",
+    "meaningZh": "考試",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v022",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "そちら",
+    "meaningZh": "你那兒，你那邊",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v023",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "デパート",
+    "meaningZh": "百貨公司",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v024",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "としょかん",
+    "kanji": "図書館",
+    "meaningZh": "圖書館",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v025",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "はん",
+    "kanji": "半",
+    "meaningZh": "半",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v026",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "ばん",
+    "kanji": "晩",
+    "meaningZh": "晚上、夜晚",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v027",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "ばんごう",
+    "kanji": "番号",
+    "meaningZh": "號碼",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v028",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "びじゅつかん",
+    "kanji": "美術館",
+    "meaningZh": "美術館",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v029",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "ひる",
+    "kanji": "昼",
+    "meaningZh": "白天、中午",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v030",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "ひるやすみ",
+    "kanji": "昼休み",
+    "meaningZh": "午休",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v031",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "まいあさ",
+    "kanji": "毎朝",
+    "meaningZh": "每天早上",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v032",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "まいにち",
+    "kanji": "毎日",
+    "meaningZh": "每天",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v033",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "まいばん",
+    "kanji": "毎晩",
+    "meaningZh": "每天晚上",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v034",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "やすみ",
+    "kanji": "休み",
+    "meaningZh": "休息，休假",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v035",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "ゆうびんきょく",
+    "kanji": "郵便局",
+    "meaningZh": "郵局",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v036",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "よる",
+    "kanji": "夜",
+    "meaningZh": "晚上、夜晚",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v037",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "げつようび",
+    "kanji": "月曜日",
+    "meaningZh": "星期一",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v038",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "かようび",
+    "kanji": "火曜日",
+    "meaningZh": "星期二",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v039",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "すいようび",
+    "kanji": "水曜日",
+    "meaningZh": "星期三",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v040",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "もくようび",
+    "kanji": "木曜日",
+    "meaningZh": "星期四",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v041",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "きんようび",
+    "kanji": "金曜日",
+    "meaningZh": "星期五",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v042",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "どようび",
+    "kanji": "土曜日",
+    "meaningZh": "星期六",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v043",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "にちようび",
+    "kanji": "日曜日",
+    "meaningZh": "星期日",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v044",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "なんようび",
+    "kanji": "何曜日",
+    "meaningZh": "星期幾",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v045",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "～から",
+    "meaningZh": "從～",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v046",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "～まで",
+    "meaningZh": "到～",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v047",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "～と～",
+    "meaningZh": "和（用於連接名詞）",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v048",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "～ふん（～ぷん）",
+    "kanji": "～分",
+    "meaningZh": "～分（鐘）",
+    "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v049",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "～じ",
+    "kanji": "～時",
+    "meaningZh": "～點（鐘）",
+    "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v050",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "なんじ",
+    "kanji": "何時",
+    "meaningZh": "幾點",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v051",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "なんばん",
+    "kanji": "何番",
+    "meaningZh": "幾號",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v052",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "なんぷん",
+    "kanji": "何分",
+    "meaningZh": "幾分",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v053",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "たいへんですね。",
+    "kanji": "大変ですね。",
+    "meaningZh": "很辛苦啊。夠受的了。（表 示同情及慰問對方的心情）",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1hkVUEnxkYZB6p_Y6mS2wxEYEgy-HITdB",
+      "fileName": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  }
+]

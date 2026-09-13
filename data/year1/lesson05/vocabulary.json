@@ -1,0 +1,893 @@
+[
+  {
+    "id": "y1-l05-v001",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "いきます",
+    "kanji": "行きます",
+    "meaningZh": "去",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v002",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "かえります",
+    "kanji": "帰ります",
+    "meaningZh": "回家，回（國）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v003",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "きます",
+    "kanji": "来ます",
+    "meaningZh": "來",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v004",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "えき",
+    "kanji": "駅",
+    "meaningZh": "火車站",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v005",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "かぞく",
+    "kanji": "家族",
+    "meaningZh": "家人、家屬",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v006",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "がっこう",
+    "kanji": "学校",
+    "meaningZh": "學校",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v007",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "かのじょ",
+    "kanji": "彼女",
+    "meaningZh": "她、女朋友",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v008",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "かれ",
+    "kanji": "彼",
+    "meaningZh": "他、男朋友",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v009",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "きゅうこう",
+    "kanji": "急行",
+    "meaningZh": "快車",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v010",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "じてんしゃ",
+    "kanji": "自転車",
+    "meaningZh": "自行車、腳踏車",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v011",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "あるいて",
+    "kanji": "歩いて",
+    "meaningZh": "步行",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v012",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "しんかんせん",
+    "kanji": "新幹線",
+    "meaningZh": "新幹線",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v013",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "スーパー",
+    "meaningZh": "超級市場",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v014",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "タクシー",
+    "meaningZh": "計程車",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v015",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "たんじょうび",
+    "kanji": "誕生日",
+    "meaningZh": "生日",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v016",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "ちかてつ",
+    "kanji": "地下鉄",
+    "meaningZh": "地下鐵",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v017",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "でんしゃ",
+    "kanji": "電車",
+    "meaningZh": "電車",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v018",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "とっきゅう",
+    "kanji": "特急",
+    "meaningZh": "特快車",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v019",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "ともだち",
+    "kanji": "友達",
+    "meaningZh": "朋友",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v020",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "バス",
+    "meaningZh": "公車、巴士",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v021",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "ひこうき",
+    "kanji": "飛行機",
+    "meaningZh": "飛機",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v022",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "ひと",
+    "kanji": "人",
+    "meaningZh": "人",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v023",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "ひとりで",
+    "kanji": "一人で",
+    "meaningZh": "一個人、獨自",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v024",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "ふつう",
+    "kanji": "普通",
+    "meaningZh": "普通車",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v025",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "ふね",
+    "kanji": "船",
+    "meaningZh": "船",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v026",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "つぎの",
+    "kanji": "次の",
+    "meaningZh": "下一個、下一次、下一班",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v027",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "きょねん",
+    "kanji": "去年",
+    "meaningZh": "去年",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v028",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "ことし",
+    "meaningZh": "今年",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v029",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "せんげつ",
+    "kanji": "先月",
+    "meaningZh": "上個月",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v030",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "こんげつ",
+    "kanji": "今月",
+    "meaningZh": "這個月",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v031",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "らいげつ",
+    "kanji": "来月",
+    "meaningZh": "下個月",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v032",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "せんしゅう",
+    "kanji": "先週",
+    "meaningZh": "上週、上星期",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v033",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "こんしゅう",
+    "kanji": "今週",
+    "meaningZh": "本週、這星期",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v034",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "らいしゅう",
+    "kanji": "来週",
+    "meaningZh": "下週、下星期",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v035",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "らいねん",
+    "kanji": "来年",
+    "meaningZh": "明年",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v036",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "ついたち",
+    "kanji": "１日",
+    "meaningZh": "1日、1號",
+    "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v037",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "ふつか",
+    "kanji": "２日",
+    "meaningZh": "2日、2號",
+    "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v038",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "みっか",
+    "kanji": "３日",
+    "meaningZh": "3日、3號",
+    "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v039",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "よっか",
+    "kanji": "４日",
+    "meaningZh": "4日、4號",
+    "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v040",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "いつか",
+    "kanji": "５日",
+    "meaningZh": "5日、5號",
+    "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v041",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "むいか",
+    "kanji": "６日",
+    "meaningZh": "6日、6號",
+    "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v042",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "なのか",
+    "kanji": "７日",
+    "meaningZh": "7日、7號",
+    "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v043",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "ようか",
+    "kanji": "８日",
+    "meaningZh": "8日、8號",
+    "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v044",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "ここのか",
+    "kanji": "９日",
+    "meaningZh": "9日、9號",
+    "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v045",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "とおか",
+    "kanji": "１０日",
+    "meaningZh": "10日、10號",
+    "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v046",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "じゅうよっか",
+    "kanji": "１４日",
+    "meaningZh": "14日、14號",
+    "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v047",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "はつか",
+    "kanji": "２０日",
+    "meaningZh": "20日、20號",
+    "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v048",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "にじゅうよっか",
+    "kanji": "２４日",
+    "meaningZh": "24日、24號",
+    "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v049",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "～がつ",
+    "kanji": "～月",
+    "meaningZh": "～月",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v050",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "～にち",
+    "kanji": "～日",
+    "meaningZh": "～日、～號",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v051",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "～ねん",
+    "kanji": "～年",
+    "meaningZh": "～年",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v052",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "なんにち",
+    "kanji": "何日",
+    "meaningZh": "幾日、幾號",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v053",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "なんがつ",
+    "kanji": "何月",
+    "meaningZh": "幾月",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v054",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "なんねん",
+    "kanji": "何年",
+    "meaningZh": "哪一年/多少年",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v055",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "いつ",
+    "meaningZh": "什麼時候",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v056",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "～ばんせん",
+    "kanji": "～番線",
+    "meaningZh": "第～月台",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v057",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "そうですね。",
+    "meaningZh": "是啊。（表示同意）",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v058",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "ありがとう ございました。",
+    "meaningZh": "謝謝您。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v059",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "どう いたしまして。",
+    "meaningZh": "不客氣。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v060",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "[どうも] ありがとう ございました。",
+    "meaningZh": "（非常）謝謝您。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1OmeJbic7OPVLTb_xQmBY1ohGjhVBmVa2",
+      "fileName": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  }
+]

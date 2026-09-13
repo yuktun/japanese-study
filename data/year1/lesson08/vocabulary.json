@@ -1,0 +1,823 @@
+[
+  {
+    "id": "y1-l08-v001",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "さくら",
+    "kanji": "桜",
+    "meaningZh": "櫻花",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v002",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "やま",
+    "kanji": "山",
+    "meaningZh": "山",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v003",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "まち",
+    "kanji": "町",
+    "meaningZh": "城市、市鎮",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v004",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "たべもの",
+    "kanji": "食べ物",
+    "meaningZh": "食物",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v005",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "ところ",
+    "kanji": "所",
+    "meaningZh": "場所、地方",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v006",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "りょう",
+    "kanji": "寮",
+    "meaningZh": "宿舍",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v007",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "レストラン",
+    "meaningZh": "餐廳",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v008",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "せいかつ",
+    "kanji": "生活",
+    "meaningZh": "生活",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v009",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "[お] しごと",
+    "kanji": "[お] 仕事",
+    "meaningZh": "工作、職業（～をします：工作）",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v010",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "おおきい",
+    "kanji": "大きい",
+    "meaningZh": "大的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v011",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "ちいさい",
+    "kanji": "小さい",
+    "meaningZh": "小的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v012",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "あたらしい",
+    "kanji": "新しい",
+    "meaningZh": "新的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v013",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "ふるい",
+    "kanji": "古い",
+    "meaningZh": "舊的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v014",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "いい（よい）",
+    "meaningZh": "好的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v015",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "わるい",
+    "kanji": "悪い",
+    "meaningZh": "壞的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v016",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "あつい",
+    "kanji": "暑い",
+    "meaningZh": "（天氣）酷熱的、熱的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v017",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "さむい",
+    "kanji": "寒い",
+    "meaningZh": "寒冷的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v018",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "あつい",
+    "kanji": "熱い",
+    "meaningZh": "燙的、熱的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v019",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "つめたい",
+    "kanji": "冷たい",
+    "meaningZh": "涼的、冰的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v020",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "むずかしい",
+    "kanji": "難しい",
+    "meaningZh": "難的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v021",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "やさしい",
+    "kanji": "易しい",
+    "meaningZh": "容易的、簡單的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v022",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "たかい",
+    "kanji": "高い",
+    "meaningZh": "高的；貴的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v023",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "やすい",
+    "kanji": "安い",
+    "meaningZh": "便宜的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v024",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "ひくい",
+    "kanji": "低い",
+    "meaningZh": "低的、矮的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v025",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "おもしろい",
+    "meaningZh": "有趣的、有意思的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v026",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "おいしい",
+    "meaningZh": "美味的、好吃的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v027",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "いそがしい",
+    "kanji": "忙しい",
+    "meaningZh": "忙碌的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v028",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "たのしい",
+    "kanji": "楽しい",
+    "meaningZh": "愉快的、高興的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v029",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "しろい",
+    "kanji": "白い",
+    "meaningZh": "白色的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v030",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "くろい",
+    "kanji": "黒い",
+    "meaningZh": "黑色的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v031",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "あかい",
+    "kanji": "赤い",
+    "meaningZh": "紅色的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v032",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "あおい",
+    "kanji": "青い",
+    "meaningZh": "藍色的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v033",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "ハンサム [な]",
+    "meaningZh": "英俊〔的〕",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v034",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "きれい [な]",
+    "meaningZh": "美麗〔的〕、乾淨〔的〕",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v035",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "しずか [な]",
+    "kanji": "静か [な]",
+    "meaningZh": "安靜〔的〕",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v036",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "にぎやか [な]",
+    "meaningZh": "熱鬧〔的〕",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v037",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "ゆうめい [な]",
+    "kanji": "有名 [な]",
+    "meaningZh": "有名〔的〕",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v038",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "しんせつ [な]",
+    "kanji": "親切 [な]",
+    "meaningZh": "親切〔的〕",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v039",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "げんき [な]",
+    "kanji": "元気 [な]",
+    "meaningZh": "身體好〔的〕、健康〔的〕",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v040",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "ひま [な]",
+    "kanji": "暇 [な]",
+    "meaningZh": "空閒〔的〕",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v041",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "べんり [な]",
+    "kanji": "便利 [な]",
+    "meaningZh": "方便〔的〕",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v042",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "すてき [な]",
+    "meaningZh": "很好〔的〕、很棒〔的〕",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v043",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "どう",
+    "meaningZh": "怎麼樣",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v044",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "どんな～",
+    "meaningZh": "什麼樣的～",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v045",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "とても",
+    "meaningZh": "很、非常",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v046",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "あまり",
+    "meaningZh": "不太〔用於否定句〕",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v047",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "そして",
+    "meaningZh": "而且，還有〔用於接續句子 〕",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v048",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "～が、～",
+    "meaningZh": "～，但是，～",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v049",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "おげんきですか。",
+    "kanji": "お元気ですか。",
+    "meaningZh": "你好嗎？",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v050",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "そうですね。",
+    "meaningZh": "是呀 (用於思考回答時)。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v051",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "[～、] もう いっぱい いかがですか。",
+    "kanji": "[～、] もう 一杯 いかがですか。",
+    "meaningZh": "再來一杯 [～] 怎麽樣",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v052",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "[いいえ、] けっこうです。",
+    "meaningZh": "不用了，夠了。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v053",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "もう ～です[ね]。",
+    "meaningZh": "已經～了吧 [不是嗎]。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v054",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "そろそろ しつれいします。",
+    "kanji": "失礼します。",
+    "meaningZh": "我該告辭了。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v055",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "いいえ",
+    "meaningZh": "不。沒甚麽。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v056",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "また いらっしゃって ください。",
+    "meaningZh": "歡迎再來。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1oJoy5nrGEDuzIGeNN3EEblL26pv1sTMO",
+      "fileName": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  }
+]

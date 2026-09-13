@@ -21,6 +21,55 @@
       "vocabulary": "./data/year1/lesson03/vocabulary.json",
       "grammar": "./data/year1/lesson03/grammar.json",
       "reference": "./data/year1/lesson03/reference.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 4,
+      "vocabulary": "./data/year1/lesson04/vocabulary.json",
+      "grammar": "./data/year1/lesson04/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 5,
+      "vocabulary": "./data/year1/lesson05/vocabulary.json",
+      "grammar": "./data/year1/lesson05/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 6,
+      "vocabulary": "./data/year1/lesson06/vocabulary.json",
+      "grammar": "./data/year1/lesson06/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 7,
+      "vocabulary": "./data/year1/lesson07/vocabulary.json",
+      "grammar": "./data/year1/lesson07/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 8,
+      "vocabulary": "./data/year1/lesson08/vocabulary.json",
+      "grammar": "./data/year1/lesson08/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 9,
+      "vocabulary": "./data/year1/lesson09/vocabulary.json",
+      "grammar": "./data/year1/lesson09/grammar.json"
+    },
+    {
+      "schoolYear": 1,
+      "book": "初級 I",
+      "lesson": 10,
+      "vocabulary": "./data/year1/lesson10/vocabulary.json",
+      "grammar": "./data/year1/lesson10/grammar.json"
     }
   ]
 }
