@@ -19,15 +19,15 @@
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 21,
-    "kana": "/",
-    "meaningZh": "/ 416 ぶっか 物価 物價",
+    "kana": "ぶっか",
+    "meaningZh": "物価 物價",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "1c6AvLxUI0Bq--boELn0B8Z6zoQLvR-UI",
       "fileName": "japanese_vocab_lv1_ch21.pdf.pdf"
     },
-    "sourceText": "/ 416 ぶっか 物価 物價"
+    "sourceText": "ぶっか 物価 物價"
   },
   {
     "id": "y2-l21-v003",
@@ -49,7 +49,7 @@
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 21,
-    "kana": "/ 433 きっと",
+    "kana": "きっと",
     "meaningZh": "一定、必定",
     "category": "副詞",
     "source": {
@@ -57,7 +57,7 @@
       "driveFileId": "1c6AvLxUI0Bq--boELn0B8Z6zoQLvR-UI",
       "fileName": "japanese_vocab_lv1_ch21.pdf.pdf"
     },
-    "sourceText": "/ 433 きっと - 一定、必定"
+    "sourceText": "きっと - 一定、必定"
   },
   {
     "id": "y2-l21-v005",
@@ -79,7 +79,7 @@
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 21,
-    "kana": "/ 450 キャプテン・クック",
+    "kana": "キャプテン・クック",
     "meaningZh": "James Cook 庫克船長（1728-1779）",
     "category": "其他",
     "source": {
@@ -87,7 +87,7 @@
       "driveFileId": "1c6AvLxUI0Bq--boELn0B8Z6zoQLvR-UI",
       "fileName": "japanese_vocab_lv1_ch21.pdf.pdf"
     },
-    "sourceText": "/ 450 キャプテン・クック - James Cook 庫克船長（1728-1779）"
+    "sourceText": "キャプテン・クック - James Cook 庫克船長（1728-1779）"
   },
   {
     "id": "y2-l21-v007",
