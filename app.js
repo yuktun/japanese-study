@@ -6,13 +6,13 @@ const escapeHtml=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;'
 
 async function loadData(){
   try{
-    const manifestResponse=await fetch('./data/manifest.json?v=year1-complete',{cache:'no-cache'});
+    const manifestResponse=await fetch('./data/manifest.json?v=year1-complete-2',{cache:'no-cache'});
     if(!manifestResponse.ok)throw new Error(`教材清單載入失敗 (${manifestResponse.status})`);
     const manifest=await manifestResponse.json();
     if(!Array.isArray(manifest.lessons))throw new Error('教材清單格式無效');
     state.lessons=manifest.lessons;
     const groups=await Promise.all(manifest.lessons.flatMap(lesson=>['vocabulary','grammar'].filter(type=>lesson[type]).map(async type=>{
-      const response=await fetch(lesson[type]);
+      const response=await fetch(`${lesson[type]}?v=year1-complete`,{cache:'no-cache'});
       if(!response.ok)throw new Error(`${lesson[type]} 載入失敗 (${response.status})`);
       const items=await response.json();
       if(!Array.isArray(items))throw new Error(`${lesson[type]} 格式無效`);
@@ -20,7 +20,7 @@ async function loadData(){
     })));
     const referenceGroups=await Promise.all(manifest.lessons.filter(lesson=>lesson.reference).map(async lesson=>{
       try{
-        const response=await fetch(lesson.reference);
+        const response=await fetch(`${lesson.reference}?v=year1-complete`,{cache:'no-cache'});
         if(!response.ok)throw new Error(`${lesson.reference} 載入失敗 (${response.status})`);
         const items=await response.json();
         if(!Array.isArray(items))throw new Error(`${lesson.reference} 格式無效`);
