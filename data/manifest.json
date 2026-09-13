@@ -76,7 +76,8 @@
       "book": "初級 I",
       "lesson": 11,
       "vocabulary": "./data/year1/lesson11/vocabulary.json",
-      "grammar": "./data/year1/lesson11/grammar.json"
+      "grammar": "./data/year1/lesson11/grammar.json",
+      "reference": "./data/year1/lesson11/reference.json"
     },
     {
       "schoolYear": 1,
@@ -139,7 +140,8 @@
       "book": "初級 I",
       "lesson": 20,
       "vocabulary": "./data/year1/lesson20/vocabulary.json",
-      "grammar": "./data/year1/lesson20/grammar.json"
+      "grammar": "./data/year1/lesson20/grammar.json",
+      "reference": "./data/year1/lesson20/reference.json"
     }
   ]
 }

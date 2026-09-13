@@ -58,6 +58,13 @@ for(const [lessonIndex,lesson] of manifest.lessons.entries()){
       if(type==='grammar'){
         for(const field of ['meaningZh','explanationZh'])if(field in item)validateOptionalText(item[field],`${itemLabel} ${field}`);
         if('notes' in item)validateOptionalNotes(item.notes,`${itemLabel} notes`);
+        if('examples' in item){
+          if(!Array.isArray(item.examples)||!item.examples.length)fail(`${itemLabel} examples must be a non-empty array when present.`);
+          item.examples.forEach((example,exampleIndex)=>{
+            if(!example||typeof example!=='object'||Array.isArray(example))fail(`${itemLabel} example ${exampleIndex+1} must be an object.`);
+            for(const field of ['ja','zh'])validateOptionalText(example[field],`${itemLabel} example ${exampleIndex+1} ${field}`);
+          });
+        }
         if('supplementary' in item){
           if(!item.supplementary||Array.isArray(item.supplementary)||typeof item.supplementary!=='object')fail(`${itemLabel} supplementary must be an object when present.`);
           if(item.supplementary.contentSource!=='ai_derived')fail(`${itemLabel} supplementary.contentSource must be ai_derived.`);
@@ -69,7 +76,16 @@ for(const [lessonIndex,lesson] of manifest.lessons.entries()){
           }
         }
       }
-      if(type==='reference'&&item.type!=='reference')fail(`${itemLabel} type must be reference.`);
+      if(type==='reference'){
+        if(item.type!=='reference')fail(`${itemLabel} type must be reference.`);
+        if('table' in item&&(!Array.isArray(item.table)||!item.table.length))fail(`${itemLabel} table must be a non-empty array when present.`);
+        if('sections' in item){
+          if(!Array.isArray(item.sections)||!item.sections.length)fail(`${itemLabel} sections must be a non-empty array when present.`);
+          item.sections.forEach((section,sectionIndex)=>{
+            if(!section||typeof section!=='object'||!nonEmptyText(section.title)||!Array.isArray(section.table)||!section.table.length)fail(`${itemLabel} section ${sectionIndex+1} must have a title and non-empty table.`);
+          });
+        }
+      }
       if(item.schoolYear!==lesson.schoolYear||item.book!==lesson.book||item.lesson!==lesson.lesson)fail(`${itemLabel} metadata does not match its manifest lesson.`);
       if(ids.has(item.id))fail(`${itemLabel} has duplicate id: ${item.id}`);
       ids.add(item.id);itemCount++;
