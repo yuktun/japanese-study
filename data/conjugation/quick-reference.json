@@ -1,0 +1,10 @@
+{
+  "groupI": [
+    {"masu":"待ちます","forms":{"nai":"待たない","nakatta":"待たなかった","passivePolite":"待たれます","passive":"待たれる","causativePolite":"待たせます","causative":"待たせる","dictionary":"待つ","prohibitive":"待つな","potentialPolite":"待てます","potential":"待てる","conditional":"待てば","imperative":"待て","volitional":"待とう","te":"待って","ta":"待った"}},
+    {"masu":"死にます","forms":{"nai":"死なない","nakatta":"死なかった","passivePolite":"死なれます","passive":"死なれる","causativePolite":"死なせます","causative":"死なせる","dictionary":"死ぬ","prohibitive":"死ぬな","potentialPolite":"死ねます","potential":"死ねる","conditional":"死ねば","imperative":"死ね","volitional":"死のう","te":"死んで","ta":"死んだ"}},
+    {"masu":"遊びます","forms":{"nai":"遊ばない","nakatta":"遊ばなかった","passivePolite":"遊ばれます","passive":"遊ばれる","causativePolite":"遊ばせます","causative":"遊ばせる","dictionary":"遊ぶ","prohibitive":"遊ぶな","potentialPolite":"遊べます","potential":"遊べる","conditional":"遊べば","imperative":"遊べ","volitional":"遊ぼう","te":"遊んで","ta":"遊んだ"}},
+    {"masu":"読みます","forms":{"nai":"読まない","nakatta":"読まなかった","passivePolite":"読まれます","passive":"読まれる","causativePolite":"読ませます","causative":"読ませる","dictionary":"読む","prohibitive":"読むな","potentialPolite":"読めます","potential":"読める","conditional":"読めば","imperative":"読め","volitional":"読もう","te":"読んで","ta":"読んだ"}},
+    {"masu":"帰ります","forms":{"nai":"帰らない","nakatta":"帰らなかった","passivePolite":"帰られます","passive":"帰られる","causativePolite":"帰らせます","causative":"帰らせる","dictionary":"帰る","prohibitive":"帰るな","potentialPolite":"帰れます","potential":"帰れる","conditional":"帰れば","imperative":"帰れ","volitional":"帰ろう","te":"帰って","ta":"帰った"}}
+  ],
+  "sources":["g_1_14 動詞.pdf","g_1_17ない.pdf","g_1_18辞書.pdf","g_1_19た.pdf","g_1_35.pdf","g_1_48使役形.pdf"]
+}
