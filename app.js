@@ -202,8 +202,32 @@ function renderLibrary(){
 
 function switchView(view){
   state.view=view;$$('.view').forEach(panel=>panel.classList.toggle('active',panel.id===`${view}-view`));$$('.nav-item').forEach(item=>item.classList.toggle('active',item.dataset.view===view));
-  $('.sidebar').classList.remove('open');$('#menu-button').setAttribute('aria-expanded','false');if(view==='library')renderLibrary();
+  $('.sidebar').classList.remove('open');$('#menu-button').setAttribute('aria-expanded','false');if(view==='library')renderLibrary();if(view==='conjugation')loadConjugation();
 }
+
+const conjugationState={forms:[],verbs:[],formId:'dictionary',group:'ALL',query:'',revealed:false,loaded:false};
+async function loadConjugation(){
+  if(conjugationState.loaded)return;
+  try{
+    const [forms,verbs]=await Promise.all(['./data/conjugation/forms.json','./data/conjugation/verbs.json'].map(async path=>{const r=await fetch(path,{cache:'no-cache'});if(!r.ok)throw new Error(path);return r.json();}));
+    conjugationState.forms=forms;conjugationState.verbs=verbs;conjugationState.loaded=true;renderConjugation();
+  }catch(error){$('#conjugation-rule-card').textContent='詞形資料暫時載入唔到。';console.error(error);}
+}
+function selectedConjugation(){return conjugationState.forms.find(form=>form.id===conjugationState.formId);}
+function renderConjugation(){
+  const form=selectedConjugation();if(!form)return;
+  $('#conjugation-selector').innerHTML=conjugationState.forms.map(item=>`<button class="${item.id===form.id?'active':''}" data-conjugation-form="${item.id}"><b lang="ja">${item.japaneseName}</b><small>第${item.lesson}課</small></button>`).join('');
+  $('#conjugation-rule-card').innerHTML=`<div><p class="eyebrow">大家的日本語 · 第${form.lesson}課</p><h2 lang="ja">${form.japaneseName}</h2><p>${form.description}</p></div><div class="conjugation-rules">${form.rules.map(rule=>`<section><b>${rule[0]}</b><span>${rule[1]}</span><em lang="ja">${rule[2]}</em></section>`).join('')}</div><small class="source-note">來源：${form.sourceFile}</small>`;
+  $('#conjugation-answer-toggle').textContent=conjugationState.revealed?'🙈 隱藏答案':'👀 顯示答案';
+  const query=normalizeSearch(conjugationState.query);
+  const verbs=conjugationState.verbs.filter(verb=>{const values=[...verb.masu,...Object.values(verb.forms).flat(),verb.meaning,verb.group].join(' ');return (conjugationState.group==='ALL'||verb.group===conjugationState.group)&&(!query||normalizeSearch(values).includes(query));});
+  $('#conjugation-summary').textContent=`${verbs.length} 個例子 · ${conjugationState.revealed?'答案已顯示':'先諗答案，再揭曉'}`;
+  $('#conjugation-list').innerHTML=verbs.length?verbs.map(verb=>{const answer=verb.forms[form.id];return `<article class="conjugation-verb"><div><span class="type-badge">${verb.group}組</span><h2 lang="ja">${verb.masu[0]}</h2><p lang="ja">${verb.masu[1]}</p><small>${verb.meaning}</small></div><div class="conjugation-arrow">→</div><div class="conjugation-answer ${conjugationState.revealed?'revealed':''}"><h2 lang="ja">${conjugationState.revealed?answer[0]:'？'}</h2><p lang="ja">${conjugationState.revealed?answer[1]:'答えを隠しています'}</p></div></article>`;}).join(''):'<div class="empty-state"><b>搵唔到相符動詞</b><br>試吓日文、假名、ます形、辭書形或英文意思。</div>';
+  $$('[data-conjugation-form]').forEach(button=>button.addEventListener('click',()=>{conjugationState.formId=button.dataset.conjugationForm;renderConjugation();}));
+}
+$('#conjugation-search').addEventListener('input',event=>{conjugationState.query=event.target.value;renderConjugation();});
+$$('[data-conjugation-group]').forEach(button=>button.addEventListener('click',()=>{conjugationState.group=button.dataset.conjugationGroup;$$('[data-conjugation-group]').forEach(item=>item.classList.toggle('active',item===button));renderConjugation();}));
+$('#conjugation-answer-toggle').addEventListener('click',()=>{conjugationState.revealed=!conjugationState.revealed;renderConjugation();});
 function showToast(message){const toast=$('#toast');toast.textContent=message;toast.classList.add('show');clearTimeout(showToast.timer);showToast.timer=setTimeout(()=>toast.classList.remove('show'),1800);}
 function applyTheme(theme){document.documentElement.dataset.theme=theme;localStorage.setItem('jp-study-theme',theme);const dark=theme==='dark';$('#theme-icon').textContent=dark?'☀':'☾';$('#theme-toggle').setAttribute('aria-label',dark?'切換至日間模式':'切換至夜間模式');document.querySelector('meta[name="theme-color"]').content=dark?'#030712':'#f8fafc';}
 
