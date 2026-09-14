@@ -20,10 +20,33 @@ const validateOptionalNotes=(value,label)=>{
   if(typeof value==='string'){validateOptionalText(value,label);return;}
   if(!Array.isArray(value)||value.some(note=>!nonEmptyText(note)))fail(`${label} must be a non-empty string or an array of non-empty strings when present.`);
 };
+const bannedSourceFields=new Set(['driveFileId','fileName','driveUrl','googleDriveUrl']);
+const validatePublicValue=(value,label)=>{
+  if(typeof value==='string'){
+    if(/(?:drive|docs)\.google\.com/i.test(value))fail(`${label} contains a private Google URL.`);
+    return;
+  }
+  if(Array.isArray(value)){value.forEach((entry,index)=>validatePublicValue(entry,`${label}[${index}]`));return;}
+  if(!value||typeof value!=='object')return;
+  for(const [key,entry] of Object.entries(value)){
+    if(bannedSourceFields.has(key))fail(`${label} contains banned public provenance field: ${key}.`);
+    validatePublicValue(entry,`${label}.${key}`);
+  }
+};
+const validateSource=(source,label)=>{
+  if(!source||typeof source!=='object'||Array.isArray(source))fail(`${label} source must be a non-array object.`);
+  if(!nonEmptyText(source.type))fail(`${label} source.type is required.`);
+  if(source.type==='school_pdf'){
+    if(!nonEmptyText(source.filename))fail(`${label} school_pdf source.filename is required.`);
+    if('page' in source&&(!Number.isInteger(source.page)||source.page<1))fail(`${label} school_pdf source.page must be a positive integer when present.`);
+  }
+  validatePublicValue(source,`${label} source`);
+};
 
 const manifestPath=resolve(root,'data','manifest.json');
 const manifest=await readJson(manifestPath);
 if(!manifest||!Array.isArray(manifest.lessons))fail('data/manifest.json must contain a lessons array.');
+validatePublicValue(manifest,'data/manifest.json');
 
 const ids=new Set();
 const manifestLessons=new Set();
@@ -51,9 +74,8 @@ for(const [lessonIndex,lesson] of manifest.lessons.entries()){
     for(const [itemIndex,item] of items.entries()){
       const itemLabel=`${lesson[type]} item ${itemIndex+1}`;
       for(const field of required[type])if(!present(item?.[field]))fail(`${itemLabel} is missing ${field}.`);
-      if(!item.source||typeof item.source!=='object'||Array.isArray(item.source))fail(`${itemLabel} source must be a non-array object.`);
-      if(!present(item.source.type))fail(`${itemLabel} source.type is required.`);
-      if(!Object.entries(item.source).some(([key,value])=>key!=='type'&&present(value)))fail(`${itemLabel} source requires at least one reference field.`);
+      validateSource(item.source,itemLabel);
+      validatePublicValue(item,itemLabel);
       if(type==='grammar'&&item.sourceOrder!==itemIndex+1)fail(`${itemLabel} sourceOrder must be ${itemIndex+1} to match its PDF order.`);
       if(type==='grammar'){
         for(const field of ['meaningZh','explanationZh'])if(field in item)validateOptionalText(item[field],`${itemLabel} ${field}`);

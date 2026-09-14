@@ -10,8 +10,7 @@
     "meaningZh": "我",
     "source": {
       "type": "school_pdf",
-      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
-      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
     }
   },
   {
@@ -25,8 +24,7 @@
     "meaningZh": "你、妳",
     "source": {
       "type": "school_pdf",
-      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
-      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
     }
   },
   {
@@ -40,8 +38,7 @@
     "meaningZh": "他、她、那個人",
     "source": {
       "type": "school_pdf",
-      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
-      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
     }
   },
   {
@@ -55,8 +52,7 @@
     "meaningZh": "他、她、那個人（禮貌形）",
     "source": {
       "type": "school_pdf",
-      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
-      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
     }
   },
   {
@@ -70,8 +66,7 @@
     "meaningZh": "醫生",
     "source": {
       "type": "school_pdf",
-      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
-      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
     }
   },
   {
@@ -85,8 +80,7 @@
     "meaningZh": "公司職員",
     "source": {
       "type": "school_pdf",
-      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
-      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
     }
   },
   {
@@ -101,8 +95,7 @@
     "notes": "和公司名稱一起使用，如 IMCのしゃいん",
     "source": {
       "type": "school_pdf",
-      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
-      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
     }
   },
   {
@@ -116,8 +109,7 @@
     "meaningZh": "教師",
     "source": {
       "type": "school_pdf",
-      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
-      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
     }
   },
   {
@@ -131,8 +123,7 @@
     "meaningZh": "銀行員",
     "source": {
       "type": "school_pdf",
-      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
-      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
     }
   },
   {
@@ -146,8 +137,7 @@
     "meaningZh": "研究人員",
     "source": {
       "type": "school_pdf",
-      "driveFileId": "1yT7QiTXro1iZ3ISMlRT6JrpFU5foWspz",
-      "fileName": "japanese_vocab_lv1_ch1.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
     }
   }
 ]

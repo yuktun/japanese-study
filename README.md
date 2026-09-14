@@ -40,6 +40,10 @@ AI-added material must be explicitly labelled as supplementary and must not over
 - Any AI-added explanation must be clearly marked as supplementary, stored separately from school-derived fields with `contentSource: "ai_derived"`, and kept distinct from school material.
 - Grammar records use `sourceOrder` to make their ordering against the source PDF auditable. Supplementary school reference material may be stored in an optional lesson-level `reference.json` file.
 
+### Public source provenance
+
+Public course data records only the source type, the original PDF filename, and an optional page number. Private Google Drive IDs, retrieval mappings, and Google Drive URLs remain outside this repository and its public data files.
+
 ## Data structure
 
 ```text
