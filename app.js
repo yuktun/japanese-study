@@ -67,9 +67,11 @@ function renderCard(){
   $('#card-position').textContent=state.index<total?`Card ${state.index+1} of ${total}`:'Session complete';
   $('#session-type').textContent=state.ratingEnabled?(state.type==='all'?'Memory check':state.type==='grammar'?'Grammar check':'Vocabulary check'):'Quick flashcards';
   $('#progress-fill').style.width=`${total?Math.min(state.index/total*100,100):0}%`;
-  $('#session-numbers').innerHTML=state.ratingEnabled?`<span><i class="number-dot again"></i><b id="again-count">${state.again}</b> 待重溫</span><span><i class="number-dot good"></i><b id="good-count">${state.good}</b> 已記起</span>`:`<span><i class="number-dot good"></i><b>${Math.min(state.quickSeen,total)}</b> 已瀏覽</span><span>揭曉答案後直接下一張</span>`;
+  $('#session-numbers').innerHTML=state.ratingEnabled?`<span><i class="number-dot again"></i><b id="again-count">${state.again}</b> 待重溫</span><span><i class="number-dot good"></i><b id="good-count">${state.good}</b> 已記起</span>`:`<span><i class="number-dot good"></i><b>${Math.min(state.quickSeen,total)}</b> 已瀏覽</span><span>可直接按 → 換下一張</span>`;
+  $('#card-jump-row').hidden=!total;
   if(!total){$('#flashcard').className='flashcard finished';$('#flashcard').innerHTML='<h2>呢個卡組未有內容</h2>';$('#answer-actions').innerHTML='';return;}
   if(state.index>=total){renderFinished();return;}
+  $('#card-jump').max=total;$('#card-jump').value=state.index+1;$('#card-total-label').textContent=`/ ${total}`;
   const item=state.deck[state.index];
   const japanese=japaneseFor(item),reverse=state.direction==='zh-ja';
   const schoolMeaning=item.meaningZh||'（學校教材未提供中文意思）';
@@ -84,9 +86,14 @@ function renderCard(){
 }
 
 function renderAnswerActions(total=state.deck.length){
-  $('#answer-actions').innerHTML=state.revealed?(state.ratingEnabled?'<button class="rate-again" data-rate="again">唔記得</button><button class="rate-hard" data-rate="hard">有啲難</button><button class="rate-good" data-rate="good">記得了</button>':`<button class="previous-button" id="previous-button" ${state.index===0?'disabled':''}>← 上一張</button><button class="next-button" id="next-button">${state.index===total-1?'完成':'下一張 →'} <span>Space</span></button>`):'<button class="reveal-button" id="reveal-button">翻轉睇答案 <span>Space</span></button>';
+  const center=state.revealed
+    ?(state.ratingEnabled?'<button class="rate-again compact-rate" data-rate="again" aria-label="唔記得">×</button><button class="rate-hard compact-rate" data-rate="hard" aria-label="有啲難">△</button><button class="rate-good compact-rate" data-rate="good" aria-label="記得了">✓</button>':'<button class="reveal-button" id="hide-answer-button">收起答案 <span>Space</span></button>')
+    :'<button class="reveal-button" id="reveal-button">翻轉睇答案 <span>Space</span></button>';
+  $('#answer-actions').innerHTML=`<button class="card-nav-button" id="previous-button" ${state.index===0?'disabled':''} aria-label="上一張">←</button><div class="card-primary-actions">${center}</div><button class="card-nav-button" id="next-button" aria-label="${state.index===total-1?'完成溫習':'下一張'}">→</button>`;
+  $('#previous-button').addEventListener('click',previousQuickCard);
+  $('#next-button').addEventListener('click',nextQuickCard);
   if(state.revealed&&state.ratingEnabled)$$('[data-rate]').forEach(button=>button.addEventListener('click',()=>rateCard(button.dataset.rate)));
-  else if(state.revealed){$('#previous-button').addEventListener('click',previousQuickCard);$('#next-button').addEventListener('click',nextQuickCard);}
+  else if(state.revealed)$('#hide-answer-button').addEventListener('click',hideAnswer);
   else $('#reveal-button').addEventListener('click',revealCard);
 }
 
@@ -127,6 +134,7 @@ function rateCard(rating){
 }
 function renderFinished(){
   $('#progress-fill').style.width='100%';$('#flashcard').className='flashcard finished';
+  $('#card-jump-row').hidden=true;
   $('#flashcard').innerHTML=`<div class="finished-mark">✓</div><p class="eyebrow">SESSION COMPLETE</p><h2>今次溫習完成。</h2><p>${state.ratingEnabled?`${state.good} 張已記起${state.again?`，${state.again} 張已經再溫過。`:'。做得好。'}`:`已經快速睇完 ${state.deck.length} 張卡片。`}</p>`;
   $('#answer-actions').innerHTML='<button class="reveal-button" id="restart-button">再溫一次</button>';
   $('#restart-button').addEventListener('click',()=>resetDeck());
@@ -280,6 +288,7 @@ $('#card-direction').addEventListener('change',event=>{state.direction=event.tar
 $('#shuffle-button').addEventListener('click',()=>{resetDeck(true);showToast('卡片已經洗牌');});
 $('#flashcard').addEventListener('click',()=>state.revealed?hideAnswer():revealCard());
 $('#flashcard').addEventListener('keydown',event=>{if(event.key==='Enter'){event.preventDefault();state.revealed?hideAnswer():revealCard();}});
+$('#card-jump').addEventListener('change',event=>{const target=Math.max(1,Math.min(state.deck.length,Number(event.target.value)||1));state.index=target-1;state.revealed=false;renderCard();});
 $('#search-input').addEventListener('input',event=>{state.library.query=event.target.value;updateLibraryFilterControls();saveLibraryFilters();renderLibrary();});
 $$('.library-filter').forEach(root=>{
   const trigger=root.querySelector('.filter-trigger'),menu=root.querySelector('.filter-menu'),key=root.dataset.libraryFilter;
