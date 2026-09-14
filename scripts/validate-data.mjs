@@ -20,6 +20,17 @@ const validateOptionalNotes=(value,label)=>{
   if(typeof value==='string'){validateOptionalText(value,label);return;}
   if(!Array.isArray(value)||value.some(note=>!nonEmptyText(note)))fail(`${label} must be a non-empty string or an array of non-empty strings when present.`);
 };
+const validateGrammarSourceText=(value,label)=>{
+  if(!nonEmptyText(value))return;
+  const headings=value.match(/(?:^|\n)\s*\d+[．.]\s*/g)||[];
+  if(headings.length>1)fail(`${label} sourceText contains more than one numbered grammar heading.`);
+};
+const validateGrammarNotes=(value,label)=>{
+  if(value===undefined)return;
+  validateOptionalNotes(value,label);
+  const notes=Array.isArray(value)?value:[value];
+  if(notes.some(note=>/(?:^|\n)\s*例：/.test(note)))fail(`${label} must not include source example blocks.`);
+};
 const bannedSourceFields=new Set(['driveFileId','fileName','driveUrl','googleDriveUrl']);
 const validatePublicValue=(value,label)=>{
   if(typeof value==='string'){
@@ -79,13 +90,15 @@ for(const [lessonIndex,lesson] of manifest.lessons.entries()){
       if(type==='grammar'&&item.sourceOrder!==itemIndex+1)fail(`${itemLabel} sourceOrder must be ${itemIndex+1} to match its PDF order.`);
       if(type==='grammar'){
         for(const field of ['meaningZh','explanationZh'])if(field in item)validateOptionalText(item[field],`${itemLabel} ${field}`);
-        if('notes' in item)validateOptionalNotes(item.notes,`${itemLabel} notes`);
+        validateGrammarSourceText(item.sourceText,`${itemLabel}`);
+        validateGrammarNotes(item.notes,`${itemLabel} notes`);
         if('examples' in item){
           if(!Array.isArray(item.examples)||!item.examples.length)fail(`${itemLabel} examples must be a non-empty array when present.`);
           item.examples.forEach((example,exampleIndex)=>{
             if(!example||typeof example!=='object'||Array.isArray(example))fail(`${itemLabel} example ${exampleIndex+1} must be an object.`);
             for(const field of ['ja','zh'])validateOptionalText(example[field],`${itemLabel} example ${exampleIndex+1} ${field}`);
             if(/^\s*(?:解説：|注意：)/.test(example.ja))fail(`${itemLabel} example ${exampleIndex+1} ja starts with source metadata instead of an example.`);
+            if(/(?:[）)]\s*\d+|(?:^|\n)\s*\d+[．.])/.test(example.zh))fail(`${itemLabel} example ${exampleIndex+1} zh contains a likely parser fragment.`);
           });
         }
         if('supplementary' in item){
