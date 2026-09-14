@@ -1,0 +1,38 @@
+[
+  {
+    "id": "y2-l31-r001",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "title": "動詞の意向形",
+    "type": "reference",
+    "table": [
+      [
+        "グループ",
+        "ます形",
+        "意向形"
+      ],
+      [
+        "I",
+        "－iます",
+        "－o＋う"
+      ],
+      [
+        "II",
+        "ます形",
+        "＋よう"
+      ],
+      [
+        "III",
+        "来ます／します",
+        "来よう／しよう"
+      ]
+    ],
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1grRx8IXavVekELQaJOoR2dorZhyLjMDH",
+      "fileName": "g_1_31.pdf"
+    }
+  }
+]
+

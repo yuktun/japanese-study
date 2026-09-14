@@ -177,6 +177,57 @@
       "lesson": 25,
       "vocabulary": "./data/year2/lesson25/vocabulary.json",
       "grammar": "./data/year2/lesson25/grammar.json"
+    },
+    {
+      "schoolYear": 2,
+      "book": "初級 II",
+      "lesson": 26,
+      "vocabulary": "./data/year2/lesson26/vocabulary.json",
+      "grammar": "./data/year2/lesson26/grammar.json"
+    },
+    {
+      "schoolYear": 2,
+      "book": "初級 II",
+      "lesson": 27,
+      "vocabulary": "./data/year2/lesson27/vocabulary.json",
+      "grammar": "./data/year2/lesson27/grammar.json",
+      "reference": "./data/year2/lesson27/reference.json"
+    },
+    {
+      "schoolYear": 2,
+      "book": "初級 II",
+      "lesson": 28,
+      "vocabulary": "./data/year2/lesson28/vocabulary.json",
+      "grammar": "./data/year2/lesson28/grammar.json"
+    },
+    {
+      "schoolYear": 2,
+      "book": "初級 II",
+      "lesson": 29,
+      "vocabulary": "./data/year2/lesson29/vocabulary.json",
+      "grammar": "./data/year2/lesson29/grammar.json"
+    },
+    {
+      "schoolYear": 2,
+      "book": "初級 II",
+      "lesson": 30,
+      "vocabulary": "./data/year2/lesson30/vocabulary.json",
+      "grammar": "./data/year2/lesson30/grammar.json"
+    },
+    {
+      "schoolYear": 2,
+      "book": "初級 II",
+      "lesson": 31,
+      "vocabulary": "./data/year2/lesson31/vocabulary.json",
+      "grammar": "./data/year2/lesson31/grammar.json",
+      "reference": "./data/year2/lesson31/reference.json"
+    },
+    {
+      "schoolYear": 2,
+      "book": "初級 II",
+      "lesson": 32,
+      "vocabulary": "./data/year2/lesson32/vocabulary.json",
+      "grammar": "./data/year2/lesson32/grammar.json"
     }
   ]
 }

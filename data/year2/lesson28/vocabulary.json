@@ -1,0 +1,798 @@
+[
+  {
+    "id": "y2-l28-v001",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "うれます [パンが～]",
+    "meaningZh": "辞|\n売れます [パンが～]\n売れる[パンが～]\nⅡ [麵包] 暢銷、賣得好",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "うれます [パンが～]\n|ます|\nうれる[パンが～] |辞|\n売れます [パンが～]\n売れる[パンが～]\nⅡ [麵包] 暢銷、賣得好"
+  },
+  {
+    "id": "y2-l28-v002",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "おどります",
+    "meaningZh": "辞|\n踊ります\n踊る\nⅠ 跳舞",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "おどります |ます|\nおどる |辞|\n踊ります\n踊る\nⅠ 跳舞"
+  },
+  {
+    "id": "y2-l28-v003",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "かみます",
+    "meaningZh": "辞|\n- Ⅰ 咬、嚼",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "かみます |ます|\nかむ |辞|\n- Ⅰ 咬、嚼"
+  },
+  {
+    "id": "y2-l28-v004",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "えらびます",
+    "meaningZh": "辞|\n選びます\n選ぶ\nⅠ 選擇",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "えらびます |ます|\nえらぶ |辞|\n選びます\n選ぶ\nⅠ 選擇"
+  },
+  {
+    "id": "y2-l28-v005",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "かよいます",
+    "meaningZh": "辞|\n通います [大学に～]\n通う[大学に～]\nⅠ 上 [大學]，（經常往返某\n一個地方）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "かよいます\n[だいがくに～] |ます|\nかよう[だいがくに～]\n|辞|\n通います [大学に～]\n通う[大学に～]\nⅠ 上 [大學]，（經常往返某\n一個地方）"
+  },
+  {
+    "id": "y2-l28-v006",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "メモします",
+    "meaningZh": "辞|\n- Ⅲ 做筆記\n名詞\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "メモします |ます|\nメモする |辞|\n- Ⅲ 做筆記\n名詞\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l28-v007",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "けしき 景色 景色",
+    "meaningZh": "けしき 景色 景色",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "けしき 景色 景色"
+  },
+  {
+    "id": "y2-l28-v008",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "びよういん 美容院 美容院、美髮店",
+    "meaningZh": "びよういん 美容院 美容院、美髮店",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "びよういん 美容院 美容院、美髮店"
+  },
+  {
+    "id": "y2-l28-v009",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "だいどころ 台所 廚房",
+    "meaningZh": "だいどころ 台所 廚房",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "だいどころ 台所 廚房"
+  },
+  {
+    "id": "y2-l28-v010",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "けいけん 経験 經驗",
+    "meaningZh": "けいけん 経験 經驗",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "けいけん 経験 經驗"
+  },
+  {
+    "id": "y2-l28-v011",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "にんき 人気 受歡迎 [学生に～がありま",
+    "meaningZh": "很受學生歡迎]",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "にんき 人気 受歡迎 [学生に～がありま\nす：很受學生歡迎]"
+  },
+  {
+    "id": "y2-l28-v012",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "ちから 力 力氣、力量",
+    "meaningZh": "ちから 力 力氣、力量",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "ちから 力 力氣、力量"
+  },
+  {
+    "id": "y2-l28-v013",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "いろ 色 顔色",
+    "meaningZh": "いろ 色 顔色",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "いろ 色 顔色"
+  },
+  {
+    "id": "y2-l28-v014",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "あじ 味 味道",
+    "meaningZh": "あじ 味 味道",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "あじ 味 味道"
+  },
+  {
+    "id": "y2-l28-v015",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "ガム - 口香糖",
+    "meaningZh": "ガム - 口香糖",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "ガム - 口香糖"
+  },
+  {
+    "id": "y2-l28-v016",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "しなもの 品物 物品、商品",
+    "meaningZh": "しなもの 品物 物品、商品",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "しなもの 品物 物品、商品"
+  },
+  {
+    "id": "y2-l28-v017",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "ねだん 値段 價錢",
+    "meaningZh": "ねだん 値段 價錢",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "ねだん 値段 價錢"
+  },
+  {
+    "id": "y2-l28-v018",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "きゅうりょう 給料 工資",
+    "meaningZh": "きゅうりょう 給料 工資",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "きゅうりょう 給料 工資"
+  },
+  {
+    "id": "y2-l28-v019",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "ボーナス - 獎金",
+    "meaningZh": "ボーナス - 獎金",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "ボーナス - 獎金"
+  },
+  {
+    "id": "y2-l28-v020",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "ゲーム - 遊戲、電子遊戲",
+    "meaningZh": "ゲーム - 遊戲、電子遊戲",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "ゲーム - 遊戲、電子遊戲"
+  },
+  {
+    "id": "y2-l28-v021",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "ばんぐみ 番組 節目",
+    "meaningZh": "ばんぐみ 番組 節目",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "ばんぐみ 番組 節目"
+  },
+  {
+    "id": "y2-l28-v022",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "ドラマ - 電視劇",
+    "meaningZh": "ドラマ - 電視劇",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "ドラマ - 電視劇"
+  },
+  {
+    "id": "y2-l28-v023",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "かしゅ 歌手 歌手",
+    "meaningZh": "かしゅ 歌手 歌手",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "かしゅ 歌手 歌手"
+  },
+  {
+    "id": "y2-l28-v024",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "しょうせつ 小説 小説",
+    "meaningZh": "しょうせつ 小説 小説",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "しょうせつ 小説 小説"
+  },
+  {
+    "id": "y2-l28-v025",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "しょうせつか 小説家 小説家",
+    "meaningZh": "しょうせつか 小説家 小説家",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "しょうせつか 小説家 小説家"
+  },
+  {
+    "id": "y2-l28-v026",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "～か ～家 ～家（表示專門從事某一學",
+    "meaningZh": "問或藝術的人的接尾詞）",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "～か ～家 ～家（表示專門從事某一學\n問或藝術的人的接尾詞）"
+  },
+  {
+    "id": "y2-l28-v027",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "～き ～機 ～機",
+    "meaningZh": "～き ～機 ～機",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "～き ～機 ～機"
+  },
+  {
+    "id": "y2-l28-v028",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "むすこ 息子 （自己的）兒子",
+    "meaningZh": "むすこ 息子 （自己的）兒子",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "むすこ 息子 （自己的）兒子"
+  },
+  {
+    "id": "y2-l28-v029",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "むすこさん 息子さん （別人的)兒子",
+    "meaningZh": "むすこさん 息子さん （別人的)兒子",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "むすこさん 息子さん （別人的)兒子"
+  },
+  {
+    "id": "y2-l28-v030",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "むすめ 娘 （自己的）女兒",
+    "meaningZh": "むすめ 娘 （自己的）女兒",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "むすめ 娘 （自己的）女兒"
+  },
+  {
+    "id": "y2-l28-v031",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "むすめさん 娘さん （別人的）女兒",
+    "meaningZh": "むすめさん 娘さん （別人的）女兒",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "むすめさん 娘さん （別人的）女兒"
+  },
+  {
+    "id": "y2-l28-v032",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "じぶん 自分 自己",
+    "meaningZh": "じぶん 自分 自己",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "じぶん 自分 自己"
+  },
+  {
+    "id": "y2-l28-v033",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "かいわ 会話 會話",
+    "meaningZh": "かいわ 会話 會話",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "かいわ 会話 會話"
+  },
+  {
+    "id": "y2-l28-v034",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "しょうらい 将来 將來",
+    "meaningZh": "形容詞\n平仮名/片仮名 漢字 中譯",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "しょうらい 将来 將來\nい形容詞\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l28-v035",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "えらい 偉い 偉大、了不起",
+    "meaningZh": "えらい 偉い 偉大、了不起",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "えらい 偉い 偉大、了不起"
+  },
+  {
+    "id": "y2-l28-v036",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "ちょうどいい - 正好、剛剛好",
+    "meaningZh": "形容詞\n平仮名/片仮名 漢字 中譯",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "ちょうどいい - 正好、剛剛好\nな形容詞\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l28-v037",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "まじめ [な] - 認真",
+    "meaningZh": "まじめ [な] - 認真",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "まじめ [な] - 認真"
+  },
+  {
+    "id": "y2-l28-v038",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "ねっしん [な] 熱心 [な] 熱心",
+    "meaningZh": "副詞\n平仮名/片仮名 漢字 中譯",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "ねっしん [な] 熱心 [な] 熱心\n副詞\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l28-v039",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "しばらく - 一會兒、片刻",
+    "meaningZh": "しばらく - 一會兒、片刻",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "しばらく - 一會兒、片刻"
+  },
+  {
+    "id": "y2-l28-v040",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "たいてい - 一般、大部分",
+    "meaningZh": "たいてい - 一般、大部分",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "たいてい - 一般、大部分"
+  },
+  {
+    "id": "y2-l28-v041",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "それに - 而且、再加上",
+    "meaningZh": "それに - 而且、再加上",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "それに - 而且、再加上"
+  },
+  {
+    "id": "y2-l28-v042",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "それで - 因此",
+    "meaningZh": "それで - 因此",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "それで - 因此"
+  },
+  {
+    "id": "y2-l28-v043",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "じつは 実は 其實、實際上",
+    "meaningZh": "其他\n平仮名/片仮名 漢字 中譯",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "じつは 実は 其實、實際上\n其他\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l28-v044",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "うーん - 嗯...（表示有點猶豫）",
+    "meaningZh": "うーん - 嗯...（表示有點猶豫）",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "うーん - 嗯...（表示有點猶豫）"
+  },
+  {
+    "id": "y2-l28-v045",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "[ちょっと]",
+    "meaningZh": "願いがあるんですが。\n我有個請求…，有件事想麻\n煩一下…\n読み物\n平仮名/片仮名 漢字 中譯",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "[ちょっと]\nおねがいがあるんですが。\n[ちょっと]\nお願いがあるんですが。\n我有個請求…，有件事想麻\n煩一下…\n読み物\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l28-v046",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "おしらせ お知らせ 通知",
+    "meaningZh": "おしらせ お知らせ 通知",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "おしらせ お知らせ 通知"
+  },
+  {
+    "id": "y2-l28-v047",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "さんかします 参加します 參加",
+    "meaningZh": "さんかします 参加します 參加",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "さんかします 参加します 參加"
+  },
+  {
+    "id": "y2-l28-v048",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "ひにち 日にち 日期",
+    "meaningZh": "ひにち 日にち 日期",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "ひにち 日にち 日期"
+  },
+  {
+    "id": "y2-l28-v049",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "ど 土 星期六",
+    "meaningZh": "ど 土 星期六",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "ど 土 星期六"
+  },
+  {
+    "id": "y2-l28-v050",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "たいいくかん 体育館 體育館",
+    "meaningZh": "たいいくかん 体育館 體育館",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "たいいくかん 体育館 體育館"
+  },
+  {
+    "id": "y2-l28-v051",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "むりょう 無料 免費",
+    "meaningZh": "むりょう 無料 免費",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "むりょう 無料 免費"
+  },
+  {
+    "id": "y2-l28-v052",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "さそいます 誘います 邀請",
+    "meaningZh": "さそいます 誘います 邀請",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "さそいます 誘います 邀請"
+  },
+  {
+    "id": "y2-l28-v053",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 28,
+    "kana": "イベント - 活動",
+    "meaningZh": "イベント - 活動",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1f0iz-EvFWq94au7DJQvmA2-BEYZEM2wh",
+      "fileName": "japanese_vocab_lv1_ch28.pdf.pdf"
+    },
+    "sourceText": "イベント - 活動"
+  }
+]
+

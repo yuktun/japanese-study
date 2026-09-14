@@ -1,0 +1,588 @@
+[
+  {
+    "id": "y2-l31-v001",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "つづけます",
+    "meaningZh": "辞|\n続けます\n続ける\nⅡ 他 繼續",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "つづけます |ます|\nつづける |辞|\n続けます\n続ける\nⅡ 他 繼續"
+  },
+  {
+    "id": "y2-l31-v002",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "みつけます",
+    "meaningZh": "辞|\n見つけます\n見つける\nⅡ 他 找到、找出",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "みつけます |ます|\nみつける |辞|\n見つけます\n見つける\nⅡ 他 找到、找出"
+  },
+  {
+    "id": "y2-l31-v003",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "とります [やすみを～]",
+    "meaningZh": "辞|\n取ります [休みを～]\n取る[休みを～]\nⅠ 他 請假",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "とります [やすみを～]\n|ます|\nとる[やすみを～] |辞|\n取ります [休みを～]\n取る[休みを～]\nⅠ 他 請假"
+  },
+  {
+    "id": "y2-l31-v004",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "うけます [しけんを～]",
+    "meaningZh": "辞|\n受けます [試験を～]\n受ける[試験を～]\nⅡ 他 參加 [考試]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "うけます [しけんを～]\n|ます|\nうける[しけんを～] |辞|\n受けます [試験を～]\n受ける[試験を～]\nⅡ 他 參加 [考試]"
+  },
+  {
+    "id": "y2-l31-v005",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "もうしこみます",
+    "meaningZh": "辞|\n申し込みます\n申し込む\nⅠ 他 申請",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "もうしこみます |ます|\nもうしこむ |辞|\n申し込みます\n申し込む\nⅠ 他 申請"
+  },
+  {
+    "id": "y2-l31-v006",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "きゅうけいします",
+    "meaningZh": "辞|\n休憩します\n休憩する\nⅢ 自 休息",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "きゅうけいします |ます|\nきゅうけいする |辞|\n休憩します\n休憩する\nⅢ 自 休息"
+  },
+  {
+    "id": "y2-l31-v007",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "のこります",
+    "meaningZh": "辞|\n残ります\n残る\nⅠ 自 留下、剩下\n名詞\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "のこります |ます|\nのこる |辞|\n残ります\n残る\nⅠ 自 留下、剩下\n名詞\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l31-v008",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "れんきゅう 連休 連續休假、長假",
+    "meaningZh": "れんきゅう 連休 連續休假、長假",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "れんきゅう 連休 連續休假、長假"
+  },
+  {
+    "id": "y2-l31-v009",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "さくぶん 作文 作文",
+    "meaningZh": "さくぶん 作文 作文",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "さくぶん 作文 作文"
+  },
+  {
+    "id": "y2-l31-v010",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "はっぴょう 発表 發表、公佈",
+    "meaningZh": "はっぴょう 発表 發表、公佈",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "はっぴょう 発表 發表、公佈"
+  },
+  {
+    "id": "y2-l31-v011",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "てんらんかい 展覧会 展覽會",
+    "meaningZh": "てんらんかい 展覧会 展覽會",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "てんらんかい 展覧会 展覽會"
+  },
+  {
+    "id": "y2-l31-v012",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "けっこんしき 結婚式 婚禮",
+    "meaningZh": "けっこんしき 結婚式 婚禮",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "けっこんしき 結婚式 婚禮"
+  },
+  {
+    "id": "y2-l31-v013",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "[お] そうしき [お] 葬式 葬禮",
+    "meaningZh": "[お] そうしき [お] 葬式 葬禮",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "[お] そうしき [お] 葬式 葬禮"
+  },
+  {
+    "id": "y2-l31-v014",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "しき 式 典禮、儀式",
+    "meaningZh": "しき 式 典禮、儀式",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "しき 式 典禮、儀式"
+  },
+  {
+    "id": "y2-l31-v015",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "ほんしゃ 本社 總公司",
+    "meaningZh": "ほんしゃ 本社 總公司",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "ほんしゃ 本社 總公司"
+  },
+  {
+    "id": "y2-l31-v016",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "してん 支店 分店",
+    "meaningZh": "してん 支店 分店",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "してん 支店 分店"
+  },
+  {
+    "id": "y2-l31-v017",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "きょうかい 教会 教堂",
+    "meaningZh": "きょうかい 教会 教堂",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "きょうかい 教会 教堂"
+  },
+  {
+    "id": "y2-l31-v018",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "だいがくいん 大学院 研究生院",
+    "meaningZh": "だいがくいん 大学院 研究生院",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "だいがくいん 大学院 研究生院"
+  },
+  {
+    "id": "y2-l31-v019",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "どうぶつえん 動物園 動物園",
+    "meaningZh": "どうぶつえん 動物園 動物園",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "どうぶつえん 動物園 動物園"
+  },
+  {
+    "id": "y2-l31-v020",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "おんせん 温泉 溫泉",
+    "meaningZh": "おんせん 温泉 溫泉",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "おんせん 温泉 溫泉"
+  },
+  {
+    "id": "y2-l31-v021",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "かえり 帰り 回來",
+    "meaningZh": "かえり 帰り 回來",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "かえり 帰り 回來"
+  },
+  {
+    "id": "y2-l31-v022",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "おこさん お子さん （別人的）孩子",
+    "meaningZh": "おこさん お子さん （別人的）孩子",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "おこさん お子さん （別人的）孩子"
+  },
+  {
+    "id": "y2-l31-v023",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "にゅうがくしけん 入学試験 入學考試",
+    "meaningZh": "副詞\n平仮名/片仮名 漢字 中譯",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "にゅうがくしけん 入学試験 入學考試\n副詞\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l31-v024",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "ずっと - 一直",
+    "meaningZh": "其他\n平仮名/片仮名 漢字 中譯",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "ずっと - 一直\n其他\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l31-v025",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "－ごう －号 一號（電車車輛的編號，颱",
+    "meaningZh": "風的編號）",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "－ごう －号 一號（電車車輛的編號，颱\n風的編號）"
+  },
+  {
+    "id": "y2-l31-v026",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "～のほう ～の方 ～面、～邊",
+    "meaningZh": "～のほう ～の方 ～面、～邊",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "～のほう ～の方 ～面、～邊"
+  },
+  {
+    "id": "y2-l31-v027",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "つきに 月に 每個月",
+    "meaningZh": "固有名詞\n平仮名/片仮名 漢字 中譯",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "つきに 月に 每個月\n固有名詞\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l31-v028",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "バリ - 巴釐島（印尼的島嶼）",
+    "meaningZh": "バリ - 巴釐島（印尼的島嶼）",
+    "category": "固有名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "バリ - 巴釐島（印尼的島嶼）"
+  },
+  {
+    "id": "y2-l31-v029",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "ピカソ - 畢加索（西班牙畫家1881-1",
+    "meaningZh": "973）",
+    "category": "固有名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "ピカソ - 畢加索（西班牙畫家1881-1\n973）"
+  },
+  {
+    "id": "y2-l31-v030",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "のぞみ - 希望號（新幹綫名稱。）",
+    "meaningZh": "読み物\n平仮名/片仮名 漢字 中譯",
+    "category": "固有名詞",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "のぞみ - 希望號（新幹綫名稱。）\n読み物\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l31-v031",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "むら 村 村莊",
+    "meaningZh": "むら 村 村莊",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "むら 村 村莊"
+  },
+  {
+    "id": "y2-l31-v032",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "そつぎょうします 卒業します 畢業",
+    "meaningZh": "そつぎょうします 卒業します 畢業",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "そつぎょうします 卒業します 畢業"
+  },
+  {
+    "id": "y2-l31-v033",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "えいがかん 映画館 電影院",
+    "meaningZh": "えいがかん 映画館 電影院",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "えいがかん 映画館 電影院"
+  },
+  {
+    "id": "y2-l31-v034",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "いや [な] 嫌 [な] 討厭、不喜歡",
+    "meaningZh": "いや [な] 嫌 [な] 討厭、不喜歡",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "いや [な] 嫌 [な] 討厭、不喜歡"
+  },
+  {
+    "id": "y2-l31-v035",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "そら 空 天空",
+    "meaningZh": "そら 空 天空",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "そら 空 天空"
+  },
+  {
+    "id": "y2-l31-v036",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "とじます 閉じます 閉上、關上",
+    "meaningZh": "とじます 閉じます 閉上、關上",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "とじます 閉じます 閉上、關上"
+  },
+  {
+    "id": "y2-l31-v037",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "とかい 都会 都市、城市",
+    "meaningZh": "とかい 都会 都市、城市",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "とかい 都会 都市、城市"
+  },
+  {
+    "id": "y2-l31-v038",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "こどもたち 子どもたち 孩子們",
+    "meaningZh": "こどもたち 子どもたち 孩子們",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "こどもたち 子どもたち 孩子們"
+  },
+  {
+    "id": "y2-l31-v039",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 31,
+    "kana": "じゆうに 自由に 自由地、隨意地",
+    "meaningZh": "じゆうに 自由に 自由地、隨意地",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "17waesi270sE7fIPgcWx5sGjm55cwUyVz",
+      "fileName": "japanese_vocab_lv1_ch31.pdf.pdf"
+    },
+    "sourceText": "じゆうに 自由に 自由地、隨意地"
+  }
+]
+

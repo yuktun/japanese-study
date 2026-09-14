@@ -1,0 +1,40 @@
+[
+  {
+    "id": "y2-l27-r001",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 27,
+    "title": "可能動詞の作り方",
+    "type": "reference",
+    "table": [
+      [
+        "source",
+        "丁寧形",
+        "普通形",
+        "ない形",
+        "て形"
+      ],
+      [
+        "I グループ",
+        "「－iます」→「－eます」",
+        "source text preserved in grammar point 1"
+      ],
+      [
+        "II グループ",
+        "ます形＋られます",
+        "source text preserved in grammar point 1"
+      ],
+      [
+        "III グループ",
+        "来ます→来られます／します→できます",
+        "source text preserved in grammar point 1"
+      ]
+    ],
+    "source": {
+      "type": "school_pdf",
+      "driveFileId": "1TxeojsPr-H9xgEFF1eP-Hph0-2g9FlHL",
+      "fileName": "g_1_27.pdf"
+    }
+  }
+]
+
