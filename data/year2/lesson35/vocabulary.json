@@ -1,0 +1,689 @@
+[
+  {
+    "id": "y2-l35-v001",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "さきます [はなが～]",
+    "meaningZh": "さく[はなが～] |辞|\r\n咲きます [花が～]\r\n咲く[花が～]\r\nⅠ 自 開 [花]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "さきます [はなが～] \r\n|ます|\r\nさく[はなが～] |辞|\r\n咲きます [花が～]\r\n咲く[花が～]\r\nⅠ 自 開 [花]"
+  },
+  {
+    "id": "y2-l35-v002",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "かわります [いろが～]",
+    "meaningZh": "かわる[いろが～] |辞|\r\n変わります [色が～]\r\n変わる[色が～]\r\nⅠ 自 變 [色]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "かわります [いろが～] \r\n|ます|\r\nかわる[いろが～] |辞|\r\n変わります [色が～]\r\n変わる[色が～]\r\nⅠ 自 變 [色]"
+  },
+  {
+    "id": "y2-l35-v003",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "こまります",
+    "meaningZh": "こまる |辞|\r\n困ります\r\n困る\r\nⅠ 自 爲難、困惑",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "こまります |ます|\r\nこまる |辞|\r\n困ります\r\n困る\r\nⅠ 自 爲難、困惑"
+  },
+  {
+    "id": "y2-l35-v004",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "つけます [まるを～]",
+    "meaningZh": "つける[まるを～] |辞|\r\n付けます [丸を～]\r\n付ける[丸を～]\r\nⅡ 他 畫 [圈]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "つけます [まるを～] \r\n|ます|\r\nつける[まるを～] |辞|\r\n付けます [丸を～]\r\n付ける[丸を～]\r\nⅡ 他 畫 [圈]"
+  },
+  {
+    "id": "y2-l35-v005",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "なおります",
+    "meaningZh": "[びょうきが～] \r\nなおる[びょうきが～] \r\n|辞|\r\n治ります [病気が～]\r\n治る[病気が～]\r\nⅠ 自 [病] 治好了",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "なおります\r\n[びょうきが～] |ます|\r\nなおる[びょうきが～] \r\n|辞|\r\n治ります [病気が～]\r\n治る[病気が～]\r\nⅠ 自 [病] 治好了"
+  },
+  {
+    "id": "y2-l35-v006",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "なおります",
+    "meaningZh": "[こしょうが～] \r\nなおる[こしょうが～] \r\n|辞|\r\n直ります [故障が～]\r\n直る[故障が～]\r\nⅠ 自 [故障] 修好了",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "なおります\r\n[こしょうが～] |ます|\r\nなおる[こしょうが～] \r\n|辞|\r\n直ります [故障が～]\r\n直る[故障が～]\r\nⅠ 自 [故障] 修好了"
+  },
+  {
+    "id": "y2-l35-v007",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "クリックします",
+    "meaningZh": "クリックする |辞|\r\n- Ⅲ 他 點擊",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "クリックします |ます|\r\nクリックする |辞|\r\n- Ⅲ 他 點擊"
+  },
+  {
+    "id": "y2-l35-v008",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "にゅうりょくします",
+    "meaningZh": "にゅうりょくする |辞|\r\n入力します\r\n入力する\r\nⅢ 他 輸入\r\n名詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "にゅうりょくします \r\n|ます|\r\nにゅうりょくする |辞|\r\n入力します\r\n入力する\r\nⅢ 他 輸入\r\n名詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l35-v009",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "むこう 向こう 對面、那邊",
+    "meaningZh": "むこう 向こう 對面、那邊",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "むこう 向こう 對面、那邊"
+  },
+  {
+    "id": "y2-l35-v010",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "しま 島 島、島嶼",
+    "meaningZh": "しま 島 島、島嶼",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "しま 島 島、島嶼"
+  },
+  {
+    "id": "y2-l35-v011",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "みなと 港 港口",
+    "meaningZh": "みなと 港 港口",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "みなと 港 港口"
+  },
+  {
+    "id": "y2-l35-v012",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "きんじょ 近所 附近、近鄰",
+    "meaningZh": "きんじょ 近所 附近、近鄰",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "きんじょ 近所 附近、近鄰"
+  },
+  {
+    "id": "y2-l35-v013",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "おくじょう 屋上 屋頂上",
+    "meaningZh": "おくじょう 屋上 屋頂上",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "おくじょう 屋上 屋頂上"
+  },
+  {
+    "id": "y2-l35-v014",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "かいがい 海外 海外",
+    "meaningZh": "かいがい 海外 海外",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "かいがい 海外 海外"
+  },
+  {
+    "id": "y2-l35-v015",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "やまのぼり 山登り 登山",
+    "meaningZh": "やまのぼり 山登り 登山",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "やまのぼり 山登り 登山"
+  },
+  {
+    "id": "y2-l35-v016",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "れきし 歴史 歷史",
+    "meaningZh": "れきし 歴史 歷史",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "れきし 歴史 歷史"
+  },
+  {
+    "id": "y2-l35-v017",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "きかい 機会 機會",
+    "meaningZh": "きかい 機会 機會",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "きかい 機会 機會"
+  },
+  {
+    "id": "y2-l35-v018",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "きょか 許可 許可、批准",
+    "meaningZh": "きょか 許可 許可、批准",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "きょか 許可 許可、批准"
+  },
+  {
+    "id": "y2-l35-v019",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "まる 丸 圈",
+    "meaningZh": "まる 丸 圈",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "まる 丸 圈"
+  },
+  {
+    "id": "y2-l35-v020",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "ふりがな - （表示漢字讀法的注音假名",
+    "meaningZh": "）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "ふりがな - （表示漢字讀法的注音假名\r\n）"
+  },
+  {
+    "id": "y2-l35-v021",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "せつび 設備 設備",
+    "meaningZh": "せつび 設備 設備",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "せつび 設備 設備"
+  },
+  {
+    "id": "y2-l35-v022",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "レバー - 杆、操縱杆",
+    "meaningZh": "レバー - 杆、操縱杆",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "レバー - 杆、操縱杆"
+  },
+  {
+    "id": "y2-l35-v023",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "キー - 鍵",
+    "meaningZh": "キー - 鍵",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "キー - 鍵"
+  },
+  {
+    "id": "y2-l35-v024",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "カーテン - 窗簾",
+    "meaningZh": "カーテン - 窗簾",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "カーテン - 窗簾"
+  },
+  {
+    "id": "y2-l35-v025",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "ひも - 繩子",
+    "meaningZh": "ひも - 繩子",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "ひも - 繩子"
+  },
+  {
+    "id": "y2-l35-v026",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "すいはんき 炊飯器 電飯鍋",
+    "meaningZh": "すいはんき 炊飯器 電飯鍋",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "すいはんき 炊飯器 電飯鍋"
+  },
+  {
+    "id": "y2-l35-v027",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "は 葉 葉子",
+    "meaningZh": "は 葉 葉子",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "は 葉 葉子"
+  },
+  {
+    "id": "y2-l35-v028",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "むかし 昔 從前、過去",
+    "meaningZh": "むかし 昔 從前、過去",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "むかし 昔 從前、過去"
+  },
+  {
+    "id": "y2-l35-v029",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "やこうバス 夜行バス 夜行巴士",
+    "meaningZh": "やこうバス 夜行バス 夜行巴士",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "やこうバス 夜行バス 夜行巴士"
+  },
+  {
+    "id": "y2-l35-v030",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "りょこうしゃ 旅行社 旅行社",
+    "meaningZh": "りょこうしゃ 旅行社 旅行社",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "りょこうしゃ 旅行社 旅行社"
+  },
+  {
+    "id": "y2-l35-v031",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "スキーじょう スキー場 滑雪場",
+    "meaningZh": "い形容詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "スキーじょう スキー場 滑雪場\r\nい形容詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l35-v032",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "ただしい 正しい 正確的",
+    "meaningZh": "ただしい 正しい 正確的",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "ただしい 正しい 正確的"
+  },
+  {
+    "id": "y2-l35-v033",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "くわしい 詳しい 詳細的",
+    "meaningZh": "副詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "くわしい 詳しい 詳細的\r\n副詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l35-v034",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "もっと - 更加",
+    "meaningZh": "其他\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "もっと - 更加\r\n其他\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l35-v035",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "それなら - 如果那樣的話",
+    "meaningZh": "それなら - 如果那樣的話",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "それなら - 如果那樣的話"
+  },
+  {
+    "id": "y2-l35-v036",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "さあ - 這個嘛…（用於對一些情況",
+    "meaningZh": "不太清楚時）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "さあ - 這個嘛…（用於對一些情況\r\n不太清楚時）"
+  },
+  {
+    "id": "y2-l35-v037",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "これでおわりましょう。 これで終わりましょう。 到此結束吧。",
+    "meaningZh": "固有名詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "これでおわりましょう。 これで終わりましょう。 到此結束吧。\r\n固有名詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l35-v038",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "はこね 箱根 箱根（位于神奈川縣的療養",
+    "meaningZh": "地，旅遊景點）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "はこね 箱根 箱根（位于神奈川縣的療養\r\n地，旅遊景點）"
+  },
+  {
+    "id": "y2-l35-v039",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "にっこう 日光 日光（位于栃木縣的旅遊景",
+    "meaningZh": "點）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "にっこう 日光 日光（位于栃木縣的旅遊景\r\n點）"
+  },
+  {
+    "id": "y2-l35-v040",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "アフリカ - 非洲",
+    "meaningZh": "アフリカ - 非洲",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "アフリカ - 非洲"
+  },
+  {
+    "id": "y2-l35-v041",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "マンガミュージアム - 京都國際漫畫博物館",
+    "meaningZh": "マンガミュージアム - 京都國際漫畫博物館",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "マンガミュージアム - 京都國際漫畫博物館"
+  },
+  {
+    "id": "y2-l35-v042",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "くさつ 草津 草津（位于群馬縣的療養地",
+    "meaningZh": "）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "くさつ 草津 草津（位于群馬縣的療養地\r\n）"
+  },
+  {
+    "id": "y2-l35-v043",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "しがこうげん 志賀高原 志賀高原（位于長野縣一個",
+    "meaningZh": "國立公園内的高原）\r\n読み物\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "しがこうげん 志賀高原 志賀高原（位于長野縣一個\r\n國立公園内的高原）\r\n読み物\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l35-v044",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "しゅ 朱 紅色",
+    "meaningZh": "しゅ 朱 紅色",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "しゅ 朱 紅色"
+  },
+  {
+    "id": "y2-l35-v045",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "まじわります 交わります 混合、相交、交際",
+    "meaningZh": "まじわります 交わります 混合、相交、交際",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "まじわります 交わります 混合、相交、交際"
+  },
+  {
+    "id": "y2-l35-v046",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "ことわざ - 諺語",
+    "meaningZh": "ことわざ - 諺語",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "ことわざ - 諺語"
+  },
+  {
+    "id": "y2-l35-v047",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "かんけい 関係 關係",
+    "meaningZh": "かんけい 関係 關係",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "かんけい 関係 關係"
+  },
+  {
+    "id": "y2-l35-v048",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "なかよくします 仲よくします 友好相處",
+    "meaningZh": "なかよくします 仲よくします 友好相處",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "なかよくします 仲よくします 友好相處"
+  },
+  {
+    "id": "y2-l35-v049",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 35,
+    "kana": "ひつよう [な] 必要 [な] 必要、需要",
+    "meaningZh": "ひつよう [な] 必要 [な] 必要、需要",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+    },
+    "sourceText": "ひつよう [な] 必要 [な] 必要、需要"
+  }
+]
+

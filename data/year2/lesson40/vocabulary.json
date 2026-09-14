@@ -1,0 +1,857 @@
+[
+  {
+    "id": "y2-l40-v001",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "かぞえます",
+    "meaningZh": "かぞえる |辞|\r\n数えます\r\n数える\r\nⅡ 他 數",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "かぞえます |ます|\r\nかぞえる |辞|\r\n数えます\r\n数える\r\nⅡ 他 數"
+  },
+  {
+    "id": "y2-l40-v002",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "はかります",
+    "meaningZh": "はかる |辞|\r\n測ります、量ります\r\n測る、量る\r\nⅠ 他 測量、稱、量",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "はかります |ます|\r\nはかる |辞|\r\n測ります、量ります\r\n測る、量る\r\nⅠ 他 測量、稱、量"
+  },
+  {
+    "id": "y2-l40-v003",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "たしかめます",
+    "meaningZh": "たしかめる |辞|\r\n確かめます\r\n確かめる\r\nⅡ 他 確認",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "たしかめます |ます|\r\nたしかめる |辞|\r\n確かめます\r\n確かめる\r\nⅡ 他 確認"
+  },
+  {
+    "id": "y2-l40-v004",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "あいます [サイズが～]",
+    "meaningZh": "あう[サイズが～] |辞|\r\n合います [サイズが～]\r\n合う[サイズが～]\r\nⅠ 自 [尺碼] 合適",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "あいます [サイズが～] \r\n|ます|\r\nあう[サイズが～] |辞|\r\n合います [サイズが～]\r\n合う[サイズが～]\r\nⅠ 自 [尺碼] 合適"
+  },
+  {
+    "id": "y2-l40-v005",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "しゅっぱつします",
+    "meaningZh": "しゅっぱつする |辞|\r\n出発します\r\n出発する\r\nⅢ 自 出發",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "しゅっぱつします |ます|\r\nしゅっぱつする |辞|\r\n出発します\r\n出発する\r\nⅢ 自 出發"
+  },
+  {
+    "id": "y2-l40-v006",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "とうちゃくします",
+    "meaningZh": "とうちゃくする |辞|\r\n到着します\r\n到着する\r\nⅢ 自 到達",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "とうちゃくします |ます|\r\nとうちゃくする |辞|\r\n到着します\r\n到着する\r\nⅢ 自 到達"
+  },
+  {
+    "id": "y2-l40-v007",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "よいます",
+    "meaningZh": "よう |辞|\r\n酔います\r\n酔う\r\nⅠ 自 醉",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "よいます |ます|\r\nよう |辞|\r\n酔います\r\n酔う\r\nⅠ 自 醉"
+  },
+  {
+    "id": "y2-l40-v008",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "うまくいきます",
+    "meaningZh": "うまくいく |辞|\r\n- Ⅰ 自 進展順利",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "うまくいきます |ます|\r\nうまくいく |辞|\r\n- Ⅰ 自 進展順利"
+  },
+  {
+    "id": "y2-l40-v009",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "でます [もんだいが～]",
+    "meaningZh": "でる[もんだいが～] |辞|\r\n出ます [問題が～]\r\n出る[問題が～]\r\nⅡ 自 出 [考題]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "でます [もんだいが～] \r\n|ます|\r\nでる[もんだいが～] |辞|\r\n出ます [問題が～]\r\n出る[問題が～]\r\nⅡ 自 出 [考題]"
+  },
+  {
+    "id": "y2-l40-v010",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "そうだんします",
+    "meaningZh": "そうだんする |辞|\r\n相談します\r\n相談する\r\nⅢ 自\r\n／\r\n他\r\n商量、商議",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "そうだんします |ます|\r\nそうだんする |辞|\r\n相談します\r\n相談する\r\nⅢ 自\r\n／\r\n他\r\n商量、商議"
+  },
+  {
+    "id": "y2-l40-v011",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "いらっしゃいます",
+    "meaningZh": "いらっしゃる |辞|\r\n- Ⅰ 自 來（「来ます」的尊敬\r\n用法）\r\n名詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "いらっしゃいます |ます|\r\nいらっしゃる |辞|\r\n- Ⅰ 自 來（「来ます」的尊敬\r\n用法）\r\n名詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l40-v012",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "てんきよほう 天気予報 天氣預報",
+    "meaningZh": "てんきよほう 天気予報 天氣預報",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "てんきよほう 天気予報 天氣預報"
+  },
+  {
+    "id": "y2-l40-v013",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "ぼうねんかい 忘年会 辭舊迎新會",
+    "meaningZh": "ぼうねんかい 忘年会 辭舊迎新會",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "ぼうねんかい 忘年会 辭舊迎新會"
+  },
+  {
+    "id": "y2-l40-v014",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "しんねんかい 新年会 新年聯歡會",
+    "meaningZh": "しんねんかい 新年会 新年聯歡會",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "しんねんかい 新年会 新年聯歡會"
+  },
+  {
+    "id": "y2-l40-v015",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "にじかい 二次会 正式宴會結束後的二次聚會",
+    "meaningZh": "にじかい 二次会 正式宴會結束後的二次聚會",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "にじかい 二次会 正式宴會結束後的二次聚會"
+  },
+  {
+    "id": "y2-l40-v016",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "はっぴょうかい 発表会 發表會",
+    "meaningZh": "はっぴょうかい 発表会 發表會",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "はっぴょうかい 発表会 發表會"
+  },
+  {
+    "id": "y2-l40-v017",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "たいかい 大会 大會",
+    "meaningZh": "たいかい 大会 大會",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "たいかい 大会 大會"
+  },
+  {
+    "id": "y2-l40-v018",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "マラソン - 馬拉松",
+    "meaningZh": "マラソン - 馬拉松",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "マラソン - 馬拉松"
+  },
+  {
+    "id": "y2-l40-v019",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "コンテスト - 比賽、競賽",
+    "meaningZh": "コンテスト - 比賽、競賽",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "コンテスト - 比賽、競賽"
+  },
+  {
+    "id": "y2-l40-v020",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "おもて 表 正面、表面",
+    "meaningZh": "おもて 表 正面、表面",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "おもて 表 正面、表面"
+  },
+  {
+    "id": "y2-l40-v021",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "うら 裏 反面、裏面",
+    "meaningZh": "うら 裏 反面、裏面",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "うら 裏 反面、裏面"
+  },
+  {
+    "id": "y2-l40-v022",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "まちがい - 錯、錯誤",
+    "meaningZh": "まちがい - 錯、錯誤",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "まちがい - 錯、錯誤"
+  },
+  {
+    "id": "y2-l40-v023",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "きず 傷 傷口、損傷",
+    "meaningZh": "きず 傷 傷口、損傷",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "きず 傷 傷口、損傷"
+  },
+  {
+    "id": "y2-l40-v024",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "ズボン - 褲子",
+    "meaningZh": "ズボン - 褲子",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "ズボン - 褲子"
+  },
+  {
+    "id": "y2-l40-v025",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "[お] としより [お] 年寄り 老人",
+    "meaningZh": "[お] としより [お] 年寄り 老人",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "[お] としより [お] 年寄り 老人"
+  },
+  {
+    "id": "y2-l40-v026",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "テスト - 考試、測試",
+    "meaningZh": "テスト - 考試、測試",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "テスト - 考試、測試"
+  },
+  {
+    "id": "y2-l40-v027",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "せいせき 成績 成績",
+    "meaningZh": "せいせき 成績 成績",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "せいせき 成績 成績"
+  },
+  {
+    "id": "y2-l40-v028",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "ようす 様子 樣子、情況",
+    "meaningZh": "ようす 様子 樣子、情況",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "ようす 様子 樣子、情況"
+  },
+  {
+    "id": "y2-l40-v029",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "ながさ 長さ 長度",
+    "meaningZh": "ながさ 長さ 長度",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "ながさ 長さ 長度"
+  },
+  {
+    "id": "y2-l40-v030",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "おもさ 重さ 重量",
+    "meaningZh": "おもさ 重さ 重量",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "おもさ 重さ 重量"
+  },
+  {
+    "id": "y2-l40-v031",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "たかさ 高さ 高度",
+    "meaningZh": "たかさ 高さ 高度",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "たかさ 高さ 高度"
+  },
+  {
+    "id": "y2-l40-v032",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "おおきさ 大きさ 大小",
+    "meaningZh": "おおきさ 大きさ 大小",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "おおきさ 大きさ 大小"
+  },
+  {
+    "id": "y2-l40-v033",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "[－] びん [－] 便 [－] 航班",
+    "meaningZh": "な形容詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "[－] びん [－] 便 [－] 航班\r\nな形容詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l40-v034",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "ひつよう [な] 必要 [な] 必要、需要",
+    "meaningZh": "数量詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "ひつよう [な] 必要 [な] 必要、需要\r\n数量詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l40-v035",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "－こ －個 一個",
+    "meaningZh": "－こ －個 一個",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "－こ －個 一個"
+  },
+  {
+    "id": "y2-l40-v036",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "－ほん(－ぽん、－ぼん） －本 一根、一條、一瓶（用於細",
+    "meaningZh": "長物品）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "－ほん(－ぽん、－ぼん） －本 一根、一條、一瓶（用於細\r\n長物品）"
+  },
+  {
+    "id": "y2-l40-v037",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "－はい(－ぱい、－ばい） －杯 一杯",
+    "meaningZh": "－はい(－ぱい、－ばい） －杯 一杯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "－はい(－ぱい、－ばい） －杯 一杯"
+  },
+  {
+    "id": "y2-l40-v038",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "－センチ - 一釐米",
+    "meaningZh": "－センチ - 一釐米",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "－センチ - 一釐米"
+  },
+  {
+    "id": "y2-l40-v039",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "－ミリ - 一毫米",
+    "meaningZh": "－ミリ - 一毫米",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "－ミリ - 一毫米"
+  },
+  {
+    "id": "y2-l40-v040",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "－グラム - 一克",
+    "meaningZh": "其他\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "－グラム - 一克\r\n其他\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l40-v041",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "～いじょう ～以上 ～以上、超過～",
+    "meaningZh": "～いじょう ～以上 ～以上、超過～",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "～いじょう ～以上 ～以上、超過～"
+  },
+  {
+    "id": "y2-l40-v042",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "～いか ～以下 ～以下、低於～",
+    "meaningZh": "～いか ～以下 ～以下、低於～",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "～いか ～以下 ～以下、低於～"
+  },
+  {
+    "id": "y2-l40-v043",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "ところで - （轉換話題）",
+    "meaningZh": "ところで - （轉換話題）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "ところで - （轉換話題）"
+  },
+  {
+    "id": "y2-l40-v044",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "どうでしょうか - 怎麽樣？",
+    "meaningZh": "固有名詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "どうでしょうか - 怎麽樣？\r\n固有名詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l40-v045",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "ながさき 長崎 長崎（長崎縣政府所在地）",
+    "meaningZh": "ながさき 長崎 長崎（長崎縣政府所在地）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "ながさき 長崎 長崎（長崎縣政府所在地）"
+  },
+  {
+    "id": "y2-l40-v046",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "せんだい 仙台 仙台（宮城縣政府所在地）",
+    "meaningZh": "せんだい 仙台 仙台（宮城縣政府所在地）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "せんだい 仙台 仙台（宮城縣政府所在地）"
+  },
+  {
+    "id": "y2-l40-v047",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "JL - 日本航空公司",
+    "meaningZh": "JL - 日本航空公司",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "JL - 日本航空公司"
+  },
+  {
+    "id": "y2-l40-v048",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "たなばたまつり 七夕祭り 七夕廟會",
+    "meaningZh": "たなばたまつり 七夕祭り 七夕廟會",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "たなばたまつり 七夕祭り 七夕廟會"
+  },
+  {
+    "id": "y2-l40-v049",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "とうしょうぐう 東照宮 東照宮（位于栃木縣日光的",
+    "meaningZh": "祭奠德川家康的神社）\r\n読み物\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "とうしょうぐう 東照宮 東照宮（位于栃木縣日光的\r\n祭奠德川家康的神社）\r\n読み物\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l40-v050",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "じけん 事件 事件",
+    "meaningZh": "じけん 事件 事件",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "じけん 事件 事件"
+  },
+  {
+    "id": "y2-l40-v051",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "オートバイ - 摩托車",
+    "meaningZh": "オートバイ - 摩托車",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "オートバイ - 摩托車"
+  },
+  {
+    "id": "y2-l40-v052",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "ばくだん 爆弾 炸彈",
+    "meaningZh": "ばくだん 爆弾 炸彈",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "ばくだん 爆弾 炸彈"
+  },
+  {
+    "id": "y2-l40-v053",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "つみます 積みます 堆積、裝載",
+    "meaningZh": "つみます 積みます 堆積、裝載",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "つみます 積みます 堆積、裝載"
+  },
+  {
+    "id": "y2-l40-v054",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "うんてんしゅ 運転手 司機",
+    "meaningZh": "うんてんしゅ 運転手 司機",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "うんてんしゅ 運転手 司機"
+  },
+  {
+    "id": "y2-l40-v055",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "はなれた 離れた 離開一段距離的",
+    "meaningZh": "はなれた 離れた 離開一段距離的",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "はなれた 離れた 離開一段距離的"
+  },
+  {
+    "id": "y2-l40-v056",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "きゅうに 急に 突然",
+    "meaningZh": "きゅうに 急に 突然",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "きゅうに 急に 突然"
+  },
+  {
+    "id": "y2-l40-v057",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "うごかします 動かします 開動、發動",
+    "meaningZh": "うごかします 動かします 開動、發動",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "うごかします 動かします 開動、發動"
+  },
+  {
+    "id": "y2-l40-v058",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "はんにん 犯人 犯人",
+    "meaningZh": "はんにん 犯人 犯人",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "はんにん 犯人 犯人"
+  },
+  {
+    "id": "y2-l40-v059",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "おとこ 男 男的",
+    "meaningZh": "おとこ 男 男的",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "おとこ 男 男的"
+  },
+  {
+    "id": "y2-l40-v060",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "てにいれます 手に入れます 到手、得到",
+    "meaningZh": "てにいれます 手に入れます 到手、得到",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "てにいれます 手に入れます 到手、得到"
+  },
+  {
+    "id": "y2-l40-v061",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 40,
+    "kana": "いまでも 今でも 現在仍然",
+    "meaningZh": "いまでも 今でも 現在仍然",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch40.pdf.pdf"
+    },
+    "sourceText": "いまでも 今でも 現在仍然"
+  }
+]
+

@@ -1,0 +1,843 @@
+[
+  {
+    "id": "y2-l37-v001",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ほめます",
+    "meaningZh": "ほめる |辞|\r\n褒めます\r\n褒める\r\nⅡ 他 表揚、稱讚",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ほめます |ます|\r\nほめる |辞|\r\n褒めます\r\n褒める\r\nⅡ 他 表揚、稱讚"
+  },
+  {
+    "id": "y2-l37-v002",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "しかります",
+    "meaningZh": "しかる |辞|\r\n叱ります\r\n叱る\r\nⅠ 他 批評、責駡",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "しかります |ます|\r\nしかる |辞|\r\n叱ります\r\n叱る\r\nⅠ 他 批評、責駡"
+  },
+  {
+    "id": "y2-l37-v003",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "さそいます",
+    "meaningZh": "さそう |辞|\r\n誘います\r\n誘う\r\nⅠ 他 邀請、勸誘",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "さそいます |ます|\r\nさそう |辞|\r\n誘います\r\n誘う\r\nⅠ 他 邀請、勸誘"
+  },
+  {
+    "id": "y2-l37-v004",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "しょうたいします",
+    "meaningZh": "しょうたいする |辞|\r\n招待します\r\n招待する\r\nⅢ 他 招待",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "しょうたいします |ます|\r\nしょうたいする |辞|\r\n招待します\r\n招待する\r\nⅢ 他 招待"
+  },
+  {
+    "id": "y2-l37-v005",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "たのみます",
+    "meaningZh": "たのむ |辞|\r\n頼みます\r\n頼む\r\nⅠ 他 請求、委託",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "たのみます |ます|\r\nたのむ |辞|\r\n頼みます\r\n頼む\r\nⅠ 他 請求、委託"
+  },
+  {
+    "id": "y2-l37-v006",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ちゅういします",
+    "meaningZh": "ちゅういする |辞|\r\n注意します\r\n注意する\r\nⅢ 他 提醒、警告",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ちゅういします |ます|\r\nちゅういする |辞|\r\n注意します\r\n注意する\r\nⅢ 他 提醒、警告"
+  },
+  {
+    "id": "y2-l37-v007",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "とります",
+    "meaningZh": "とる |辞| とる\r\nⅠ 他 偷、搶",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "とります |ます|\r\nとる |辞| とる\r\nⅠ 他 偷、搶"
+  },
+  {
+    "id": "y2-l37-v008",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ふみます",
+    "meaningZh": "ふむ |辞|\r\n踏みます\r\n踏む\r\nⅠ 他 踏、踩",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ふみます |ます|\r\nふむ |辞|\r\n踏みます\r\n踏む\r\nⅠ 他 踏、踩"
+  },
+  {
+    "id": "y2-l37-v009",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "こわします",
+    "meaningZh": "こわす |辞|\r\n壊します\r\n壊す\r\nⅠ 他 弄壞",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "こわします |ます|\r\nこわす |辞|\r\n壊します\r\n壊す\r\nⅠ 他 弄壞"
+  },
+  {
+    "id": "y2-l37-v010",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "よごします",
+    "meaningZh": "よごす |辞|\r\n汚します\r\n汚す\r\nⅠ 他 弄髒",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "よごします |ます|\r\nよごす |辞|\r\n汚します\r\n汚す\r\nⅠ 他 弄髒"
+  },
+  {
+    "id": "y2-l37-v011",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "おこないます",
+    "meaningZh": "おこなう |辞|\r\n行います\r\n行う\r\nⅠ 他 舉行、舉辦",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "おこないます |ます|\r\nおこなう |辞|\r\n行います\r\n行う\r\nⅠ 他 舉行、舉辦"
+  },
+  {
+    "id": "y2-l37-v012",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ゆしゅつします",
+    "meaningZh": "ゆしゅつする |辞|\r\n輸出します\r\n輸出する\r\nⅢ 他 出口",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ゆしゅつします |ます|\r\nゆしゅつする |辞|\r\n輸出します\r\n輸出する\r\nⅢ 他 出口"
+  },
+  {
+    "id": "y2-l37-v013",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ゆにゅうします",
+    "meaningZh": "ゆにゅうする |辞|\r\n輸入します\r\n輸入する\r\nⅢ 他 進口",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ゆにゅうします |ます|\r\nゆにゅうする |辞|\r\n輸入します\r\n輸入する\r\nⅢ 他 進口"
+  },
+  {
+    "id": "y2-l37-v014",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ほんやくします",
+    "meaningZh": "ほんやくする |辞|\r\n翻訳します\r\n翻訳する\r\nⅢ 他 翻譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ほんやくします |ます|\r\nほんやくする |辞|\r\n翻訳します\r\n翻訳する\r\nⅢ 他 翻譯"
+  },
+  {
+    "id": "y2-l37-v015",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "はつめいします",
+    "meaningZh": "はつめいする |辞|\r\n発明します\r\n発明する\r\nⅢ 他 發明",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "はつめいします |ます|\r\nはつめいする |辞|\r\n発明します\r\n発明する\r\nⅢ 他 發明"
+  },
+  {
+    "id": "y2-l37-v016",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "はっけんします",
+    "meaningZh": "はっけんする |辞|\r\n発見します\r\n発見する\r\nⅢ 他 發現",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "はっけんします |ます|\r\nはっけんする |辞|\r\n発見します\r\n発見する\r\nⅢ 他 發現"
+  },
+  {
+    "id": "y2-l37-v017",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "やけます [うちが～]",
+    "meaningZh": "やける[うちが～] |辞|\r\n焼けます [うちが～]\r\n焼ける[うちが～]\r\nⅡ 自 [房子] 燒毀、燃燒\r\n名詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "やけます [うちが～] \r\n|ます|\r\nやける[うちが～] |辞|\r\n焼けます [うちが～]\r\n焼ける[うちが～]\r\nⅡ 自 [房子] 燒毀、燃燒\r\n名詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l37-v018",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "こめ 米 大米",
+    "meaningZh": "こめ 米 大米",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "こめ 米 大米"
+  },
+  {
+    "id": "y2-l37-v019",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "むぎ 麦 小麥",
+    "meaningZh": "むぎ 麦 小麥",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "むぎ 麦 小麥"
+  },
+  {
+    "id": "y2-l37-v020",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "せきゆ 石油 石油",
+    "meaningZh": "せきゆ 石油 石油",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "せきゆ 石油 石油"
+  },
+  {
+    "id": "y2-l37-v021",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "げんりょう 原料 原料",
+    "meaningZh": "げんりょう 原料 原料",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "げんりょう 原料 原料"
+  },
+  {
+    "id": "y2-l37-v022",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "インスタントラーメン - 方便麵",
+    "meaningZh": "インスタントラーメン - 方便麵",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "インスタントラーメン - 方便麵"
+  },
+  {
+    "id": "y2-l37-v023",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "デート - 約會",
+    "meaningZh": "デート - 約會",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "デート - 約會"
+  },
+  {
+    "id": "y2-l37-v024",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "どろぼう 泥棒 小偷",
+    "meaningZh": "どろぼう 泥棒 小偷",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "どろぼう 泥棒 小偷"
+  },
+  {
+    "id": "y2-l37-v025",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "けいかん 警官 警察",
+    "meaningZh": "けいかん 警官 警察",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "けいかん 警官 警察"
+  },
+  {
+    "id": "y2-l37-v026",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "せかいいさん 世界遺産 世界遺產",
+    "meaningZh": "せかいいさん 世界遺産 世界遺產",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "せかいいさん 世界遺産 世界遺產"
+  },
+  {
+    "id": "y2-l37-v027",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "きんいろ 金色 金色",
+    "meaningZh": "きんいろ 金色 金色",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "きんいろ 金色 金色"
+  },
+  {
+    "id": "y2-l37-v028",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ほんもの 本物 真貨、真的",
+    "meaningZh": "ほんもの 本物 真貨、真的",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ほんもの 本物 真貨、真的"
+  },
+  {
+    "id": "y2-l37-v029",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "せかいじゅう 世界中 全世界",
+    "meaningZh": "せかいじゅう 世界中 全世界",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "せかいじゅう 世界中 全世界"
+  },
+  {
+    "id": "y2-l37-v030",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "～じゅう ～中 全～、整個～",
+    "meaningZh": "～じゅう ～中 全～、整個～",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "～じゅう ～中 全～、整個～"
+  },
+  {
+    "id": "y2-l37-v031",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "きん 金 金子",
+    "meaningZh": "きん 金 金子",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "きん 金 金子"
+  },
+  {
+    "id": "y2-l37-v032",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "－せいき －世紀 －世紀",
+    "meaningZh": "い形容詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "－せいき －世紀 －世紀\r\nい形容詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l37-v033",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "うつくしい 美しい 美麗",
+    "meaningZh": "数量詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "うつくしい 美しい 美麗\r\n数量詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l37-v034",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "－キロ - 一公斤、一公里",
+    "meaningZh": "疑問詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "－キロ - 一公斤、一公里\r\n疑問詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l37-v035",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "なにご 何語 哪种語言",
+    "meaningZh": "其他\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "なにご 何語 哪种語言\r\n其他\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l37-v036",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "だれか - 有誰",
+    "meaningZh": "だれか - 有誰",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "だれか - 有誰"
+  },
+  {
+    "id": "y2-l37-v037",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "よかったですね。 - 太好了。",
+    "meaningZh": "よかったですね。 - 太好了。",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "よかったですね。 - 太好了。"
+  },
+  {
+    "id": "y2-l37-v038",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "～のひとつ ～の一つ ～之一",
+    "meaningZh": "固有名詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "～のひとつ ～の一つ ～之一\r\n固有名詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l37-v039",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "オリンピック - 奧運會",
+    "meaningZh": "オリンピック - 奧運會",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "オリンピック - 奧運會"
+  },
+  {
+    "id": "y2-l37-v040",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ワールドカップ - 世界盃",
+    "meaningZh": "ワールドカップ - 世界盃",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ワールドカップ - 世界盃"
+  },
+  {
+    "id": "y2-l37-v041",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "とうだいじ 東大寺 東大寺",
+    "meaningZh": "とうだいじ 東大寺 東大寺",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "とうだいじ 東大寺 東大寺"
+  },
+  {
+    "id": "y2-l37-v042",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "だいぶつ 大仏 大佛",
+    "meaningZh": "だいぶつ 大仏 大佛",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "だいぶつ 大仏 大佛"
+  },
+  {
+    "id": "y2-l37-v043",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "えどじだい 江戸時代 江戶時代",
+    "meaningZh": "えどじだい 江戸時代 江戶時代",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "えどじだい 江戸時代 江戶時代"
+  },
+  {
+    "id": "y2-l37-v044",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ポルトガル - 葡萄牙",
+    "meaningZh": "ポルトガル - 葡萄牙",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ポルトガル - 葡萄牙"
+  },
+  {
+    "id": "y2-l37-v045",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "サウジアラビア - 沙特阿拉伯",
+    "meaningZh": "サウジアラビア - 沙特阿拉伯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "サウジアラビア - 沙特阿拉伯"
+  },
+  {
+    "id": "y2-l37-v046",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ロシア - 俄羅斯",
+    "meaningZh": "読み物\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ロシア - 俄羅斯\r\n読み物\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l37-v047",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ごうか [な] 豪華 [な] 豪華的",
+    "meaningZh": "ごうか [な] 豪華 [な] 豪華的",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ごうか [な] 豪華 [な] 豪華的"
+  },
+  {
+    "id": "y2-l37-v048",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ちょうこく 彫刻 雕刻",
+    "meaningZh": "ちょうこく 彫刻 雕刻",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ちょうこく 彫刻 雕刻"
+  },
+  {
+    "id": "y2-l37-v049",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "いいつたえ 言い伝え 傳説",
+    "meaningZh": "いいつたえ 言い伝え 傳説",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "いいつたえ 言い伝え 傳説"
+  },
+  {
+    "id": "y2-l37-v050",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ねむります 眠ります 睡、睡着",
+    "meaningZh": "ねむります 眠ります 睡、睡着",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ねむります 眠ります 睡、睡着"
+  },
+  {
+    "id": "y2-l37-v051",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ほります 彫ります 彫",
+    "meaningZh": "ほります 彫ります 彫",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ほります 彫ります 彫"
+  },
+  {
+    "id": "y2-l37-v052",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "なかま 仲間 夥伴、朋友",
+    "meaningZh": "なかま 仲間 夥伴、朋友",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "なかま 仲間 夥伴、朋友"
+  },
+  {
+    "id": "y2-l37-v053",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "しかし - 但是",
+    "meaningZh": "しかし - 但是",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "しかし - 但是"
+  },
+  {
+    "id": "y2-l37-v054",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "そのあと - 那之後、後來",
+    "meaningZh": "そのあと - 那之後、後來",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "そのあと - 那之後、後來"
+  },
+  {
+    "id": "y2-l37-v055",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "いっしょうけんめい 一生懸命 努力、拼命",
+    "meaningZh": "いっしょうけんめい 一生懸命 努力、拼命",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "いっしょうけんめい 一生懸命 努力、拼命"
+  },
+  {
+    "id": "y2-l37-v056",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ねずみ - 老鼠",
+    "meaningZh": "ねずみ - 老鼠",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ねずみ - 老鼠"
+  },
+  {
+    "id": "y2-l37-v057",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "１匹もいません - 一只（匹）也沒有",
+    "meaningZh": "１匹もいません - 一只（匹）也沒有",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "１匹もいません - 一只（匹）也沒有"
+  },
+  {
+    "id": "y2-l37-v058",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "とうしょうぐう 東照宮 東照宮（位于栃木縣日光的",
+    "meaningZh": "祭奠德川家康的神社）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "とうしょうぐう 東照宮 東照宮（位于栃木縣日光的\r\n祭奠德川家康的神社）"
+  },
+  {
+    "id": "y2-l37-v059",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ねむりねこ 眠り猫 沉睡的貓（雕刻的名稱）",
+    "meaningZh": "ねむりねこ 眠り猫 沉睡的貓（雕刻的名稱）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ねむりねこ 眠り猫 沉睡的貓（雕刻的名稱）"
+  },
+  {
+    "id": "y2-l37-v060",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 37,
+    "kana": "ひだりじんごろう 左甚五郎 左甚五郎（江戶時代的著名",
+    "meaningZh": "彫刻家1594-1651）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch37.pdf.pdf"
+    },
+    "sourceText": "ひだりじんごろう 左甚五郎 左甚五郎（江戶時代的著名\r\n彫刻家1594-1651）"
+  }
+]
+

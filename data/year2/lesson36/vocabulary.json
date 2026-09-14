@@ -1,0 +1,549 @@
+[
+  {
+    "id": "y2-l36-v001",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "あいます [じこに～]",
+    "meaningZh": "あう[じこに～] |辞|\r\nあいます [事故に～]\r\nあう[事故に～]\r\nⅠ 自 遇到 [事故]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "あいます [じこに～] \r\n|ます|\r\nあう[じこに～] |辞|\r\nあいます [事故に～]\r\nあう[事故に～]\r\nⅠ 自 遇到 [事故]"
+  },
+  {
+    "id": "y2-l36-v002",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "ちょきんします",
+    "meaningZh": "ちょきんする |辞|\r\n貯金します\r\n貯金する\r\nⅢ 他 存錢",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "ちょきんします |ます|\r\nちょきんする |辞|\r\n貯金します\r\n貯金する\r\nⅢ 他 存錢"
+  },
+  {
+    "id": "y2-l36-v003",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "すぎます [７時を～]",
+    "meaningZh": "すぎる[７じを～] |辞|\r\n過ぎます [７時を～]\r\n過ぎる[７時を～]\r\nⅡ 自 [七點] 多、過了 [七點]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "すぎます [７時を～] \r\n|ます|\r\nすぎる[７じを～] |辞|\r\n過ぎます [７時を～]\r\n過ぎる[７時を～]\r\nⅡ 自 [七點] 多、過了 [七點]"
+  },
+  {
+    "id": "y2-l36-v004",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "なれます [しごとに～]",
+    "meaningZh": "なれる[しごとに～] |辞|\r\n慣れます [仕事に～]\r\n慣れる[仕事に～]\r\nⅡ 自 習慣 [工作]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "なれます [しごとに～] \r\n|ます|\r\nなれる[しごとに～] |辞|\r\n慣れます [仕事に～]\r\n慣れる[仕事に～]\r\nⅡ 自 習慣 [工作]"
+  },
+  {
+    "id": "y2-l36-v005",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "くさります",
+    "meaningZh": "[たべものが～] \r\nくさる[たべものが～] \r\n|辞|\r\n腐ります [食べ物が～]\r\n腐る[食べ物が～]\r\nⅠ 自 [食物] 腐爛",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "くさります\r\n[たべものが～] |ます|\r\nくさる[たべものが～] \r\n|辞|\r\n腐ります [食べ物が～]\r\n腐る[食べ物が～]\r\nⅠ 自 [食物] 腐爛"
+  },
+  {
+    "id": "y2-l36-v006",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "ちがいます",
+    "meaningZh": "ちがう |辞|\r\n違います\r\n違う\r\nⅠ 自 不同、不對、不一樣",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "ちがいます |ます|\r\nちがう |辞|\r\n違います\r\n違う\r\nⅠ 自 不同、不對、不一樣"
+  },
+  {
+    "id": "y2-l36-v007",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "チャレンジします",
+    "meaningZh": "チャレンジする |辞|\r\n- Ⅲ 自\r\n／\r\n他\r\n挑戰\r\n名詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "チャレンジします |ます|\r\nチャレンジする |辞|\r\n- Ⅲ 自\r\n／\r\n他\r\n挑戰\r\n名詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l36-v008",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "けんどう 剣道 劍道（日本的劍術）",
+    "meaningZh": "けんどう 剣道 劍道（日本的劍術）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "けんどう 剣道 劍道（日本的劍術）"
+  },
+  {
+    "id": "y2-l36-v009",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "じゅうどう 柔道 柔道",
+    "meaningZh": "じゅうどう 柔道 柔道",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "じゅうどう 柔道 柔道"
+  },
+  {
+    "id": "y2-l36-v010",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "ラッシュ - 上下班的高峰時間",
+    "meaningZh": "ラッシュ - 上下班的高峰時間",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "ラッシュ - 上下班的高峰時間"
+  },
+  {
+    "id": "y2-l36-v011",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "うちゅう 宇宙 宇宙",
+    "meaningZh": "うちゅう 宇宙 宇宙",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "うちゅう 宇宙 宇宙"
+  },
+  {
+    "id": "y2-l36-v012",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "きょく 曲 曲子",
+    "meaningZh": "きょく 曲 曲子",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "きょく 曲 曲子"
+  },
+  {
+    "id": "y2-l36-v013",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "まいしゅう 毎週 每週、每個星期",
+    "meaningZh": "まいしゅう 毎週 每週、每個星期",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "まいしゅう 毎週 每週、每個星期"
+  },
+  {
+    "id": "y2-l36-v014",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "まいつき 毎月 每月",
+    "meaningZh": "まいつき 毎月 每月",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "まいつき 毎月 每月"
+  },
+  {
+    "id": "y2-l36-v015",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "まいとし（まいねん） 毎年 每年",
+    "meaningZh": "まいとし（まいねん） 毎年 每年",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "まいとし（まいねん） 毎年 每年"
+  },
+  {
+    "id": "y2-l36-v016",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "おきゃくさま お客様 客人、顧客（「おきゃくさ",
+    "meaningZh": "ん」的尊敬説法）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "おきゃくさま お客様 客人、顧客（「おきゃくさ\r\nん」的尊敬説法）"
+  },
+  {
+    "id": "y2-l36-v017",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "すいえい 水泳 游泳",
+    "meaningZh": "すいえい 水泳 游泳",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "すいえい 水泳 游泳"
+  },
+  {
+    "id": "y2-l36-v018",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "きもち 気持ち 心情、情緒",
+    "meaningZh": "きもち 気持ち 心情、情緒",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "きもち 気持ち 心情、情緒"
+  },
+  {
+    "id": "y2-l36-v019",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "このごろ - 最近（這幾天）",
+    "meaningZh": "な形容詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "このごろ - 最近（這幾天）\r\nな形容詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l36-v020",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "とくべつ [な] 特別 [な] 特別的",
+    "meaningZh": "副詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "とくべつ [な] 特別 [な] 特別的\r\n副詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l36-v021",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "やっと - 終于、總算、好不容易",
+    "meaningZh": "やっと - 終于、總算、好不容易",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "やっと - 終于、總算、好不容易"
+  },
+  {
+    "id": "y2-l36-v022",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "かなり - 相當",
+    "meaningZh": "かなり - 相當",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "かなり - 相當"
+  },
+  {
+    "id": "y2-l36-v023",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "かならず 必ず 一定、務必",
+    "meaningZh": "かならず 必ず 一定、務必",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "かならず 必ず 一定、務必"
+  },
+  {
+    "id": "y2-l36-v024",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "ぜったいに 絶対に 絕對地",
+    "meaningZh": "ぜったいに 絶対に 絕對地",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "ぜったいに 絶対に 絕對地"
+  },
+  {
+    "id": "y2-l36-v025",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "じょうずに 上手に 熟練地、很好地",
+    "meaningZh": "じょうずに 上手に 熟練地、很好地",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "じょうずに 上手に 熟練地、很好地"
+  },
+  {
+    "id": "y2-l36-v026",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "できるだけ - 盡量、盡可能",
+    "meaningZh": "できるだけ - 盡量、盡可能",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "できるだけ - 盡量、盡可能"
+  },
+  {
+    "id": "y2-l36-v027",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "ほとんど - 幾乎",
+    "meaningZh": "其他\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "ほとんど - 幾乎\r\n其他\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l36-v028",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "つかっていらっしゃるんで",
+    "meaningZh": "すね。\r\n使っていらっしゃるんです\r\nね。\r\n用著～啊。（「つかってい\r\nるんです」的尊敬説法）\r\n固有名詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "つかっていらっしゃるんで\r\nすね。\r\n使っていらっしゃるんです\r\nね。\r\n用著～啊。（「つかってい\r\nるんです」的尊敬説法）\r\n固有名詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l36-v029",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "ショパン - 肖邦（波蘭的作曲家1810-1",
+    "meaningZh": "849）\r\n読み物\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "ショパン - 肖邦（波蘭的作曲家1810-1\r\n849）\r\n読み物\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l36-v030",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "のりもの 乗り物 交通工具",
+    "meaningZh": "のりもの 乗り物 交通工具",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "のりもの 乗り物 交通工具"
+  },
+  {
+    "id": "y2-l36-v031",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "－せいき －世紀 －世紀",
+    "meaningZh": "－せいき －世紀 －世紀",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "－せいき －世紀 －世紀"
+  },
+  {
+    "id": "y2-l36-v032",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "とおく 遠く 遠處",
+    "meaningZh": "とおく 遠く 遠處",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "とおく 遠く 遠處"
+  },
+  {
+    "id": "y2-l36-v033",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "めずらしい 珍しい 珍奇的、罕見的",
+    "meaningZh": "めずらしい 珍しい 珍奇的、罕見的",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "めずらしい 珍しい 珍奇的、罕見的"
+  },
+  {
+    "id": "y2-l36-v034",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "きしゃ 汽車 火車",
+    "meaningZh": "きしゃ 汽車 火車",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "きしゃ 汽車 火車"
+  },
+  {
+    "id": "y2-l36-v035",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "きせん 汽船 汽船",
+    "meaningZh": "きせん 汽船 汽船",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "きせん 汽船 汽船"
+  },
+  {
+    "id": "y2-l36-v036",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "おおぜいの～ 大勢の～ 大量的（人）、很多的（人",
+    "meaningZh": "）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "おおぜいの～ 大勢の～ 大量的（人）、很多的（人\r\n）"
+  },
+  {
+    "id": "y2-l36-v037",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "はこびます 運びます 運送",
+    "meaningZh": "はこびます 運びます 運送",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "はこびます 運びます 運送"
+  },
+  {
+    "id": "y2-l36-v038",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "りようします 利用します 利用、使用",
+    "meaningZh": "りようします 利用します 利用、使用",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "りようします 利用します 利用、使用"
+  },
+  {
+    "id": "y2-l36-v039",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 36,
+    "kana": "じゆうに 自由に 自由地、隨意地",
+    "meaningZh": "じゆうに 自由に 自由地、隨意地",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch36.pdf.pdf"
+    },
+    "sourceText": "じゆうに 自由に 自由地、隨意地"
+  }
+]
+

@@ -1,0 +1,675 @@
+[
+  {
+    "id": "y2-l39-v001",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "こたえます",
+    "meaningZh": "[しつもんに～] \r\nこたえる[しつもんに～]\r\n|辞|\r\n答えます [質問に～]\r\n答える[質問に～]\r\nⅡ 自\r\n／\r\n他\r\n答、回答（問題）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "こたえます\r\n[しつもんに～] |ます|\r\nこたえる[しつもんに～]\r\n|辞|\r\n答えます [質問に～]\r\n答える[質問に～]\r\nⅡ 自\r\n／\r\n他\r\n答、回答（問題）"
+  },
+  {
+    "id": "y2-l39-v002",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "たおれます [ビルが～]",
+    "meaningZh": "たおれる[ビルが～] |辞|\r\n倒れます [ビルが～]\r\n倒れる[ビルが～]\r\nⅡ 自 [大廈] 倒塌",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "たおれます [ビルが～] \r\n|ます|\r\nたおれる[ビルが～] |辞|\r\n倒れます [ビルが～]\r\n倒れる[ビルが～]\r\nⅡ 自 [大廈] 倒塌"
+  },
+  {
+    "id": "y2-l39-v003",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "とおります [みちを～]",
+    "meaningZh": "とおる[みちを～] |辞|\r\n通ります [道を～]\r\n通る[道を～]\r\nⅠ 自 過[路] 、通過",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "とおります [みちを～] \r\n|ます|\r\nとおる[みちを～] |辞|\r\n通ります [道を～]\r\n通る[道を～]\r\nⅠ 自 過[路] 、通過"
+  },
+  {
+    "id": "y2-l39-v004",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "しにます",
+    "meaningZh": "しぬ |辞|\r\n死にます\r\n死ぬ\r\nⅠ 自 死",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "しにます |ます|\r\nしぬ |辞|\r\n死にます\r\n死ぬ\r\nⅠ 自 死"
+  },
+  {
+    "id": "y2-l39-v005",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "びっくりします",
+    "meaningZh": "びっくりする |辞|\r\n- Ⅲ 自 吃驚",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "びっくりします |ます|\r\nびっくりする |辞|\r\n- Ⅲ 自 吃驚"
+  },
+  {
+    "id": "y2-l39-v006",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "がっかりします",
+    "meaningZh": "がっかりする |辞|\r\n- Ⅲ 自 失望、沮喪",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "がっかりします |ます|\r\nがっかりする |辞|\r\n- Ⅲ 自 失望、沮喪"
+  },
+  {
+    "id": "y2-l39-v007",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "あんしんします",
+    "meaningZh": "あんしんする |辞|\r\n安心します\r\n安心する\r\nⅢ 自 安心、放心",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "あんしんします |ます|\r\nあんしんする |辞|\r\n安心します\r\n安心する\r\nⅢ 自 安心、放心"
+  },
+  {
+    "id": "y2-l39-v008",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "けんかします",
+    "meaningZh": "けんかする |辞|\r\n- Ⅲ 自 吵架、打架",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "けんかします |ます|\r\nけんかする |辞|\r\n- Ⅲ 自 吵架、打架"
+  },
+  {
+    "id": "y2-l39-v009",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "りこんします",
+    "meaningZh": "りこんする |辞|\r\n離婚します\r\n離婚する\r\nⅢ 自 離婚",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "りこんします |ます|\r\nりこんする |辞|\r\n離婚します\r\n離婚する\r\nⅢ 自 離婚"
+  },
+  {
+    "id": "y2-l39-v010",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "ふとります",
+    "meaningZh": "ふとる |辞|\r\n太ります\r\n太る\r\nⅠ 自 胖、變胖",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "ふとります |ます|\r\nふとる |辞|\r\n太ります\r\n太る\r\nⅠ 自 胖、變胖"
+  },
+  {
+    "id": "y2-l39-v011",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "やせます",
+    "meaningZh": "やせる |辞|\r\n- Ⅱ 自 瘦、變瘦",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "やせます |ます|\r\nやせる |辞|\r\n- Ⅱ 自 瘦、變瘦"
+  },
+  {
+    "id": "y2-l39-v012",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "ぶつかります",
+    "meaningZh": "ぶつかる |辞|\r\n- Ⅰ 自 撞、碰撞",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "ぶつかります |ます|\r\nぶつかる |辞|\r\n- Ⅰ 自 撞、碰撞"
+  },
+  {
+    "id": "y2-l39-v013",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "うかがいます",
+    "meaningZh": "うかがう |辞|\r\n伺います\r\n伺う\r\nⅠ 自 去拜訪。（「いきます\r\n」的謙遜語）\r\n名詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "うかがいます |ます|\r\nうかがう |辞|\r\n伺います\r\n伺う\r\nⅠ 自 去拜訪。（「いきます\r\n」的謙遜語）\r\n名詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l39-v014",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "しゅしょう 首相 首相",
+    "meaningZh": "しゅしょう 首相 首相",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "しゅしょう 首相 首相"
+  },
+  {
+    "id": "y2-l39-v015",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "じしん 地震 地震",
+    "meaningZh": "じしん 地震 地震",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "じしん 地震 地震"
+  },
+  {
+    "id": "y2-l39-v016",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "つなみ 津波 海嘯",
+    "meaningZh": "つなみ 津波 海嘯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "つなみ 津波 海嘯"
+  },
+  {
+    "id": "y2-l39-v017",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "たいふう 台風 颱風",
+    "meaningZh": "たいふう 台風 颱風",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "たいふう 台風 颱風"
+  },
+  {
+    "id": "y2-l39-v018",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "かみなり 雷 雷",
+    "meaningZh": "かみなり 雷 雷",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "かみなり 雷 雷"
+  },
+  {
+    "id": "y2-l39-v019",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "かじ 火事 火災",
+    "meaningZh": "かじ 火事 火災",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "かじ 火事 火災"
+  },
+  {
+    "id": "y2-l39-v020",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "じこ 事故 事故",
+    "meaningZh": "じこ 事故 事故",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "じこ 事故 事故"
+  },
+  {
+    "id": "y2-l39-v021",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "トラック - 卡車",
+    "meaningZh": "トラック - 卡車",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "トラック - 卡車"
+  },
+  {
+    "id": "y2-l39-v022",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "ハイキング - 遠足",
+    "meaningZh": "ハイキング - 遠足",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "ハイキング - 遠足"
+  },
+  {
+    "id": "y2-l39-v023",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "[お] みあい [お] 見合い 相親",
+    "meaningZh": "[お] みあい [お] 見合い 相親",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "[お] みあい [お] 見合い 相親"
+  },
+  {
+    "id": "y2-l39-v024",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "そうさ 操作 操作（～をします：操作）",
+    "meaningZh": "そうさ 操作 操作（～をします：操作）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "そうさ 操作 操作（～をします：操作）"
+  },
+  {
+    "id": "y2-l39-v025",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "かいじょう 会場 會場",
+    "meaningZh": "かいじょう 会場 會場",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "かいじょう 会場 會場"
+  },
+  {
+    "id": "y2-l39-v026",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "～だい ～代 ～費",
+    "meaningZh": "～だい ～代 ～費",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "～だい ～代 ～費"
+  },
+  {
+    "id": "y2-l39-v027",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "～や ～屋 ～店",
+    "meaningZh": "～や ～屋 ～店",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "～や ～屋 ～店"
+  },
+  {
+    "id": "y2-l39-v028",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "フロント - 前臺",
+    "meaningZh": "フロント - 前臺",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "フロント - 前臺"
+  },
+  {
+    "id": "y2-l39-v029",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "－ごうしつ －号室 一號房間",
+    "meaningZh": "－ごうしつ －号室 一號房間",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "－ごうしつ －号室 一號房間"
+  },
+  {
+    "id": "y2-l39-v030",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "タオル - 毛巾",
+    "meaningZh": "タオル - 毛巾",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "タオル - 毛巾"
+  },
+  {
+    "id": "y2-l39-v031",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "せっけん - 肥皂",
+    "meaningZh": "せっけん - 肥皂",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "せっけん - 肥皂"
+  },
+  {
+    "id": "y2-l39-v032",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "とちゅうで 途中で 中途、半路上",
+    "meaningZh": "い形容詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "とちゅうで 途中で 中途、半路上\r\nい形容詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l39-v033",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "かたい 硬い 硬的、堅硬",
+    "meaningZh": "かたい 硬い 硬的、堅硬",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "かたい 硬い 硬的、堅硬"
+  },
+  {
+    "id": "y2-l39-v034",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "やわらかい 軟らかい 軟的、柔軟",
+    "meaningZh": "やわらかい 軟らかい 軟的、柔軟",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "やわらかい 軟らかい 軟的、柔軟"
+  },
+  {
+    "id": "y2-l39-v035",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "きたない 汚い 髒的、骯髒",
+    "meaningZh": "きたない 汚い 髒的、骯髒",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "きたない 汚い 髒的、骯髒"
+  },
+  {
+    "id": "y2-l39-v036",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "うれしい - 高興",
+    "meaningZh": "うれしい - 高興",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "うれしい - 高興"
+  },
+  {
+    "id": "y2-l39-v037",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "はずかしい 恥ずかしい 害羞、不好意思",
+    "meaningZh": "な形容詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "はずかしい 恥ずかしい 害羞、不好意思\r\nな形容詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l39-v038",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "ふくざつ [な] 複雑 [な] 複雜",
+    "meaningZh": "ふくざつ [な] 複雑 [な] 複雜",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "ふくざつ [な] 複雑 [な] 複雜"
+  },
+  {
+    "id": "y2-l39-v039",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "じゃま [な] 邪魔 [な] 礙事",
+    "meaningZh": "副詞\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "じゃま [な] 邪魔 [な] 礙事\r\n副詞\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l39-v040",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "おおぜい 大勢 很多（人）",
+    "meaningZh": "其他\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "おおぜい 大勢 很多（人）\r\n其他\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l39-v041",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "おつかれさまでした お疲れさまでした 辛苦了。（用於慰勞同事或",
+    "meaningZh": "下屬時）\r\n読み物\r\n平仮名/片仮名 漢字 中譯",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "おつかれさまでした お疲れさまでした 辛苦了。（用於慰勞同事或\r\n下屬時）\r\n読み物\r\n平仮名/片仮名 漢字 中譯"
+  },
+  {
+    "id": "y2-l39-v042",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "おとな 大人 大人、成年人",
+    "meaningZh": "おとな 大人 大人、成年人",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "おとな 大人 大人、成年人"
+  },
+  {
+    "id": "y2-l39-v043",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "ようふく 洋服 西式服裝",
+    "meaningZh": "ようふく 洋服 西式服裝",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "ようふく 洋服 西式服裝"
+  },
+  {
+    "id": "y2-l39-v044",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "せいようかします 西洋化します 西化",
+    "meaningZh": "せいようかします 西洋化します 西化",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "せいようかします 西洋化します 西化"
+  },
+  {
+    "id": "y2-l39-v045",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "あいます 合います 合適、適合",
+    "meaningZh": "あいます 合います 合適、適合",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "あいます 合います 合適、適合"
+  },
+  {
+    "id": "y2-l39-v046",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "いまでは 今では 現在",
+    "meaningZh": "いまでは 今では 現在",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "いまでは 今では 現在"
+  },
+  {
+    "id": "y2-l39-v047",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "せいじんしき 成人式 成人儀式",
+    "meaningZh": "せいじんしき 成人式 成人儀式",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "せいじんしき 成人式 成人儀式"
+  },
+  {
+    "id": "y2-l39-v048",
+    "schoolYear": 2,
+    "book": "初級 II",
+    "lesson": 39,
+    "kana": "でんとうてき [な] 伝統的 [な] 傳統的",
+    "meaningZh": "でんとうてき [な] 伝統的 [な] 傳統的",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+    },
+    "sourceText": "でんとうてき [な] 伝統的 [な] 傳統的"
+  }
+]
+
