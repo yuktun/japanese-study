@@ -63,6 +63,7 @@ for(const [lessonIndex,lesson] of manifest.lessons.entries()){
           item.examples.forEach((example,exampleIndex)=>{
             if(!example||typeof example!=='object'||Array.isArray(example))fail(`${itemLabel} example ${exampleIndex+1} must be an object.`);
             for(const field of ['ja','zh'])validateOptionalText(example[field],`${itemLabel} example ${exampleIndex+1} ${field}`);
+            if(/^\s*(?:解説：|注意：)/.test(example.ja))fail(`${itemLabel} example ${exampleIndex+1} ja starts with source metadata instead of an example.`);
           });
         }
         if('supplementary' in item){
