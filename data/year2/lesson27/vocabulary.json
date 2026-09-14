@@ -425,38 +425,23 @@
     "book": "初級 II",
     "lesson": 27,
     "kana": "いつか - 什麽時候、（將來）有一天",
-    "meaningZh": "読み物",
+    "meaningZh": "読み物\n平仮名/片仮名 漢字 中譯",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
       "fileName": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "いつか - 什麽時候、（將來）有一天\n読み物"
+    "sourceText": "いつか - 什麽時候、（將來）有一天\n読み物\n平仮名/片仮名 漢字 中譯"
   },
   {
     "id": "y2-l27-v030",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "/ 3平仮名/片仮名 漢字 中譯",
-    "meaningZh": "/ 3平仮名/片仮名 漢字 中譯",
-    "category": "其他",
-    "source": {
-      "type": "school_pdf",
-      "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
-      "fileName": "japanese_vocab_lv1_ch27.pdf.pdf"
-    },
-    "sourceText": "/ 3平仮名/片仮名 漢字 中譯"
-  },
-  {
-    "id": "y2-l27-v031",
-    "schoolYear": 2,
-    "book": "初級 II",
-    "lesson": 27,
     "kana": "こどもたち 子供たち 孩子們",
     "meaningZh": "こどもたち 子供たち 孩子們",
-    "category": "其他",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
@@ -465,13 +450,13 @@
     "sourceText": "こどもたち 子供たち 孩子們"
   },
   {
-    "id": "y2-l27-v032",
+    "id": "y2-l27-v031",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
     "kana": "だいすき [な] 大好き [な] 非常喜歡",
     "meaningZh": "だいすき [な] 大好き [な] 非常喜歡",
-    "category": "其他",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
@@ -480,13 +465,13 @@
     "sourceText": "だいすき [な] 大好き [な] 非常喜歡"
   },
   {
-    "id": "y2-l27-v033",
+    "id": "y2-l27-v032",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
     "kana": "しゅじんこう 主人公 主人公",
     "meaningZh": "しゅじんこう 主人公 主人公",
-    "category": "其他",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
@@ -495,13 +480,13 @@
     "sourceText": "しゅじんこう 主人公 主人公"
   },
   {
-    "id": "y2-l27-v034",
+    "id": "y2-l27-v033",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
     "kana": "かたち 形 形狀、樣子",
     "meaningZh": "かたち 形 形狀、樣子",
-    "category": "其他",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
@@ -510,13 +495,13 @@
     "sourceText": "かたち 形 形狀、樣子"
   },
   {
-    "id": "y2-l27-v035",
+    "id": "y2-l27-v034",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
     "kana": "ふしぎ [な] 不思議 [な] 不可思議",
     "meaningZh": "ふしぎ [な] 不思議 [な] 不可思議",
-    "category": "其他",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
@@ -525,13 +510,13 @@
     "sourceText": "ふしぎ [な] 不思議 [な] 不可思議"
   },
   {
-    "id": "y2-l27-v036",
+    "id": "y2-l27-v035",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
     "kana": "ポケット - 口袋、兜",
     "meaningZh": "ポケット - 口袋、兜",
-    "category": "其他",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
@@ -540,13 +525,13 @@
     "sourceText": "ポケット - 口袋、兜"
   },
   {
-    "id": "y2-l27-v037",
+    "id": "y2-l27-v036",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
     "kana": "たとえば 例えば 例如",
     "meaningZh": "たとえば 例えば 例如",
-    "category": "其他",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
@@ -555,13 +540,13 @@
     "sourceText": "たとえば 例えば 例如"
   },
   {
-    "id": "y2-l27-v038",
+    "id": "y2-l27-v037",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
     "kana": "つけます 付けます 裝上、戴上",
     "meaningZh": "つけます 付けます 裝上、戴上",
-    "category": "其他",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
@@ -570,13 +555,13 @@
     "sourceText": "つけます 付けます 裝上、戴上"
   },
   {
-    "id": "y2-l27-v039",
+    "id": "y2-l27-v038",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
     "kana": "じゆうに 自由に 自由地、隨意地",
     "meaningZh": "じゆうに 自由に 自由地、隨意地",
-    "category": "其他",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
@@ -585,13 +570,13 @@
     "sourceText": "じゆうに 自由に 自由地、隨意地"
   },
   {
-    "id": "y2-l27-v040",
+    "id": "y2-l27-v039",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
     "kana": "そら 空 天空",
     "meaningZh": "そら 空 天空",
-    "category": "其他",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
@@ -600,13 +585,13 @@
     "sourceText": "そら 空 天空"
   },
   {
-    "id": "y2-l27-v041",
+    "id": "y2-l27-v040",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
     "kana": "とびます 飛びます 飛翔",
     "meaningZh": "とびます 飛びます 飛翔",
-    "category": "其他",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
@@ -615,13 +600,13 @@
     "sourceText": "とびます 飛びます 飛翔"
   },
   {
-    "id": "y2-l27-v042",
+    "id": "y2-l27-v041",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
     "kana": "むかし 昔 過去、以前",
     "meaningZh": "むかし 昔 過去、以前",
-    "category": "其他",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
@@ -630,13 +615,13 @@
     "sourceText": "むかし 昔 過去、以前"
   },
   {
-    "id": "y2-l27-v043",
+    "id": "y2-l27-v042",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
     "kana": "じぶん 自分 自己",
     "meaningZh": "じぶん 自分 自己",
-    "category": "其他",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
@@ -645,13 +630,13 @@
     "sourceText": "じぶん 自分 自己"
   },
   {
-    "id": "y2-l27-v044",
+    "id": "y2-l27-v043",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
     "kana": "しょうらい 将来 將來",
     "meaningZh": "しょうらい 将来 將來",
-    "category": "其他",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",
@@ -660,13 +645,13 @@
     "sourceText": "しょうらい 将来 將來"
   },
   {
-    "id": "y2-l27-v045",
+    "id": "y2-l27-v044",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
     "kana": "ドラえもん - 多拉A夢",
     "meaningZh": "ドラえもん - 多拉A夢",
-    "category": "其他",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "driveFileId": "100gz4SHXDnVg9LgVXkLTEFCUTqf4-NSK",

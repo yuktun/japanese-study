@@ -185,38 +185,23 @@
     "book": "初級 II",
     "lesson": 30,
     "kana": "せいかつします",
-    "meaningZh": "辞|\n生活します\n生活する\nⅢ 自 生活\n名詞",
+    "meaningZh": "辞|\n生活します\n生活する\nⅢ 自 生活\n名詞\n平仮名/片仮名 漢字 中譯",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
       "fileName": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "せいかつします |ます|\nせいかつする |辞|\n生活します\n生活する\nⅢ 自 生活\n名詞"
+    "sourceText": "せいかつします |ます|\nせいかつする |辞|\n生活します\n生活する\nⅢ 自 生活\n名詞\n平仮名/片仮名 漢字 中譯"
   },
   {
     "id": "y2-l30-v014",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "/ 3平仮名/片仮名 漢字 中譯",
-    "meaningZh": "/ 3平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
-    "source": {
-      "type": "school_pdf",
-      "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
-      "fileName": "japanese_vocab_lv1_ch30.pdf.pdf"
-    },
-    "sourceText": "/ 3平仮名/片仮名 漢字 中譯"
-  },
-  {
-    "id": "y2-l30-v015",
-    "schoolYear": 2,
-    "book": "初級 II",
-    "lesson": 30,
     "kana": "じゅぎょう 授業 課堂、課程",
     "meaningZh": "じゅぎょう 授業 課堂、課程",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -225,13 +210,13 @@
     "sourceText": "じゅぎょう 授業 課堂、課程"
   },
   {
-    "id": "y2-l30-v016",
+    "id": "y2-l30-v015",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "こうぎ 講義 講義",
     "meaningZh": "こうぎ 講義 講義",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -240,13 +225,13 @@
     "sourceText": "こうぎ 講義 講義"
   },
   {
-    "id": "y2-l30-v017",
+    "id": "y2-l30-v016",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "ミーティング - 會議",
     "meaningZh": "ミーティング - 會議",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -255,13 +240,13 @@
     "sourceText": "ミーティング - 會議"
   },
   {
-    "id": "y2-l30-v018",
+    "id": "y2-l30-v017",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "よてい 予定 預定、計劃",
     "meaningZh": "よてい 予定 預定、計劃",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -270,13 +255,13 @@
     "sourceText": "よてい 予定 預定、計劃"
   },
   {
-    "id": "y2-l30-v019",
+    "id": "y2-l30-v018",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "おしらせ お知らせ 通知",
     "meaningZh": "おしらせ お知らせ 通知",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -285,13 +270,13 @@
     "sourceText": "おしらせ お知らせ 通知"
   },
   {
-    "id": "y2-l30-v020",
+    "id": "y2-l30-v019",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "ガイドブック - 指南、指引、導遊書",
     "meaningZh": "ガイドブック - 指南、指引、導遊書",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -300,13 +285,13 @@
     "sourceText": "ガイドブック - 指南、指引、導遊書"
   },
   {
-    "id": "y2-l30-v021",
+    "id": "y2-l30-v020",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "カレンダー - 月曆",
     "meaningZh": "カレンダー - 月曆",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -315,13 +300,13 @@
     "sourceText": "カレンダー - 月曆"
   },
   {
-    "id": "y2-l30-v022",
+    "id": "y2-l30-v021",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "ポスター - 海報",
     "meaningZh": "ポスター - 海報",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -330,13 +315,13 @@
     "sourceText": "ポスター - 海報"
   },
   {
-    "id": "y2-l30-v023",
+    "id": "y2-l30-v022",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "よていひょう 予定表 行程表、計劃表",
     "meaningZh": "よていひょう 予定表 行程表、計劃表",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -345,13 +330,13 @@
     "sourceText": "よていひょう 予定表 行程表、計劃表"
   },
   {
-    "id": "y2-l30-v024",
+    "id": "y2-l30-v023",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "ごみばこ ごみ箱 垃圾箱",
     "meaningZh": "ごみばこ ごみ箱 垃圾箱",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -360,13 +345,13 @@
     "sourceText": "ごみばこ ごみ箱 垃圾箱"
   },
   {
-    "id": "y2-l30-v025",
+    "id": "y2-l30-v024",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "にんぎょう 人形 木偶、布娃娃",
     "meaningZh": "にんぎょう 人形 木偶、布娃娃",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -375,13 +360,13 @@
     "sourceText": "にんぎょう 人形 木偶、布娃娃"
   },
   {
-    "id": "y2-l30-v026",
+    "id": "y2-l30-v025",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "かびん 花瓶 花瓶",
     "meaningZh": "かびん 花瓶 花瓶",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -390,13 +375,13 @@
     "sourceText": "かびん 花瓶 花瓶"
   },
   {
-    "id": "y2-l30-v027",
+    "id": "y2-l30-v026",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "かがみ 鏡 鏡子",
     "meaningZh": "かがみ 鏡 鏡子",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -405,13 +390,13 @@
     "sourceText": "かがみ 鏡 鏡子"
   },
   {
-    "id": "y2-l30-v028",
+    "id": "y2-l30-v027",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "ひきだし 引き出し 抽屜",
     "meaningZh": "ひきだし 引き出し 抽屜",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -420,13 +405,13 @@
     "sourceText": "ひきだし 引き出し 抽屜"
   },
   {
-    "id": "y2-l30-v029",
+    "id": "y2-l30-v028",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "げんかん 玄関 玄関、門口",
     "meaningZh": "げんかん 玄関 玄関、門口",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -435,13 +420,13 @@
     "sourceText": "げんかん 玄関 玄関、門口"
   },
   {
-    "id": "y2-l30-v030",
+    "id": "y2-l30-v029",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "ろうか 廊下 走廊",
     "meaningZh": "ろうか 廊下 走廊",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -450,13 +435,13 @@
     "sourceText": "ろうか 廊下 走廊"
   },
   {
-    "id": "y2-l30-v031",
+    "id": "y2-l30-v030",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "かべ 壁 牆壁",
     "meaningZh": "かべ 壁 牆壁",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -465,13 +450,13 @@
     "sourceText": "かべ 壁 牆壁"
   },
   {
-    "id": "y2-l30-v032",
+    "id": "y2-l30-v031",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "いけ 池 池塘、水池",
     "meaningZh": "いけ 池 池塘、水池",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -480,13 +465,13 @@
     "sourceText": "いけ 池 池塘、水池"
   },
   {
-    "id": "y2-l30-v033",
+    "id": "y2-l30-v032",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "もとのところ 元のところ 原處、原來的地方",
     "meaningZh": "もとのところ 元のところ 原處、原來的地方",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -495,13 +480,13 @@
     "sourceText": "もとのところ 元のところ 原處、原來的地方"
   },
   {
-    "id": "y2-l30-v034",
+    "id": "y2-l30-v033",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "まわり 周り 周圍",
     "meaningZh": "まわり 周り 周圍",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -510,13 +495,13 @@
     "sourceText": "まわり 周り 周圍"
   },
   {
-    "id": "y2-l30-v035",
+    "id": "y2-l30-v034",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "まんなか 真ん中 正中閒",
     "meaningZh": "まんなか 真ん中 正中閒",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -525,13 +510,13 @@
     "sourceText": "まんなか 真ん中 正中閒"
   },
   {
-    "id": "y2-l30-v036",
+    "id": "y2-l30-v035",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "すみ 隅 角落",
     "meaningZh": "すみ 隅 角落",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -540,13 +525,13 @@
     "sourceText": "すみ 隅 角落"
   },
   {
-    "id": "y2-l30-v037",
+    "id": "y2-l30-v036",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "リュック - 背囊、帆布背包",
     "meaningZh": "リュック - 背囊、帆布背包",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -555,13 +540,13 @@
     "sourceText": "リュック - 背囊、帆布背包"
   },
   {
-    "id": "y2-l30-v038",
+    "id": "y2-l30-v037",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "ひじょうぶくろ 非常袋 應急備用包",
     "meaningZh": "ひじょうぶくろ 非常袋 應急備用包",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -570,13 +555,13 @@
     "sourceText": "ひじょうぶくろ 非常袋 應急備用包"
   },
   {
-    "id": "y2-l30-v039",
+    "id": "y2-l30-v038",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "ひじょうじ 非常時 發生緊急情況時",
     "meaningZh": "ひじょうじ 非常時 發生緊急情況時",
-    "category": "動詞",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -585,43 +570,28 @@
     "sourceText": "ひじょうじ 非常時 發生緊急情況時"
   },
   {
-    "id": "y2-l30-v040",
+    "id": "y2-l30-v039",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "かいちゅうでんとう 懐中電灯 手電",
-    "meaningZh": "かいちゅうでんとう 懐中電灯 手電",
-    "category": "動詞",
+    "meaningZh": "其他\n平仮名/片仮名 漢字 中譯",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
       "fileName": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "かいちゅうでんとう 懐中電灯 手電"
+    "sourceText": "かいちゅうでんとう 懐中電灯 手電\n其他\n平仮名/片仮名 漢字 中譯"
   },
   {
-    "id": "y2-l30-v041",
-    "schoolYear": 2,
-    "book": "初級 II",
-    "lesson": 30,
-    "kana": "/ 3其他",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
-    "source": {
-      "type": "school_pdf",
-      "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
-      "fileName": "japanese_vocab_lv1_ch30.pdf.pdf"
-    },
-    "sourceText": "/ 3其他\n平仮名/片仮名 漢字 中譯"
-  },
-  {
-    "id": "y2-l30-v042",
+    "id": "y2-l30-v040",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "まだ - 還沒",
     "meaningZh": "まだ - 還沒",
-    "category": "動詞",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -630,13 +600,13 @@
     "sourceText": "まだ - 還沒"
   },
   {
-    "id": "y2-l30-v043",
+    "id": "y2-l30-v041",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
     "kana": "～とか、～とか - ～啦，～啦（表示列舉）",
     "meaningZh": "読み物\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
       "driveFileId": "19C6xXdq-np8laGhU5pf3NMsMv9gYCOKv",
@@ -645,7 +615,7 @@
     "sourceText": "～とか、～とか - ～啦，～啦（表示列舉）\n読み物\n平仮名/片仮名 漢字 中譯"
   },
   {
-    "id": "y2-l30-v044",
+    "id": "y2-l30-v042",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
@@ -660,7 +630,7 @@
     "sourceText": "まるい 丸い 圓圓的"
   },
   {
-    "id": "y2-l30-v045",
+    "id": "y2-l30-v043",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
@@ -675,7 +645,7 @@
     "sourceText": "ある～ - 某～、某個～"
   },
   {
-    "id": "y2-l30-v046",
+    "id": "y2-l30-v044",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
@@ -690,7 +660,7 @@
     "sourceText": "ゆめをみます 夢を見ます 做夢"
   },
   {
-    "id": "y2-l30-v047",
+    "id": "y2-l30-v045",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
@@ -705,7 +675,7 @@
     "sourceText": "うれしい - 開心、高興"
   },
   {
-    "id": "y2-l30-v048",
+    "id": "y2-l30-v046",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
@@ -720,7 +690,7 @@
     "sourceText": "いや [な] 嫌 [な] 討厭、不喜歡"
   },
   {
-    "id": "y2-l30-v049",
+    "id": "y2-l30-v047",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
@@ -735,7 +705,7 @@
     "sourceText": "すると - 於是"
   },
   {
-    "id": "y2-l30-v050",
+    "id": "y2-l30-v048",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
