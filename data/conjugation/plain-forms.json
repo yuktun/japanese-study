@@ -1,0 +1,6 @@
+{
+  "verb":{"label":"動詞","verbId":"go","lesson":20,"sourceFile":"g_1_20.pdf","summary":"動詞は辞書形・ない形・た形・なかった形を使います。"},
+  "iAdjective":{"label":"い形容詞","lesson":20,"sourceFile":"g_1_20.pdf","summary":"い形容詞の肯定普通形には、だを付けません。","politePresentAffirmative":"高いです","plainPresentAffirmative":"高い","politePresentNegative":"高くないです","plainPresentNegative":"高くない","politePastAffirmative":"高かったです","plainPastAffirmative":"高かった","politePastNegative":"高くなかったです","plainPastNegative":"高くなかった"},
+  "naAdjective":{"label":"な形容詞","lesson":20,"sourceFile":"g_1_20.pdf","summary":"な形容詞は、だ／じゃない／だった／じゃなかったで整理します。","politePresentAffirmative":"静かです","plainPresentAffirmative":"静かだ","politePresentNegative":"静かじゃありません","plainPresentNegative":"静かじゃない","politePastAffirmative":"静かでした","plainPastAffirmative":"静かだった","politePastNegative":"静かじゃありませんでした","plainPastNegative":"静かじゃなかった"},
+  "noun":{"label":"名詞","lesson":20,"sourceFile":"g_1_20.pdf","summary":"名詞も、だ／じゃない／だった／じゃなかったで整理します。","politePresentAffirmative":"雨です","plainPresentAffirmative":"雨だ","politePresentNegative":"雨じゃありません","plainPresentNegative":"雨じゃない","politePastAffirmative":"雨でした","plainPastAffirmative":"雨だった","politePastNegative":"雨じゃありませんでした","plainPastNegative":"雨じゃなかった"}
+}

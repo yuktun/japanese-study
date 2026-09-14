@@ -205,12 +205,12 @@ function switchView(view){
   $('.sidebar').classList.remove('open');$('#menu-button').setAttribute('aria-expanded','false');if(view==='library')renderLibrary();if(view==='conjugation')loadConjugation();
 }
 
-const conjugationState={forms:[],verbs:[],keigo:null,quick:null,quickVerb:'待ちます',formId:'dictionary',section:'basic',group:'ALL',query:'',revealed:false,loaded:false};
+const conjugationState={forms:[],verbs:[],keigo:null,quick:null,plain:null,quickVerb:'待ちます',plainType:'verb',formId:'dictionary',section:'basic',group:'ALL',query:'',revealed:false,loaded:false};
 async function loadConjugation(){
   if(conjugationState.loaded)return;
   try{
-    const [forms,verbs,keigo,quick]=await Promise.all(['./data/conjugation/forms.json','./data/conjugation/verbs.json','./data/conjugation/keigo.json','./data/conjugation/quick-reference.json'].map(async path=>{const r=await fetch(path,{cache:'no-cache'});if(!r.ok)throw new Error(path);return r.json();}));
-    conjugationState.forms=forms;conjugationState.verbs=verbs;conjugationState.keigo=keigo;conjugationState.quick=quick;conjugationState.loaded=true;renderConjugation();
+    const [forms,verbs,keigo,quick,plain]=await Promise.all(['./data/conjugation/forms.json','./data/conjugation/verbs.json','./data/conjugation/keigo.json','./data/conjugation/quick-reference.json','./data/conjugation/plain-forms.json'].map(async path=>{const r=await fetch(path,{cache:'no-cache'});if(!r.ok)throw new Error(path);return r.json();}));
+    conjugationState.forms=forms;conjugationState.verbs=verbs;conjugationState.keigo=keigo;conjugationState.quick=quick;conjugationState.plain=plain;conjugationState.loaded=true;renderConjugation();
   }catch(error){$('#conjugation-rule-card').textContent='詞形資料暫時載入唔到。';console.error(error);}
 }
 function selectedConjugation(){return conjugationState.forms.find(form=>form.id===conjugationState.formId);}
@@ -230,9 +230,16 @@ function renderConjugation(){
 function politeForms(verb){const [kanji,kana]=verb.masu;return {present:[kanji,kana],past:[kanji.replace('ます','ました'),kana.replace('ます','ました')],negative:[kanji.replace('ます','ません'),kana.replace('ます','ません')],negativePast:[kanji.replace('ます','ませんでした'),kana.replace('ます','ませんでした')]};}
 function renderConjugationReference(){
   const root=$('#conjugation-reference');
-  if(conjugationState.section==='plain'){const verb=conjugationState.verbs.find(item=>item.id==='go');const polite=politeForms(verb),f=verb.forms;root.innerHTML=`<article class="plain-card"><p class="eyebrow">大家的日本語 · 第20課</p><h2>普通形整理</h2><p>普通形は四つの組み合わせで整理します。辞書形・ない形・た形は、この表の一部です。</p><div class="plain-grid"><div></div><b>非過去</b><b>過去</b><b>肯定</b><section><small>丁寧形</small><strong>${polite.present[0]}</strong><small>普通形</small><strong>${f.dictionary[0]}</strong></section><section><small>丁寧形</small><strong>${polite.past[0]}</strong><small>普通形</small><strong>${f.ta[0]}</strong></section><b>否定</b><section><small>丁寧形</small><strong>${polite.negative[0]}</strong><small>普通形</small><strong>${f.nai[0]}</strong></section><section><small>丁寧形</small><strong>${polite.negativePast[0]}</strong><small>普通形</small><strong>${f.nakatta[0]}</strong></section></div><small class="source-note">來源：g_1_20.pdf</small></article>`;return;}
+  if(conjugationState.section==='plain'){renderPlainReference(root);return;}
   if(conjugationState.section==='quick'){renderQuickReference(root);return;}
   const renderKeigo=(type,label,description)=>{const data=conjugationState.keigo[type];return `<section class="keigo-group"><div class="keigo-heading"><p class="eyebrow">ADVANCED REFERENCE · 大家的日本語 · 第${data.lesson}課</p><h2>${label}</h2><p>${description}</p></div><div class="keigo-cards">${data.cards.map(card=>`<article><h3>${card.title}</h3><p class="keigo-pattern" lang="ja">${card.pattern}</p><p>${card.note}</p><ul>${card.examples.map(example=>`<li lang="ja">${example}</li>`).join('')}</ul></article>`).join('')}</div><small class="source-note">來源：${data.sourceFile}</small></section>`;};root.innerHTML=renderKeigo('honorific','尊敬語','動作の主体に敬意を表す表現。')+renderKeigo('humble','謙譲語','自分の動作をへりくだって表す表現。');
+}
+function renderPlainReference(root){
+  const type=conjugationState.plainType,data=conjugationState.plain[type];
+  const values=type==='verb'?(()=>{const verb=conjugationState.verbs.find(item=>item.id===data.verbId),polite=politeForms(verb),forms=verb.forms;return {politePresentAffirmative:polite.present[0],plainPresentAffirmative:forms.dictionary[0],politePresentNegative:polite.negative[0],plainPresentNegative:forms.nai[0],politePastAffirmative:polite.past[0],plainPastAffirmative:forms.ta[0],politePastNegative:polite.negativePast[0],plainPastNegative:forms.nakatta[0]};})():data;
+  const cells=[['肯定','非過去','politePresentAffirmative','plainPresentAffirmative'],['肯定','過去','politePastAffirmative','plainPastAffirmative'],['否定','非過去','politePresentNegative','plainPresentNegative'],['否定','過去','politePastNegative','plainPastNegative']];
+  root.innerHTML=`<article class="plain-card"><p class="eyebrow">大家的日本語 · 第${data.lesson}課</p><h2>普通形整理</h2><p>品詞ごとに、非過去／過去・肯定／否定の四つで整理します。</p><div class="plain-type-selector" role="tablist" aria-label="品詞を選ぶ">${Object.entries(conjugationState.plain).map(([id,item])=>`<button class="${id===type?'active':''}" data-plain-type="${id}">${item.label}</button>`).join('')}</div><div class="plain-grid"><div></div><b>非過去</b><b>過去</b><b>肯定</b>${cells.slice(0,2).map(([, ,polite,plain])=>`<section><small>丁寧形</small><strong lang="ja">${values[polite]}</strong><small>普通形</small><strong lang="ja">${values[plain]}</strong></section>`).join('')}<b>否定</b>${cells.slice(2).map(([, ,polite,plain])=>`<section><small>丁寧形</small><strong lang="ja">${values[polite]}</strong><small>普通形</small><strong lang="ja">${values[plain]}</strong></section>`).join('')}</div><p class="plain-summary">${data.summary}</p><small class="source-note">來源：${data.sourceFile}</small></article>`;
+  $$('[data-plain-type]').forEach(button=>button.addEventListener('click',()=>{conjugationState.plainType=button.dataset.plainType;renderPlainReference(root);}));
 }
 function renderQuickReference(root){
   const groupI=conjugationState.quick.groupI, eat=conjugationState.verbs.find(item=>item.id==='eat'), come=conjugationState.verbs.find(item=>item.id==='come'), doVerb=conjugationState.verbs.find(item=>item.id==='do');
