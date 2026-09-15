@@ -116,7 +116,7 @@
     "lesson": 7,
     "kana": "かけます [でんわを～]",
     "kanji": "かけます [電話を～]",
-    "meaningZh": "打〔電話〕",
+    "meaningZh": "打〔打電話〕",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
@@ -559,7 +559,7 @@
     "lesson": 7,
     "kana": "しつれいします。",
     "kanji": "失礼します。",
-    "meaningZh": "對不起。／打擾了。",
+    "meaningZh": "對不起。/ 打擾了。",
     "category": "其他",
     "source": {
       "type": "school_pdf",
@@ -572,7 +572,7 @@
     "book": "初級 I",
     "lesson": 7,
     "kana": "[コーヒーは] いかがですか。",
-    "meaningZh": "[咖啡]怎麽樣？（你喝咖啡嗎？）（推薦某物給他人時用）",
+    "meaningZh": "[咖啡]怎麽樣？（你喝咖啡嗎？）(推薦某物給他人時用)",
     "category": "其他",
     "source": {
       "type": "school_pdf",
@@ -585,7 +585,7 @@
     "book": "初級 I",
     "lesson": 7,
     "kana": "いただきます。",
-    "meaningZh": "謝謝。/ 我不客氣了。(用在 吃、喝之前)",
+    "meaningZh": "謝謝。/ 我不客氣了。(用在吃、喝之前)",
     "category": "其他",
     "source": {
       "type": "school_pdf",
