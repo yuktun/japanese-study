@@ -286,7 +286,27 @@ $('#lesson-select').addEventListener('change',event=>{state.lesson=Number(event.
 $('#rating-options').addEventListener('change',event=>{state.ratingEnabled=event.target.checked;localStorage.setItem('jp-study-rating-options',String(state.ratingEnabled));resetDeck();showToast(state.ratingEnabled?'已開啟熟悉度評分':'已關閉熟悉度評分');});
 $('#card-direction').addEventListener('change',event=>{state.direction=event.target.value;resetDeck();});
 $('#shuffle-button').addEventListener('click',()=>{resetDeck(true);showToast('卡片已經洗牌');});
-$('#flashcard').addEventListener('click',()=>state.revealed?hideAnswer():revealCard());
+const flashcardSwipe={pointerId:null,startX:0,startY:0,ignoreClick:false};
+const flashcard=$('#flashcard');
+flashcard.addEventListener('pointerdown',event=>{
+  if(event.pointerType!=='touch'||!event.isPrimary||event.target.closest('button,input,select,a'))return;
+  flashcardSwipe.ignoreClick=false;
+  flashcardSwipe.pointerId=event.pointerId;
+  flashcardSwipe.startX=event.clientX;
+  flashcardSwipe.startY=event.clientY;
+});
+flashcard.addEventListener('pointerup',event=>{
+  if(event.pointerId!==flashcardSwipe.pointerId)return;
+  const horizontal=event.clientX-flashcardSwipe.startX,vertical=event.clientY-flashcardSwipe.startY;
+  flashcardSwipe.pointerId=null;
+  if(Math.abs(vertical)>10&&Math.abs(vertical)>Math.abs(horizontal)){flashcardSwipe.ignoreClick=true;return;}
+  if(Math.abs(horizontal)<50||Math.abs(horizontal)<=Math.abs(vertical))return;
+  flashcardSwipe.ignoreClick=true;
+  if(horizontal<0){if(state.index<state.deck.length-1)nextQuickCard();}
+  else previousQuickCard();
+});
+flashcard.addEventListener('pointercancel',()=>{flashcardSwipe.pointerId=null;});
+flashcard.addEventListener('click',()=>{if(flashcardSwipe.ignoreClick){flashcardSwipe.ignoreClick=false;return;}state.revealed?hideAnswer():revealCard();});
 $('#flashcard').addEventListener('keydown',event=>{if(event.key==='Enter'){event.preventDefault();state.revealed?hideAnswer():revealCard();}});
 $('#card-jump').addEventListener('change',event=>{const target=Math.max(1,Math.min(state.deck.length,Number(event.target.value)||1));state.index=target-1;state.revealed=false;renderCard();});
 $('#search-input').addEventListener('input',event=>{state.library.query=event.target.value;updateLibraryFilterControls();saveLibraryFilters();renderLibrary();});
@@ -300,5 +320,5 @@ $('#clear-filters').addEventListener('click',()=>{state.library={query:'',years:
 document.addEventListener('click',event=>{if(!event.target.closest('.library-filter'))closeFilterMenus();});
 document.addEventListener('dblclick',event=>event.preventDefault(),{passive:false});
 document.addEventListener('keydown',event=>{if(event.key==='Escape'){const open=$('.library-filter .filter-menu:not([hidden])');if(open){const root=open.closest('.library-filter');closeFilterMenus();root.querySelector('.filter-trigger').focus();}}});
-document.addEventListener('keydown',event=>{if(state.view!=='review'||/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName))return;if(!state.ratingEnabled){if(!state.revealed&&event.code==='Space'){event.preventDefault();revealCard();}else if(state.revealed&&(event.code==='Space'||event.key==='ArrowRight')){event.preventDefault();nextQuickCard();}else if(event.key==='ArrowLeft'){event.preventDefault();previousQuickCard();}return;}if(event.code==='Space'&&!state.revealed){event.preventDefault();revealCard();}if(state.revealed&&['1','2','3'].includes(event.key))rateCard({1:'again',2:'hard',3:'good'}[event.key]);});
+document.addEventListener('keydown',event=>{if(state.view!=='review'||/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName))return;if(event.key==='ArrowRight'){event.preventDefault();nextQuickCard();return;}if(event.key==='ArrowLeft'){event.preventDefault();previousQuickCard();return;}if(!state.ratingEnabled){if(!state.revealed&&event.code==='Space'){event.preventDefault();revealCard();}else if(state.revealed&&event.code==='Space'){event.preventDefault();nextQuickCard();}return;}if(event.code==='Space'&&!state.revealed){event.preventDefault();revealCard();}if(state.revealed&&['1','2','3'].includes(event.key))rateCard({1:'again',2:'hard',3:'good'}[event.key]);});
 applyTheme(document.documentElement.dataset.theme||'light');updateToday();loadData();
