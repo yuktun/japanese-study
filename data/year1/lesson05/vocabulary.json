@@ -269,6 +269,7 @@
     "book": "初級 I",
     "lesson": 5,
     "kana": "バス",
+    "kanji": "バス",
     "meaningZh": "公車、巴士",
     "category": "名詞",
     "source": {
@@ -668,48 +669,6 @@
     }
   },
   {
-    "id": "y1-l05-v049",
-    "schoolYear": 1,
-    "book": "初級 I",
-    "lesson": 5,
-    "kana": "～がつ",
-    "kanji": "～月",
-    "meaningZh": "～月",
-    "category": "其他",
-    "source": {
-      "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
-  },
-  {
-    "id": "y1-l05-v050",
-    "schoolYear": 1,
-    "book": "初級 I",
-    "lesson": 5,
-    "kana": "～にち",
-    "kanji": "～日",
-    "meaningZh": "～日、～號",
-    "category": "其他",
-    "source": {
-      "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
-  },
-  {
-    "id": "y1-l05-v051",
-    "schoolYear": 1,
-    "book": "初級 I",
-    "lesson": 5,
-    "kana": "～ねん",
-    "kanji": "～年",
-    "meaningZh": "～年",
-    "category": "其他",
-    "source": {
-      "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
-  },
-  {
     "id": "y1-l05-v052",
     "schoolYear": 1,
     "book": "初級 I",
@@ -759,6 +718,48 @@
     "kana": "いつ",
     "meaningZh": "什麼時候",
     "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v049",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "～がつ",
+    "kanji": "～月",
+    "meaningZh": "～月",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v050",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "～にち",
+    "kanji": "～日",
+    "meaningZh": "～日、～號",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l05-v051",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 5,
+    "kana": "～ねん",
+    "kanji": "～年",
+    "meaningZh": "～年",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
@@ -822,7 +823,7 @@
     "schoolYear": 1,
     "book": "初級 I",
     "lesson": 5,
-    "kana": "[どうも] ありがとう ございました。",
+    "kana": "[どうも」ありがとう ございました。",
     "meaningZh": "（非常）謝謝您。",
     "category": "其他",
     "source": {
