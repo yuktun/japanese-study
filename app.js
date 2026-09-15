@@ -201,6 +201,20 @@ function updateLibraryFilterControls(){
 }
 function closeFilterMenus(except=null){$$('.library-filter').forEach(root=>{if(root===except)return;root.querySelector('.filter-menu').hidden=true;root.querySelector('.filter-trigger').setAttribute('aria-expanded','false');});}
 function clearLibraryFilter(key){state.library[key]=[];$(`[data-library-filter="${key}"]`).querySelectorAll('input').forEach(input=>input.checked=false);if(key==='years')refreshLibraryLessonFilter();updateLibraryFilterControls();saveLibraryFilters();renderLibrary();}
+const drawerBackdrop=$('#drawer-backdrop');
+let drawerHideTimer;
+function setDrawerOpen(open){
+  const sidebar=$('.sidebar'),menuButton=$('#menu-button');
+  clearTimeout(drawerHideTimer);
+  sidebar.classList.toggle('open',open);
+  menuButton.setAttribute('aria-expanded',String(open));
+  menuButton.setAttribute('aria-label',open?'關閉選單':'開啟選單');
+  menuButton.textContent=open?'×':'☰';
+  document.body.classList.toggle('drawer-open',open&&window.matchMedia('(max-width:780px)').matches);
+  if(open){drawerBackdrop.hidden=false;requestAnimationFrame(()=>drawerBackdrop.classList.add('is-visible'));return;}
+  drawerBackdrop.classList.remove('is-visible');
+  drawerHideTimer=setTimeout(()=>{if(!sidebar.classList.contains('open'))drawerBackdrop.hidden=true;},200);
+}
 
 function renderLibrary(){
   const query=normalizeSearch(state.library.query.trim()),mastered=masteredIds();
@@ -213,7 +227,7 @@ function renderLibrary(){
 
 function switchView(view){
   state.view=view;$$('.view').forEach(panel=>panel.classList.toggle('active',panel.id===`${view}-view`));$$('.nav-item').forEach(item=>item.classList.toggle('active',item.dataset.view===view));
-  $('.sidebar').classList.remove('open');$('#menu-button').setAttribute('aria-expanded','false');if(view==='library')renderLibrary();if(view==='conjugation')loadConjugation();
+  setDrawerOpen(false);if(view==='library')renderLibrary();if(view==='conjugation')loadConjugation();
 }
 
 const conjugationState={forms:[],verbs:[],keigo:null,quick:null,plain:null,derived:null,quickVerb:'待ちます',plainType:'verb',formId:'dictionary',section:'basic',group:'ALL',query:'',revealed:false,loaded:false};
@@ -278,7 +292,9 @@ function showToast(message){const toast=$('#toast');toast.textContent=message;to
 function applyTheme(theme){document.documentElement.dataset.theme=theme;localStorage.setItem('jp-study-theme',theme);const dark=theme==='dark';$('#theme-icon').textContent=dark?'☀':'☾';$('#theme-toggle').setAttribute('aria-label',dark?'切換至日間模式':'切換至夜間模式');document.querySelector('meta[name="theme-color"]').content=dark?'#030712':'#f8fafc';}
 
 $$('.nav-item').forEach(item=>item.addEventListener('click',()=>switchView(item.dataset.view)));
-$('#menu-button').addEventListener('click',()=>{const open=$('.sidebar').classList.toggle('open');$('#menu-button').setAttribute('aria-expanded',String(open));});
+$('#menu-button').addEventListener('click',()=>setDrawerOpen(!$('.sidebar').classList.contains('open')));
+drawerBackdrop.addEventListener('click',()=>setDrawerOpen(false));
+window.matchMedia('(max-width:780px)').addEventListener('change',event=>{if(!event.matches)setDrawerOpen(false);});
 $('#theme-toggle').addEventListener('click',()=>applyTheme(document.documentElement.dataset.theme==='dark'?'light':'dark'));
 $('#deck-type').addEventListener('change',event=>{state.type=event.target.value;resetDeck();});
 $('#year-select').addEventListener('change',event=>{state.year=Number(event.target.value);populateLessonSelect(null);resetDeck();});
@@ -319,6 +335,6 @@ $$('.library-filter').forEach(root=>{
 $('#clear-filters').addEventListener('click',()=>{state.library={query:'',years:[],lessons:[],types:[]};$('#search-input').value='';$$('.library-filter input').forEach(input=>input.checked=false);refreshLibraryLessonFilter();updateLibraryFilterControls();saveLibraryFilters();renderLibrary();});
 document.addEventListener('click',event=>{if(!event.target.closest('.library-filter'))closeFilterMenus();});
 document.addEventListener('dblclick',event=>event.preventDefault(),{passive:false});
-document.addEventListener('keydown',event=>{if(event.key==='Escape'){const open=$('.library-filter .filter-menu:not([hidden])');if(open){const root=open.closest('.library-filter');closeFilterMenus();root.querySelector('.filter-trigger').focus();}}});
+document.addEventListener('keydown',event=>{if(event.key==='Escape'){if($('.sidebar').classList.contains('open')){setDrawerOpen(false);$('#menu-button').focus();return;}const open=$('.library-filter .filter-menu:not([hidden])');if(open){const root=open.closest('.library-filter');closeFilterMenus();root.querySelector('.filter-trigger').focus();}}});
 document.addEventListener('keydown',event=>{if(state.view!=='review'||/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName))return;if(event.key==='ArrowRight'){event.preventDefault();nextQuickCard();return;}if(event.key==='ArrowLeft'){event.preventDefault();previousQuickCard();return;}if(!state.ratingEnabled){if(!state.revealed&&event.code==='Space'){event.preventDefault();revealCard();}else if(state.revealed&&event.code==='Space'){event.preventDefault();nextQuickCard();}return;}if(event.code==='Space'&&!state.revealed){event.preventDefault();revealCard();}if(state.revealed&&['1','2','3'].includes(event.key))rateCard({1:'again',2:'hard',3:'good'}[event.key]);});
 applyTheme(document.documentElement.dataset.theme||'light');updateToday();loadData();
