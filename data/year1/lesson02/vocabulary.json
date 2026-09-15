@@ -525,7 +525,7 @@
     "category": "其他",
     "kana": "あのう",
     "kanji": "",
-    "meaningZh": "那個…（我想說…）（用於表示躊躇）",
+    "meaningZh": "那個…（我想說…)(用於表示躊躇）",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch2.pdf.pdf"
@@ -581,7 +581,7 @@
     "category": "其他",
     "kana": "そうですか。",
     "kanji": "",
-    "meaningZh": "[↓]這樣啊。我了解了。／[↑]是嗎？（[↓][↑]表示聲調）",
+    "meaningZh": "[↓]這樣啊。我了解了。/[↑]是嗎？ （*[↓][↑]表示聲調）",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch2.pdf.pdf"
@@ -595,7 +595,7 @@
     "category": "其他",
     "kana": "ちがいます。",
     "kanji": "違います。",
-    "meaningZh": "不對／不是。",
+    "meaningZh": "不對/不是。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch2.pdf.pdf"
@@ -609,7 +609,7 @@
     "category": "其他",
     "kana": "どうぞ。",
     "kanji": "",
-    "meaningZh": "請／給你。",
+    "meaningZh": "請/給你。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch2.pdf.pdf"
@@ -635,7 +635,7 @@
     "book": "初級 I",
     "lesson": 2,
     "category": "其他",
-    "kana": "[どうも] ありがとう [ございます]。",
+    "kana": "[どうも」ありがとう ［ございます]。",
     "kanji": "",
     "meaningZh": "（非常）謝謝您。",
     "source": {
@@ -649,9 +649,9 @@
     "book": "初級 I",
     "lesson": 2,
     "category": "其他",
-    "kana": "こちらこそ [どうぞ] よろしく [おねがいします]。",
-    "kanji": "こちらこそ [どうぞ] よろしく [お願いします]。",
-    "meaningZh": "哪裡哪裡，請多關照。（用於回應「どうぞよろしく」時）",
+    "kana": "こちらこそ [どうぞ」よろしく [おねがいします]。",
+    "kanji": "こちらこそ [どうぞ」よろしく [お願いします]。",
+    "meaningZh": "哪裡哪裡，請多關照。（用於回應｢どうぞ よろしく｣ 時）",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch2.pdf.pdf"
