@@ -287,6 +287,13 @@
       "lesson": 40,
       "vocabulary": "./data/year2/lesson40/vocabulary.json",
       "grammar": "./data/year2/lesson40/grammar.json"
+    },
+    {
+      "schoolYear": 3,
+      "book": "初級 II",
+      "lesson": 43,
+      "vocabulary": "./data/year3/lesson43/vocabulary.json",
+      "grammar": "./data/year3/lesson43/grammar.json"
     }
   ]
 }
