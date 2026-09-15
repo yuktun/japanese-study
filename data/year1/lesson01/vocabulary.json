@@ -49,7 +49,7 @@
     "category": "名詞",
     "kana": "あの かた",
     "kanji": "あの 方",
-    "meaningZh": "他、她、那個人（禮貌形）",
+    "meaningZh": "他、她、那個人（“あのかた”是“あのひと”的禮貌形）",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
@@ -91,8 +91,7 @@
     "category": "名詞",
     "kana": "しゃいん",
     "kanji": "社員",
-    "meaningZh": "～公司的職員",
-    "notes": "和公司名稱一起使用，如 IMCのしゃいん",
+    "meaningZh": "～公司的職員（和公司的名稱一起使用，如ＩＭＣのしゃいん）",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
@@ -139,5 +138,236 @@
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
     }
+  },
+  {
+    "id": "y1-l01-v011",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "名詞",
+    "kana": "せんせい",
+    "kanji": "先生",
+    "meaningZh": "老師、教導者",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v012",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "名詞",
+    "kana": "がくせい",
+    "kanji": "学生",
+    "meaningZh": "學生",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v013",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "名詞",
+    "kana": "だいがく",
+    "kanji": "大学",
+    "meaningZh": "大學",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v014",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "名詞",
+    "kana": "びょういん",
+    "kanji": "病院",
+    "meaningZh": "醫院",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v019",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "疑問詞",
+    "kana": "だれ",
+    "kanji": "",
+    "meaningZh": "誰（哪位）",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v020",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "疑問詞",
+    "kana": "どなた",
+    "kanji": "",
+    "meaningZh": "誰（哪位）（“どなた”是“だれ”的禮貌形）",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v021",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "疑問詞",
+    "kana": "なんさい",
+    "kanji": "何歳",
+    "meaningZh": "幾歳",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v022",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "疑問詞",
+    "kana": "おいくつ",
+    "kanji": "",
+    "meaningZh": "幾歳（“おいくつ”是“なんさい” 的禮貌形）",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v015",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "其他",
+    "kana": "～さい",
+    "kanji": "～歳",
+    "meaningZh": "～歳",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v016",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "其他",
+    "kana": "～さん",
+    "kanji": "",
+    "meaningZh": "～先生、～小姐、～女士",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v017",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "其他",
+    "kana": "～ちゃん",
+    "kanji": "",
+    "meaningZh": "（用於小孩的名字後）",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v018",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "其他",
+    "kana": "～じん",
+    "kanji": "～人",
+    "meaningZh": "（表國籍，如“アメリカじん”）",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v023",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "其他",
+    "kana": "はい",
+    "kanji": "",
+    "meaningZh": "是、對",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v024",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "其他",
+    "kana": "いいえ",
+    "kanji": "",
+    "meaningZh": "不、不是",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v025",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "其他",
+    "kana": "しつれいですが",
+    "kanji": "失礼ですが",
+    "meaningZh": "冒昧請教一下",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v026",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "其他",
+    "kana": "おなまえは？",
+    "kanji": "お名前は?",
+    "meaningZh": "您貴姓？",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v027",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "其他",
+    "kana": "はじめまして。",
+    "kanji": "初めまして。",
+    "meaningZh": "初次見面。（第一次見面的寒喧）",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v028",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "其他",
+    "kana": "～から きました。",
+    "kanji": "～から 来ました。",
+    "meaningZh": "我從～來。",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v029",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "其他",
+    "kana": "こちらは ～さんです。",
+    "kanji": "",
+    "meaningZh": "這位是～先生/小姐。",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v030",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "其他",
+    "kana": "[どうぞ] よろしく [おねがいします]。",
+    "kanji": "[どうぞ] よろしく [お願いします]。",
+    "meaningZh": "請多關照。（第一次見面的問候語）",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+  },
+  {
+    "id": "y1-l01-v031",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 1,
+    "category": "其他",
+    "kana": "よろしく [おねがいします]。",
+    "kanji": "よろしく [お願いします]。",
+    "meaningZh": "請多關照。（第一次見面的問候語）",
+    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
   }
 ]
