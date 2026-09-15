@@ -116,8 +116,8 @@
     "book": "初級 I",
     "lesson": 8,
     "kana": "[お] しごと",
-    "kanji": "[お] 仕事",
-    "meaningZh": "工作、職業（～をします：工作）",
+    "kanji": "[お」仕事",
+    "meaningZh": "工作、職業（～をします︰工作）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -580,32 +580,6 @@
     }
   },
   {
-    "id": "y1-l08-v043",
-    "schoolYear": 1,
-    "book": "初級 I",
-    "lesson": 8,
-    "kana": "どう",
-    "meaningZh": "怎麼樣",
-    "category": "疑問詞",
-    "source": {
-      "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
-  },
-  {
-    "id": "y1-l08-v044",
-    "schoolYear": 1,
-    "book": "初級 I",
-    "lesson": 8,
-    "kana": "どんな～",
-    "meaningZh": "什麼樣的～",
-    "category": "疑問詞",
-    "source": {
-      "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
-  },
-  {
     "id": "y1-l08-v045",
     "schoolYear": 1,
     "book": "初級 I",
@@ -632,12 +606,38 @@
     }
   },
   {
+    "id": "y1-l08-v043",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "どう",
+    "meaningZh": "怎麼樣",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l08-v044",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 8,
+    "kana": "どんな～",
+    "meaningZh": "什麼樣的～",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
+    }
+  },
+  {
     "id": "y1-l08-v047",
     "schoolYear": 1,
     "book": "初級 I",
     "lesson": 8,
     "kana": "そして",
-    "meaningZh": "而且，還有〔用於接續句子 〕",
+    "meaningZh": "而且，還有〔用於接續句子〕",
     "category": "其他",
     "source": {
       "type": "school_pdf",
@@ -730,7 +730,7 @@
     "book": "初級 I",
     "lesson": 8,
     "kana": "そろそろ しつれいします。",
-    "kanji": "失礼します。",
+    "kanji": "そろそろ 失礼します。",
     "meaningZh": "我該告辭了。",
     "category": "其他",
     "source": {
