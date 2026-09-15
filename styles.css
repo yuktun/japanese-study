@@ -2,7 +2,7 @@
 html[data-theme="dark"]{--navy:#020617;--navy-2:#0f172a;--ink:#f1f5f9;--muted:#94a3b8;--page:#030712;--paper:#0f172a;--surface-soft:#182235;--line:#263247;--purple:#fb7185;--purple-strong:#f43f5e;--purple-soft:#3a1523;--shadow:0 22px 60px rgba(0,0,0,.32);color-scheme:dark}
 *{box-sizing:border-box}
 [hidden]{display:none!important}
-html{font-size:16px}
+html{font-size:16px;touch-action:manipulation}
 body{margin:0;background:var(--page);color:var(--ink);font-family:Inter,"Segoe UI","Noto Sans TC","Noto Sans JP",system-ui,sans-serif;line-height:1.55}
 button,input,select{font:inherit}
 button,select{cursor:pointer}
