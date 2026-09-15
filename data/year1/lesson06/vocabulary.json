@@ -541,22 +541,8 @@
     "lesson": 6,
     "kana": "[お] はなみ",
     "kanji": "[お] 花見",
-    "meaningZh": "賞櫻花（～をします：去賞櫻花）",
+    "meaningZh": "賞櫻花（～を します︰去賞櫻花）",
     "category": "名詞",
-    "source": {
-      "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch6.pdf.pdf"
-    }
-  },
-  {
-    "id": "y1-l06-v041",
-    "schoolYear": 1,
-    "book": "初級 I",
-    "lesson": 6,
-    "kana": "なに",
-    "kanji": "何",
-    "meaningZh": "什麼",
-    "category": "疑問詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch6.pdf.pdf"
@@ -610,6 +596,20 @@
     "kanji": "時々",
     "meaningZh": "時常、有時",
     "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l06-v041",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 6,
+    "kana": "なに",
+    "kanji": "何",
+    "meaningZh": "什麼",
+    "category": "疑問詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch6.pdf.pdf"
