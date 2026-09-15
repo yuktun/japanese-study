@@ -1,0 +1,406 @@
+[
+  {
+    "id": "y3-l50-v001",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "まいります",
+    "meaningZh": "來、去（「きます、い",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v002",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "おります",
+    "meaningZh": "在（「います」的謙遜",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v003",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "いただきます",
+    "meaningZh": "吃、喝、得到（「たべ",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v004",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "もうします",
+    "meaningZh": "說、叫（「いいます」",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v005",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "いたします",
+    "meaningZh": "做（「します」的謙遜",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v006",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "はいけんします",
+    "meaningZh": "看（「みます」的謙遜",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v007",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "ぞんじます",
+    "meaningZh": "知道（「知ります」的",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v008",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "うかがいます",
+    "meaningZh": "聼、詢問、拜訪（「き",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v009",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "おめにかかります",
+    "meaningZh": "見面（「会います」的",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v010",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "いれます",
+    "meaningZh": "沏、泡［咖啡］",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v011",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "よういします",
+    "meaningZh": "準備",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v012",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "きんちょうします",
+    "meaningZh": "緊張",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v013",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "かないます [ゆめが～]",
+    "meaningZh": "實現［夢想］",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v014",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "かんしゃします",
+    "meaningZh": "感謝",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v015",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "わたくし 私 我（「わたし」的謙遜語）",
+    "meaningZh": "16 わたくし 私 我（「わたし」的謙遜語）",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v016",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "ガイド - 向導、導遊",
+    "meaningZh": "向導、導遊",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v017",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "メールアドレス - 電子郵箱地址",
+    "meaningZh": "電子郵箱地址",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v018",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "スケジュール - 日程",
+    "meaningZh": "日程",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v019",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "さらいしゅう さ来週 下下個星期",
+    "meaningZh": "20 さらいしゅう さ来週 下下個星期",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v020",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "さらいげつ さ来月 下下個月",
+    "meaningZh": "21 さらいげつ さ来月 下下個月",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v021",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "さらいねん さ来年 後年",
+    "meaningZh": "22 さらいねん さ来年 後年",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v022",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "はじめに 初めに 首先",
+    "meaningZh": "23 はじめに 初めに 首先",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v023",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "しょうきん 賞金 獎金",
+    "meaningZh": "24 しょうきん 賞金 獎金",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v024",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "きりん - 長頸鹿",
+    "meaningZh": "長頸鹿",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v025",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "ころ - 時候",
+    "meaningZh": "時候",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v026",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "こころから 心から 衷心",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v027",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "えどとうきょうはくぶつか",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "固有名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v028",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "おれい お礼 致謝、感謝（表示謝意的寒",
+    "meaningZh": "すか」的尊敬語）",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v029",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "めいわくをかけます 迷惑をかけます 添麻煩",
+    "meaningZh": "31 めいわくをかけます 迷惑をかけます 添麻煩",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v030",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "いかします 生かします 發揮、運用",
+    "meaningZh": "32 いかします 生かします 發揮、運用",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l50-v031",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "ミュンヘン - 慕尼黑（德國）",
+    "meaningZh": "慕尼黑（德國）",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  }
+]
+

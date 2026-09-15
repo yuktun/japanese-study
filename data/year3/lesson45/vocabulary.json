@@ -1,0 +1,354 @@
+[
+  {
+    "id": "y3-l45-v001",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "しんじます",
+    "meaningZh": "相信",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v002",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "キャンセルします",
+    "meaningZh": "取消",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v003",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "しらせます",
+    "meaningZh": "通知",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v004",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "ゆうしょうします",
+    "meaningZh": "取勝、獲得冠軍",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v005",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "ほしょうしょ 保証書 保證書",
+    "meaningZh": "5 ほしょうしょ 保証書 保證書",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v006",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "りょうしゅうしょ 領収書 收據",
+    "meaningZh": "6 りょうしゅうしょ 領収書 收據",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v007",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "キャンプ - 露營、野營",
+    "meaningZh": "露營、野營",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v008",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "ちゅうし 中止 中止",
+    "meaningZh": "8 ちゅうし 中止 中止",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v009",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "てん 点 分數",
+    "meaningZh": "9 てん 点 分數",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v010",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "うめ 梅 梅花",
+    "meaningZh": "10 うめ 梅 梅花",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v011",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "110ばん 110番 110（報警電話、緊急呼救",
+    "meaningZh": "用）",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v012",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "119ばん 119番 119（消防署電話、緊急呼",
+    "meaningZh": "救用）",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v013",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "かかりいん 係員 工作人員",
+    "meaningZh": "13 かかりいん 係員 工作人員",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v014",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "コース - 路綫",
+    "meaningZh": "路綫",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v015",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "スタート - 出發、開始",
+    "meaningZh": "出發、開始",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v016",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "～い ～位 第～名",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v017",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "きゅうに 急に 突然",
+    "meaningZh": "17 きゅうに 急に 突然",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v018",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "むりに 無理に 勉強地",
+    "meaningZh": "19 いじょうです。 以上です。 到此結束。/我的話講完了。",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v019",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "たのしみにしています 楽しみにしています 期待著、盼望著",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v020",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "なやみ 悩み 煩惱",
+    "meaningZh": "21 なやみ 悩み 煩惱",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v021",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "めざましどけい 目覚まし時計 鬧鐘",
+    "meaningZh": "22 めざましどけい 目覚まし時計 鬧鐘",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v022",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "めがさめます 目が覚めます 醒來",
+    "meaningZh": "23 めがさめます 目が覚めます 醒來",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v023",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "だいがくせい 大学生 大學生",
+    "meaningZh": "24 だいがくせい 大学生 大學生",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v024",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "かいとう 回答 回答",
+    "meaningZh": "25 かいとう 回答 回答",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v025",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "なります 鳴ります 響",
+    "meaningZh": "26 なります 鳴ります 響",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v026",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "セットします - 設定（鬧鐘）",
+    "meaningZh": "設定（鬧鐘）",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v027",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "それでも - 儘管如此、即便那樣",
+    "meaningZh": "儘管如此、即便那樣",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  }
+]
+

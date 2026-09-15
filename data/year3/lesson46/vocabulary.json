@@ -1,0 +1,393 @@
+[
+  {
+    "id": "y3-l46-v001",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "わたします",
+    "meaningZh": "交給、遞交",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v002",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "かえってきます",
+    "meaningZh": "回來",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v003",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "でます [バスが～]",
+    "meaningZh": "[巴士] 出發",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v004",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "とどきます",
+    "meaningZh": "[包裹/東西] 送達",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v005",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "にゅうがくします",
+    "meaningZh": "進入 [大學]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v006",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "そつぎょうします",
+    "meaningZh": "[大學] 畢業",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v007",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "やきます",
+    "meaningZh": "燒、烤",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v008",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "やけます",
+    "meaningZh": "[麵包] 烤好了、[肉]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v009",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "むかいます",
+    "meaningZh": "朝著～去",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v010",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "るす 留守 不在家（「留守番」：看家",
+    "meaningZh": "1 / 311 たくはいびん 宅配便 宅急送",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v011",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "げんいん 原因 原因",
+    "meaningZh": "12 げんいん 原因 原因",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v012",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "こちら - 這邊（説話人這邊）",
+    "meaningZh": "這邊（説話人這邊）",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v013",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "～のところ ～の所 ～那兒",
+    "meaningZh": "14 ～のところ ～の所 ～那兒",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v014",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "はんとし 半年 半年",
+    "meaningZh": "15 はんとし 半年 半年",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v015",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "ガスサービスセンター - 煤氣服務中心",
+    "meaningZh": "煤氣服務中心",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v016",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "ガスレンジ - 煤氣爐",
+    "meaningZh": "煤氣爐",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v017",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "ぐあい 具合 情況、狀態",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v018",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "ちょうど - 正好、剛好",
+    "meaningZh": "正好、剛好",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v019",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "たったいま たった今 剛才、剛剛（與過去時一起",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v020",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "いまいいですか。 今いいですか。 [在本文中] 現在有空嗎？",
+    "meaningZh": "21 いまいいですか。 今いいですか。 [在本文中] 現在有空嗎？",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v021",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "もうしわけありません。 申し訳ありません。 非常抱歉。",
+    "meaningZh": "22 もうしわけありません。 申し訳ありません。 非常抱歉。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v022",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "どちらさまでしょうか。 どちら様でしょうか。 您是哪位？",
+    "meaningZh": "23 どちらさまでしょうか。 どちら様でしょうか。 您是哪位？",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v023",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "おまたせしました。 お待たせしました。 讓您久等了。",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v024",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "ついています - 運氣好",
+    "meaningZh": "運氣好",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v025",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "ゆか 床 地板",
+    "meaningZh": "26 ゆか 床 地板",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v026",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "ころびます 転びます 摔倒",
+    "meaningZh": "27 ころびます 転びます 摔倒",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v027",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "ベル - 鈴",
+    "meaningZh": "鈴",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v028",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "なります 鳴ります 響",
+    "meaningZh": "29 なります 鳴ります 響",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v029",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "あわてて 慌てて 急忙、匆匆忙忙",
+    "meaningZh": "2 / 331 じゅんばんに 順番に （按）順序",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v030",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "できごと 出来事 發生的事情",
+    "meaningZh": "32 できごと 出来事 發生的事情",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  }
+]
+

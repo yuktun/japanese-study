@@ -1,0 +1,666 @@
+[
+  {
+    "id": "y3-l42-v001",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "つつみます",
+    "meaningZh": "包、包上",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v002",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "わかします",
+    "meaningZh": "燒開",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v003",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "まぜます",
+    "meaningZh": "攪拌、混合",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v004",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "けいさんします",
+    "meaningZh": "計算",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v005",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "ならびます",
+    "meaningZh": "排列、排隊",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v006",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "でます [ボーナスが]",
+    "meaningZh": "發 [獎金]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v007",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "アパート - 公寓、公共住宅",
+    "meaningZh": "公寓、公共住宅",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v008",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "べんごし 弁護士 律師",
+    "meaningZh": "9 べんごし 弁護士 律師",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v009",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "おんがくか 音楽家 音樂家",
+    "meaningZh": "10 おんがくか 音楽家 音樂家",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v010",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "こどもたち 子どもたち 孩子們",
+    "meaningZh": "11 こどもたち 子どもたち 孩子們",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v011",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "しぜん 自然 自然",
+    "meaningZh": "12 しぜん 自然 自然",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v012",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "きょういく 教育 教育",
+    "meaningZh": "13 きょういく 教育 教育",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v013",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "ぶんか 文化 文化",
+    "meaningZh": "14 ぶんか 文化 文化",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v014",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "しゃかい 社会 社會",
+    "meaningZh": "15 しゃかい 社会 社會",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v015",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "せいじ 政治 政治",
+    "meaningZh": "1 / 317 ほうりつ 法律 法律",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v016",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "せんそう 戦争 戰爭",
+    "meaningZh": "18 せんそう 戦争 戰爭",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v017",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "へいわ 平和 和平",
+    "meaningZh": "19 へいわ 平和 和平",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v018",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "もくてき 目的 目的",
+    "meaningZh": "20 もくてき 目的 目的",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v019",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "ろんぶん 論文 論文",
+    "meaningZh": "21 ろんぶん 論文 論文",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v020",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "たのしみ 楽しみ 期待、盼望、樂趣",
+    "meaningZh": "22 たのしみ 楽しみ 期待、盼望、樂趣",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v021",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "ミキサー - 攪拌機",
+    "meaningZh": "攪拌機",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v022",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "やかん - （燒開水的）水壺",
+    "meaningZh": "（燒開水的）水壺",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v023",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "ふた - 蓋子",
+    "meaningZh": "蓋子",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v024",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "せんぬき 栓抜き 開瓶器",
+    "meaningZh": "26 せんぬき 栓抜き 開瓶器",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v025",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "かんきり 缶切り 罐頭刀",
+    "meaningZh": "27 かんきり 缶切り 罐頭刀",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v026",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "かんづめ 缶詰 罐頭",
+    "meaningZh": "28 かんづめ 缶詰 罐頭",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v027",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "のしぶくろ のし袋 裝賀禮用的信封",
+    "meaningZh": "29 のしぶくろ のし袋 裝賀禮用的信封",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v028",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "ふろしき - 包裹布",
+    "meaningZh": "包裹布",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v029",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "そろばん - 算盤",
+    "meaningZh": "算盤",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v030",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "たいおんけい 体温計 體溫計",
+    "meaningZh": "32 たいおんけい 体温計 體溫計",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v031",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "ざいりょう 材料 材料",
+    "meaningZh": "33 ざいりょう 材料 材料",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v032",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "ローン - 貸款",
+    "meaningZh": "貸款",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v033",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "はんぶん 半分 一半",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v034",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "じょうぶ [な] 丈夫 [な] 結實、堅固",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v035",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "いっしょうけんめい 一生懸命 努力地、拼命地",
+    "meaningZh": "爲什麽",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v036",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "どのくらい - 多少",
+    "meaningZh": "多少",
+    "category": "疑問詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v037",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "ある～ - 某～",
+    "meaningZh": "某～",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v038",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "こくれん 国連 聯合國",
+    "meaningZh": "40 こくれん 国連 聯合國",
+    "category": "固有名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v039",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "エリーゼのために - 獻給愛麗絲",
+    "meaningZh": "獻給愛麗絲",
+    "category": "固有名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v040",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "ベートーベン - 貝多芬（德國作曲家、1770",
+    "meaningZh": "貝多芬（德國作曲家、1770",
+    "category": "固有名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v041",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "カップめん - 杯麵",
+    "meaningZh": "杯麵",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v042",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "せかいはつ 世界初 世界最初",
+    "meaningZh": "44 せかいはつ 世界初 世界最初",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v043",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "～によって - 由～、被～",
+    "meaningZh": "由～、被～",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v044",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "どんぶり - 大碗",
+    "meaningZh": "大碗",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v045",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "めん - 麵",
+    "meaningZh": "麵",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v046",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "ひろめます 広めます 擴大、推廣",
+    "meaningZh": "48 ひろめます 広めます 擴大、推廣",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v047",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "しじょうちょうさ 市場調査 市場調查",
+    "meaningZh": "49 しじょうちょうさ 市場調査 市場調查",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v048",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "わります 割ります 分、割、切",
+    "meaningZh": "50 わります 割ります 分、割、切",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v049",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "そそぎます 注ぎます 注入、灌入、倒入",
+    "meaningZh": "51 そそぎます 注ぎます 注入、灌入、倒入",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v050",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "チキンラーメン - [商品名稱] 雞湯麵",
+    "meaningZh": "[商品名稱] 雞湯麵",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l42-v051",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 42,
+    "kana": "あんどうももふく 安藤百福 安藤百福（日本實業家、發",
+    "meaningZh": "明家、1910-2007）",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+    }
+  }
+]
+

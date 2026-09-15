@@ -1,0 +1,536 @@
+[
+  {
+    "id": "y3-l44-v001",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "なきます",
+    "meaningZh": "哭",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v002",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "わらいます",
+    "meaningZh": "笑",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v003",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "ねむります",
+    "meaningZh": "睡、睡着",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v004",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "かわきます",
+    "meaningZh": "[襯衫] 乾了",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v005",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "ぬれます [シャツが～]",
+    "meaningZh": "[襯衫] 濕了",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v006",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "すべります",
+    "meaningZh": "滑",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v007",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "おきます [じこが～]",
+    "meaningZh": "發生 [事故]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v008",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "ちょうせつします",
+    "meaningZh": "調節",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v009",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "くうき 空気 空氣",
+    "meaningZh": "16 くうき 空気 空氣",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v010",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "なみだ 涙 眼淚",
+    "meaningZh": "17 なみだ 涙 眼淚",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v011",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "わしょく 和食 日本餐",
+    "meaningZh": "18 わしょく 和食 日本餐",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v012",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "ようしょく 洋食 西餐",
+    "meaningZh": "19 ようしょく 洋食 西餐",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v013",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "おかず - 菜餚",
+    "meaningZh": "菜餚",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v014",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "シングル - 單人間",
+    "meaningZh": "單人間",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v015",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "ツイン - 雙人間",
+    "meaningZh": "雙人間",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v016",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "せんたくもの 洗濯物 洗滌的衣物",
+    "meaningZh": "24 せんたくもの 洗濯物 洗滌的衣物",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v017",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "カット - 剪髮",
+    "meaningZh": "剪髮",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v018",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "シャンプー - 洗髮",
+    "meaningZh": "洗髮",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v019",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "ショート - 短髮",
+    "meaningZh": "短髮",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v020",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "こい 濃い （味道）濃、（顔色）深",
+    "meaningZh": "9 こい 濃い （味道）濃、（顔色）深",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v021",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "うすい 薄い （味道）淡、（顔色）淺、",
+    "meaningZh": "薄",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v022",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "あつい 厚い 厚",
+    "meaningZh": "11 あつい 厚い 厚",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v023",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "ふとい 太い 粗",
+    "meaningZh": "12 ふとい 太い 粗",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v024",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "ほそい 細い 細",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v025",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "あんぜん [な] 安全 [な] 安全",
+    "meaningZh": "14 あんぜん [な] 安全 [な] 安全",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v026",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "きけん [な] 危険 [な] 危險",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v027",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "－ばい －倍 －倍",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v028",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "どうなさいますか。 - 您要怎麽弄？",
+    "meaningZh": "您要怎麽弄？",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v029",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "どういうふうになさいます",
+    "meaningZh": "請做成像～的樣子。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v030",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "これでよろしいでしょうか",
+    "meaningZh": "- 這樣可以嗎？（禮貌説法）",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v031",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "[どうも]",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v032",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "いやがります 嫌がります 討厭、不喜歡（用於第三人",
+    "meaningZh": "稱）",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v033",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "また - 還、更",
+    "meaningZh": "還、更",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v034",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "うまく - ～得好",
+    "meaningZh": "～得好",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v035",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "じゅんじょ 順序 順序",
+    "meaningZh": "37 じゅんじょ 順序 順序",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v036",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "あんしん [な] 安心 [な] 安心、放心",
+    "meaningZh": "38 あんしん [な] 安心 [な] 安心、放心",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v037",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "ひょうげん 表現 表達、措詞",
+    "meaningZh": "39 ひょうげん 表現 表達、措詞",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v038",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "たとえば 例えば 例如",
+    "meaningZh": "40 たとえば 例えば 例如",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v039",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "わかれます 別れます 分別、分離",
+    "meaningZh": "41 わかれます 別れます 分別、分離",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v040",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "これら - 這些",
+    "meaningZh": "這些",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v041",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "えんぎがわるい 縁起が悪い 不吉利",
+    "meaningZh": "43 えんぎがわるい 縁起が悪い 不吉利",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  }
+]
+

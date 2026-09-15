@@ -1,0 +1,419 @@
+[
+  {
+    "id": "y3-l47-v001",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "ふきます [かぜが～]",
+    "meaningZh": "刮 [風]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v002",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "もえます [ごみが～]",
+    "meaningZh": "[垃圾] 燃燒",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v003",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "なくなります",
+    "meaningZh": "去世（「死にます」的",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v004",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "あつまります",
+    "meaningZh": "聚集了 [很多人]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v005",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "わかれます [ひとが～]",
+    "meaningZh": "[與人] 分手、分別",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v006",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "します",
+    "meaningZh": "有 [聲音] 有 [味道] 有",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v007",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "こんやくします",
+    "meaningZh": "訂婚",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v008",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "しりあいます",
+    "meaningZh": "認識、結識",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v009",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "じっけん 実験 實驗",
+    "meaningZh": "12 じっけん 実験 實驗",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v010",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "データ - 數據",
+    "meaningZh": "數據",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v011",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "じんこう 人口 人口",
+    "meaningZh": "氣味",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v012",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "かがく 科学 科學",
+    "meaningZh": "16 かがく 科学 科學",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v013",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "いがく 医学 醫學",
+    "meaningZh": "17 いがく 医学 醫學",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v014",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "ぶんがく 文学 文學",
+    "meaningZh": "18 ぶんがく 文学 文學",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v015",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "パトカー - 警車",
+    "meaningZh": "警車",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v016",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "きゅうきゅうしゃ 救急車 救護車",
+    "meaningZh": "20 きゅうきゅうしゃ 救急車 救護車",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v017",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "さんせい 賛成 贊成",
+    "meaningZh": "21 さんせい 賛成 贊成",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v018",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "はんたい 反対 反對",
+    "meaningZh": "22 はんたい 反対 反對",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v019",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "だいとうりょう 大統領 總統",
+    "meaningZh": "23 だいとうりょう 大統領 總統",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v020",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "こいびと 恋人 戀人",
+    "meaningZh": "24 こいびと 恋人 戀人",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v021",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "あいて 相手 對方",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v022",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "きびしい 厳しい 嚴格、嚴厲",
+    "meaningZh": "9 きびしい 厳しい 嚴格、嚴厲",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v023",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "ひどい - 嚴重、厲害",
+    "meaningZh": "嚴重、厲害",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v024",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "こわい 怖い 害怕、可怕",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v025",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "どうも - 似乎、總覺得（用於講述自",
+    "meaningZh": "似乎、總覺得（用於講述自",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v026",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "～によると - 根據～（表示信息的出處）",
+    "meaningZh": "根據～（表示信息的出處）",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v027",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "けしょう 化粧 化妝",
+    "meaningZh": "28 けしょう 化粧 化妝",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v028",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "せわをします 世話をします 照顧、照料",
+    "meaningZh": "2 / 330 じょせい 女性 女性",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v029",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "だんせい 男性 男性",
+    "meaningZh": "31 だんせい 男性 男性",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v030",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "ながいき 長生き 長壽",
+    "meaningZh": "32 ながいき 長生き 長壽",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v031",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "りゆう 理由 理由",
+    "meaningZh": "33 りゆう 理由 理由",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v032",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "かんけい 関係 關係",
+    "meaningZh": "34 かんけい 関係 關係",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  }
+]
+
