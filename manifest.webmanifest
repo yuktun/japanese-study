@@ -1,0 +1,18 @@
+{
+  "name": "日本語 Review Room",
+  "short_name": "日語溫習",
+  "description": "日本語生字與文法溫習工具",
+  "lang": "zh-HK",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#102b69",
+  "theme_color": "#102b69",
+  "icons": [
+    {
+      "src": "./assets/japanese-study-icon.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
