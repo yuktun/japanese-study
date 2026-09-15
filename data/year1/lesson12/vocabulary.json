@@ -5,13 +5,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "きせつ",
-    "meaningZh": "きせつ 季節 季節",
+    "meaningZh": "季節",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "きせつ 季節 季節"
+    "sourceText": "きせつ 季節 季節",
+    "kanji": "季節"
   },
   {
     "id": "y1-l12-v002",
@@ -19,13 +20,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "はる",
-    "meaningZh": "はる 春 春",
+    "meaningZh": "春",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "はる 春 春"
+    "sourceText": "はる 春 春",
+    "kanji": "春"
   },
   {
     "id": "y1-l12-v003",
@@ -33,13 +35,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "なつ",
-    "meaningZh": "なつ 夏 夏",
+    "meaningZh": "夏",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "なつ 夏 夏"
+    "sourceText": "なつ 夏 夏",
+    "kanji": "夏"
   },
   {
     "id": "y1-l12-v004",
@@ -47,13 +50,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "あき",
-    "meaningZh": "あき 秋 秋",
+    "meaningZh": "秋",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "あき 秋 秋"
+    "sourceText": "あき 秋 秋",
+    "kanji": "秋"
   },
   {
     "id": "y1-l12-v005",
@@ -61,13 +65,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "ふゆ",
-    "meaningZh": "ふゆ 冬 冬",
+    "meaningZh": "冬",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "ふゆ 冬 冬"
+    "sourceText": "ふゆ 冬 冬",
+    "kanji": "冬"
   },
   {
     "id": "y1-l12-v006",
@@ -75,13 +80,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "てんき",
-    "meaningZh": "てんき 天気 天氣",
+    "meaningZh": "天氣",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "てんき 天気 天氣"
+    "sourceText": "てんき 天気 天氣",
+    "kanji": "天気"
   },
   {
     "id": "y1-l12-v007",
@@ -89,13 +95,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "あめ",
-    "meaningZh": "あめ 雨 雨、下雨",
+    "meaningZh": "雨、下雨",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "あめ 雨 雨、下雨"
+    "sourceText": "あめ 雨 雨、下雨",
+    "kanji": "雨"
   },
   {
     "id": "y1-l12-v008",
@@ -103,13 +110,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "ゆき",
-    "meaningZh": "ゆき 雪 雪、下雪",
+    "meaningZh": "雪、下雪",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "ゆき 雪 雪、下雪"
+    "sourceText": "ゆき 雪 雪、下雪",
+    "kanji": "雪"
   },
   {
     "id": "y1-l12-v009",
@@ -117,13 +125,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "くもり",
-    "meaningZh": "くもり 曇り 陰天、多雲",
+    "meaningZh": "陰天、多雲",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "くもり 曇り 陰天、多雲"
+    "sourceText": "くもり 曇り 陰天、多雲",
+    "kanji": "曇り"
   },
   {
     "id": "y1-l12-v010",
@@ -145,13 +154,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "くうこう",
-    "meaningZh": "くうこう 空港 機場",
+    "meaningZh": "機場",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "くうこう 空港 機場"
+    "sourceText": "くうこう 空港 機場",
+    "kanji": "空港"
   },
   {
     "id": "y1-l12-v012",
@@ -159,13 +169,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "うみ",
-    "meaningZh": "うみ 海 海",
+    "meaningZh": "海",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "うみ 海 海"
+    "sourceText": "うみ 海 海",
+    "kanji": "海"
   },
   {
     "id": "y1-l12-v013",
@@ -173,13 +184,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "せかい",
-    "meaningZh": "せかい 世界 世界",
+    "meaningZh": "世界",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "せかい 世界 世界"
+    "sourceText": "せかい 世界 世界",
+    "kanji": "世界"
   },
   {
     "id": "y1-l12-v014",
@@ -187,27 +199,28 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "パーティー",
-    "meaningZh": "舞會、宴會(～をします﹕辦舞 會)",
+    "meaningZh": "舞會、宴會(～をします﹕辦舞會)",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "パーティー - 舞會、宴會(～をします﹕辦舞 會)"
+    "sourceText": "パーティー - 舞會、宴會(～をします﹕辦舞會)"
   },
   {
     "id": "y1-l12-v015",
     "schoolYear": 1,
     "book": "初級 I",
     "lesson": 12,
-    "kana": "[お] まつり [お]",
-    "meaningZh": "[お] まつり [お] 祭り 節慶、慶典",
+    "kana": "[お] まつり",
+    "meaningZh": "節慶、慶典",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "[お] まつり [お] 祭り 節慶、慶典"
+    "sourceText": "[お] まつり [お] 祭り 節慶、慶典",
+    "kanji": "[お] 祭り"
   },
   {
     "id": "y1-l12-v016",
@@ -215,13 +228,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "ぎゅうにく",
-    "meaningZh": "ぎゅうにく 牛肉 牛肉",
+    "meaningZh": "牛肉",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "ぎゅうにく 牛肉 牛肉"
+    "sourceText": "ぎゅうにく 牛肉 牛肉",
+    "kanji": "牛肉"
   },
   {
     "id": "y1-l12-v017",
@@ -229,13 +243,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "とりにく",
-    "meaningZh": "とりにく とり肉 雞肉",
+    "meaningZh": "雞肉",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "とりにく とり肉 雞肉"
+    "sourceText": "とりにく とり肉 雞肉",
+    "kanji": "とり肉"
   },
   {
     "id": "y1-l12-v018",
@@ -243,13 +258,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "ぶたにく",
-    "meaningZh": "ぶたにく 豚肉 豬肉",
+    "meaningZh": "豬肉",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "ぶたにく 豚肉 豬肉"
+    "sourceText": "ぶたにく 豚肉 豬肉",
+    "kanji": "豚肉"
   },
   {
     "id": "y1-l12-v019",
@@ -257,13 +273,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "すきやき",
-    "meaningZh": "すきやき すき焼き 壽喜燒 (牛肉和蔬菜的火鍋)",
+    "meaningZh": "壽喜燒 (牛肉和蔬菜的火鍋)",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "すきやき すき焼き 壽喜燒 (牛肉和蔬菜的火鍋)"
+    "sourceText": "すきやき すき焼き 壽喜燒 (牛肉和蔬菜的火鍋)",
+    "kanji": "すき焼き"
   },
   {
     "id": "y1-l12-v020",
@@ -271,13 +288,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "さしみ",
-    "meaningZh": "さしみ 刺身 生魚片",
+    "meaningZh": "生魚片",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "さしみ 刺身 生魚片"
+    "sourceText": "さしみ 刺身 生魚片",
+    "kanji": "刺身"
   },
   {
     "id": "y1-l12-v021",
@@ -327,13 +345,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "いけばな",
-    "meaningZh": "いけばな 生け花 花道、插花 (～をします﹕插花)",
+    "meaningZh": "花道、插花 (～をします﹕插花)",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "いけばな 生け花 花道、插花 (～をします﹕插花)"
+    "sourceText": "いけばな 生け花 花道、插花 (～をします﹕插花)",
+    "kanji": "生け花"
   },
   {
     "id": "y1-l12-v025",
@@ -341,13 +360,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "もみじ",
-    "meaningZh": "もみじ 紅葉 紅葉 (秋天的各種變色葉)",
+    "meaningZh": "紅葉 (秋天的各種變色葉)",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "もみじ 紅葉 紅葉 (秋天的各種變色葉)"
+    "sourceText": "もみじ 紅葉 紅葉 (秋天的各種變色葉)",
+    "kanji": "紅葉"
   },
   {
     "id": "y1-l12-v026",
@@ -355,13 +375,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "ちかい",
-    "meaningZh": "ちかい 近い 近的",
+    "meaningZh": "近的",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "ちかい 近い 近的"
+    "sourceText": "ちかい 近い 近的",
+    "kanji": "近い"
   },
   {
     "id": "y1-l12-v027",
@@ -369,13 +390,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "とおい",
-    "meaningZh": "とおい 遠い 遠的",
+    "meaningZh": "遠的",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "とおい 遠い 遠的"
+    "sourceText": "とおい 遠い 遠的",
+    "kanji": "遠い"
   },
   {
     "id": "y1-l12-v028",
@@ -383,13 +405,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "はやい",
-    "meaningZh": "はやい 速い、早い 快的；早的",
+    "meaningZh": "快的；早的",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "はやい 速い、早い 快的；早的"
+    "sourceText": "はやい 速い、早い 快的；早的",
+    "kanji": "速い、早い"
   },
   {
     "id": "y1-l12-v029",
@@ -397,13 +420,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "おそい",
-    "meaningZh": "おそい 遅い 遲的；晚的",
+    "meaningZh": "遲的；晚的",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "おそい 遅い 遲的；晚的"
+    "sourceText": "おそい 遅い 遲的；晚的",
+    "kanji": "遅い"
   },
   {
     "id": "y1-l12-v030",
@@ -411,13 +435,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "おおい [ひとが～]",
-    "meaningZh": "おおい [ひとが～] 多い [人が～] 多的、[人] 多的",
+    "meaningZh": "多的、[人] 多的",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "おおい [ひとが～] 多い [人が～] 多的、[人] 多的"
+    "sourceText": "おおい [ひとが～] 多い [人が～] 多的、[人] 多的",
+    "kanji": "多い [人が～]"
   },
   {
     "id": "y1-l12-v031",
@@ -425,13 +450,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "すくない [ひとが～]",
-    "meaningZh": "すくない [ひとが～] 少ない [人が～] 少的、[人] 少的",
+    "meaningZh": "少的、[人] 少的",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "すくない [ひとが～] 少ない [人が～] 少的、[人] 少的"
+    "sourceText": "すくない [ひとが～] 少ない [人が～] 少的、[人] 少的",
+    "kanji": "少ない [人が～]"
   },
   {
     "id": "y1-l12-v032",
@@ -439,13 +465,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "あたたかい",
-    "meaningZh": "あたたかい 暖かい 溫暖的、暖和的",
+    "meaningZh": "溫暖的、暖和的",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "あたたかい 暖かい 溫暖的、暖和的"
+    "sourceText": "あたたかい 暖かい 溫暖的、暖和的",
+    "kanji": "暖かい"
   },
   {
     "id": "y1-l12-v033",
@@ -453,13 +480,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "あたたかい",
-    "meaningZh": "あたたかい 温かい 溫熱的",
+    "meaningZh": "溫熱的",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "あたたかい 温かい 溫熱的"
+    "sourceText": "あたたかい 温かい 溫熱的",
+    "kanji": "温かい"
   },
   {
     "id": "y1-l12-v034",
@@ -467,13 +495,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "すずしい",
-    "meaningZh": "すずしい 涼しい 涼快的、涼爽的",
+    "meaningZh": "涼快的、涼爽的",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "すずしい 涼しい 涼快的、涼爽的"
+    "sourceText": "すずしい 涼しい 涼快的、涼爽的",
+    "kanji": "涼しい"
   },
   {
     "id": "y1-l12-v035",
@@ -481,13 +510,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "あまい",
-    "meaningZh": "あまい 甘い 甜的",
+    "meaningZh": "甜的",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "あまい 甘い 甜的"
+    "sourceText": "あまい 甘い 甜的",
+    "kanji": "甘い"
   },
   {
     "id": "y1-l12-v036",
@@ -495,13 +525,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "からい",
-    "meaningZh": "からい 辛い 辣的；鹹的",
+    "meaningZh": "辣的；鹹的",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "からい 辛い 辣的；鹹的"
+    "sourceText": "からい 辛い 辣的；鹹的",
+    "kanji": "辛い"
   },
   {
     "id": "y1-l12-v037",
@@ -509,13 +540,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "おもい",
-    "meaningZh": "おもい 重い 重的",
+    "meaningZh": "重的",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "おもい 重い 重的"
+    "sourceText": "おもい 重い 重的",
+    "kanji": "重い"
   },
   {
     "id": "y1-l12-v038",
@@ -523,13 +555,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "かるい",
-    "meaningZh": "かるい 軽い 輕的",
+    "meaningZh": "輕的",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "かるい 軽い 輕的"
+    "sourceText": "かるい 軽い 輕的",
+    "kanji": "軽い"
   },
   {
     "id": "y1-l12-v039",
@@ -551,13 +584,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "かんたん [な]",
-    "meaningZh": "かんたん [な] 簡単 [な] 簡單 [的]、單純 [的]",
+    "meaningZh": "簡單 [的]、單純 [的]",
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "かんたん [な] 簡単 [な] 簡單 [的]、單純 [的]"
+    "sourceText": "かんたん [な] 簡単 [な] 簡單 [的]、單純 [的]",
+    "kanji": "簡単 [な]"
   },
   {
     "id": "y1-l12-v041",
@@ -607,13 +641,14 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "はじめて",
-    "meaningZh": "はじめて 初めて 第一次、初次",
+    "meaningZh": "第一次、初次",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "はじめて 初めて 第一次、初次"
+    "sourceText": "はじめて 初めて 第一次、初次",
+    "kanji": "初めて"
   },
   {
     "id": "y1-l12-v045",
@@ -649,27 +684,29 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "おかえりなさい。",
-    "meaningZh": "おかえりなさい。 お帰りなさい。 你回來啦。",
+    "meaningZh": "你回來啦。",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "おかえりなさい。 お帰りなさい。 你回來啦。"
+    "sourceText": "おかえりなさい。 お帰りなさい。 你回來啦。",
+    "kanji": "お帰りなさい。"
   },
   {
     "id": "y1-l12-v048",
     "schoolYear": 1,
     "book": "初級 I",
     "lesson": 12,
-    "kana": "わあ",
-    "meaningZh": "わあ すごい ひとですね。 わあ すごい 人ですね。 哇，好多人啊！",
+    "kana": "わあ すごい ひとですね。",
+    "meaningZh": "哇，好多人啊！",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "わあ すごい ひとですね。 わあ すごい 人ですね。 哇，好多人啊！"
+    "sourceText": "わあ すごい ひとですね。 わあ すごい 人ですね。 哇，好多人啊！",
+    "kanji": "わあ すごい 人ですね。"
   },
   {
     "id": "y1-l12-v049",
@@ -677,12 +714,13 @@
     "book": "初級 I",
     "lesson": 12,
     "kana": "つかれました。",
-    "meaningZh": "つかれました。 疲れました。 (我) 累了。",
+    "meaningZh": "(我) 累了。",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
     },
-    "sourceText": "つかれました。 疲れました。 (我) 累了。"
+    "sourceText": "つかれました。 疲れました。 (我) 累了。",
+    "kanji": "疲れました。"
   }
 ]
