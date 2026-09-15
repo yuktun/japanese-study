@@ -1,0 +1,978 @@
+[
+  {
+    "id": "y4-l7-v001",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "だす [りょうりを～]",
+    "meaningZh": "擺上、端出來",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v002",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "かんげいかい 歓迎会 名詞 歡迎會",
+    "meaningZh": "2 かんげいかい 歓迎会 名詞 歡迎會",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v003",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "しょうたいじょう 招待状 名詞 請帖、邀請函",
+    "meaningZh": "3 しょうたいじょう 招待状 名詞 請帖、邀請函",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v004",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "ラーメン - 名詞 拉麵、(中國式)",
+    "meaningZh": "名詞 拉麵、(中國式)",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v005",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "おりがみ 折り紙 名詞 摺紙",
+    "meaningZh": "5 おりがみ 折り紙 名詞 摺紙",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v006",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "ピンク - 名詞 粉紅色",
+    "meaningZh": "名詞 粉紅色",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v007",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "そうべつかい 送別会 名詞 歡送會",
+    "meaningZh": "7 そうべつかい 送別会 名詞 歡送會",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v008",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "ちゅうかレストラン 中華レストラン 名詞 中餐館",
+    "meaningZh": "8 ちゅうかレストラン 中華レストラン 名詞 中餐館",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v009",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "りゅうがくせいかい 留学生会 名詞 留學生會",
+    "meaningZh": "9 りゅうがくせいかい 留学生会 名詞 留學生會",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v010",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "～かい",
+    "meaningZh": "[留學生會]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v011",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "かいちょう 会長 名詞 會長",
+    "meaningZh": "11 かいちょう 会長 名詞 會長",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v012",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "てんすう 点数 名詞 分數",
+    "meaningZh": "12 てんすう 点数 名詞 分數",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v013",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "たいした - 其他 有分量、了不起 (た",
+    "meaningZh": "其他 有分量、了不起 (た",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v014",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "わるぐち 悪口 名詞 壞話",
+    "meaningZh": "14 わるぐち 悪口 名詞 壞話",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v015",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "ふうふ 夫婦 名詞 夫妻",
+    "meaningZh": "15 ふうふ 夫婦 名詞 夫妻",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v016",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "～げんか [ふうふ～] ～げんか [夫婦～] 名詞 ～之間吵架",
+    "meaningZh": "[夫妻之間吵架]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v017",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "いがくぶ 医学部 名詞 醫學系",
+    "meaningZh": "1 / 518 ～ぶ [いがく～] ～部 [医学～] 名詞 ～系 [醫學系]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v018",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "ライオン - 名詞 獅子",
+    "meaningZh": "名詞 獅子",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v019",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "よろこぶ |辞|",
+    "meaningZh": "高興、喜歡",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v020",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "じょうだん 冗談 名詞 (開) 玩笑",
+    "meaningZh": "21 じょうだん 冗談 名詞 (開) 玩笑",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v021",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "～たち [こども～] ～たち [子ども～] 名詞 ～們 [孩子們]",
+    "meaningZh": "22 ～たち [こども～] ～たち [子ども～] 名詞 ～們 [孩子們]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v022",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "おばけ お化け 名詞 妖怪",
+    "meaningZh": "23 おばけ お化け 名詞 妖怪",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v023",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "いじめる |辞|",
+    "meaningZh": "- 動詞 欺負、戲弄",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v024",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "かんしんする |辞|",
+    "meaningZh": "佩服",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v025",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "おや 親 名詞 父母",
+    "meaningZh": "26 おや 親 名詞 父母",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v026",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "あらためて - 副詞 重新、再次",
+    "meaningZh": "副詞 重新、再次",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v027",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "いっしゅう 一周 名詞 繞一圈",
+    "meaningZh": "28 いっしゅう 一周 名詞 繞一圈",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v028",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "～さん 〔ふじさん〕 ～山 〔富士山〕 名詞 ～山",
+    "meaningZh": "(＊富士山/富士山)",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v029",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "しばい 芝居 名詞 劇、戲劇",
+    "meaningZh": "30 しばい 芝居 名詞 劇、戲劇",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v030",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "せりふ - 名詞 台詞",
+    "meaningZh": "名詞 台詞",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v031",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "なく |辞|",
+    "meaningZh": "(感動得)流淚",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v032",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "アニメ - 名詞 動畫、卡通",
+    "meaningZh": "名詞 動畫、卡通",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v033",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "かんどうする |辞|",
+    "meaningZh": "感動",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v034",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "こうえん 講演 名詞 演講",
+    "meaningZh": "35 こうえん 講演 名詞 演講",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v035",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "ゆずる |辞|",
+    "meaningZh": "讓、轉讓",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v036",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "ツアー - 名詞 團體旅行",
+    "meaningZh": "名詞 團體旅行",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v037",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "きつい",
+    "meaningZh": "[時間安排很緊湊]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v038",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "フリーマーケット - 名詞 跳蚤市場、舊貨市",
+    "meaningZh": "名詞 跳蚤市場、舊貨市",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v039",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "えんりょする |辞|",
+    "meaningZh": "推辭、謝絕",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v040",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "しつれい 失礼 名詞 失禮",
+    "meaningZh": "41 しつれい 失礼 名詞 失禮",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v041",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "あらわす |辞|",
+    "meaningZh": "表現、表示",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v042",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "うける [さそいを～]",
+    "meaningZh": "接受 [接受邀請]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v043",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "きつけきょうしつ 着付け教室 名詞 穿和服培訓班",
+    "meaningZh": "44 きつけきょうしつ 着付け教室 名詞 穿和服培訓班",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v044",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "まちあわせる |辞|",
+    "meaningZh": "碰頭、見面",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v045",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "あく [じかんが～] |辞|",
+    "meaningZh": "有空 [有時間]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v046",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "こうりゅうかい 交流会 名詞 交流會",
+    "meaningZh": "47 こうりゅうかい 交流会 名詞 交流會",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v047",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "いろんな - な形",
+    "meaningZh": "な形",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v048",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "ゼミ - 名詞 研討會、研討班",
+    "meaningZh": "名詞 研討會、研討班",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v049",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "せっかく - 副詞 特意",
+    "meaningZh": "副詞 特意",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v050",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "こんかい 今回 名詞 這次",
+    "meaningZh": "51 こんかい 今回 名詞 這次",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v051",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "どうりょう 同僚 名詞 同事",
+    "meaningZh": "52 どうりょう 同僚 名詞 同事",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v052",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "とざん 登山 名詞 登山",
+    "meaningZh": "53 とざん 登山 名詞 登山",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v053",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "こうよう 紅葉 名詞 紅葉",
+    "meaningZh": "54 こうよう 紅葉 名詞 紅葉",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v054",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "けんぶつ 見物 名詞 觀賞、遊覽",
+    "meaningZh": "55 けんぶつ 見物 名詞 觀賞、遊覽",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v055",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "おんがくかい 音楽会 名詞 音樂會",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v056",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "まんじゅう - 名詞 （日本的豆沙）饅",
+    "meaningZh": "名詞 （日本的豆沙）饅",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v057",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "ヘビ - 名詞 蛇",
+    "meaningZh": "名詞 蛇",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v058",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "けむし 毛虫 名詞 毛毛虫",
+    "meaningZh": "59 けむし 毛虫 名詞 毛毛虫",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v059",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "いばる |辞|",
+    "meaningZh": "傲慢、擺架子",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v060",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "ふるえる |辞|",
+    "meaningZh": "(因害怕) 發抖",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v061",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "すると - 接続",
+    "meaningZh": "接続",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v062",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "おれ - 名詞 我 (男性用語)",
+    "meaningZh": "名詞 我 (男性用語)",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v063",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "～ぐらい - 名詞 至少",
+    "meaningZh": "名詞 至少",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v064",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "おまえ お前 名詞 你、你這家伙",
+    "meaningZh": "(男性用語)",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v065",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "まるい 丸い い形",
+    "meaningZh": "圓的",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v066",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "いや - 不、不對",
+    "meaningZh": "不、不對",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v067",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "ふるえだす |辞|",
+    "meaningZh": "開始發抖",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v068",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "たすける |辞|",
+    "meaningZh": "救助",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v069",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "つぎつぎに 次々に 副詞 一個接一個",
+    "meaningZh": "70 つぎつぎに 次々に 副詞 一個接一個",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v070",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "めのまえ 目の前 名詞 眼前",
+    "meaningZh": "71 めのまえ 目の前 名詞 眼前",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v071",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "ポツリと - 副詞 嘴裡咕嚕了(一句)、",
+    "meaningZh": "副詞 嘴裡咕嚕了(一句)、",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v072",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "ホームページ - 名詞 網頁、主頁",
+    "meaningZh": "名詞 網頁、主頁",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v073",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "わらいばなし 笑い話 名詞 笑話",
+    "meaningZh": "74 わらいばなし 笑い話 名詞 笑話",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v074",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "らくご 落語 名詞 單口相聲(從江戶時",
+    "meaningZh": "代流傳下來的相聲)",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l7-v075",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 7,
+    "kana": "･･･････かい？",
+    "meaningZh": "5 / 5",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch7.pdf.pdf"
+    }
+  }
+]
+

@@ -1,0 +1,965 @@
+[
+  {
+    "id": "y4-l12-v001",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "えんそうかい 演奏会 名詞 演奏會",
+    "meaningZh": "1 えんそうかい 演奏会 名詞 演奏會",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v002",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "ほうこくしょ 報告書 名詞 報告書",
+    "meaningZh": "2 ほうこくしょ 報告書 名詞 報告書",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v003",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "あくび - 名詞 呵欠",
+    "meaningZh": "名詞 呵欠",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v004",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "はんにん 犯人 名詞 犯人",
+    "meaningZh": "4 はんにん 犯人 名詞 犯人",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v005",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "おいかける |辞|",
+    "meaningZh": "追趕",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v006",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "さぎょう 作業 名詞 工作、作業",
+    "meaningZh": "6 さぎょう 作業 名詞 工作、作業",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v007",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "スープ - 名詞 湯",
+    "meaningZh": "名詞 湯",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v008",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "こぼす |辞|",
+    "meaningZh": "撒、灑落、灑",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v009",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "シャッター - 名詞 金屬卷簾門",
+    "meaningZh": "名詞 金屬卷簾門",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v010",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "スプレー - 名詞 噴霧",
+    "meaningZh": "名詞 噴霧",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v011",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "らくがきする |辞|",
+    "meaningZh": "塗鴉",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v012",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "よなか 夜中 名詞 半夜",
+    "meaningZh": "12 よなか 夜中 名詞 半夜",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v013",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "ひ 日 名詞 陽光",
+    "meaningZh": "13 ひ 日 名詞 陽光",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v014",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "あたる [日が～] |辞|",
+    "meaningZh": "照 [照到太陽]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v015",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "くらす |辞|",
+    "meaningZh": "過日子、生活",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v016",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "しょどう 書道 名詞 書法",
+    "meaningZh": "16 しょどう 書道 名詞 書法",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v017",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "けいこうとう 蛍光灯 名詞 日光燈",
+    "meaningZh": "17 けいこうとう 蛍光灯 名詞 日光燈",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v018",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "メニュー - 名詞 菜單",
+    "meaningZh": "名詞 菜單",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v019",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "めざましどけい 目覚まし時計 名詞 鬧鐘",
+    "meaningZh": "20 めざましどけい 目覚まし時計 名詞 鬧鐘",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v020",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "なる |辞|",
+    "meaningZh": "響",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v021",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "おんだん [な] 温暖 [な] な形",
+    "meaningZh": "溫暖 [的]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v022",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "かじ 家事 名詞 家務",
+    "meaningZh": "23 かじ 家事 名詞 家務",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v023",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "ぐっすり [～ねむる] [～眠る] 副詞 睡得香甜狀",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v024",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "めいわく 迷惑 名詞 麻煩、煩擾、打擾",
+    "meaningZh": "25 めいわく 迷惑 名詞 麻煩、煩擾、打擾",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v025",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "かける [めいわくを～]",
+    "meaningZh": "添加 [添麻煩]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v026",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "かぜぐすり 風邪薬 名詞 感冒藥",
+    "meaningZh": "27 かぜぐすり 風邪薬 名詞 感冒藥",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v027",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "のりおくれる 乗り遅れる 名詞 Ⅱ 自 趕不上",
+    "meaningZh": "趕不上",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v028",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "くじょう 苦情 名詞 意見、抱怨、不滿",
+    "meaningZh": "29 くじょう 苦情 名詞 意見、抱怨、不滿",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v029",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "おそく 遅く 名詞 晚、遲",
+    "meaningZh": "30 おそく 遅く 名詞 晚、遲",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v030",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "[お] かえり [お] 帰り 名詞 回家、回來(的時間)",
+    "meaningZh": "31 [お] かえり [お] 帰り 名詞 回家、回來(的時間)",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v031",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "あまり - 副詞 過分、太……",
+    "meaningZh": "副詞 過分、太……",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v032",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "どうしても - 副詞 無論如何……",
+    "meaningZh": "副詞 無論如何……",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v033",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "じちかい 自治会 名詞 自治會",
+    "meaningZh": "(街道辦事處)",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v034",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "やくいん 役員 名詞 (街道辦事處的)",
+    "meaningZh": "負責人",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v035",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "ディーブイディー DVD 名詞 DVD",
+    "meaningZh": "我沒注意到。",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v036",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "どうしても……",
+    "meaningZh": "點才行了。",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v037",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "それはわかりますけど",
+    "meaningZh": "…",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v038",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "どちらかと言えば……",
+    "meaningZh": "方。",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v039",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "いい勉強になる - フレ",
+    "meaningZh": "フレ",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v040",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "ざだんかい 座談会 名詞 座談會",
+    "meaningZh": "42 ざだんかい 座談会 名詞 座談會",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v041",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "カルチャーショック - 名詞 文化衝擊",
+    "meaningZh": "名詞 文化衝擊",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v042",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "うける |辞|",
+    "meaningZh": "受、受到 [受到衝擊]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v043",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "それまで - 接続",
+    "meaningZh": "接続",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v044",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "そうぞうしい 騒々しい い形",
+    "meaningZh": "名詞 廣播",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v045",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "わかれる [いけんが～]",
+    "meaningZh": "分歧 [意見分歧]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v046",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "おくさま 奥様 名詞 夫人",
+    "meaningZh": "49 おくさま 奥様 名詞 夫人",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v047",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "おいでいただく |辞|",
+    "meaningZh": "（請）親臨",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v048",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "くろう 苦労 名詞 辛苦、勞苦",
+    "meaningZh": "51 くろう 苦労 名詞 辛苦、勞苦",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v049",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "ちゅうりゃく 中略 名詞 中間省略",
+    "meaningZh": "52 ちゅうりゃく 中略 名詞 中間省略",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v050",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "おかしな - な形",
+    "meaningZh": "な形",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v051",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "サンダル - 名詞 涼鞋",
+    "meaningZh": "名詞 涼鞋",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v052",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "ピーピー - 副詞 水沸時水壼的哨音",
+    "meaningZh": "副詞 水沸時水壼的哨音",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v053",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "たまらない - 其他 ～得不得了 (以「～",
+    "meaningZh": "其他 ～得不得了 (以「～",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v054",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "とかい 都会 名詞 都市",
+    "meaningZh": "57 とかい 都会 名詞 都市",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v055",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "じゅうたくち 住宅地 名詞 住宅區",
+    "meaningZh": "58 じゅうたくち 住宅地 名詞 住宅區",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v056",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "むし 虫 名詞 蟲",
+    "meaningZh": "59 むし 虫 名詞 蟲",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v057",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "むしのね 虫の音 名詞 蟲鳴聲",
+    "meaningZh": "60 むしのね 虫の音 名詞 蟲鳴聲",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v058",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "しゃない 車内 名詞 車內",
+    "meaningZh": "61 しゃない 車内 名詞 車內",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v059",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "ホーム - 名詞 站台",
+    "meaningZh": "名詞 站台",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v060",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "くわえる |辞|",
+    "meaningZh": "附加、追加",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v061",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "さっぱり [～ない]",
+    "meaningZh": "一點也聽不明白",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v062",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "じょうきゃく 乗客 名詞 乘客、旅客",
+    "meaningZh": "65 じょうきゃく 乗客 名詞 乘客、旅客",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v063",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "あんぜんせい 安全性 名詞 安全性",
+    "meaningZh": "考慮 (安全性に～/",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v064",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "ふくむ |辞|",
+    "meaningZh": "包含、包括",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v065",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "チャイム - 名詞 (發車的) 音樂鈴聲",
+    "meaningZh": "名詞 (發車的) 音樂鈴聲",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v066",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "はっしゃベル 発車ベル 名詞 發車鈴",
+    "meaningZh": "70 はっしゃベル 発車ベル 名詞 發車鈴",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v067",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "かならずしも [～ない]",
+    "meaningZh": "不一定那樣想",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v068",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "きんじょづきあい 近所づきあい 名詞 鄰居相處、鄰里關",
+    "meaningZh": "係",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v069",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "コマーシャル - 名詞 (電視、廣播電台的)",
+    "meaningZh": "名詞 (電視、廣播電台的)",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v070",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "ハンガリー - 固有",
+    "meaningZh": "固有",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v071",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "ブダペスト - 固有",
+    "meaningZh": "固有",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v072",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "バンコク - 固有",
+    "meaningZh": "固有",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v073",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "うつのみや 宇都宮 固有",
+    "meaningZh": "縣政廳所在地。",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l12-v074",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 12,
+    "kana": "うらやす 浦安 固有",
+    "meaningZh": "5 / 5",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch12.pdf.pdf"
+    }
+  }
+]
+

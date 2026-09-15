@@ -1,0 +1,874 @@
+[
+  {
+    "id": "y4-l5-v001",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "きょうかしょ 教科書 名詞 教材、教科書",
+    "meaningZh": "1 きょうかしょ 教科書 名詞 教材、教科書",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v002",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "いざかや 居酒屋 名詞 小酒館",
+    "meaningZh": "2 いざかや 居酒屋 名詞 小酒館",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v003",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "やきとり - 名詞 烤雞串、串燒",
+    "meaningZh": "名詞 烤雞串、串燒",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v004",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "がめん 画面 名詞 畫面",
+    "meaningZh": "4 がめん 画面 名詞 畫面",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v005",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "はいゆう 俳優 名詞 演員",
+    "meaningZh": "5 はいゆう 俳優 名詞 演員",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v006",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "そっくり - 副詞 十分相像、一個樣(",
+    "meaningZh": "副詞 十分相像、一個樣(",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v007",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "コンビ二 - 名詞 便利店",
+    "meaningZh": "名詞 便利店",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v008",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "かいさつ [～ぐち] 改札 [～口] 名詞 檢票 [口] [檢票口]",
+    "meaningZh": "8 かいさつ [～ぐち] 改札 [～口] 名詞 檢票 [口] [檢票口]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v009",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "うんてんしゅ 運転手 名詞 司機",
+    "meaningZh": "9 うんてんしゅ 運転手 名詞 司機",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v010",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "かかってくる",
+    "meaningZh": "打來 [打來電話]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v011",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "きれる ［でんわが～]",
+    "meaningZh": "斷、斷掉 [電話斷了]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v012",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "あげる ［れいを～] |辞|",
+    "meaningZh": "舉、列舉 [舉例]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v013",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "みらい 未来 名詞 未來",
+    "meaningZh": "13 みらい 未来 名詞 未來",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v014",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "なくす ［せんそうを～]",
+    "meaningZh": "消滅、消除",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v015",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "ふしぎ ［な] 不思議 ［な] な形",
+    "meaningZh": "不可思議 [的]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v016",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "ふやす |辞|",
+    "meaningZh": "增加",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v017",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "いまごろ 今ごろ 名詞 現在、目前",
+    "meaningZh": "17 いまごろ 今ごろ 名詞 現在、目前",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v018",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "かんこうきゃく 観光客 名詞 遊客、觀光客",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v019",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "そう ［かわに～] |辞|",
+    "meaningZh": "沿著 [沿河]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v020",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "おおどおり 大通り 名詞 大道、大路",
+    "meaningZh": "20 おおどおり 大通り 名詞 大道、大路",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v021",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "でる ［おおどおりに～]",
+    "meaningZh": "來到、出來",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v022",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "おうだんほどう 横断歩道 名詞 人行橫道",
+    "meaningZh": "22 おうだんほどう 横断歩道 名詞 人行橫道",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v023",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "つきあたり 突き当たり 名詞 （道路的）盡頭",
+    "meaningZh": "23 つきあたり 突き当たり 名詞 （道路的）盡頭",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v024",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "せんろ 線路 名詞 鐵路",
+    "meaningZh": "路對面）",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v025",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "ふみきり 踏切 名詞 鐵路道口",
+    "meaningZh": "26 ふみきり 踏切 名詞 鐵路道口",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v026",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "わかれる ［みちが～]",
+    "meaningZh": "分開［岔路]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v027",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "げいじゅつ 芸術 名詞 藝術",
+    "meaningZh": "28 げいじゅつ 芸術 名詞 藝術",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v028",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "みちじゅん 道順 名詞 路線",
+    "meaningZh": "29 みちじゅん 道順 名詞 路線",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v029",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "つうこうにん 通行人 名詞 過路人",
+    "meaningZh": "30 つうこうにん 通行人 名詞 過路人",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v030",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "とおり 通り 名詞 街道",
+    "meaningZh": "31 とおり 通り 名詞 街道",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v031",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "かわぞい 川沿い 名詞 沿河",
+    "meaningZh": "2 / 533 ～ぞい ～沿い 名詞 沿著～",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v032",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "ながれる |辞|",
+    "meaningZh": "流淌",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v033",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "～さき",
+    "meaningZh": "[前面１００米]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v034",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "ほう ［みぎの～] ～方 ［右の～] 名詞 ～方、～邊 [右邊]",
+    "meaningZh": "36 ほう ［みぎの～] ～方 ［右の～] 名詞 ～方、～邊 [右邊]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v035",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "～から、～てください",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v036",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "なんぼく 南北 名詞 南北",
+    "meaningZh": "38 なんぼく 南北 名詞 南北",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v037",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "ぎゃく 逆 名詞 相反",
+    "meaningZh": "39 ぎゃく 逆 名詞 相反",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v038",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "みなみはんきゅう 南半球 名詞 南半球",
+    "meaningZh": "40 みなみはんきゅう 南半球 名詞 南半球",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v039",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "きたはんきゅう 北半球 名詞 北半球",
+    "meaningZh": "41 きたはんきゅう 北半球 名詞 北半球",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v040",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "じょうしき 常識 名詞 常識",
+    "meaningZh": "42 じょうしき 常識 名詞 常識",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v041",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "さべつ 差別 名詞 區別、差別",
+    "meaningZh": "43 さべつ 差別 名詞 區別、差別",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v042",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "びょうどう ［な] 平等 ［な] な形",
+    "meaningZh": "平等 [的]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v043",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "いち 位置 名詞 位置",
+    "meaningZh": "45 いち 位置 名詞 位置",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v044",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "にんげん 人間 名詞 人、人類",
+    "meaningZh": "46 にんげん 人間 名詞 人、人類",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v045",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "かんさつする |辞|",
+    "meaningZh": "觀察",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v046",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "めん 面 名詞 面、平面、方面",
+    "meaningZh": "48 めん 面 名詞 面、平面、方面",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v047",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "ちゅうおう 中央 名詞 中央",
+    "meaningZh": "49 ちゅうおう 中央 名詞 中央",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v048",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "しぜんに 自然に 副詞 自然地",
+    "meaningZh": "50 しぜんに 自然に 副詞 自然地",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v049",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "どりょくする |辞|",
+    "meaningZh": "努力",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v050",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "ふつう 普通 名詞 一般，普通",
+    "meaningZh": "53 ふつう 普通 名詞 一般，普通",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v051",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "けいいど 経緯度 名詞 經緯度",
+    "meaningZh": "54 けいいど 経緯度 名詞 經緯度",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v052",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "むいしきに 無意識に 副詞 無意地、不知不覺",
+    "meaningZh": "地",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v053",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "あらわれ 表れ 名詞 表露（自己沒有意",
+    "meaningZh": "）",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v054",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "じょうげ 上下 名詞 上下",
+    "meaningZh": "57 じょうげ 上下 名詞 上下",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v055",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "さゆう 左右 名詞 左右",
+    "meaningZh": "58 さゆう 左右 名詞 左右",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v056",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "すくなくとも 少なくとも 副詞 至少",
+    "meaningZh": "59 すくなくとも 少なくとも 副詞 至少",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v057",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "もんく 文句 名詞 牢騷、抱怨（～を",
+    "meaningZh": "言う/發牢騷）",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v058",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "わざと - 副詞 故意（地）",
+    "meaningZh": "副詞 故意（地）",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v059",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "けいど 経度 名詞 經度",
+    "meaningZh": "62 けいど 経度 名詞 經度",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v060",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "いど 緯度 名詞 緯度",
+    "meaningZh": "63 いど 緯度 名詞 緯度",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v061",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "しようする |辞|",
+    "meaningZh": "使用",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v062",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "とうざい 東西 名詞 東西（方）",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v063",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "はこだて 函館 固有",
+    "meaningZh": "的海港都市。",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v064",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "とうきょうタワー 東京タワー 固有",
+    "meaningZh": "。",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v065",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "アラビアご アラビア語 固有",
+    "meaningZh": "阿拉伯語",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v066",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "マッカーサー - 固有",
+    "meaningZh": "固有",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l5-v067",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "kana": "みなみアメリカ 南アメリカ 固有",
+    "meaningZh": "5 / 5",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    }
+  }
+]
+

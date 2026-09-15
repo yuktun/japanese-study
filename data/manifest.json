@@ -357,6 +357,90 @@
       "lesson": 50,
       "vocabulary": "./data/year3/lesson50/vocabulary.json",
       "grammar": "./data/year3/lesson50/grammar.json"
+    },
+    {
+      "schoolYear": 3,
+      "book": "中級 I",
+      "lesson": 1,
+      "vocabulary": "./data/year3/lesson1/vocabulary.json",
+      "grammar": "./data/year3/lesson1/grammar.json"
+    },
+    {
+      "schoolYear": 3,
+      "book": "中級 I",
+      "lesson": 2,
+      "vocabulary": "./data/year3/lesson2/vocabulary.json",
+      "grammar": "./data/year3/lesson2/grammar.json"
+    },
+    {
+      "schoolYear": 3,
+      "book": "中級 I",
+      "lesson": 3,
+      "vocabulary": "./data/year3/lesson3/vocabulary.json",
+      "grammar": "./data/year3/lesson3/grammar.json"
+    },
+    {
+      "schoolYear": 3,
+      "book": "中級 I",
+      "lesson": 4,
+      "vocabulary": "./data/year3/lesson4/vocabulary.json",
+      "grammar": "./data/year3/lesson4/grammar.json"
+    },
+    {
+      "schoolYear": 4,
+      "book": "中級 I",
+      "lesson": 5,
+      "vocabulary": "./data/year4/lesson5/vocabulary.json",
+      "grammar": "./data/year4/lesson5/grammar.json"
+    },
+    {
+      "schoolYear": 4,
+      "book": "中級 I",
+      "lesson": 6,
+      "vocabulary": "./data/year4/lesson6/vocabulary.json",
+      "grammar": "./data/year4/lesson6/grammar.json"
+    },
+    {
+      "schoolYear": 4,
+      "book": "中級 I",
+      "lesson": 7,
+      "vocabulary": "./data/year4/lesson7/vocabulary.json",
+      "grammar": "./data/year4/lesson7/grammar.json"
+    },
+    {
+      "schoolYear": 4,
+      "book": "中級 I",
+      "lesson": 8,
+      "vocabulary": "./data/year4/lesson8/vocabulary.json",
+      "grammar": "./data/year4/lesson8/grammar.json"
+    },
+    {
+      "schoolYear": 4,
+      "book": "中級 I",
+      "lesson": 9,
+      "vocabulary": "./data/year4/lesson9/vocabulary.json",
+      "grammar": "./data/year4/lesson9/grammar.json"
+    },
+    {
+      "schoolYear": 4,
+      "book": "中級 I",
+      "lesson": 10,
+      "vocabulary": "./data/year4/lesson10/vocabulary.json",
+      "grammar": "./data/year4/lesson10/grammar.json"
+    },
+    {
+      "schoolYear": 4,
+      "book": "中級 I",
+      "lesson": 11,
+      "vocabulary": "./data/year4/lesson11/vocabulary.json",
+      "grammar": "./data/year4/lesson11/grammar.json"
+    },
+    {
+      "schoolYear": 4,
+      "book": "中級 I",
+      "lesson": 12,
+      "vocabulary": "./data/year4/lesson12/vocabulary.json",
+      "grammar": "./data/year4/lesson12/grammar.json"
     }
   ]
 }

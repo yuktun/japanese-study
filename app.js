@@ -176,7 +176,7 @@ function populateYearSelect(years){$('#year-select').innerHTML=years.map(year=>`
 function populateLessonSelect(preferred){
   const lessons=sortedUnique(state.all.filter(item=>item.schoolYear===state.year).map(item=>item.lesson));
   state.lesson=lessons.includes(preferred)?preferred:lessons[0];
-  $('#lesson-select').innerHTML=lessons.map(lesson=>`<option value="${lesson}">Lesson ${String(lesson).padStart(2,'0')}</option>`).join('');
+  $('#lesson-select').innerHTML=lessons.map(lesson=>{const meta=state.lessons.find(item=>item.schoolYear===state.year&&item.lesson===lesson)||state.all.find(item=>item.schoolYear===state.year&&item.lesson===lesson);return `<option value="${lesson}">${meta?.book||''} · Lesson ${String(lesson).padStart(2,'0')}</option>`;}).join('');
   $('#lesson-select').value=String(state.lesson);
   localStorage.setItem('jp-study-deck-year',String(state.year));localStorage.setItem('jp-study-deck-lesson',String(state.lesson));
 }

@@ -1,0 +1,926 @@
+[
+  {
+    "id": "y4-l8-v001",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "ねむる |辞|",
+    "meaningZh": "睡著",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v002",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "だまる |辞|",
+    "meaningZh": "沉默、不說話",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v003",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "とる [ノートを～] |辞|",
+    "meaningZh": "記下 [記筆記]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v004",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "ぬすむ |辞|",
+    "meaningZh": "偷盜、偷竊",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v005",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "こげる |辞|",
+    "meaningZh": "烤焦、燒糊",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v006",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "かれる |辞|",
+    "meaningZh": "枯萎、凋零",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v007",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "へいぼん [な] 平凡 [な] な形",
+    "meaningZh": "平凡[的]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v008",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "じんせい 人生 名詞 人生",
+    "meaningZh": "8 じんせい 人生 名詞 人生",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v009",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "めんきょ 免許 名詞 執照",
+    "meaningZh": "9 めんきょ 免許 名詞 執照",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v010",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "とる [めんきょを～]",
+    "meaningZh": "取得、獲取",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v011",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "たいしょくする |辞|",
+    "meaningZh": "退休",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v012",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "もったいない - い形",
+    "meaningZh": "い形",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v013",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "なべ 鍋 名詞 鍋",
+    "meaningZh": "13 なべ 鍋 名詞 鍋",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v014",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "ことばづかい ことば遣い 名詞 措詞、說法",
+    "meaningZh": "1 / 515 なま 生 名詞 生、鮮",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v015",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "せんもんてき [な] 専門的 [な] な形",
+    "meaningZh": "專業性 [的]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v016",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "しゃかいべんきょう 社会勉強 名詞 學習處世做人",
+    "meaningZh": "17 しゃかいべんきょう 社会勉強 名詞 學習處世做人",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v017",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "こうこうせい 高校生 名詞 高中生",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v018",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "まいご [になる] 迷子 [になる] 名詞 迷路的孩子",
+    "meaningZh": "（～になる/迷路）",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v019",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "しま - 名詞 條紋（～黒と白の",
+    "meaningZh": "名詞 條紋（～黒と白の",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v020",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "はながら 花柄 名詞 帶花的圖案",
+    "meaningZh": "21 はながら 花柄 名詞 帶花的圖案",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v021",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "チェック - 名詞 格子圖案",
+    "meaningZh": "名詞 格子圖案",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v022",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "スカート - 名詞 裙子",
+    "meaningZh": "名詞 裙子",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v023",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "むじ 無地 名詞 素色",
+    "meaningZh": "24 むじ 無地 名詞 素色",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v024",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "みずたま 水玉 名詞 圓點圖案、水珠花",
+    "meaningZh": "樣",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v025",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "リュック - 名詞 雙肩背包",
+    "meaningZh": "名詞 雙肩背包",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v026",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "せおう |辞|",
+    "meaningZh": "背、背負",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v027",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "サービスカウンター - 名詞 服務櫃台",
+    "meaningZh": "名詞 服務櫃台",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v028",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "めい 姪 名詞 侄女",
+    "meaningZh": "29 めい 姪 名詞 侄女",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v029",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "とくちょう 特徴 名詞 特徵、特點",
+    "meaningZh": "30 とくちょう 特徴 名詞 特徵、特點",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v030",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "しんちょう 身長 名詞 身高",
+    "meaningZh": "31 しんちょう 身長 名詞 身高",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v031",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "ジーンズ - 名詞 牛仔褲",
+    "meaningZh": "名詞 牛仔褲",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v032",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "かみがた 髪型 名詞 髮型、髮式",
+    "meaningZh": "33 かみがた 髪型 名詞 髮型、髮式",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v033",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "かた 肩 名詞 肩",
+    "meaningZh": "34 かた 肩 名詞 肩",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v034",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "もちもの 持ち物 名詞 隨身携帶的物品",
+    "meaningZh": "35 もちもの 持ち物 名詞 隨身携帶的物品",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v035",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "みずいろ 水色 名詞 天藍色",
+    "meaningZh": "2 / 537 おりたたみ 折りたたみ 名詞 折疊式",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v036",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "あおじ 青地 名詞 藍地",
+    "meaningZh": "(紡織品)、藍布",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v037",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "～じ ～地 名詞 ～底色的布 （青地",
+    "meaningZh": "布）",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v038",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "もつところ 持つところ 名詞 手柄、把手",
+    "meaningZh": "40 もつところ 持つところ 名詞 手柄、把手",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v039",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "プラスチック - 名詞 塑料",
+    "meaningZh": "名詞 塑料",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v040",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "確か、～たと思います",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v041",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "とじょうこく 途上国 名詞 發展中國家",
+    "meaningZh": "43 とじょうこく 途上国 名詞 發展中國家",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v042",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "せんしんこく 先進国 名詞 先進國家",
+    "meaningZh": "44 せんしんこく 先進国 名詞 先進國家",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v043",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "プラス - 名詞 有益的、有幫助的",
+    "meaningZh": "名詞 有益的、有幫助的",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v044",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "マイナス - 名詞 無益的、有負面影",
+    "meaningZh": "名詞 無益的、有負面影",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v045",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "きょうつう 共通 名詞 相同、共同",
+    "meaningZh": "47 きょうつう 共通 名詞 相同、共同",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v046",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "かんしん 関心 名詞 感興趣、關心、關",
+    "meaningZh": "懷",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v047",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "たようか 多様化 名詞 多樣化",
+    "meaningZh": "49 たようか 多様化 名詞 多樣化",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v048",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "タイトル - 名詞 題目、標題",
+    "meaningZh": "名詞 題目、標題",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v049",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "はんたいに 反対に 接続",
+    "meaningZh": "反過來",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v050",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "ぜんご 前後 名詞 前後",
+    "meaningZh": "52 ぜんご 前後 名詞 前後",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v051",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "たいしょう 対象 名詞 對象",
+    "meaningZh": "53 たいしょう 対象 名詞 對象",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v052",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "しょうじょ 少女 名詞 少女",
+    "meaningZh": "54 しょうじょ 少女 名詞 少女",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v053",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "アイディア - 名詞 主意、想法",
+    "meaningZh": "閃閃發光、閃耀",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v054",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "ふりょく 浮力 名詞 浮力",
+    "meaningZh": "57 ふりょく 浮力 名詞 浮力",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v055",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "しょうねん 少年 名詞 少年",
+    "meaningZh": "58 しょうねん 少年 名詞 少年",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v056",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "キノコぐも キノコ雲 名詞 蘑菇雲(原子彈爆炸",
+    "meaningZh": "狀的雲朶)",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v057",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "ときに 時に 副詞 有時",
+    "meaningZh": "60 ときに 時に 副詞 有時",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v058",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "ダメージ - 名詞 打擊、損傷",
+    "meaningZh": "名詞 打擊、損傷",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v059",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "あたえる",
+    "meaningZh": "給予、予以",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v060",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "ひげ - 名詞 鬍鬚、鬍子",
+    "meaningZh": "名詞 鬍鬚、鬍子",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v061",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "のびる ［ひげが～〕",
+    "meaningZh": "長長、生長（ひげ",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v062",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "はってんする",
+    "meaningZh": "發展、進步［技術",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v063",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "ページ - 名詞 頁",
+    "meaningZh": "名詞 頁",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v064",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "みりょく 魅力 名詞 魅力",
+    "meaningZh": "67 みりょく 魅力 名詞 魅力",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v065",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "ゆたか ［な] 豊か ［な] な形",
+    "meaningZh": "豐富 [的]、富裕 [的]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v066",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "うける ［ダメージを～]",
+    "meaningZh": "受到 [受到打擊]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v067",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "テーマ - 名詞 題目、中心思想",
+    "meaningZh": "名詞 題目、中心思想",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v068",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "のべる |辞|",
+    "meaningZh": "叙述、陳述、闡述",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v069",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "トリニダードトバゴ - 固有",
+    "meaningZh": "固有",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v070",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "インド - 固有",
+    "meaningZh": "固有",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l8-v071",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 8,
+    "kana": "ウガンダ - 固有",
+    "meaningZh": "固有",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
+    }
+  }
+]
+

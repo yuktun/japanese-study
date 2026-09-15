@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "y4-l6-v001",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "いちごいちえ 一期一会 名詞 一期一會（日本茶",
+    "meaningZh": "力）",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v002",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "フクロウ - 名詞 貓頭鷹",
+    "meaningZh": "名詞 貓頭鷹",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v003",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "まなぶ |辞|",
+    "meaningZh": "學習",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v004",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "いっしょう 一生 名詞 一生",
+    "meaningZh": "4 いっしょう 一生 名詞 一生",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v005",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "てんいん 店員 名詞 店員",
+    "meaningZh": "5 てんいん 店員 名詞 店員",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v006",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "しゅうしょくする |辞|",
+    "meaningZh": "動詞 就職、就業",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v007",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "じぶんでは 自分では 名詞 我自己（認為自己",
+    "meaningZh": "）",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v008",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "ゲーム - 名詞 遊戲",
+    "meaningZh": "名詞 遊戲",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v009",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "うがい - 名詞 漱口",
+    "meaningZh": "名詞 漱口",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v010",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "ビタミンシー ビタミンC 名詞 維他命Ｃ",
+    "meaningZh": "10 ビタミンシー ビタミンC 名詞 維他命Ｃ",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v011",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "とる ［ビタミンを～]",
+    "meaningZh": "攝取 [攝取維他命]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v012",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "とおく 遠く 名詞 遠方、遠處",
+    "meaningZh": "12 とおく 遠く 名詞 遠方、遠處",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v013",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "たいこ 太鼓 名詞 鼓、大鼓",
+    "meaningZh": "名詞 練習、修煉",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v014",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "サケ - 名詞 三文魚、鮭魚",
+    "meaningZh": "名詞 三文魚、鮭魚",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v015",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "ちゃくりくする |辞|",
+    "meaningZh": "著陸",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v016",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "ふる ［てを～] |辞|",
+    "meaningZh": "揮 [揮手]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v017",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "タラップ - 名詞 （飛機的）舷梯",
+    "meaningZh": "名詞 （飛機的）舷梯",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v018",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "ようこそ - 副詞 歡迎",
+    "meaningZh": "副詞 歡迎",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v019",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "ビジネスマナー - 名詞 商務禮儀",
+    "meaningZh": "名詞 商務禮儀",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v020",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "セミナー - 名詞 研討會",
+    "meaningZh": "名詞 研討會",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v021",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "あんない 案内 名詞 通知、邀請信",
+    "meaningZh": "22 あんない 案内 名詞 通知、邀請信",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v022",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "ひよう 費用 名詞 費用",
+    "meaningZh": "23 ひよう 費用 名詞 費用",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v023",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "こうしょうする |辞|",
+    "meaningZh": "交涉、談判",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v024",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "じょうけん 条件 名詞 條件",
+    "meaningZh": "25 じょうけん 条件 名詞 條件",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v025",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "せいど 制度 名詞 制度",
+    "meaningZh": "26 せいど 制度 名詞 制度",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v026",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "メンタルトレーニング - 名詞 心理訓練",
+    "meaningZh": "名詞 心理訓練",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v027",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "とりいれる |辞|",
+    "meaningZh": "採取、引進",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v028",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "ビジネス - 名詞 商務、生意",
+    "meaningZh": "名詞 商務、生意",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v029",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "レベル - 名詞 水平",
+    "meaningZh": "名詞 水平",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v030",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "しゅう 週 名詞 一周、一星期",
+    "meaningZh": "31 しゅう 週 名詞 一周、一星期",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v031",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "ぜんがく 全額 名詞 全額",
+    "meaningZh": "32 ぜんがく 全額 名詞 全額",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v032",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "はんがく 半額 名詞 一半費用、半價",
+    "meaningZh": "33 はんがく 半額 名詞 一半費用、半價",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v033",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "だす ［ひようを～] |辞|",
+    "meaningZh": "付、支付 [支付費用]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v034",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "きかん 期間 名詞 期間",
+    "meaningZh": "36 きかん 期間 名詞 期間",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v035",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "にちじ 日時 名詞 日期和時間",
+    "meaningZh": "37 にちじ 日時 名詞 日期和時間",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v036",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "じゅぎょうりょう 授業料 名詞 學費",
+    "meaningZh": "38 じゅぎょうりょう 授業料 名詞 學費",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v037",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "～りょう ～料 名詞 ～費用",
+    "meaningZh": "39 ～りょう ～料 名詞 ～費用",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v038",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "ひにち 日にち 名詞 日期",
+    "meaningZh": "40 ひにち 日にち 名詞 日期",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v039",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "たんとうしゃ 担当者 名詞 主管、責任人",
+    "meaningZh": "41 たんとうしゃ 担当者 名詞 主管、責任人",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v040",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "えんきする |辞|",
+    "meaningZh": "延期",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v041",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "かいかえる |辞|",
+    "meaningZh": "重新購置物品（以",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v042",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "こうえんかい 講演会 名詞 演講會",
+    "meaningZh": "44 こうえんかい 講演会 名詞 演講會",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v043",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "～かい ［こうえん～] ～会 ［講演～] 名詞 ～會 [演講會]",
+    "meaningZh": "45 ～かい ［こうえん～] ～会 ［講演～] 名詞 ～會 [演講會]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v044",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "じょうし 上司 名詞 上級、上司",
+    "meaningZh": "46 じょうし 上司 名詞 上級、上司",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v045",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "つかむ |辞|",
+    "meaningZh": "抓住",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v046",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "実は～のことなんです",
+    "meaningZh": "事情, ……",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v047",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "もし～が無理なら、･･･",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v048",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "そのような - な形",
+    "meaningZh": "な形",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v049",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "そうぞうする |辞| 想像する",
+    "meaningZh": "想像",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v050",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "イメージする |辞|",
+    "meaningZh": "種景象、形象化",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v051",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "ぐたいてき ［な] 具体的 ［な] な形",
+    "meaningZh": "具體 [的]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v052",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "りそう 理想 名詞 理想",
+    "meaningZh": "54 りそう 理想 名詞 理想",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v053",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "ちかづく |辞|",
+    "meaningZh": "臨近、接近",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v054",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "こそあど - 其他 （所謂近稱中稱遠",
+    "meaningZh": "其他 （所謂近稱中稱遠",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v055",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "さす |辞|",
+    "meaningZh": "指(某事或某物)",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v056",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "きしゃかいけん 記者会見 名詞 新聞發佈會、記者",
+    "meaningZh": "招待會",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v057",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "きしゃ 記者 名詞 記者",
+    "meaningZh": "59 きしゃ 記者 名詞 記者",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v058",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "かいけん 会見 名詞 會見",
+    "meaningZh": "60 かいけん 会見 名詞 會見",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v059",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "～ごっこ - 名詞 (角色扮演)遊戲",
+    "meaningZh": "名詞 (角色扮演)遊戲",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v060",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "キャベツ - 名詞 洋白菜、巻心菜",
+    "meaningZh": "名詞 洋白菜、巻心菜",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v061",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "くらい ［きもちが～] 暗い ［気持ちが～] い形",
+    "meaningZh": "[心情憂鬱]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v062",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "よのなか 世の中 名詞 人世間、社會",
+    "meaningZh": "64 よのなか 世の中 名詞 人世間、社會",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v063",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "アホ - 名詞 呆子、傻子",
+    "meaningZh": "名詞 呆子、傻子",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v064",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "みえる ［アホに～] |辞|",
+    "meaningZh": "看上去像",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v065",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "ビジネスマン - 名詞 公司業務員",
+    "meaningZh": "名詞 公司業務員",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v066",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "おなじような 同じような 其他 同樣的",
+    "meaningZh": "68 おなじような 同じような 其他 同樣的",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v067",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "とじる |辞|",
+    "meaningZh": "閉上 (眼睛)",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v068",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "つまり - 接続",
+    "meaningZh": "接続",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v069",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "かこ 過去 名詞 過去",
+    "meaningZh": "72 かこ 過去 名詞 過去",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v070",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "むきあう |辞|",
+    "meaningZh": "面對面",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v071",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "そうすれば - 接続",
+    "meaningZh": "接続",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v072",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "げんざい 現在 名詞 現在",
+    "meaningZh": "75 げんざい 現在 名詞 現在",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v073",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "そこから - 接続",
+    "meaningZh": "接続",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v074",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "かいけつする |辞|",
+    "meaningZh": "解決",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v075",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "プラン - 名詞 計劃",
+    "meaningZh": "名詞 計劃",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v076",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "たてる ［プランを～]",
+    "meaningZh": "制定 [制定計劃]",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v077",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "じゅんばん 順番 名詞 順序、次序",
+    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v078",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "「ちょうちょ」 - 固有",
+    "meaningZh": "固有",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v079",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "スバル - 固有",
+    "meaningZh": "固有",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v080",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "にほんりゅうがくしけ",
+    "meaningZh": "及基本學能。",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  },
+  {
+    "id": "y4-l6-v081",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 6,
+    "kana": "はねだくうこう 羽田空港 固有",
+    "meaningZh": "6 / 6",
+    "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
+    }
+  }
+]
+
