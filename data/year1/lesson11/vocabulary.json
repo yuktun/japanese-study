@@ -4,28 +4,30 @@
     "schoolYear": 1,
     "book": "初級 I",
     "lesson": 11,
-    "kana": "います",
-    "meaningZh": "います [こどもが～] います [子どもが～] 有 [小孩]",
+    "kana": "います [こどもが～]",
+    "meaningZh": "有 [小孩]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "います [こどもが～] います [子どもが～] 有 [小孩]"
+    "sourceText": "います [こどもが～] います [子どもが～] 有 [小孩]",
+    "kanji": "います [子どもが～]"
   },
   {
     "id": "y1-l11-v002",
     "schoolYear": 1,
     "book": "初級 I",
     "lesson": 11,
-    "kana": "います",
-    "meaningZh": "います [にほんに～] います [日本に～] 在 [日本]",
+    "kana": "います [にほんに～]",
+    "meaningZh": "在 [日本]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "います [にほんに～] います [日本に～] 在 [日本]"
+    "sourceText": "います [にほんに～] います [日本に～] 在 [日本]",
+    "kanji": "います [日本に～]"
   },
   {
     "id": "y1-l11-v003",
@@ -47,13 +49,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "やすみます [かいしゃを～]",
-    "meaningZh": "やすみます [かいしゃを～] 休みます [会社を～] [向公司] 請假、缺勤",
+    "meaningZh": "[向公司] 請假、缺勤",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "やすみます [かいしゃを～] 休みます [会社を～] [向公司] 請假、缺勤"
+    "sourceText": "やすみます [かいしゃを～] 休みます [会社を～] [向公司] 請假、缺勤",
+    "kanji": "休みます [会社を～]"
   },
   {
     "id": "y1-l11-v005",
@@ -61,13 +64,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "ひとつ",
-    "meaningZh": "ひとつ １つ 一個 (用於計算物品)",
+    "meaningZh": "一個 (用於計算物品)",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "ひとつ １つ 一個 (用於計算物品)"
+    "sourceText": "ひとつ １つ 一個 (用於計算物品)",
+    "kanji": "１つ"
   },
   {
     "id": "y1-l11-v006",
@@ -75,13 +79,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "ふたつ",
-    "meaningZh": "ふたつ ２つ 二個",
+    "meaningZh": "二個",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "ふたつ ２つ 二個"
+    "sourceText": "ふたつ ２つ 二個",
+    "kanji": "２つ"
   },
   {
     "id": "y1-l11-v007",
@@ -89,13 +94,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "みっつ",
-    "meaningZh": "みっつ ３つ 三個",
+    "meaningZh": "三個",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "みっつ ３つ 三個"
+    "sourceText": "みっつ ３つ 三個",
+    "kanji": "３つ"
   },
   {
     "id": "y1-l11-v008",
@@ -103,13 +109,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "よっつ",
-    "meaningZh": "よっつ ４つ 四個",
+    "meaningZh": "四個",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "よっつ ４つ 四個"
+    "sourceText": "よっつ ４つ 四個",
+    "kanji": "４つ"
   },
   {
     "id": "y1-l11-v009",
@@ -117,13 +124,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "いつつ",
-    "meaningZh": "いつつ ５つ 五個",
+    "meaningZh": "五個",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "いつつ ５つ 五個"
+    "sourceText": "いつつ ５つ 五個",
+    "kanji": "５つ"
   },
   {
     "id": "y1-l11-v010",
@@ -131,13 +139,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "むっつ",
-    "meaningZh": "むっつ ６つ 六個",
+    "meaningZh": "六個",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "むっつ ６つ 六個"
+    "sourceText": "むっつ ６つ 六個",
+    "kanji": "６つ"
   },
   {
     "id": "y1-l11-v011",
@@ -145,13 +154,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "ななつ",
-    "meaningZh": "ななつ ７つ 七個",
+    "meaningZh": "七個",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "ななつ ７つ 七個"
+    "sourceText": "ななつ ７つ 七個",
+    "kanji": "７つ"
   },
   {
     "id": "y1-l11-v012",
@@ -159,13 +169,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "やっつ",
-    "meaningZh": "やっつ ８つ 八個",
+    "meaningZh": "八個",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "やっつ ８つ 八個"
+    "sourceText": "やっつ ８つ 八個",
+    "kanji": "８つ"
   },
   {
     "id": "y1-l11-v013",
@@ -173,13 +184,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "ここのつ",
-    "meaningZh": "ここのつ ９つ 九個",
+    "meaningZh": "九個",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "ここのつ ９つ 九個"
+    "sourceText": "ここのつ ９つ 九個",
+    "kanji": "９つ"
   },
   {
     "id": "y1-l11-v014",
@@ -187,13 +199,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "とお",
-    "meaningZh": "とお １０ 十個",
+    "meaningZh": "十個",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "とお １０ 十個"
+    "sourceText": "とお １０ 十個",
+    "kanji": "１０"
   },
   {
     "id": "y1-l11-v015",
@@ -201,13 +214,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "ひとり",
-    "meaningZh": "ひとり １人 一個人",
+    "meaningZh": "一個人",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "ひとり １人 一個人"
+    "sourceText": "ひとり １人 一個人",
+    "kanji": "１人"
   },
   {
     "id": "y1-l11-v016",
@@ -215,13 +229,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "ふたり",
-    "meaningZh": "ふたり ２人 二個人",
+    "meaningZh": "二個人",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "ふたり ２人 二個人"
+    "sourceText": "ふたり ２人 二個人",
+    "kanji": "２人"
   },
   {
     "id": "y1-l11-v017",
@@ -299,13 +314,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "きって",
-    "meaningZh": "きって 切手 郵票",
+    "meaningZh": "郵票",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "きって 切手 郵票"
+    "sourceText": "きって 切手 郵票",
+    "kanji": "切手"
   },
   {
     "id": "y1-l11-v023",
@@ -327,13 +343,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "ふうとう",
-    "meaningZh": "ふうとう 封筒 信封",
+    "meaningZh": "信封",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "ふうとう 封筒 信封"
+    "sourceText": "ふうとう 封筒 信封",
+    "kanji": "封筒"
   },
   {
     "id": "y1-l11-v025",
@@ -355,13 +372,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "こうくうびん",
-    "meaningZh": "こうくうびん 航空便 航空郵件、航空信",
+    "meaningZh": "航空郵件、航空信",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "こうくうびん 航空便 航空郵件、航空信"
+    "sourceText": "こうくうびん 航空便 航空郵件、航空信",
+    "kanji": "航空便"
   },
   {
     "id": "y1-l11-v027",
@@ -369,13 +387,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "ふなびん",
-    "meaningZh": "ふなびん 船便 船運",
+    "meaningZh": "船運",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "ふなびん 船便 船運"
+    "sourceText": "ふなびん 船便 船運",
+    "kanji": "船便"
   },
   {
     "id": "y1-l11-v028",
@@ -383,13 +402,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "りょうしん",
-    "meaningZh": "りょうしん 両親 雙親",
+    "meaningZh": "雙親",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "りょうしん 両親 雙親"
+    "sourceText": "りょうしん 両親 雙親",
+    "kanji": "両親"
   },
   {
     "id": "y1-l11-v029",
@@ -397,13 +417,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "きょうだい",
-    "meaningZh": "きょうだい 兄弟 兄弟姊妹",
+    "meaningZh": "兄弟姊妹",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "きょうだい 兄弟 兄弟姊妹"
+    "sourceText": "きょうだい 兄弟 兄弟姊妹",
+    "kanji": "兄弟"
   },
   {
     "id": "y1-l11-v030",
@@ -411,13 +432,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "あに",
-    "meaningZh": "あに 兄 (我) 哥哥",
+    "meaningZh": "(我) 哥哥",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "あに 兄 (我) 哥哥"
+    "sourceText": "あに 兄 (我) 哥哥",
+    "kanji": "兄"
   },
   {
     "id": "y1-l11-v031",
@@ -425,13 +447,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "おにいさん",
-    "meaningZh": "おにいさん お兄さん (別人的) 哥哥",
+    "meaningZh": "(別人的) 哥哥",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "おにいさん お兄さん (別人的) 哥哥"
+    "sourceText": "おにいさん お兄さん (別人的) 哥哥",
+    "kanji": "お兄さん"
   },
   {
     "id": "y1-l11-v032",
@@ -439,13 +462,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "あね",
-    "meaningZh": "あね 姉 (我) 姊姊",
+    "meaningZh": "(我) 姊姊",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "あね 姉 (我) 姊姊"
+    "sourceText": "あね 姉 (我) 姊姊",
+    "kanji": "姉"
   },
   {
     "id": "y1-l11-v033",
@@ -453,13 +477,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "おねえさん",
-    "meaningZh": "おねえさん お姉さん (別人的) 姊姊",
+    "meaningZh": "(別人的) 姊姊",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "おねえさん お姉さん (別人的) 姊姊"
+    "sourceText": "おねえさん お姉さん (別人的) 姊姊",
+    "kanji": "お姉さん"
   },
   {
     "id": "y1-l11-v034",
@@ -467,13 +492,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "おとうと",
-    "meaningZh": "おとうと 弟 (我)弟弟",
+    "meaningZh": "(我)弟弟",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "おとうと 弟 (我)弟弟"
+    "sourceText": "おとうと 弟 (我)弟弟",
+    "kanji": "弟"
   },
   {
     "id": "y1-l11-v035",
@@ -481,13 +507,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "おとうとさん",
-    "meaningZh": "おとうとさん 弟さん (別人的) 弟弟",
+    "meaningZh": "(別人的) 弟弟",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "おとうとさん 弟さん (別人的) 弟弟"
+    "sourceText": "おとうとさん 弟さん (別人的) 弟弟",
+    "kanji": "弟さん"
   },
   {
     "id": "y1-l11-v036",
@@ -495,13 +522,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "いもうと",
-    "meaningZh": "いもうと 妹 (我) 妹妹",
+    "meaningZh": "(我) 妹妹",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "いもうと 妹 (我) 妹妹"
+    "sourceText": "いもうと 妹 (我) 妹妹",
+    "kanji": "妹"
   },
   {
     "id": "y1-l11-v037",
@@ -509,13 +537,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "いもうとさん",
-    "meaningZh": "いもうとさん 妹さん (別人的) 妹妹",
+    "meaningZh": "(別人的) 妹妹",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "いもうとさん 妹さん (別人的) 妹妹"
+    "sourceText": "いもうとさん 妹さん (別人的) 妹妹",
+    "kanji": "妹さん"
   },
   {
     "id": "y1-l11-v038",
@@ -523,13 +552,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "がいこく",
-    "meaningZh": "がいこく 外国 外國",
+    "meaningZh": "外國",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "がいこく 外国 外國"
+    "sourceText": "がいこく 外国 外國",
+    "kanji": "外国"
   },
   {
     "id": "y1-l11-v039",
@@ -537,13 +567,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "りゅうがくせい",
-    "meaningZh": "りゅうがくせい 留学生 留學生",
+    "meaningZh": "留學生",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "りゅうがくせい 留学生 留學生"
+    "sourceText": "りゅうがくせい 留学生 留學生",
+    "kanji": "留学生"
   },
   {
     "id": "y1-l11-v040",
@@ -565,13 +596,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "～にん",
-    "meaningZh": "～にん ～人 ～個人",
+    "meaningZh": "～個人",
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "～にん ～人 ～個人"
+    "sourceText": "～にん ～人 ～個人",
+    "kanji": "～人"
   },
   {
     "id": "y1-l11-v042",
@@ -579,13 +611,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "～だい",
-    "meaningZh": "～だい ～台 (用於計算機械、車輛等機械 類時)",
+    "meaningZh": "(用於計算機械、車輛等機械類時)",
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "～だい ～台 (用於計算機械、車輛等機械 類時)"
+    "sourceText": "～だい ～台 (用於計算機械、車輛等機械 類時)",
+    "kanji": "～台"
   },
   {
     "id": "y1-l11-v043",
@@ -593,13 +626,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "～まい",
-    "meaningZh": "～まい ～枚 (用於計算紙張、郵票等薄的 物品時)",
+    "meaningZh": "(用於計算紙張、郵票等薄的物品時)",
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "～まい ～枚 (用於計算紙張、郵票等薄的 物品時)"
+    "sourceText": "～まい ～枚 (用於計算紙張、郵票等薄的 物品時)",
+    "kanji": "～枚"
   },
   {
     "id": "y1-l11-v044",
@@ -607,13 +641,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "～かい",
-    "meaningZh": "～かい ～回 ～次",
+    "meaningZh": "～次",
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "～かい ～回 ～次"
+    "sourceText": "～かい ～回 ～次",
+    "kanji": "～回"
   },
   {
     "id": "y1-l11-v045",
@@ -621,13 +656,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "～ねん",
-    "meaningZh": "～ねん ～年 ～年",
+    "meaningZh": "～年",
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "～ねん ～年 ～年"
+    "sourceText": "～ねん ～年 ～年",
+    "kanji": "～年"
   },
   {
     "id": "y1-l11-v046",
@@ -635,13 +671,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "～かげつ",
-    "meaningZh": "～かげつ ～か月 ～個月",
+    "meaningZh": "～個月",
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "～かげつ ～か月 ～個月"
+    "sourceText": "～かげつ ～か月 ～個月",
+    "kanji": "～か月"
   },
   {
     "id": "y1-l11-v047",
@@ -649,13 +686,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "～しゅうかん",
-    "meaningZh": "～しゅうかん ～週間 ～星期",
+    "meaningZh": "～星期",
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "～しゅうかん ～週間 ～星期"
+    "sourceText": "～しゅうかん ～週間 ～星期",
+    "kanji": "～週間"
   },
   {
     "id": "y1-l11-v048",
@@ -663,13 +701,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "～じかん",
-    "meaningZh": "～じかん ～時間 ～小時",
+    "meaningZh": "～小時",
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "～じかん ～時間 ～小時"
+    "sourceText": "～じかん ～時間 ～小時",
+    "kanji": "～時間"
   },
   {
     "id": "y1-l11-v049",
@@ -705,13 +744,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "ぜんぶで",
-    "meaningZh": "ぜんぶで 全部で 一共",
+    "meaningZh": "一共",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "ぜんぶで 全部で 一共"
+    "sourceText": "ぜんぶで 全部で 一共",
+    "kanji": "全部で"
   },
   {
     "id": "y1-l11-v052",
@@ -760,14 +800,15 @@
     "schoolYear": 1,
     "book": "初級 I",
     "lesson": 11,
-    "kana": "いい",
-    "meaningZh": "いい [お] てんきですね。 いい [お] 天気ですね。 真是好天氣呀。",
+    "kana": "いい [お] てんきですね。",
+    "meaningZh": "真是好天氣呀。",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "いい [お] てんきですね。 いい [お] 天気ですね。 真是好天氣呀。"
+    "sourceText": "いい [お] てんきですね。 いい [お] 天気ですね。 真是好天氣呀。",
+    "kanji": "いい [お] 天気ですね。"
   },
   {
     "id": "y1-l11-v056",
@@ -775,27 +816,29 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "おでかけですか。",
-    "meaningZh": "おでかけですか。 お出かけですか。 您外出呀。",
+    "meaningZh": "您外出呀。",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "おでかけですか。 お出かけですか。 您外出呀。"
+    "sourceText": "おでかけですか。 お出かけですか。 您外出呀。",
+    "kanji": "お出かけですか。"
   },
   {
     "id": "y1-l11-v057",
     "schoolYear": 1,
     "book": "初級 I",
     "lesson": 11,
-    "kana": "ちょっと",
-    "meaningZh": "ちょっと [ゆうびんきょく] まで。 ちょっと [郵便局] まで。 我去一下(郵局)。",
+    "kana": "ちょっと [ゆうびんきょく] まで。",
+    "meaningZh": "我去一下(郵局)。",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "ちょっと [ゆうびんきょく] まで。 ちょっと [郵便局] まで。 我去一下(郵局)。"
+    "sourceText": "ちょっと [ゆうびんきょく] まで。 ちょっと [郵便局] まで。 我去一下(郵局)。",
+    "kanji": "ちょっと [郵便局] まで。"
   },
   {
     "id": "y1-l11-v058",
@@ -803,27 +846,29 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "いってらっしゃい。",
-    "meaningZh": "いってらっしゃい。 行ってらっしゃい。 你慢走。 (會再回來)",
+    "meaningZh": "你慢走。 (會再回來)",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "いってらっしゃい。 行ってらっしゃい。 你慢走。 (會再回來)"
+    "sourceText": "いってらっしゃい。 行ってらっしゃい。 你慢走。 (會再回來)",
+    "kanji": "行ってらっしゃい。"
   },
   {
     "id": "y1-l11-v059",
     "schoolYear": 1,
     "book": "初級 I",
     "lesson": 11,
-    "kana": "いって",
-    "meaningZh": "いって きます。 行って きます。 我走了。 (會再回來)",
+    "kana": "いって きます。",
+    "meaningZh": "我走了。 (會再回來)",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "いって きます。 行って きます。 我走了。 (會再回來)"
+    "sourceText": "いって きます。 行って きます。 我走了。 (會再回來)",
+    "kanji": "行って きます。"
   },
   {
     "id": "y1-l11-v060",
@@ -831,13 +876,14 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "おねがいします。",
-    "meaningZh": "おねがいします。 お願いします。 拜托了。 (請對方幫忙)",
+    "meaningZh": "拜托了。 (請對方幫忙)",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
     },
-    "sourceText": "おねがいします。 お願いします。 拜托了。 (請對方幫忙)"
+    "sourceText": "おねがいします。 お願いします。 拜托了。 (請對方幫忙)",
+    "kanji": "お願いします。"
   },
   {
     "id": "y1-l11-v061",
@@ -845,7 +891,7 @@
     "book": "初級 I",
     "lesson": 11,
     "kana": "かしこまりました。",
-    "meaningZh": "知道了。 (表示恭謹地接受命令或吩咐 )",
+    "meaningZh": "知道了。(表示恭謹地接受命令或吩咐)",
     "category": "其他",
     "source": {
       "type": "school_pdf",
