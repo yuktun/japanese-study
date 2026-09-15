@@ -75,8 +75,8 @@
     "book": "初級 I",
     "lesson": 4,
     "kana": "やすみます",
-    "kanji": "休みます",
-    "meaningZh": "休息、暫停",
+    "kanji": "やすみます",
+    "meaningZh": "休息、暫停 [動詞]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
@@ -460,7 +460,7 @@
     "lesson": 4,
     "kana": "やすみ",
     "kanji": "休み",
-    "meaningZh": "休息，休假",
+    "meaningZh": "休息，休假[名詞]",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -594,59 +594,6 @@
     }
   },
   {
-    "id": "y1-l04-v044",
-    "schoolYear": 1,
-    "book": "初級 I",
-    "lesson": 4,
-    "kana": "なんようび",
-    "kanji": "何曜日",
-    "meaningZh": "星期幾",
-    "category": "疑問詞",
-    "source": {
-      "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch4.pdf.pdf"
-    }
-  },
-  {
-    "id": "y1-l04-v045",
-    "schoolYear": 1,
-    "book": "初級 I",
-    "lesson": 4,
-    "kana": "～から",
-    "meaningZh": "從～",
-    "category": "其他",
-    "source": {
-      "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch4.pdf.pdf"
-    }
-  },
-  {
-    "id": "y1-l04-v046",
-    "schoolYear": 1,
-    "book": "初級 I",
-    "lesson": 4,
-    "kana": "～まで",
-    "meaningZh": "到～",
-    "category": "其他",
-    "source": {
-      "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch4.pdf.pdf"
-    }
-  },
-  {
-    "id": "y1-l04-v047",
-    "schoolYear": 1,
-    "book": "初級 I",
-    "lesson": 4,
-    "kana": "～と～",
-    "meaningZh": "和（用於連接名詞）",
-    "category": "其他",
-    "source": {
-      "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch4.pdf.pdf"
-    }
-  },
-  {
     "id": "y1-l04-v048",
     "schoolYear": 1,
     "book": "初級 I",
@@ -669,6 +616,20 @@
     "kanji": "～時",
     "meaningZh": "～點（鐘）",
     "category": "数量詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v044",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "なんようび",
+    "kanji": "何曜日",
+    "meaningZh": "星期幾",
+    "category": "疑問詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch4.pdf.pdf"
@@ -717,13 +678,52 @@
     }
   },
   {
+    "id": "y1-l04-v045",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "～から",
+    "meaningZh": "從～",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v046",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "～まで",
+    "meaningZh": "到～",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
+    "id": "y1-l04-v047",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 4,
+    "kana": "～と～",
+    "meaningZh": "和（用於連接名詞）",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch4.pdf.pdf"
+    }
+  },
+  {
     "id": "y1-l04-v053",
     "schoolYear": 1,
     "book": "初級 I",
     "lesson": 4,
     "kana": "たいへんですね。",
     "kanji": "大変ですね。",
-    "meaningZh": "很辛苦啊。夠受的了。（表 示同情及慰問對方的心情）",
+    "meaningZh": "很辛苦啊。夠受的了。（表示同情及慰問對方的心情）",
     "category": "其他",
     "source": {
       "type": "school_pdf",
