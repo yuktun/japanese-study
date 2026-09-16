@@ -5,13 +5,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "すわります",
-    "meaningZh": "すわります 座ります Ⅰ 坐",
+    "meaningZh": "坐",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "すわります 座ります Ⅰ 坐"
+    "sourceText": "すわります 座ります Ⅰ 坐",
+    "kanji": "座ります"
   },
   {
     "id": "y1-l14-v002",
@@ -19,13 +20,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "たちます",
-    "meaningZh": "たちます 立ちます Ⅰ 站、立",
+    "meaningZh": "站、立",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "たちます 立ちます Ⅰ 站、立"
+    "sourceText": "たちます 立ちます Ⅰ 站、立",
+    "kanji": "立ちます"
   },
   {
     "id": "y1-l14-v003",
@@ -33,13 +35,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "でます [きっさてんを～]",
-    "meaningZh": "でます [きっさてんを～] 出ます [喫茶店を～] Ⅱ 走出 [咖啡館]",
+    "meaningZh": "走出 [咖啡館]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "でます [きっさてんを～] 出ます [喫茶店を～] Ⅱ 走出 [咖啡館]"
+    "sourceText": "でます [きっさてんを～] 出ます [喫茶店を～] Ⅱ 走出 [咖啡館]",
+    "kanji": "出ます [喫茶店を～]"
   },
   {
     "id": "y1-l14-v004",
@@ -47,13 +50,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "はいります [きっさてんに～]",
-    "meaningZh": "はいります [きっさてんに～] 入ります [喫茶店に～] Ⅰ 進入 [咖啡館]",
+    "meaningZh": "進入 [咖啡館]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "はいります [きっさてんに～] 入ります [喫茶店に～] Ⅰ 進入 [咖啡館]"
+    "sourceText": "はいります [きっさてんに～] 入ります [喫茶店に～] Ⅰ 進入 [咖啡館]",
+    "kanji": "入ります [喫茶店に～]"
   },
   {
     "id": "y1-l14-v005",
@@ -61,13 +65,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "つかいます",
-    "meaningZh": "つかいます 使います Ⅰ 使用",
+    "meaningZh": "使用",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "つかいます 使います Ⅰ 使用"
+    "sourceText": "つかいます 使います Ⅰ 使用",
+    "kanji": "使います"
   },
   {
     "id": "y1-l14-v006",
@@ -75,7 +80,7 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "つけます",
-    "meaningZh": "Ⅱ 打開 (電燈、冷氣等)",
+    "meaningZh": "打開 (電燈、冷氣等)",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
@@ -89,13 +94,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "けします",
-    "meaningZh": "けします 消します Ⅰ 關掉 (電燈、冷氣等)",
+    "meaningZh": "關掉 (電燈、冷氣等)",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "けします 消します Ⅰ 關掉 (電燈、冷氣等)"
+    "sourceText": "けします 消します Ⅰ 關掉 (電燈、冷氣等)",
+    "kanji": "消します"
   },
   {
     "id": "y1-l14-v008",
@@ -103,13 +109,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "あけます",
-    "meaningZh": "あけます 開けます Ⅱ 打開 (門、窗等)",
+    "meaningZh": "打開 (門、窗等)",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "あけます 開けます Ⅱ 打開 (門、窗等)"
+    "sourceText": "あけます 開けます Ⅱ 打開 (門、窗等)",
+    "kanji": "開けます"
   },
   {
     "id": "y1-l14-v009",
@@ -117,13 +124,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "しめます",
-    "meaningZh": "しめます 閉めます Ⅱ 關閉 (門、窗等)",
+    "meaningZh": "關閉 (門、窗等)",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "しめます 閉めます Ⅱ 關閉 (門、窗等)"
+    "sourceText": "しめます 閉めます Ⅱ 關閉 (門、窗等)",
+    "kanji": "閉めます"
   },
   {
     "id": "y1-l14-v010",
@@ -131,13 +139,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "いそぎます",
-    "meaningZh": "いそぎます 急ぎます Ⅰ 趕快、趕緊",
+    "meaningZh": "趕快、趕緊",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "いそぎます 急ぎます Ⅰ 趕快、趕緊"
+    "sourceText": "いそぎます 急ぎます Ⅰ 趕快、趕緊",
+    "kanji": "急ぎます"
   },
   {
     "id": "y1-l14-v011",
@@ -145,13 +154,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "まちます",
-    "meaningZh": "まちます 待ちます Ⅰ 等待",
+    "meaningZh": "等待",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "まちます 待ちます Ⅰ 等待"
+    "sourceText": "まちます 待ちます Ⅰ 等待",
+    "kanji": "待ちます"
   },
   {
     "id": "y1-l14-v012",
@@ -159,13 +169,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "とめます",
-    "meaningZh": "とめます 止めます Ⅱ 停止、停車",
+    "meaningZh": "停止、停車",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "とめます 止めます Ⅱ 停止、停車"
+    "sourceText": "とめます 止めます Ⅱ 停止、停車",
+    "kanji": "止めます"
   },
   {
     "id": "y1-l14-v013",
@@ -173,13 +184,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "もちます",
-    "meaningZh": "もちます 持ちます Ⅰ 持有、攜帶",
+    "meaningZh": "持有、攜帶",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "もちます 持ちます Ⅰ 持有、攜帶"
+    "sourceText": "もちます 持ちます Ⅰ 持有、攜帶",
+    "kanji": "持ちます"
   },
   {
     "id": "y1-l14-v014",
@@ -187,13 +199,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "とります",
-    "meaningZh": "とります 取ります Ⅰ 拿、取",
+    "meaningZh": "拿、取",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "とります 取ります Ⅰ 拿、取"
+    "sourceText": "とります 取ります Ⅰ 拿、取",
+    "kanji": "取ります"
   },
   {
     "id": "y1-l14-v015",
@@ -201,13 +214,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "てつだいます",
-    "meaningZh": "てつだいます 手伝います Ⅰ 幫忙、幫助",
+    "meaningZh": "幫忙、幫助",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "てつだいます 手伝います Ⅰ 幫忙、幫助"
+    "sourceText": "てつだいます 手伝います Ⅰ 幫忙、幫助",
+    "kanji": "手伝います"
   },
   {
     "id": "y1-l14-v016",
@@ -215,13 +229,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "よびます",
-    "meaningZh": "よびます 呼びます Ⅰ 呼叫、呼喚",
+    "meaningZh": "呼叫、呼喚",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "よびます 呼びます Ⅰ 呼叫、呼喚"
+    "sourceText": "よびます 呼びます Ⅰ 呼叫、呼喚",
+    "kanji": "呼びます"
   },
   {
     "id": "y1-l14-v017",
@@ -229,13 +244,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "はなします",
-    "meaningZh": "はなします 話します Ⅰ 講、說",
+    "meaningZh": "講、說",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "はなします 話します Ⅰ 講、說"
+    "sourceText": "はなします 話します Ⅰ 講、說",
+    "kanji": "話します"
   },
   {
     "id": "y1-l14-v018",
@@ -243,13 +259,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "みせます",
-    "meaningZh": "みせます 見せます Ⅱ 出示、讓人看",
+    "meaningZh": "出示、讓人看",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "みせます 見せます Ⅱ 出示、讓人看"
+    "sourceText": "みせます 見せます Ⅱ 出示、讓人看",
+    "kanji": "見せます"
   },
   {
     "id": "y1-l14-v019",
@@ -257,13 +274,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "おしえます [じゅうしょを～]",
-    "meaningZh": "おしえます [じゅうしょを～] 教えます [住所を～] Ⅱ 告訴 [地址]",
+    "meaningZh": "告訴 [地址]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "おしえます [じゅうしょを～] 教えます [住所を～] Ⅱ 告訴 [地址]"
+    "sourceText": "おしえます [じゅうしょを～] 教えます [住所を～] Ⅱ 告訴 [地址]",
+    "kanji": "教えます [住所を～]"
   },
   {
     "id": "y1-l14-v020",
@@ -271,13 +289,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "ふります [あめが～]",
-    "meaningZh": "ふります [あめが～] 降ります [雨が～] Ⅰ 下 [雨]",
+    "meaningZh": "下 [雨]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "ふります [あめが～] 降ります [雨が～] Ⅰ 下 [雨]"
+    "sourceText": "ふります [あめが～] 降ります [雨が～] Ⅰ 下 [雨]",
+    "kanji": "降ります [雨が～]"
   },
   {
     "id": "y1-l14-v021",
@@ -285,7 +304,7 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "コピーします",
-    "meaningZh": "Ⅲ 影印",
+    "meaningZh": "影印",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
@@ -299,13 +318,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "でんき",
-    "meaningZh": "でんき 電気 電燈",
+    "meaningZh": "電燈",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "でんき 電気 電燈"
+    "sourceText": "でんき 電気 電燈",
+    "kanji": "電気"
   },
   {
     "id": "y1-l14-v023",
@@ -341,13 +361,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "なまえ",
-    "meaningZh": "なまえ 名前 名字、姓名",
+    "meaningZh": "名字、姓名",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "なまえ 名前 名字、姓名"
+    "sourceText": "なまえ 名前 名字、姓名",
+    "kanji": "名前"
   },
   {
     "id": "y1-l14-v026",
@@ -355,13 +376,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "じゅうしょ",
-    "meaningZh": "じゅうしょ 住所 地址、住址",
+    "meaningZh": "地址、住址",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "じゅうしょ 住所 地址、住址"
+    "sourceText": "じゅうしょ 住所 地址、住址",
+    "kanji": "住所"
   },
   {
     "id": "y1-l14-v027",
@@ -369,13 +391,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "ちず",
-    "meaningZh": "ちず 地図 地圖",
+    "meaningZh": "地圖",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "ちず 地図 地圖"
+    "sourceText": "ちず 地図 地圖",
+    "kanji": "地図"
   },
   {
     "id": "y1-l14-v028",
@@ -383,13 +406,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "しお",
-    "meaningZh": "しお 塩 鹽巴",
+    "meaningZh": "鹽巴",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "しお 塩 鹽巴"
+    "sourceText": "しお 塩 鹽巴",
+    "kanji": "塩"
   },
   {
     "id": "y1-l14-v029",
@@ -397,13 +421,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "さとう",
-    "meaningZh": "さとう 砂糖 砂糖",
+    "meaningZh": "砂糖",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "さとう 砂糖 砂糖"
+    "sourceText": "さとう 砂糖 砂糖",
+    "kanji": "砂糖"
   },
   {
     "id": "y1-l14-v030",
@@ -411,13 +436,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "よみかた",
-    "meaningZh": "よみかた 読み方 唸法、讀法",
+    "meaningZh": "唸法、讀法",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "よみかた 読み方 唸法、讀法"
+    "sourceText": "よみかた 読み方 唸法、讀法",
+    "kanji": "読み方"
   },
   {
     "id": "y1-l14-v031",
@@ -425,13 +451,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "～かた",
-    "meaningZh": "～かた ～方 ～方式、～方法",
+    "meaningZh": "～方式、～方法",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "～かた ～方 ～方式、～方法"
+    "sourceText": "～かた ～方 ～方式、～方法",
+    "kanji": "～方"
   },
   {
     "id": "y1-l14-v032",
@@ -439,13 +466,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "もんだい",
-    "meaningZh": "もんだい 問題 問題",
+    "meaningZh": "問題",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "もんだい 問題 問題"
+    "sourceText": "もんだい 問題 問題",
+    "kanji": "問題"
   },
   {
     "id": "y1-l14-v033",
@@ -453,13 +481,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "こたえ",
-    "meaningZh": "こたえ 答え 答案",
+    "meaningZh": "答案",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "こたえ 答え 答案"
+    "sourceText": "こたえ 答え 答案",
+    "kanji": "答え"
   },
   {
     "id": "y1-l14-v034",
@@ -467,13 +496,14 @@
     "book": "初級 I",
     "lesson": 14,
     "kana": "おつり",
-    "meaningZh": "おつり お釣り 找的錢",
+    "meaningZh": "找的錢",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "おつり お釣り 找的錢"
+    "sourceText": "おつり お釣り 找的錢",
+    "kanji": "お釣り"
   },
   {
     "id": "y1-l14-v035",
@@ -550,14 +580,15 @@
     "schoolYear": 1,
     "book": "初級 I",
     "lesson": 14,
-    "kana": "もう すこし もう",
-    "meaningZh": "もう すこし もう 少し 再多一些",
+    "kana": "もう すこし",
+    "meaningZh": "再多一些",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "もう すこし もう 少し 再多一些"
+    "sourceText": "もう すこし もう 少し 再多一些",
+    "kanji": "もう 少し"
   },
   {
     "id": "y1-l14-v041",
@@ -606,27 +637,29 @@
     "schoolYear": 1,
     "book": "初級 I",
     "lesson": 14,
-    "kana": "しんごうを",
-    "meaningZh": "しんごうを みぎへ まがって ください。 信号を 右へ 曲がって ください。 請在紅綠燈處右轉。",
+    "kana": "しんごうを みぎへ まがって ください。",
+    "meaningZh": "請在紅綠燈處右轉。",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "しんごうを みぎへ まがって ください。 信号を 右へ 曲がって ください。 請在紅綠燈處右轉。"
+    "sourceText": "しんごうを みぎへ まがって ください。 信号を 右へ 曲がって ください。 請在紅綠燈處右轉。",
+    "kanji": "信号を 右へ 曲がって ください。"
   },
   {
     "id": "y1-l14-v045",
     "schoolYear": 1,
     "book": "初級 I",
     "lesson": 14,
-    "kana": "これで",
-    "meaningZh": "これで おねがいします。 これで お願いします。 我用這付錢。",
+    "kana": "これで おねがいします。",
+    "meaningZh": "我用這付錢。",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
     },
-    "sourceText": "これで おねがいします。 これで お願いします。 我用這付錢。"
+    "sourceText": "これで おねがいします。 これで お願いします。 我用這付錢。",
+    "kanji": "これで お願いします。"
   }
 ]
