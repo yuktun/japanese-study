@@ -5,13 +5,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "おきます",
-    "meaningZh": "おきます 置きます Ⅰ 放置、擺放",
+    "meaningZh": "放置、擺放",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "おきます 置きます Ⅰ 放置、擺放"
+    "sourceText": "おきます 置きます Ⅰ 放置、擺放",
+    "kanji": "置きます"
   },
   {
     "id": "y1-l15-v002",
@@ -19,13 +20,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "つくります",
-    "meaningZh": "つくります 作ります、造ります Ⅰ 做、製造",
+    "meaningZh": "做、製造",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "つくります 作ります、造ります Ⅰ 做、製造"
+    "sourceText": "つくります 作ります、造ります Ⅰ 做、製造",
+    "kanji": "作ります、造ります"
   },
   {
     "id": "y1-l15-v003",
@@ -33,13 +35,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "うります",
-    "meaningZh": "うります 売ります Ⅰ 賣、銷售",
+    "meaningZh": "賣、銷售",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "うります 売ります Ⅰ 賣、銷售"
+    "sourceText": "うります 売ります Ⅰ 賣、銷售",
+    "kanji": "売ります"
   },
   {
     "id": "y1-l15-v004",
@@ -47,13 +50,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "しります",
-    "meaningZh": "しります 知ります Ⅰ 知道",
+    "meaningZh": "知道",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "しります 知ります Ⅰ 知道"
+    "sourceText": "しります 知ります Ⅰ 知道",
+    "kanji": "知ります"
   },
   {
     "id": "y1-l15-v005",
@@ -61,13 +65,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "すみます",
-    "meaningZh": "すみます 住みます Ⅰ 居住",
+    "meaningZh": "居住",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "すみます 住みます Ⅰ 居住"
+    "sourceText": "すみます 住みます Ⅰ 居住",
+    "kanji": "住みます"
   },
   {
     "id": "y1-l15-v006",
@@ -75,13 +80,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "けんきゅうします",
-    "meaningZh": "けんきゅうします 研究します Ⅲ 研究",
+    "meaningZh": "研究",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "けんきゅうします 研究します Ⅲ 研究"
+    "sourceText": "けんきゅうします 研究します Ⅲ 研究",
+    "kanji": "研究します"
   },
   {
     "id": "y1-l15-v007",
@@ -89,13 +95,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "おもいだします",
-    "meaningZh": "おもいだします 思い出します Ⅰ 想起來",
+    "meaningZh": "想起來",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "おもいだします 思い出します Ⅰ 想起來"
+    "sourceText": "おもいだします 思い出します Ⅰ 想起來",
+    "kanji": "思い出します"
   },
   {
     "id": "y1-l15-v008",
@@ -103,13 +110,13 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "いらっしゃいます",
-    "meaningZh": "Ⅰ 有，在 （「いる」的禮貌形）",
+    "meaningZh": "有，在（「いる」的禮貌形）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "いらっしゃいます - Ⅰ 有，在 （「いる」的禮貌形）"
+    "sourceText": "いらっしゃいます - Ⅰ 有，在（「いる」的禮貌形）"
   },
   {
     "id": "y1-l15-v009",
@@ -117,13 +124,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "しりょう",
-    "meaningZh": "しりょう 資料 資料",
+    "meaningZh": "資料",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "しりょう 資料 資料"
+    "sourceText": "しりょう 資料 資料",
+    "kanji": "資料"
   },
   {
     "id": "y1-l15-v010",
@@ -131,13 +139,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "でんしじしょ",
-    "meaningZh": "でんしじしょ 電子辞書 電子辭典",
+    "meaningZh": "電子辭典",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "でんしじしょ 電子辞書 電子辭典"
+    "sourceText": "でんしじしょ 電子辞書 電子辭典",
+    "kanji": "電子辞書"
   },
   {
     "id": "y1-l15-v011",
@@ -159,13 +168,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "じこくひょう",
-    "meaningZh": "じこくひょう 時刻表 時刻表",
+    "meaningZh": "時刻表",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "じこくひょう 時刻表 時刻表"
+    "sourceText": "じこくひょう 時刻表 時刻表",
+    "kanji": "時刻表"
   },
   {
     "id": "y1-l15-v013",
@@ -173,13 +183,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "ふく",
-    "meaningZh": "ふく 服 衣服",
+    "meaningZh": "衣服",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "ふく 服 衣服"
+    "sourceText": "ふく 服 衣服",
+    "kanji": "服"
   },
   {
     "id": "y1-l15-v014",
@@ -187,13 +198,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "せいひん",
-    "meaningZh": "せいひん 製品 產品、商品",
+    "meaningZh": "產品、商品",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "せいひん 製品 產品、商品"
+    "sourceText": "せいひん 製品 產品、商品",
+    "kanji": "製品"
   },
   {
     "id": "y1-l15-v015",
@@ -215,13 +227,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "けいざい",
-    "meaningZh": "けいざい 経済 經濟",
+    "meaningZh": "經濟",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "けいざい 経済 經濟"
+    "sourceText": "けいざい 経済 經濟",
+    "kanji": "経済"
   },
   {
     "id": "y1-l15-v017",
@@ -229,13 +242,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "みなさん",
-    "meaningZh": "みなさん 皆さん 各位、大家",
+    "meaningZh": "各位、大家",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "みなさん 皆さん 各位、大家"
+    "sourceText": "みなさん 皆さん 各位、大家",
+    "kanji": "皆さん"
   },
   {
     "id": "y1-l15-v018",
@@ -243,13 +257,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "はいしゃ",
-    "meaningZh": "はいしゃ 歯医者 牙科醫生",
+    "meaningZh": "牙科醫生",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "はいしゃ 歯医者 牙科醫生"
+    "sourceText": "はいしゃ 歯医者 牙科醫生",
+    "kanji": "歯医者"
   },
   {
     "id": "y1-l15-v019",
@@ -257,13 +272,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "どくしん",
-    "meaningZh": "どくしん 独身 單身、未婚",
+    "meaningZh": "單身、未婚",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "どくしん 独身 單身、未婚"
+    "sourceText": "どくしん 独身 單身、未婚",
+    "kanji": "独身"
   },
   {
     "id": "y1-l15-v020",
@@ -271,13 +287,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "こうこう",
-    "meaningZh": "こうこう 高校 高級中學、高中",
+    "meaningZh": "高級中學、高中",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "こうこう 高校 高級中學、高中"
+    "sourceText": "こうこう 高校 高級中學、高中",
+    "kanji": "高校"
   },
   {
     "id": "y1-l15-v021",
@@ -285,13 +302,14 @@
     "book": "初級 I",
     "lesson": 15,
     "kana": "しやくしょ",
-    "meaningZh": "しやくしょ 市役所 市政府",
+    "meaningZh": "市政府",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
     },
-    "sourceText": "しやくしょ 市役所 市政府"
+    "sourceText": "しやくしょ 市役所 市政府",
+    "kanji": "市役所"
   },
   {
     "id": "y1-l15-v022",
