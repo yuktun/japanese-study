@@ -14,7 +14,7 @@
   <link rel="icon" type="image/png" sizes="1254x1254" href="./assets/japanese-study-icon.png">
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23e11d48'/%3E%3Ccircle cx='47' cy='17' r='8' fill='%23fff1f4'/%3E%3Ctext x='13' y='47' font-size='37' fill='white'%3E日%3C/text%3E%3C/svg%3E">
   <script>try{const saved=localStorage.getItem('jp-study-theme');document.documentElement.dataset.theme=saved||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light')}catch{document.documentElement.dataset.theme='light'}</script>
-  <link rel="stylesheet" href="./styles.css?v=flashcard-review-tracking-3">
+  <link rel="stylesheet" href="./styles.css?v=flashcard-controls-layout-1">
 </head>
 <body>
   <div class="app-shell">
@@ -116,7 +116,7 @@
               </div>
             </article>
 
-            <div class="answer-actions" id="answer-actions">
+            <div class="answer-actions flashcard-controls" id="answer-actions">
               <button class="reveal-button" id="reveal-button">顯示答案 <span>Space</span></button>
             </div>
 
@@ -179,6 +179,6 @@
   </div>
 
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
-  <script type="module" src="./app.js?v=flashcard-review-tracking-3"></script>
+  <script type="module" src="./app.js?v=flashcard-controls-layout-1"></script>
 </body>
 </html>
