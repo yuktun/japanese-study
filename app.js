@@ -1,4 +1,4 @@
-import {filterReviewDeck,normalizeReviewProgress,resetReviewStatuses,reviewCounts,reviewKeyFor,reviewRecordFor,sequenceForReviewMode,setReviewStatus,toggleReviewBookmark} from './src/flashcard-review.mjs';
+import {filterReviewDeck,normalizeReviewProgress,resetReviewStatuses,reviewCounts,reviewKeyFor,reviewRecordFor,sequenceForReviewMode,setReviewStatus,toggleReviewBookmark} from './src/flashcard-review.mjs?v=flashcard-mode-reset-1';
 
 const REVIEW_STORAGE_KEY='jp-study-flashcard-review-progress';
 const state={all:[],references:[],lessons:[],scopeDeck:[],deck:[],index:0,revealed:false,quickSeen:0,type:'all',direction:'ja-zh',year:null,lesson:null,orderMode:localStorage.getItem('jp-study-card-order-mode')==='random'?'random':'sequential',reviewFilter:'all',reviewProgress:normalizeReviewProgress(readJsonStorage(REVIEW_STORAGE_KEY,{})),view:'review',library:{query:'',years:[],lessons:[],types:[]}};
