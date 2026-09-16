@@ -4,615 +4,647 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "かいます",
-    "meaningZh": "辞|\n飼います\n飼う\nⅠ 飼養",
+    "kana": "かいます |ます| / かう |辞",
+    "meaningZh": "Ⅰ 飼養",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "かいます |ます|\nかう |辞|\n飼います\n飼う\nⅠ 飼養"
+    "sourceText": "かいます |ます| / かう |辞 |飼います / 飼う Ⅰ 飼養",
+    "kanji": "|飼います / 飼う"
   },
   {
     "id": "y2-l27-v002",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "はしります [みちを～]",
-    "meaningZh": "辞|\n走ります [道を～]\n走る[道を～]\nⅠ 跑、奔跑 [在路上]",
+    "kana": "はしります [みちを～] |ます| / はしる[みちを～] |辞",
+    "meaningZh": "Ⅰ 跑、奔跑 [在路上]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "はしります [みちを～]\n|ます|\nはしる[みちを～] |辞|\n走ります [道を～]\n走る[道を～]\nⅠ 跑、奔跑 [在路上]"
+    "sourceText": "はしります [みちを～] |ます| / はしる[みちを～] |辞 |走ります [道を～] / 走る[道を～] Ⅰ 跑、奔跑 [在路上]",
+    "kanji": "|走ります [道を～] / 走る[道を～]"
   },
   {
     "id": "y2-l27-v003",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "みえます [やまが～]",
-    "meaningZh": "辞|\n見えます [山が～]\n見える[山が～]\nⅡ 看見 [山]",
+    "kana": "みえます [やまが～] |ます| / みえる[やまが～] |辞",
+    "meaningZh": "Ⅱ 看見 [山]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "みえます [やまが～]\n|ます|\nみえる[やまが～] |辞|\n見えます [山が～]\n見える[山が～]\nⅡ 看見 [山]"
+    "sourceText": "みえます [やまが～] |ます| / みえる[やまが～] |辞 |見えます [山が～] / 見える[山が～] Ⅱ 看見 [山]",
+    "kanji": "|見えます [山が～] / 見える[山が～]"
   },
   {
     "id": "y2-l27-v004",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "きこえます [おとが～]",
-    "meaningZh": "辞|\n聞こえます [音が～]\n聞こえる[音が～]\nⅡ 聽見 [聲音]",
+    "kana": "きこえます [おとが～] |ます| / きこえる[おとが～] |辞",
+    "meaningZh": "Ⅱ 聽見 [聲音]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "きこえます [おとが～]\n|ます|\nきこえる[おとが～] |辞|\n聞こえます [音が～]\n聞こえる[音が～]\nⅡ 聽見 [聲音]"
+    "sourceText": "きこえます [おとが～] |ます| / きこえる[おとが～] |辞 |聞こえます [音が～] / 聞こえる[音が～] Ⅱ 聽見 [聲音]",
+    "kanji": "|聞こえます [音が～] / 聞こえる[音が～]"
   },
   {
     "id": "y2-l27-v005",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "できます [みちが～]",
-    "meaningZh": "辞|\nできます [道が～]\nできる[道が～]\nⅡ 建好 [道路]、交上\n[朋友]、做好 [飯菜]",
+    "kana": "できます [みちが～] |ます| / できる[みちが～] |辞",
+    "meaningZh": "Ⅱ 建好 [道路]、交上 [朋友]、做好 [飯菜]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "できます [みちが～]\n|ます|\nできる[みちが～] |辞|\nできます [道が～]\nできる[道が～]\nⅡ 建好 [道路]、交上\n[朋友]、做好 [飯菜]"
+    "sourceText": "できます [みちが～] |ます| / できる[みちが～] |辞 |できます [道が～] / できる[道が～] Ⅱ 建好 [道路]、交上 [朋友]、做好 [飯菜]",
+    "kanji": "|できます [道が～] / できる[道が～]"
   },
   {
     "id": "y2-l27-v006",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "ひらきます",
-    "meaningZh": "辞|\n開きます [教室を～]\n開く[教室を～]\nⅠ 開 [教室]、舉辦 [奧運會]",
+    "kana": "ひらきます [きょうしつを～] |ます| / ひらく[きょうしつを～] |辞",
+    "meaningZh": "Ⅰ 開 [教室]、舉辦 [奧運會]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "ひらきます\n[きょうしつを～] |ます|\nひらく[きょうしつを～]\n|辞|\n開きます [教室を～]\n開く[教室を～]\nⅠ 開 [教室]、舉辦 [奧運會]"
+    "sourceText": "ひらきます [きょうしつを～] |ます| / ひらく[きょうしつを～] |辞 |開きます [教室を～] / 開く[教室を～] Ⅰ 開 [教室]、舉辦 [奧運會]",
+    "kanji": "|開きます [教室を～] / 開く[教室を～]"
   },
   {
     "id": "y2-l27-v007",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "たてます",
-    "meaningZh": "辞|\n建てます\n建てる\nⅡ 建、蓋\n名詞\n平仮名/片仮名 漢字 中譯",
+    "kana": "たてます |ます| / たてる |辞",
+    "meaningZh": "Ⅱ 建、蓋",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "たてます |ます|\nたてる |辞|\n建てます\n建てる\nⅡ 建、蓋\n名詞\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "たてます |ます| / たてる |辞 |建てます / 建てる Ⅱ 建、蓋",
+    "kanji": "|建てます / 建てる"
   },
   {
     "id": "y2-l27-v008",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "ペット - 寵物",
-    "meaningZh": "ペット - 寵物",
+    "kana": "ペット",
+    "meaningZh": "寵物",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "ペット - 寵物"
+    "sourceText": "ペット 寵物"
   },
   {
     "id": "y2-l27-v009",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "とり 鳥 小鳥",
-    "meaningZh": "とり 鳥 小鳥",
+    "kana": "とり",
+    "meaningZh": "小鳥",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "とり 鳥 小鳥"
+    "sourceText": "とり 鳥 小鳥",
+    "kanji": "鳥"
   },
   {
     "id": "y2-l27-v010",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "こえ 声 （人和動物的）聲音",
-    "meaningZh": "こえ 声 （人和動物的）聲音",
+    "kana": "こえ",
+    "meaningZh": "（人和動物的）聲音",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "こえ 声 （人和動物的）聲音"
+    "sourceText": "こえ 声 （人和動物的）聲音",
+    "kanji": "声"
   },
   {
     "id": "y2-l27-v011",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "なみ 波 波浪",
-    "meaningZh": "なみ 波 波浪",
+    "kana": "なみ",
+    "meaningZh": "波浪",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "なみ 波 波浪"
+    "sourceText": "なみ 波 波浪",
+    "kanji": "波"
   },
   {
     "id": "y2-l27-v012",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "はなび 花火 煙花",
-    "meaningZh": "はなび 花火 煙花",
+    "kana": "はなび",
+    "meaningZh": "煙花",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "はなび 花火 煙花"
+    "sourceText": "はなび 花火 煙花",
+    "kanji": "花火"
   },
   {
     "id": "y2-l27-v013",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "どうぐ 道具 道具",
-    "meaningZh": "どうぐ 道具 道具",
+    "kana": "どうぐ",
+    "meaningZh": "道具",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "どうぐ 道具 道具"
+    "sourceText": "どうぐ 道具 道具",
+    "kanji": "道具"
   },
   {
     "id": "y2-l27-v014",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "クリーニング - （乾）洗、洗衣",
-    "meaningZh": "クリーニング - （乾）洗、洗衣",
+    "kana": "クリーニング",
+    "meaningZh": "（乾）洗、洗衣",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "クリーニング - （乾）洗、洗衣"
+    "sourceText": "クリーニング （乾）洗、洗衣"
   },
   {
     "id": "y2-l27-v015",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "いえ 家 家、住宅",
-    "meaningZh": "いえ 家 家、住宅",
+    "kana": "いえ",
+    "meaningZh": "家、住宅",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "いえ 家 家、住宅"
+    "sourceText": "いえ 家 家、住宅",
+    "kanji": "家"
   },
   {
     "id": "y2-l27-v016",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "マンション - 公寓",
-    "meaningZh": "マンション - 公寓",
+    "kana": "マンション",
+    "meaningZh": "公寓",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "マンション - 公寓"
+    "sourceText": "マンション 公寓"
   },
   {
     "id": "y2-l27-v017",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "キッチン - 廚房",
-    "meaningZh": "キッチン - 廚房",
+    "kana": "キッチン",
+    "meaningZh": "廚房",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "キッチン - 廚房"
+    "sourceText": "キッチン 廚房"
   },
   {
     "id": "y2-l27-v018",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "～きょうしつ ～教室 ～教室",
-    "meaningZh": "～きょうしつ ～教室 ～教室",
+    "kana": "～きょうしつ",
+    "meaningZh": "～教室",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "～きょうしつ ～教室 ～教室"
+    "sourceText": "～きょうしつ ～教室 ～教室",
+    "kanji": "～教室"
   },
   {
     "id": "y2-l27-v019",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "パーティールーム - 宴會廳",
-    "meaningZh": "パーティールーム - 宴會廳",
+    "kana": "パーティールーム",
+    "meaningZh": "宴會廳",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "パーティールーム - 宴會廳"
+    "sourceText": "パーティールーム 宴會廳"
   },
   {
     "id": "y2-l27-v020",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "かぐ 家具 家具",
-    "meaningZh": "かぐ 家具 家具",
+    "kana": "かぐ",
+    "meaningZh": "家具",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "かぐ 家具 家具"
+    "sourceText": "かぐ 家具 家具",
+    "kanji": "家具"
   },
   {
     "id": "y2-l27-v021",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "ほんだな 本棚 書櫃",
-    "meaningZh": "ほんだな 本棚 書櫃",
+    "kana": "ほんだな",
+    "meaningZh": "書櫃",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "ほんだな 本棚 書櫃"
+    "sourceText": "ほんだな 本棚 書櫃",
+    "kanji": "本棚"
   },
   {
     "id": "y2-l27-v022",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "かた 方 人（尊敬説法）",
-    "meaningZh": "形容詞\n平仮名/片仮名 漢字 中譯",
+    "kana": "かた",
+    "meaningZh": "人（尊敬説法）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "かた 方 人（尊敬説法）\nい形容詞\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "かた 方 人（尊敬説法）",
+    "kanji": "方"
   },
   {
     "id": "y2-l27-v023",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "すばらしい - 很棒、很好",
-    "meaningZh": "形容詞\n平仮名/片仮名 漢字 中譯",
+    "kana": "すばらしい",
+    "meaningZh": "很棒、很好",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "すばらしい - 很棒、很好\nな形容詞\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "すばらしい 很棒、很好"
   },
   {
     "id": "y2-l27-v024",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "しんぱい [な] 心配 [な] 擔心",
-    "meaningZh": "副詞\n平仮名/片仮名 漢字 中譯",
+    "kana": "しんぱい [な]",
+    "meaningZh": "擔心",
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "しんぱい [な] 心配 [な] 擔心\n副詞\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "しんぱい [な] 心配 [な] 擔心",
+    "kanji": "心配 [な]"
   },
   {
     "id": "y2-l27-v025",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "はっきり - 清楚地",
-    "meaningZh": "其他\n平仮名/片仮名 漢字 中譯",
+    "kana": "はっきり",
+    "meaningZh": "清楚地",
     "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "はっきり - 清楚地\n其他\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "はっきり 清楚地"
   },
   {
     "id": "y2-l27-v026",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "～ご ～後 ～之後",
-    "meaningZh": "～ご ～後 ～之後",
+    "kana": "～ご",
+    "meaningZh": "～之後",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "～ご ～後 ～之後"
+    "sourceText": "～ご ～後 ～之後",
+    "kanji": "～後"
   },
   {
     "id": "y2-l27-v027",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "～しか - 只～（後接否定）",
-    "meaningZh": "～しか - 只～（後接否定）",
+    "kana": "～しか",
+    "meaningZh": "只～（後接否定）",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "～しか - 只～（後接否定）"
+    "sourceText": "～しか 只～（後接否定）"
   },
   {
     "id": "y2-l27-v028",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "ほかの - 其他的",
-    "meaningZh": "ほかの - 其他的",
+    "kana": "ほかの",
+    "meaningZh": "其他的",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "ほかの - 其他的"
+    "sourceText": "ほかの 其他的"
   },
   {
     "id": "y2-l27-v029",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "いつか - 什麽時候、（將來）有一天",
-    "meaningZh": "読み物\n平仮名/片仮名 漢字 中譯",
+    "kana": "いつか",
+    "meaningZh": "什麽時候、（將來）有一天",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "いつか - 什麽時候、（將來）有一天\n読み物\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "いつか 什麽時候、（將來）有一天"
   },
   {
     "id": "y2-l27-v030",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "こどもたち 子供たち 孩子們",
-    "meaningZh": "こどもたち 子供たち 孩子們",
+    "kana": "こどもたち",
+    "meaningZh": "孩子們",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "こどもたち 子供たち 孩子們"
+    "sourceText": "こどもたち 子供たち 孩子們",
+    "kanji": "子供たち"
   },
   {
     "id": "y2-l27-v031",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "だいすき [な] 大好き [な] 非常喜歡",
-    "meaningZh": "だいすき [な] 大好き [な] 非常喜歡",
+    "kana": "だいすき [な]",
+    "meaningZh": "非常喜歡",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "だいすき [な] 大好き [な] 非常喜歡"
+    "sourceText": "だいすき [な] 大好き [な] 非常喜歡",
+    "kanji": "大好き [な]"
   },
   {
     "id": "y2-l27-v032",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "しゅじんこう 主人公 主人公",
-    "meaningZh": "しゅじんこう 主人公 主人公",
+    "kana": "しゅじんこう",
+    "meaningZh": "主人公",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "しゅじんこう 主人公 主人公"
+    "sourceText": "しゅじんこう 主人公 主人公",
+    "kanji": "主人公"
   },
   {
     "id": "y2-l27-v033",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "かたち 形 形狀、樣子",
-    "meaningZh": "かたち 形 形狀、樣子",
+    "kana": "かたち",
+    "meaningZh": "形狀、樣子",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "かたち 形 形狀、樣子"
+    "sourceText": "かたち 形 形狀、樣子",
+    "kanji": "形"
   },
   {
     "id": "y2-l27-v034",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "ふしぎ [な] 不思議 [な] 不可思議",
-    "meaningZh": "ふしぎ [な] 不思議 [な] 不可思議",
+    "kana": "ふしぎ [な]",
+    "meaningZh": "不可思議",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "ふしぎ [な] 不思議 [な] 不可思議"
+    "sourceText": "ふしぎ [な] 不思議 [な] 不可思議",
+    "kanji": "不思議 [な]"
   },
   {
     "id": "y2-l27-v035",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "ポケット - 口袋、兜",
-    "meaningZh": "ポケット - 口袋、兜",
+    "kana": "ポケット",
+    "meaningZh": "口袋、兜",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "ポケット - 口袋、兜"
+    "sourceText": "ポケット 口袋、兜"
   },
   {
     "id": "y2-l27-v036",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "たとえば 例えば 例如",
-    "meaningZh": "たとえば 例えば 例如",
+    "kana": "たとえば",
+    "meaningZh": "例如",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "たとえば 例えば 例如"
+    "sourceText": "たとえば 例えば 例如",
+    "kanji": "例えば"
   },
   {
     "id": "y2-l27-v037",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "つけます 付けます 裝上、戴上",
-    "meaningZh": "つけます 付けます 裝上、戴上",
+    "kana": "つけます",
+    "meaningZh": "裝上、戴上",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "つけます 付けます 裝上、戴上"
+    "sourceText": "つけます 付けます 裝上、戴上",
+    "kanji": "付けます"
   },
   {
     "id": "y2-l27-v038",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "じゆうに 自由に 自由地、隨意地",
-    "meaningZh": "じゆうに 自由に 自由地、隨意地",
+    "kana": "じゆうに",
+    "meaningZh": "自由地、隨意地",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "じゆうに 自由に 自由地、隨意地"
+    "sourceText": "じゆうに 自由に 自由地、隨意地",
+    "kanji": "自由に"
   },
   {
     "id": "y2-l27-v039",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "そら 空 天空",
-    "meaningZh": "そら 空 天空",
+    "kana": "そら",
+    "meaningZh": "天空",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "そら 空 天空"
+    "sourceText": "そら 空 天空",
+    "kanji": "空"
   },
   {
     "id": "y2-l27-v040",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "とびます 飛びます 飛翔",
-    "meaningZh": "とびます 飛びます 飛翔",
+    "kana": "とびます",
+    "meaningZh": "飛翔",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "とびます 飛びます 飛翔"
+    "sourceText": "とびます 飛びます 飛翔",
+    "kanji": "飛びます"
   },
   {
     "id": "y2-l27-v041",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "むかし 昔 過去、以前",
-    "meaningZh": "むかし 昔 過去、以前",
+    "kana": "むかし",
+    "meaningZh": "過去、以前",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "むかし 昔 過去、以前"
+    "sourceText": "むかし 昔 過去、以前",
+    "kanji": "昔"
   },
   {
     "id": "y2-l27-v042",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "じぶん 自分 自己",
-    "meaningZh": "じぶん 自分 自己",
+    "kana": "じぶん",
+    "meaningZh": "自己",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "じぶん 自分 自己"
+    "sourceText": "じぶん 自分 自己",
+    "kanji": "自分"
   },
   {
     "id": "y2-l27-v043",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "しょうらい 将来 將來",
-    "meaningZh": "しょうらい 将来 將來",
+    "kana": "しょうらい",
+    "meaningZh": "將來",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "しょうらい 将来 將來"
+    "sourceText": "しょうらい 将来 將來",
+    "kanji": "将来"
   },
   {
     "id": "y2-l27-v044",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "ドラえもん - 多拉A夢",
-    "meaningZh": "ドラえもん - 多拉A夢",
+    "kana": "ドラえもん",
+    "meaningZh": "多拉A夢",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
     },
-    "sourceText": "ドラえもん - 多拉A夢"
+    "sourceText": "ドラえもん 多拉A夢"
   }
 ]
