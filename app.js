@@ -1,7 +1,7 @@
-import {filterReviewDeck,normalizeReviewProgress,resetReviewStatuses,reviewCounts,reviewKeyFor,reviewRecordFor,setReviewStatus,toggleReviewBookmark} from './src/flashcard-review.mjs';
+import {filterReviewDeck,normalizeReviewProgress,resetReviewStatuses,reviewCounts,reviewKeyFor,reviewRecordFor,setReviewStatus,shuffledSequence,toggleReviewBookmark} from './src/flashcard-review.mjs';
 
 const REVIEW_STORAGE_KEY='jp-study-flashcard-review-progress';
-const state={all:[],references:[],lessons:[],scopeDeck:[],deck:[],index:0,revealed:false,again:0,good:0,quickSeen:0,type:'all',direction:'ja-zh',year:null,lesson:null,ratingEnabled:localStorage.getItem('jp-study-rating-options')==='true',reviewFilter:'all',reviewProgress:normalizeReviewProgress(readJsonStorage(REVIEW_STORAGE_KEY,{})),view:'review',library:{query:'',years:[],lessons:[],types:[]}};
+const state={all:[],references:[],lessons:[],scopeDeck:[],deck:[],index:0,revealed:false,quickSeen:0,type:'all',direction:'ja-zh',year:null,lesson:null,orderMode:localStorage.getItem('jp-study-card-order-mode')==='random'?'random':'sequential',reviewFilter:'all',reviewProgress:normalizeReviewProgress(readJsonStorage(REVIEW_STORAGE_KEY,{})),view:'review',library:{query:'',years:[],lessons:[],types:[]}};
 let fallbackAudio=null;
 const $=selector=>document.querySelector(selector);
 const $$=selector=>[...document.querySelectorAll(selector)];
@@ -62,11 +62,11 @@ function applyReviewFilter(currentId=null){
   const currentIndex=currentId?state.deck.findIndex(item=>reviewKeyFor(item)===currentId):-1;
   state.index=currentIndex>=0?currentIndex:0;
 }
-function resetDeck(shuffle=false){
+function resetDeck(){
   state.scopeDeck=[...currentPool()];
-  if(shuffle){for(let i=state.scopeDeck.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[state.scopeDeck[i],state.scopeDeck[j]]=[state.scopeDeck[j],state.scopeDeck[i]];}}
+  if(state.orderMode==='random')state.scopeDeck=shuffledSequence(state.scopeDeck);
   applyReviewFilter();
-  state.index=0;state.revealed=false;state.again=0;state.good=0;state.quickSeen=0;
+  state.index=0;state.revealed=false;state.quickSeen=0;
   $('.crumb span').textContent=`Year ${state.year}`;$('.crumb b').textContent=`Lesson ${String(state.lesson).padStart(2,'0')}`;
   updateCourseDetails();
   renderCard();
@@ -77,11 +77,11 @@ function renderCard(){
   const counts=reviewCounts(state.scopeDeck,state.reviewProgress);
   renderReviewFilters(counts);
   $('#deck-total').textContent=`${total} 張`;
-  $('#rating-options').checked=state.ratingEnabled;
   $('#card-position').textContent=total?`Card ${state.index+1} of ${total}`:'目前沒有卡片';
-  $('#session-type').textContent=state.ratingEnabled?(state.type==='all'?'Memory check':state.type==='grammar'?'Grammar check':'Vocabulary check'):'Quick flashcards';
+  $('#session-type').textContent=state.orderMode==='random'?'Random review':'Sequential review';
   $('#progress-fill').style.width=`${total?Math.min(state.index/total*100,100):0}%`;
-  $('#session-numbers').innerHTML=state.ratingEnabled?`<span><i class="number-dot again"></i><b id="again-count">${state.again}</b> 待重溫</span><span><i class="number-dot good"></i><b id="good-count">${state.good}</b> 已記起</span>`:`<span><i class="number-dot good"></i><b>${Math.min(state.quickSeen,total)}</b> 已瀏覽</span><span>可直接按 → 換下一張</span>`;
+  $('#session-numbers').innerHTML=`<span><i class="number-dot good"></i><b>${Math.min(state.quickSeen,total)}</b> 已瀏覽</span><span>可直接按 → 換下一張</span>`;
+  renderOrderModeToggle();
   $('#card-jump-row').hidden=!total;
   if(!total){
     const emptyMessage={incorrect:'目前沒有答錯的單字。',correct:'目前沒有答對的單字。',bookmarked:'目前沒有收藏的單字。'}[state.reviewFilter]||'呢個卡組未有內容';
@@ -127,6 +127,20 @@ function setReviewFilter(filter){
   applyReviewFilter(current?reviewKeyFor(current):null);
   state.revealed=false;
   renderCard();
+}
+
+function renderOrderModeToggle(){
+  $$('[data-order-mode]').forEach(button=>{
+    const active=button.dataset.orderMode===state.orderMode;
+    button.classList.toggle('active',active);button.setAttribute('aria-pressed',String(active));
+  });
+}
+function setOrderMode(mode){
+  if(!['sequential','random'].includes(mode)||mode===state.orderMode)return;
+  const current=state.deck[state.index],currentId=current?reviewKeyFor(current):null;
+  state.orderMode=mode;localStorage.setItem('jp-study-card-order-mode',mode);
+  state.scopeDeck=mode==='random'?shuffledSequence(currentPool()):[...currentPool()];
+  applyReviewFilter(currentId);state.revealed=false;renderCard();
 }
 function markCurrentCard(status){
   const item=state.deck[state.index];if(!item)return;
@@ -190,21 +204,15 @@ function speakJapanese(text){
 }
 function revealCard(){if(state.revealed||state.index>=state.deck.length)return;state.revealed=true;$('#flashcard').classList.add('is-flipped');$('#flashcard').setAttribute('aria-label','答案已顯示');renderAnswerActions();}
 function hideAnswer(){if(!state.revealed)return;state.revealed=false;$('#flashcard').classList.remove('is-flipped');$('#flashcard').setAttribute('aria-label','溫習卡，按下顯示答案');renderAnswerActions();}
-function rateCard(rating){
-  const item=state.deck[state.index];
-  if(rating==='again'){state.again++;state.deck.push(item);}else{state.good++;if(rating==='good')saveMastered(item.id);}
-  incrementToday();state.index++;state.revealed=false;renderCard();
-}
 function renderFinished(){
   $('#progress-fill').style.width='100%';$('#flashcard').className='flashcard finished';
   $('#card-jump-row').hidden=true;
-  $('#flashcard').innerHTML=`<div class="finished-mark">✓</div><p class="eyebrow">SESSION COMPLETE</p><h2>今次溫習完成。</h2><p>${state.ratingEnabled?`${state.good} 張已記起${state.again?`，${state.again} 張已經再溫過。`:'。做得好。'}`:`已經快速睇完 ${state.deck.length} 張卡片。`}</p>`;
+  $('#flashcard').innerHTML=`<div class="finished-mark">✓</div><p class="eyebrow">SESSION COMPLETE</p><h2>今次溫習完成。</h2><p>已完成呢一輪 ${state.deck.length} 張卡片。</p>`;
   $('#answer-actions').innerHTML='<button class="reveal-button" id="restart-button">再溫一次</button>';
   $('#restart-button').addEventListener('click',()=>resetDeck());
 }
 
 function masteredIds(){try{return new Set(JSON.parse(localStorage.getItem('jp-study-mastered')||'[]'));}catch{return new Set();}}
-function saveMastered(id){const ids=masteredIds();ids.add(id);localStorage.setItem('jp-study-mastered',JSON.stringify([...ids]));}
 function localDateKey(date=new Date()){return `${date.getFullYear()}-${String(date.getMonth()+1).padStart(2,'0')}-${String(date.getDate()).padStart(2,'0')}`;}
 function incrementToday(){const key=localDateKey(),saved=JSON.parse(localStorage.getItem('jp-study-today')||'{}');saved[key]=(saved[key]||0)+1;localStorage.setItem('jp-study-today',JSON.stringify(saved));updateToday();}
 function updateToday(){const key=localDateKey(),saved=JSON.parse(localStorage.getItem('jp-study-today')||'{}');$('#today-count').textContent=`${saved[key]||0} 張`;}
@@ -373,9 +381,8 @@ $('#deck-type').addEventListener('change',event=>{state.type=event.target.value;
 $('#year-select').addEventListener('change',event=>{state.year=Number(event.target.value);populateLessonSelect(null);resetDeck();});
 $('#lesson-select').addEventListener('change',event=>{state.lesson=Number(event.target.value);localStorage.setItem('jp-study-deck-lesson',String(state.lesson));resetDeck();});
 compactLessonLayout.addEventListener('change',()=>populateLessonSelect(state.lesson));
-$('#rating-options').addEventListener('change',event=>{state.ratingEnabled=event.target.checked;localStorage.setItem('jp-study-rating-options',String(state.ratingEnabled));resetDeck();showToast(state.ratingEnabled?'已開啟熟悉度評分':'已關閉熟悉度評分');});
 $('#card-direction').addEventListener('change',event=>{state.direction=event.target.value;resetDeck();});
-$('#shuffle-button').addEventListener('click',()=>{resetDeck(true);showToast('卡片已經洗牌');});
+$$('[data-order-mode]').forEach(button=>button.addEventListener('click',()=>setOrderMode(button.dataset.orderMode)));
 $('#reset-review-progress').addEventListener('click',()=>{
   if(!state.scopeDeck.length)return;
   if(!window.confirm('重設目前卡組的答對／答錯紀錄？收藏會保留。'))return;
@@ -423,7 +430,6 @@ document.addEventListener('keydown',event=>{
   if(event.key.toLowerCase()==='x'){event.preventDefault();markCurrentCard('incorrect');return;}
   if(event.key.toLowerCase()==='c'){event.preventDefault();markCurrentCard('correct');return;}
   if(event.key.toLowerCase()==='s'){event.preventDefault();toggleCurrentBookmark();return;}
-  if(event.code==='Space'){event.preventDefault();state.revealed?hideAnswer():revealCard();return;}
-  if(state.ratingEnabled&&state.revealed&&['1','2','3'].includes(event.key))rateCard({1:'again',2:'hard',3:'good'}[event.key]);
+  if(event.code==='Space'){event.preventDefault();state.revealed?hideAnswer():revealCard();}
 });
 applyTheme(document.documentElement.dataset.theme||'light');updateToday();loadData();

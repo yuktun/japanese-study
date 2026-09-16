@@ -14,7 +14,7 @@
   <link rel="icon" type="image/png" sizes="1254x1254" href="./assets/japanese-study-icon.png">
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23e11d48'/%3E%3Ccircle cx='47' cy='17' r='8' fill='%23fff1f4'/%3E%3Ctext x='13' y='47' font-size='37' fill='white'%3E日%3C/text%3E%3C/svg%3E">
   <script>try{const saved=localStorage.getItem('jp-study-theme');document.documentElement.dataset.theme=saved||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light')}catch{document.documentElement.dataset.theme='light'}</script>
-  <link rel="stylesheet" href="./styles.css?v=flashcard-controls-layout-1">
+  <link rel="stylesheet" href="./styles.css?v=flashcard-random-mode-1">
 </head>
 <body>
   <div class="app-shell">
@@ -63,16 +63,15 @@
       <section id="review-view" class="view active" aria-labelledby="review-title">
         <div class="review-heading">
           <div><p class="eyebrow">DAILY REVIEW</p><h1 id="review-title">溫故知新。</h1><p>睇一眼題目，先喺心入面答，再揭曉答案。</p></div>
-          <button class="shuffle-button" id="shuffle-button"><span>↝</span> 洗牌</button>
+          <div class="study-mode-toggle" role="group" aria-label="卡片次序">
+            <button type="button" data-order-mode="sequential" aria-pressed="true"><span aria-hidden="true">≡</span> 循序模式</button>
+            <button type="button" data-order-mode="random" aria-pressed="false"><span aria-hidden="true">↝</span> 隨機模式</button>
+          </div>
         </div>
 
         <div class="review-layout">
           <aside class="deck-settings" aria-label="卡組設定">
             <div class="setting-heading"><span>今次溫習</span><b id="deck-total">17 張</b></div>
-            <div class="mode-switch">
-              <div><label for="rating-options">熟悉度評分</label><small>關閉後揭曉答案，直接下一張</small></div>
-              <label class="switch-control"><input id="rating-options" type="checkbox"><span aria-hidden="true"></span></label>
-            </div>
             <div class="setting-field">
               <label for="deck-type">內容</label>
               <select id="deck-type">
@@ -127,8 +126,8 @@
             </div>
 
             <div class="session-numbers" id="session-numbers">
-              <span><i class="number-dot again"></i><b id="again-count">0</b> 待重溫</span>
-              <span><i class="number-dot good"></i><b id="good-count">0</b> 已記起</span>
+              <span><i class="number-dot good"></i><b>0</b> 已瀏覽</span>
+              <span>可直接按 → 換下一張</span>
             </div>
             <button class="reset-review-button" id="reset-review-progress" type="button">重設溫習紀錄</button>
           </div>
@@ -179,6 +178,6 @@
   </div>
 
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
-  <script type="module" src="./app.js?v=flashcard-controls-layout-1"></script>
+  <script type="module" src="./app.js?v=flashcard-random-mode-1"></script>
 </body>
 </html>

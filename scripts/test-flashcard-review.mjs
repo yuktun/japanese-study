@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import {filterReviewDeck,normalizeReviewProgress,resetReviewStatuses,reviewCounts,reviewKeyFor,setReviewStatus,toggleReviewBookmark} from '../src/flashcard-review.mjs';
+import {filterReviewDeck,normalizeReviewProgress,resetReviewStatuses,reviewCounts,reviewKeyFor,setReviewStatus,shuffledSequence,toggleReviewBookmark} from '../src/flashcard-review.mjs';
 
 const lessonOne=[
   {id:'y1-l01-v001',schoolYear:1,book:'初級 I',lesson:1,type:'vocabulary'},
@@ -26,5 +26,12 @@ assert.deepEqual(reviewCounts(lessonOne,progress),{all:3,incorrect:0,correct:2,b
 progress=resetReviewStatuses(progress,lessonOne);
 assert.deepEqual(reviewCounts(lessonOne,progress),{all:3,incorrect:0,correct:0,bookmarked:2},'scope reset keeps bookmarks');
 assert.deepEqual(reviewCounts(lessonTwo,progress),{all:1,incorrect:1,correct:0,bookmarked:0},'scope reset does not affect other lessons');
+
+const originalOrder=lessonOne.map(item=>item.id);
+const randomOrder=shuffledSequence(lessonOne,()=>0).map(item=>item.id);
+assert.notDeepEqual(randomOrder,originalOrder,'random mode establishes a shuffled order');
+assert.equal(new Set(randomOrder).size,lessonOne.length,'a random pass contains no duplicate cards');
+assert.deepEqual(randomOrder,shuffledSequence(lessonOne,()=>0).map(item=>item.id),'a stored random sequence remains stable until explicitly rebuilt');
+assert.deepEqual(filterReviewDeck(shuffledSequence(lessonOne,()=>0),progress,'bookmarked').map(item=>item.id),['y1-l01-g001','y1-l01-v001'],'review filters retain the active random sequence order');
 
 console.log('Flashcard review tests passed.');

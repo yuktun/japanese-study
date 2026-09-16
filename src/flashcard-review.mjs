@@ -62,3 +62,13 @@ export function resetReviewStatuses(progress,items){
   }
   return {version:REVIEW_STORAGE_VERSION,cards};
 }
+
+export function shuffledSequence(items,random=Math.random){
+  const sequence=[...items];
+  for(let index=sequence.length-1;index>0;index--){
+    const target=Math.floor(random()*(index+1));
+    [sequence[index],sequence[target]]=[sequence[target],sequence[index]];
+  }
+  if(sequence.length>1&&sequence.every((item,index)=>reviewKeyFor(item)===reviewKeyFor(items[index])))[sequence[0],sequence[1]]=[sequence[1],sequence[0]];
+  return sequence;
+}
