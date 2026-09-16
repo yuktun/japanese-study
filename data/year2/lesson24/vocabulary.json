@@ -4,112 +4,119 @@
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 24,
-    "kana": "くれます |ます| くれる |辞|",
-    "meaningZh": "Ⅱ 給（我、我方）",
+    "kana": "くれます |ます| / くれる |辞|",
+    "meaningZh": "給（我、我方）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch24.pdf.pdf"
     },
-    "sourceText": "くれます |ます| くれる |辞| - Ⅱ 給（我、我方）"
+    "sourceText": "くれます |ます| / くれる |辞| - Ⅱ 給（我、我方）"
   },
   {
     "id": "y2-l24-v002",
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 24,
-    "kana": "なおします",
-    "meaningZh": "なおします |ます| なおす |辞| 直します 直す Ⅰ 修理、修改",
+    "kana": "なおします |ます| / なおす |辞|",
+    "meaningZh": "修理、修改",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch24.pdf.pdf"
     },
-    "sourceText": "なおします |ます| なおす |辞| 直します 直す Ⅰ 修理、修改"
+    "sourceText": "なおします |ます| / なおす |辞| 直します / 直す Ⅰ 修理、修改",
+    "kanji": "直します / 直す"
   },
   {
     "id": "y2-l24-v003",
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 24,
-    "kana": "つれて",
-    "meaningZh": "つれて きます |ます| つれて くる |辞| 連れて 来ます 連れて 来る Ⅲ 領著～來",
+    "kana": "つれて きます |ます| / つれて くる |辞|",
+    "meaningZh": "領著～來",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch24.pdf.pdf"
     },
-    "sourceText": "つれて きます |ます| つれて くる |辞| 連れて 来ます 連れて 来る Ⅲ 領著～來"
+    "sourceText": "つれて きます |ます| / つれて くる |辞| 連れて 来ます / 連れて 来る Ⅲ 領著～來",
+    "kanji": "連れて 来ます / 連れて 来る"
   },
   {
     "id": "y2-l24-v004",
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 24,
-    "kana": "つれて",
-    "meaningZh": "つれて いきます |ます| つれて いく |辞| 連れて 行きます 連れて 行く Ⅰ 領著～去",
+    "kana": "つれて いきます |ます| / つれて いく |辞|",
+    "meaningZh": "領著～去",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch24.pdf.pdf"
     },
-    "sourceText": "つれて いきます |ます| つれて いく |辞| 連れて 行きます 連れて 行く Ⅰ 領著～去"
+    "sourceText": "つれて いきます |ます| / つれて いく |辞| 連れて 行きます / 連れて 行く Ⅰ 領著～去",
+    "kanji": "連れて 行きます / 連れて 行く"
   },
   {
     "id": "y2-l24-v005",
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 24,
-    "kana": "おくります",
-    "meaningZh": "おくります [ひとを～] |ます| おくる[ひとを∼] |辞| 送ります [人を～] 送る[人を∼] Ⅰ 送（某人到某地）",
+    "kana": "おくります [ひとを～] |ます| / おくる[ひとを∼] |辞|",
+    "meaningZh": "送（某人到某地）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch24.pdf.pdf"
     },
-    "sourceText": "おくります [ひとを～] |ます| おくる[ひとを∼] |辞| 送ります [人を～] 送る[人を∼] Ⅰ 送（某人到某地）"
+    "sourceText": "おくります [ひとを～] |ます| / おくる[ひとを∼] |辞| 送ります [人を～] / 送る[人を∼] Ⅰ 送（某人到某地）",
+    "kanji": "送ります [人を～] / 送る[人を∼]"
   },
   {
     "id": "y2-l24-v006",
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 24,
-    "kana": "しょうかいします",
-    "meaningZh": "しょうかいします |ます| しょうかいする |辞| 紹介します 紹介する Ⅲ 介紹",
+    "kana": "しょうかいします |ます| / しょうかいする |辞|",
+    "meaningZh": "介紹",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch24.pdf.pdf"
     },
-    "sourceText": "しょうかいします |ます| しょうかいする |辞| 紹介します 紹介する Ⅲ 介紹"
+    "sourceText": "しょうかいします |ます| / しょうかいする |辞| 紹介します / 紹介する Ⅲ 介紹",
+    "kanji": "紹介します / 紹介する"
   },
   {
     "id": "y2-l24-v007",
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 24,
-    "kana": "あんないします",
-    "meaningZh": "あんないします |ます| あんないする |辞| 案内します 案内する Ⅲ 導遊、帶路",
+    "kana": "あんないします |ます| / あんないする |辞|",
+    "meaningZh": "導遊、帶路",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch24.pdf.pdf"
     },
-    "sourceText": "あんないします |ます| あんないする |辞| 案内します 案内する Ⅲ 導遊、帶路"
+    "sourceText": "あんないします |ます| / あんないする |辞| 案内します / 案内する Ⅲ 導遊、帶路",
+    "kanji": "案内します / 案内する"
   },
   {
     "id": "y2-l24-v008",
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 24,
-    "kana": "せつめいします",
-    "meaningZh": "せつめいします |ます| せつめいする |辞| 説明します 説明する Ⅲ 説明、講解",
+    "kana": "せつめいします |ます| / せつめいする |辞|",
+    "meaningZh": "説明、講解",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch24.pdf.pdf"
     },
-    "sourceText": "せつめいします |ます| せつめいする |辞| 説明します 説明する Ⅲ 説明、講解"
+    "sourceText": "せつめいします |ます| / せつめいする |辞| 説明します / 説明する Ⅲ 説明、講解",
+    "kanji": "説明します / 説明する"
   },
   {
     "id": "y2-l24-v009",
@@ -145,13 +152,14 @@
     "book": "初級 I",
     "lesson": 24,
     "kana": "じゅんび",
-    "meaningZh": "じゅんび 準備 準備（～[をします]：做準 備）",
+    "meaningZh": "準備（～[をします]：做準備）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch24.pdf.pdf"
     },
-    "sourceText": "じゅんび 準備 準備（～[をします]：做準 備）"
+    "sourceText": "じゅんび 準備 準備（～[をします]：做準備）",
+    "kanji": "準備"
   },
   {
     "id": "y2-l24-v012",
@@ -159,27 +167,29 @@
     "book": "初級 I",
     "lesson": 24,
     "kana": "ひっこし",
-    "meaningZh": "ひっこし 引っ越し 搬家（～[をします]：搬家 ）",
+    "meaningZh": "搬家（～[をします]：搬家）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch24.pdf.pdf"
     },
-    "sourceText": "ひっこし 引っ越し 搬家（～[をします]：搬家 ）"
+    "sourceText": "ひっこし 引っ越し 搬家（～[をします]：搬家）",
+    "kanji": "引っ越し"
   },
   {
     "id": "y2-l24-v013",
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 24,
-    "kana": "[お] かし [お]",
-    "meaningZh": "[お] かし [お] 菓子 點心、零食",
+    "kana": "[お] かし",
+    "meaningZh": "點心、零食",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch24.pdf.pdf"
     },
-    "sourceText": "[お] かし [お] 菓子 點心、零食"
+    "sourceText": "[お] かし [お] 菓子 點心、零食",
+    "kanji": "[お] 菓子"
   },
   {
     "id": "y2-l24-v014",
@@ -187,13 +197,13 @@
     "book": "初級 I",
     "lesson": 24,
     "kana": "ホームステイ",
-    "meaningZh": "（旅遊或留學時）寄宿在別 人家裏",
+    "meaningZh": "（旅遊或留學時）寄宿在別人家裏",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch24.pdf.pdf"
     },
-    "sourceText": "ホームステイ - （旅遊或留學時）寄宿在別 人家裏"
+    "sourceText": "ホームステイ - （旅遊或留學時）寄宿在別人家裏"
   },
   {
     "id": "y2-l24-v015",
@@ -201,13 +211,14 @@
     "book": "初級 I",
     "lesson": 24,
     "kana": "じぶんで",
-    "meaningZh": "じぶんで 自分で 自己（做）",
+    "meaningZh": "自己（做）",
     "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch24.pdf.pdf"
     },
-    "sourceText": "じぶんで 自分で 自己（做）"
+    "sourceText": "じぶんで 自分で 自己（做）",
+    "kanji": "自分で"
   },
   {
     "id": "y2-l24-v016",
@@ -215,13 +226,14 @@
     "book": "初級 I",
     "lesson": 24,
     "kana": "ぜんぶ",
-    "meaningZh": "ぜんぶ 全部 全部",
+    "meaningZh": "全部",
     "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch24.pdf.pdf"
     },
-    "sourceText": "ぜんぶ 全部 全部"
+    "sourceText": "ぜんぶ 全部 全部",
+    "kanji": "全部"
   },
   {
     "id": "y2-l24-v017",
