@@ -4,162 +4,172 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "みます",
-    "meaningZh": "辞|\n見ます、診ます\n見る、診る\nⅡ 看，診斷",
+    "kana": "みます |ます| / みる |辞|",
+    "meaningZh": "Ⅱ 看，診斷",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "みます |ます|\nみる |辞|\n見ます、診ます\n見る、診る\nⅡ 看，診斷"
+    "sourceText": "みます |ます| / みる |辞| 見ます、診ます / 見る、診る Ⅱ 看，診斷",
+    "kanji": "見ます、診ます / 見る、診る"
   },
   {
     "id": "y2-l26-v002",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "さがします",
-    "meaningZh": "辞|\n探します、捜します\n探す、捜す\nⅠ 找，尋找",
+    "kana": "さがします |ます| / さがす |辞|",
+    "meaningZh": "Ⅰ 找，尋找",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "さがします |ます|\nさがす |辞|\n探します、捜します\n探す、捜す\nⅠ 找，尋找"
+    "sourceText": "さがします |ます| / さがす |辞| 探します、捜します / 探す、捜す Ⅰ 找，尋找",
+    "kanji": "探します、捜します / 探す、捜す"
   },
   {
     "id": "y2-l26-v003",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "おくれます",
-    "meaningZh": "辞|\n遅れます [会社に～]\n遅れる[会社に～]\nⅡ [上班] 遲到，晚了",
+    "kana": "おくれます [かいしゃに～] |ます| / おくれる[かいしゃに～] |辞|",
+    "meaningZh": "Ⅱ [上班] 遲到，晚了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "おくれます\n[かいしゃに]～ |ます|\nおくれる[かいしゃに～]\n|辞|\n遅れます [会社に～]\n遅れる[会社に～]\nⅡ [上班] 遲到，晚了"
+    "sourceText": "おくれます [かいしゃに～] |ます| / おくれる[かいしゃに～] |辞| 遅れます [会社に～] / 遅れる[会社に～] Ⅱ [上班] 遲到，晚了",
+    "kanji": "遅れます [会社に～] / 遅れる[会社に～]"
   },
   {
     "id": "y2-l26-v004",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "まにあいます",
-    "meaningZh": "辞|\n間に合います\n[時間に～]\n間に合う[時間に～]\nⅠ 趕上[時間]",
+    "kana": "まにあいます [じかんに～] |ます| / まにあう[じかんに～] |辞|",
+    "meaningZh": "Ⅰ 趕上[時間]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "まにあいます\n[じかんに～] |ます|\nまにあう[じかんに～]\n|辞|\n間に合います\n[時間に～]\n間に合う[時間に～]\nⅠ 趕上[時間]"
+    "sourceText": "まにあいます [じかんに～] |ます| / まにあう[じかんに～] |辞| 間に合います [時間に～] / 間に合う[時間に～] Ⅰ 趕上[時間]",
+    "kanji": "間に合います [時間に～] / 間に合う[時間に～]"
   },
   {
     "id": "y2-l26-v005",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "やります",
-    "meaningZh": "辞|\n- Ⅰ 做，干",
+    "kana": "やります |ます| / やる |辞|",
+    "meaningZh": "Ⅰ 做，干",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "やります |ます|\nやる |辞|\n- Ⅰ 做，干"
+    "sourceText": "やります |ます| / やる |辞| - Ⅰ 做，干"
   },
   {
     "id": "y2-l26-v006",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "ひろいます",
-    "meaningZh": "辞|\n拾います\n拾う\nⅠ 撿，拾",
+    "kana": "ひろいます |ます| / ひろう |辞|",
+    "meaningZh": "Ⅰ 撿，拾",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "ひろいます |ます|\nひろう |辞|\n拾います\n拾う\nⅠ 撿，拾"
+    "sourceText": "ひろいます |ます| / ひろう |辞| 拾います / 拾う Ⅰ 撿，拾",
+    "kanji": "拾います / 拾う"
   },
   {
     "id": "y2-l26-v007",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "れんらくします",
-    "meaningZh": "辞|\n連絡します\n連絡する\nⅢ 聯係，聯絡",
+    "kana": "れんらくします |ます| / れんらくする |辞|",
+    "meaningZh": "Ⅲ 聯係，聯絡",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "れんらくします |ます|\nれんらくする |辞|\n連絡します\n連絡する\nⅢ 聯係，聯絡"
+    "sourceText": "れんらくします |ます| / れんらくする |辞| 連絡します / 連絡する Ⅲ 聯係，聯絡",
+    "kanji": "連絡します / 連絡する"
   },
   {
     "id": "y2-l26-v008",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "かたづきます",
-    "meaningZh": "辞|\n片づきます [荷物が～]\n片付く[荷物が～]\nⅠ [行李] 收拾好了",
+    "kana": "かたづきます [にもつが～] |ます| / かたづく[にもつが～] |辞|",
+    "meaningZh": "Ⅰ [行李] 收拾好了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "かたづきます\n[にもつが～] |ます|\nかたづく[にもつが～]\n|辞|\n片づきます [荷物が～]\n片付く[荷物が～]\nⅠ [行李] 收拾好了"
+    "sourceText": "かたづきます [にもつが～] |ます| / かたづく[にもつが～] |辞| 片づきます [荷物が～] / 片付く[荷物が～] Ⅰ [行李] 收拾好了",
+    "kanji": "片づきます [荷物が～] / 片付く[荷物が～]"
   },
   {
     "id": "y2-l26-v009",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "だします [ごみを～」",
-    "meaningZh": "辞|\n出します [ごみを～]\n出す[ごみを～]\nⅠ 扔[垃圾]\n名詞\n平仮名/片仮名 漢字 中譯",
+    "kana": "だします [ごみを～」 |ます| / だす[ごみを～」 |辞|",
+    "meaningZh": "Ⅰ 扔[垃圾]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "だします [ごみを～」\n|ます|\nだす[ごみを～」 |辞|\n出します [ごみを～]\n出す[ごみを～]\nⅠ 扔[垃圾]\n名詞\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "だします [ごみを～」 |ます| / だす[ごみを～」 |辞| 出します [ごみを～] / 出す[ごみを～] Ⅰ 扔[垃圾]",
+    "kanji": "出します [ごみを～] / 出す[ごみを～]"
   },
   {
     "id": "y2-l26-v010",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "うんどうかい 運動会 運動會",
-    "meaningZh": "うんどうかい 運動会 運動會",
+    "kana": "うんどうかい",
+    "meaningZh": "運動會",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "うんどうかい 運動会 運動會"
+    "sourceText": "うんどうかい 運動会 運動會",
+    "kanji": "運動会"
   },
   {
     "id": "y2-l26-v011",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "ぼんおどり 盆踊り 盂蘭盆舞蹈",
-    "meaningZh": "ぼんおどり 盆踊り 盂蘭盆舞蹈",
+    "kana": "ぼんおどり",
+    "meaningZh": "盂蘭盆舞蹈",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "ぼんおどり 盆踊り 盂蘭盆舞蹈"
+    "sourceText": "ぼんおどり 盆踊り 盂蘭盆舞蹈",
+    "kanji": "盆踊り"
   },
   {
     "id": "y2-l26-v012",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "フリーマーケット - 跳蚤市場",
-    "meaningZh": "フリーマーケット - 跳蚤市場",
+    "kana": "フリーマーケット",
+    "meaningZh": "跳蚤市場",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -172,22 +182,23 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "ばしょ 場所 場所，地點",
-    "meaningZh": "ばしょ 場所 場所，地點",
+    "kana": "ばしょ",
+    "meaningZh": "場所，地點",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "ばしょ 場所 場所，地點"
+    "sourceText": "ばしょ 場所 場所，地點",
+    "kanji": "場所"
   },
   {
     "id": "y2-l26-v014",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "ボランティア - 義工，志願者",
-    "meaningZh": "ボランティア - 義工，志願者",
+    "kana": "ボランティア",
+    "meaningZh": "義工，志願者",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -200,22 +211,23 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "さいふ 財布 錢包",
-    "meaningZh": "さいふ 財布 錢包",
+    "kana": "さいふ",
+    "meaningZh": "錢包",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "さいふ 財布 錢包"
+    "sourceText": "さいふ 財布 錢包",
+    "kanji": "財布"
   },
   {
     "id": "y2-l26-v016",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "ごみ - 垃圾",
-    "meaningZh": "ごみ - 垃圾",
+    "kana": "ごみ",
+    "meaningZh": "垃圾",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -228,106 +240,113 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "こっかいぎじどう 国会議事堂 國會議事堂",
-    "meaningZh": "こっかいぎじどう 国会議事堂 國會議事堂",
+    "kana": "こっかいぎじどう",
+    "meaningZh": "國會議事堂",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "こっかいぎじどう 国会議事堂 國會議事堂"
+    "sourceText": "こっかいぎじどう 国会議事堂 國會議事堂",
+    "kanji": "国会議事堂"
   },
   {
     "id": "y2-l26-v018",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "へいじつ 平日 平日（一般指星期一至星期",
-    "meaningZh": "五）",
+    "kana": "へいじつ",
+    "meaningZh": "平日（一般指星期一至星期五）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "へいじつ 平日 平日（一般指星期一至星期\n五）"
+    "sourceText": "へいじつ 平日 平日（一般指星期一至星期五）",
+    "kanji": "平日"
   },
   {
     "id": "y2-l26-v019",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "もえるごみ 燃えるごみ 可以燃燒的垃圾",
-    "meaningZh": "もえるごみ 燃えるごみ 可以燃燒的垃圾",
+    "kana": "もえるごみ",
+    "meaningZh": "可以燃燒的垃圾",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "もえるごみ 燃えるごみ 可以燃燒的垃圾"
+    "sourceText": "もえるごみ 燃えるごみ 可以燃燒的垃圾",
+    "kanji": "燃えるごみ"
   },
   {
     "id": "y2-l26-v020",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "おきば 置き場 放置場所",
-    "meaningZh": "おきば 置き場 放置場所",
+    "kana": "おきば",
+    "meaningZh": "放置場所",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "おきば 置き場 放置場所"
+    "sourceText": "おきば 置き場 放置場所",
+    "kanji": "置き場"
   },
   {
     "id": "y2-l26-v021",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "よこ 横 旁邊",
-    "meaningZh": "よこ 横 旁邊",
+    "kana": "よこ",
+    "meaningZh": "旁邊",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "よこ 横 旁邊"
+    "sourceText": "よこ 横 旁邊",
+    "kanji": "横"
   },
   {
     "id": "y2-l26-v022",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "びん 瓶 瓶",
-    "meaningZh": "びん 瓶 瓶",
+    "kana": "びん",
+    "meaningZh": "瓶",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "びん 瓶 瓶"
+    "sourceText": "びん 瓶 瓶",
+    "kanji": "瓶"
   },
   {
     "id": "y2-l26-v023",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "かん 缶 罐",
-    "meaningZh": "かん 缶 罐",
+    "kana": "かん",
+    "meaningZh": "罐",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "かん 缶 罐"
+    "sourceText": "かん 缶 罐",
+    "kanji": "缶"
   },
   {
     "id": "y2-l26-v024",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "ガス - 煤氣",
-    "meaningZh": "ガス - 煤氣",
+    "kana": "ガス",
+    "meaningZh": "煤氣",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -340,64 +359,68 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "～がいしゃ ～会社 ～公司",
-    "meaningZh": "～がいしゃ ～会社 ～公司",
+    "kana": "～がいしゃ",
+    "meaningZh": "～公司",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "～がいしゃ ～会社 ～公司"
+    "sourceText": "～がいしゃ ～会社 ～公司",
+    "kanji": "～会社"
   },
   {
     "id": "y2-l26-v026",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "～べん ～弁 ～方言",
-    "meaningZh": "形容詞\n平仮名/片仮名 漢字 中譯",
+    "kana": "～べん",
+    "meaningZh": "～方言",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "～べん ～弁 ～方言\nい形容詞\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "～べん ～弁 ～方言",
+    "kanji": "～弁"
   },
   {
     "id": "y2-l26-v027",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "きぶんがいい 気分がいい 舒服",
-    "meaningZh": "きぶんがいい 気分がいい 舒服",
+    "kana": "きぶんがいい",
+    "meaningZh": "舒服",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "きぶんがいい 気分がいい 舒服"
+    "sourceText": "きぶんがいい 気分がいい 舒服",
+    "kanji": "気分がいい"
   },
   {
     "id": "y2-l26-v028",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "きぶんがわるい 気分が悪い 不舒服",
-    "meaningZh": "副詞\n平仮名/片仮名 漢字 中譯",
+    "kana": "きぶんがわるい",
+    "meaningZh": "不舒服",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "きぶんがわるい 気分が悪い 不舒服\n副詞\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "きぶんがわるい 気分が悪い 不舒服",
+    "kanji": "気分が悪い"
   },
   {
     "id": "y2-l26-v029",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "ずいぶん - 相當，極其",
-    "meaningZh": "ずいぶん - 相當，極其",
+    "kana": "ずいぶん",
+    "meaningZh": "相當，極其",
     "category": "副詞",
     "source": {
       "type": "school_pdf",
@@ -410,36 +433,38 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "ちょくせつ 直接 直接",
-    "meaningZh": "其他\n平仮名/片仮名 漢字 中譯",
+    "kana": "ちょくせつ",
+    "meaningZh": "直接",
     "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "ちょくせつ 直接 直接\n其他\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "ちょくせつ 直接 直接",
+    "kanji": "直接"
   },
   {
     "id": "y2-l26-v031",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "こんど 今度 這次，下次",
-    "meaningZh": "こんど 今度 這次，下次",
+    "kana": "こんど",
+    "meaningZh": "這次，下次",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "こんど 今度 這次，下次"
+    "sourceText": "こんど 今度 這次，下次",
+    "kanji": "今度"
   },
   {
     "id": "y2-l26-v032",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "いつでも - 隨時都～，任何時候都～",
-    "meaningZh": "いつでも - 隨時都～，任何時候都～",
+    "kana": "いつでも",
+    "meaningZh": "隨時都～，任何時候都～",
     "category": "其他",
     "source": {
       "type": "school_pdf",
@@ -452,8 +477,8 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "どこでも - 在任何地方都～",
-    "meaningZh": "どこでも - 在任何地方都～",
+    "kana": "どこでも",
+    "meaningZh": "在任何地方都～",
     "category": "其他",
     "source": {
       "type": "school_pdf",
@@ -466,8 +491,8 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "だれでも - 任何人都～",
-    "meaningZh": "だれでも - 任何人都～",
+    "kana": "だれでも",
+    "meaningZh": "任何人都～",
     "category": "其他",
     "source": {
       "type": "school_pdf",
@@ -480,8 +505,8 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "なんでも - 什麽都～",
-    "meaningZh": "なんでも - 什麽都～",
+    "kana": "なんでも",
+    "meaningZh": "什麽都～",
     "category": "其他",
     "source": {
       "type": "school_pdf",
@@ -494,8 +519,8 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "こんな～ - 這樣的～",
-    "meaningZh": "こんな～ - 這樣的～",
+    "kana": "こんな～",
+    "meaningZh": "這樣的～",
     "category": "其他",
     "source": {
       "type": "school_pdf",
@@ -508,8 +533,8 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "そんな～ - 那樣的～（離聽話人較近）",
-    "meaningZh": "そんな～ - 那樣的～（離聽話人較近）",
+    "kana": "そんな～",
+    "meaningZh": "那樣的～（離聽話人較近）",
     "category": "其他",
     "source": {
       "type": "school_pdf",
@@ -522,125 +547,133 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "あんな～ - 那樣的～（離説話人和聼話",
-    "meaningZh": "人都較遠）\n読み物\n平仮名/片仮名 漢字 中譯",
+    "kana": "あんな～",
+    "meaningZh": "那樣的～（離説話人和聼話人都較遠）",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "あんな～ - 那樣的～（離説話人和聼話\n人都較遠）\n読み物\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "あんな～ - 那樣的～（離説話人和聼話人都較遠）"
   },
   {
     "id": "y2-l26-v039",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "うちゅう 宇宙 宇宙",
-    "meaningZh": "うちゅう 宇宙 宇宙",
+    "kana": "うちゅう",
+    "meaningZh": "宇宙",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "うちゅう 宇宙 宇宙"
+    "sourceText": "うちゅう 宇宙 宇宙",
+    "kanji": "宇宙"
   },
   {
     "id": "y2-l26-v040",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "～さま ～様 ～先生，～女士（「～さん",
-    "meaningZh": "的尊敬説法）",
+    "kana": "～さま",
+    "meaningZh": "～先生，～女士（「～さん」的尊敬説法）",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "～さま ～様 ～先生，～女士（「～さん\n」的尊敬説法）"
+    "sourceText": "～さま ～様 ～先生，～女士（「～さん」的尊敬説法）",
+    "kanji": "～様"
   },
   {
     "id": "y2-l26-v041",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "うちゅうせん 宇宙船 宇宙飛船",
-    "meaningZh": "うちゅうせん 宇宙船 宇宙飛船",
+    "kana": "うちゅうせん",
+    "meaningZh": "宇宙飛船",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "うちゅうせん 宇宙船 宇宙飛船"
+    "sourceText": "うちゅうせん 宇宙船 宇宙飛船",
+    "kanji": "宇宙船"
   },
   {
     "id": "y2-l26-v042",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "こわい 怖い 害怕，可怕",
-    "meaningZh": "こわい 怖い 害怕，可怕",
+    "kana": "こわい",
+    "meaningZh": "害怕，可怕",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "こわい 怖い 害怕，可怕"
+    "sourceText": "こわい 怖い 害怕，可怕",
+    "kanji": "怖い"
   },
   {
     "id": "y2-l26-v043",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "うちゅうステーション 宇宙ステーション 航天站",
-    "meaningZh": "うちゅうステーション 宇宙ステーション 航天站",
+    "kana": "うちゅうステーション",
+    "meaningZh": "航天站",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "うちゅうステーション 宇宙ステーション 航天站"
+    "sourceText": "うちゅうステーション 宇宙ステーション 航天站",
+    "kanji": "宇宙ステーション"
   },
   {
     "id": "y2-l26-v044",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "ちがいます ちがいます 不一樣",
-    "meaningZh": "ちがいます ちがいます 不一樣",
+    "kana": "ちがいます",
+    "meaningZh": "不一樣",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "ちがいます ちがいます 不一樣"
+    "sourceText": "ちがいます ちがいます 不一樣",
+    "kanji": "ちがいます"
   },
   {
     "id": "y2-l26-v045",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "うちゅうひこうし 宇宙飛行士 宇航員",
-    "meaningZh": "うちゅうひこうし 宇宙飛行士 宇航員",
+    "kana": "うちゅうひこうし",
+    "meaningZh": "宇航員",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "うちゅうひこうし 宇宙飛行士 宇航員"
+    "sourceText": "うちゅうひこうし 宇宙飛行士 宇航員",
+    "kanji": "宇宙飛行士"
   },
   {
     "id": "y2-l26-v046",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 26,
-    "kana": "ほしであきひこ 星出彰彦 星出彰彦（日本宇航員1968",
-    "meaningZh": "-）",
+    "kana": "ほしであきひこ",
+    "meaningZh": "星出彰彦（日本宇航員1968-）",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch26.pdf.pdf"
     },
-    "sourceText": "ほしであきひこ 星出彰彦 星出彰彦（日本宇航員1968\n-）"
+    "sourceText": "ほしであきひこ 星出彰彦 星出彰彦（日本宇航員1968-）",
+    "kanji": "星出彰彦"
   }
 ]
