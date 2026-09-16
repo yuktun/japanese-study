@@ -3,6 +3,7 @@ let fallbackAudio=null;
 const $=selector=>document.querySelector(selector);
 const $$=selector=>[...document.querySelectorAll(selector)];
 const escapeHtml=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
+const compactLessonLayout=window.matchMedia('(max-width:780px)');
 
 async function loadData(){
   try{
@@ -45,6 +46,7 @@ function selectedLessonMeta(){return state.lessons.find(item=>item.schoolYear===
 function updateCourseDetails(){
   const meta=selectedLessonMeta(),lessonItems=state.all.filter(item=>item.schoolYear===state.year&&item.lesson===state.lesson);
   const vocabularyCount=lessonItems.filter(item=>item.type==='vocabulary').length,grammarCount=lessonItems.filter(item=>item.type==='grammar').length;
+  updateLessonBookContext();
   $('#course-year').textContent=`Year ${state.year}`;$('#course-book').textContent=`大家的日本語 · ${meta?.book||''}`;$('#course-lesson').textContent=`Lesson ${state.lesson} 已加入`;
   const deckBook=$('.deck-info span'),deckSummary=$('.deck-info p');
   if(deckBook)deckBook.textContent=meta?.book||'';
@@ -176,9 +178,19 @@ function populateYearSelect(years){$('#year-select').innerHTML=years.map(year=>`
 function populateLessonSelect(preferred){
   const lessons=sortedUnique(state.all.filter(item=>item.schoolYear===state.year).map(item=>item.lesson));
   state.lesson=lessons.includes(preferred)?preferred:lessons[0];
-  $('#lesson-select').innerHTML=lessons.map(lesson=>{const meta=state.lessons.find(item=>item.schoolYear===state.year&&item.lesson===lesson)||state.all.find(item=>item.schoolYear===state.year&&item.lesson===lesson);return `<option value="${lesson}">${meta?.book||''} · Lesson ${String(lesson).padStart(2,'0')}</option>`;}).join('');
+  const entries=lessons.map(lesson=>({lesson,meta:state.lessons.find(item=>item.schoolYear===state.year&&item.lesson===lesson)||state.all.find(item=>item.schoolYear===state.year&&item.lesson===lesson)}));
+  const groups=entries.reduce((result,entry)=>{const book=entry.meta?.book||'教材';if(!result.has(book))result.set(book,[]);result.get(book).push(entry);return result;},new Map());
+  const option=entry=>`<option value="${entry.lesson}">${compactLessonLayout.matches?`Lesson ${String(entry.lesson).padStart(2,'0')}`:`${escapeHtml(entry.meta?.book||'')} · Lesson ${String(entry.lesson).padStart(2,'0')}`}</option>`;
+  $('#lesson-select').innerHTML=groups.size>1?[...groups].map(([book,items])=>`<optgroup label="${escapeHtml(book)}">${items.map(option).join('')}</optgroup>`).join(''):entries.map(option).join('');
   $('#lesson-select').value=String(state.lesson);
+  updateLessonBookContext();
   localStorage.setItem('jp-study-deck-year',String(state.year));localStorage.setItem('jp-study-deck-lesson',String(state.lesson));
+}
+function updateLessonBookContext(){
+  const meta=selectedLessonMeta(),book=meta?.book||'';
+  const context=$('#lesson-book-context'),select=$('#lesson-select');
+  if(context){context.textContent=book;context.hidden=!compactLessonLayout.matches;}
+  if(select)select.setAttribute('aria-label',book?`選擇課堂：${book}`:'選擇課堂');
 }
 function populateLibraryFilter(key,options){
   const container=$(`[data-library-filter="${key}"] .filter-options`);
@@ -299,6 +311,7 @@ $('#theme-toggle').addEventListener('click',()=>applyTheme(document.documentElem
 $('#deck-type').addEventListener('change',event=>{state.type=event.target.value;resetDeck();});
 $('#year-select').addEventListener('change',event=>{state.year=Number(event.target.value);populateLessonSelect(null);resetDeck();});
 $('#lesson-select').addEventListener('change',event=>{state.lesson=Number(event.target.value);localStorage.setItem('jp-study-deck-lesson',String(state.lesson));resetDeck();});
+compactLessonLayout.addEventListener('change',()=>populateLessonSelect(state.lesson));
 $('#rating-options').addEventListener('change',event=>{state.ratingEnabled=event.target.checked;localStorage.setItem('jp-study-rating-options',String(state.ratingEnabled));resetDeck();showToast(state.ratingEnabled?'已開啟熟悉度評分':'已關閉熟悉度評分');});
 $('#card-direction').addEventListener('change',event=>{state.direction=event.target.value;resetDeck();});
 $('#shuffle-button').addEventListener('click',()=>{resetDeck(true);showToast('卡片已經洗牌');});

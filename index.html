@@ -14,7 +14,7 @@
   <link rel="icon" type="image/png" sizes="1254x1254" href="./assets/japanese-study-icon.png">
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%23e11d48'/%3E%3Ccircle cx='47' cy='17' r='8' fill='%23fff1f4'/%3E%3Ctext x='13' y='47' font-size='37' fill='white'%3E日%3C/text%3E%3C/svg%3E">
   <script>try{const saved=localStorage.getItem('jp-study-theme');document.documentElement.dataset.theme=saved||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light')}catch{document.documentElement.dataset.theme='light'}</script>
-  <link rel="stylesheet" href="./styles.css?v=mobile-drawer-backdrop">
+  <link rel="stylesheet" href="./styles.css?v=compact-lesson-selector-4">
 </head>
 <body>
   <div class="app-shell">
@@ -93,7 +93,7 @@
               <select id="year-select" aria-label="選擇學年"></select>
             </div>
             <div class="setting-field">
-              <label for="lesson-select">課堂</label>
+              <label class="lesson-select-label" for="lesson-select"><span>課堂</span><small id="lesson-book-context"></small></label>
               <select id="lesson-select" aria-label="選擇課堂"></select>
             </div>
             <div class="deck-info"><span>初級 I</span><p>現有 Lesson 1：10 個生字、7 項文法。</p></div>
@@ -177,6 +177,6 @@
   </div>
 
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
-  <script src="./app.js?v=mobile-drawer-backdrop"></script>
+  <script src="./app.js?v=compact-lesson-selector-4"></script>
 </body>
 </html>
