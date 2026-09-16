@@ -72,3 +72,7 @@ export function shuffledSequence(items,random=Math.random){
   if(sequence.length>1&&sequence.every((item,index)=>reviewKeyFor(item)===reviewKeyFor(items[index])))[sequence[0],sequence[1]]=[sequence[1],sequence[0]];
   return sequence;
 }
+
+export function sequenceForReviewMode(items,mode='sequential',random=Math.random){
+  return mode==='random'?shuffledSequence(items,random):[...items];
+}

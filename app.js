@@ -1,4 +1,4 @@
-import {filterReviewDeck,normalizeReviewProgress,resetReviewStatuses,reviewCounts,reviewKeyFor,reviewRecordFor,setReviewStatus,shuffledSequence,toggleReviewBookmark} from './src/flashcard-review.mjs';
+import {filterReviewDeck,normalizeReviewProgress,resetReviewStatuses,reviewCounts,reviewKeyFor,reviewRecordFor,sequenceForReviewMode,setReviewStatus,toggleReviewBookmark} from './src/flashcard-review.mjs';
 
 const REVIEW_STORAGE_KEY='jp-study-flashcard-review-progress';
 const state={all:[],references:[],lessons:[],scopeDeck:[],deck:[],index:0,revealed:false,quickSeen:0,type:'all',direction:'ja-zh',year:null,lesson:null,orderMode:localStorage.getItem('jp-study-card-order-mode')==='random'?'random':'sequential',reviewFilter:'all',reviewProgress:normalizeReviewProgress(readJsonStorage(REVIEW_STORAGE_KEY,{})),view:'review',library:{query:'',years:[],lessons:[],types:[]}};
@@ -63,8 +63,7 @@ function applyReviewFilter(currentId=null){
   state.index=currentIndex>=0?currentIndex:0;
 }
 function resetDeck(){
-  state.scopeDeck=[...currentPool()];
-  if(state.orderMode==='random')state.scopeDeck=shuffledSequence(state.scopeDeck);
+  state.scopeDeck=sequenceForReviewMode(currentPool(),state.orderMode);
   applyReviewFilter();
   state.index=0;state.revealed=false;state.quickSeen=0;
   $('.crumb span').textContent=`Year ${state.year}`;$('.crumb b').textContent=`Lesson ${String(state.lesson).padStart(2,'0')}`;
@@ -137,10 +136,11 @@ function renderOrderModeToggle(){
 }
 function setOrderMode(mode){
   if(!['sequential','random'].includes(mode)||mode===state.orderMode)return;
-  const current=state.deck[state.index],currentId=current?reviewKeyFor(current):null;
   state.orderMode=mode;localStorage.setItem('jp-study-card-order-mode',mode);
-  state.scopeDeck=mode==='random'?shuffledSequence(currentPool()):[...currentPool()];
-  applyReviewFilter(currentId);state.revealed=false;renderCard();
+  state.scopeDeck=sequenceForReviewMode(currentPool(),mode);
+  applyReviewFilter();
+  state.index=0;state.revealed=false;state.quickSeen=0;
+  renderCard();
 }
 function markCurrentCard(status){
   const item=state.deck[state.index];if(!item)return;

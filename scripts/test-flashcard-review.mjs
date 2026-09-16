@@ -1,5 +1,5 @@
 import assert from 'node:assert/strict';
-import {filterReviewDeck,normalizeReviewProgress,resetReviewStatuses,reviewCounts,reviewKeyFor,setReviewStatus,shuffledSequence,toggleReviewBookmark} from '../src/flashcard-review.mjs';
+import {filterReviewDeck,normalizeReviewProgress,resetReviewStatuses,reviewCounts,reviewKeyFor,sequenceForReviewMode,setReviewStatus,shuffledSequence,toggleReviewBookmark} from '../src/flashcard-review.mjs';
 
 const lessonOne=[
   {id:'y1-l01-v001',schoolYear:1,book:'初級 I',lesson:1,type:'vocabulary'},
@@ -33,5 +33,11 @@ assert.notDeepEqual(randomOrder,originalOrder,'random mode establishes a shuffle
 assert.equal(new Set(randomOrder).size,lessonOne.length,'a random pass contains no duplicate cards');
 assert.deepEqual(randomOrder,shuffledSequence(lessonOne,()=>0).map(item=>item.id),'a stored random sequence remains stable until explicitly rebuilt');
 assert.deepEqual(filterReviewDeck(shuffledSequence(lessonOne,()=>0),progress,'bookmarked').map(item=>item.id),['y1-l01-g001','y1-l01-v001'],'review filters retain the active random sequence order');
+
+assert.deepEqual(sequenceForReviewMode(lessonOne,'sequential').map(item=>item.id),originalOrder,'sequential mode restores lesson order');
+const freshRandomPass=sequenceForReviewMode(lessonOne,'random',()=>0);
+assert.equal(freshRandomPass[0].id,'y1-l01-v002','a newly selected random mode has a newly shuffled first card');
+assert.equal(filterReviewDeck(freshRandomPass,progress,'bookmarked')[0].id,'y1-l01-g001','a filtered random sequence starts with its own first matching card');
+assert.equal(filterReviewDeck([],progress,'incorrect').length,0,'empty review filters remain empty');
 
 console.log('Flashcard review tests passed.');
