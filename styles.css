@@ -83,3 +83,10 @@ html[data-theme="dark"] .card-face,html[data-theme="dark"] .card-back{box-shadow
 .study-mode-toggle button.active{background:var(--paper);color:var(--purple);box-shadow:0 2px 8px rgba(24,35,62,.08)}
 .study-mode-toggle button span{margin-right:4px;font-size:.95rem}
 @media(max-width:520px){.review-heading{gap:10px}.study-mode-toggle{padding:3px}.study-mode-toggle button{padding:7px 8px;font-size:.72rem}.study-mode-toggle button span{margin-right:2px}}
+
+/* Offline PWA state and safe-update prompt. */
+.offline-status{position:fixed;right:18px;bottom:18px;z-index:25;max-width:calc(100vw - 36px);padding:7px 11px;border:1px solid var(--line);border-radius:999px;background:var(--paper);box-shadow:0 8px 24px rgba(15,23,42,.12);color:var(--muted);font-size:.76rem;font-weight:700}
+.offline-status[data-state="ready"]{color:#047857}.offline-status[data-state="offline"]{color:#b45309}.offline-status[data-state="incomplete"]{color:#b91c1c}
+.pwa-update{position:fixed;right:20px;bottom:64px;z-index:35;width:min(360px,calc(100vw - 40px));padding:16px;border:1px solid var(--line);border-radius:16px;background:var(--paper);box-shadow:0 20px 45px rgba(15,23,42,.22);color:var(--ink)}
+.pwa-update b{font-size:1rem}.pwa-update p{margin:7px 0 14px;color:var(--muted);font-size:.86rem;line-height:1.5}.pwa-update-actions{display:flex;justify-content:flex-end;gap:8px}.pwa-update button{min-height:38px;padding:0 13px;border:1px solid var(--line);border-radius:9px;background:var(--paper);color:var(--ink);font:inherit;font-weight:700}.pwa-update #pwa-update-now{border-color:var(--purple);background:var(--purple);color:#fff}
+@media(max-width:520px){.offline-status{right:12px;bottom:12px;font-size:.72rem}.pwa-update{right:12px;bottom:54px;width:calc(100vw - 24px)}}

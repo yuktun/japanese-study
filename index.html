@@ -178,6 +178,11 @@
   </div>
 
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
-  <script type="module" src="./app.js?v=curriculum-order-1"></script>
+  <div class="offline-status" id="offline-status" role="status" aria-live="polite" hidden></div>
+  <section class="pwa-update" id="pwa-update" role="dialog" aria-labelledby="pwa-update-title" hidden>
+    <div><b id="pwa-update-title">發現新版本</b><p>新版本已準備好，更新後將重新載入 App。你的溫習紀錄會保留。</p></div>
+    <div class="pwa-update-actions"><button type="button" id="pwa-update-later">稍後</button><button type="button" id="pwa-update-now">立即更新</button></div>
+  </section>
+  <script type="module" src="./app.js?v=pwa-1"></script>
 </body>
 </html>

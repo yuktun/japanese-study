@@ -74,3 +74,25 @@ node scripts/validate-data.mjs
 ```
 
 It checks the manifest, referenced files, required fields, lesson metadata, and globally unique item IDs.
+
+## Offline use and updates
+
+Japanese Study is an offline-first PWA. Open the site while online and leave it open until the small status indicator says **已可離線使用**. At that point the app shell, every lesson listed in `data/manifest.json`, lesson reference files, and all conjugation reference data have been verified in the browser cache. You can then add the site to an iPhone Home Screen or use it in a desktop browser and continue studying without a connection.
+
+While offline, the indicator reads **離線模式**. If preparation did not complete, it reads **離線資料未完成**; reconnect and open the app again to retry. iOS can evict website storage when device space is low, so offline access is not permanent and may need to be downloaded again.
+
+The app checks for updates when it opens, returns to the foreground, and reconnects to the internet. A new release is downloaded in the background while the current version remains usable. When it is ready, choose **立即更新** to reload into it, or **稍後** to keep studying; no active review is interrupted automatically. For a manual check, bring the app to the foreground while online, or reload it.
+
+Flashcard answer status, bookmarks, and review progress remain in browser-local storage. They are never placed in the Service Worker cache and are retained through app updates, but they do not automatically synchronize between devices or browsers.
+
+Japanese pronunciation uses the browser's Japanese speech-synthesis voice. It may be available offline only when the device has an offline Japanese voice installed; the app does not download or bundle audio voices.
+
+### PWA release check
+
+Before releasing app changes, update `CACHE_VERSION` in `sw.js` so browsers install a new, fully prepared cache. Then run:
+
+```bash
+node scripts/test-offline-inventory.mjs
+```
+
+The service worker keeps the current and immediately previous completed cache during a transition. It never activates a partially downloaded cache or clears browser-local review records.
