@@ -4,671 +4,710 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "あきます [ドアが～]",
-    "meaningZh": "辞|\n開きます [ドアが～]\n開く[ドアが～]\nⅠ 自 [門] 開、打開",
+    "kana": "あきます [ドアが～] |ます| / ひらく[ドアが～] |辞",
+    "meaningZh": "Ⅰ 自 [門] 開、打開",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "あきます [ドアが～]\n|ます|\nひらく[ドアが～] |辞|\n開きます [ドアが～]\n開く[ドアが～]\nⅠ 自 [門] 開、打開"
+    "sourceText": "あきます [ドアが～] |ます| / ひらく[ドアが～] |辞 |開きます [ドアが～] / 開く[ドアが～] Ⅰ 自 [門] 開、打開",
+    "kanji": "|開きます [ドアが～] / 開く[ドアが～]"
   },
   {
     "id": "y2-l29-v002",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "しまります [ドアが～]",
-    "meaningZh": "辞|\n閉まります [ドアが～]\n閉まる[ドアが～]\nⅠ 自 [門] 關、關上",
+    "kana": "しまります [ドアが～] |ます| / しまる[ドアが～] |辞",
+    "meaningZh": "Ⅰ 自 [門] 關、關上",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "しまります [ドアが～]\n|ます|\nしまる[ドアが～] |辞|\n閉まります [ドアが～]\n閉まる[ドアが～]\nⅠ 自 [門] 關、關上"
+    "sourceText": "しまります [ドアが～] |ます| / しまる[ドアが～] |辞 |閉まります [ドアが～] / 閉まる[ドアが～] Ⅰ 自 [門] 關、關上",
+    "kanji": "|閉まります [ドアが～] / 閉まる[ドアが～]"
   },
   {
     "id": "y2-l29-v003",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "つきます [でんきが～]",
-    "meaningZh": "辞|\nつきます [電気が～]\n付く[電気が～]\nⅠ 自 [電燈] 開了、亮了",
+    "kana": "つきます [でんきが～] |ます| / つく[でんきが～] |辞",
+    "meaningZh": "Ⅰ 自 [電燈] 開了、亮了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "つきます [でんきが～]\n|ます|\nつく[でんきが～] |辞|\nつきます [電気が～]\n付く[電気が～]\nⅠ 自 [電燈] 開了、亮了"
+    "sourceText": "つきます [でんきが～] |ます| / つく[でんきが～] |辞 |つきます [電気が～] / 付く[電気が～] Ⅰ 自 [電燈] 開了、亮了",
+    "kanji": "|つきます [電気が～] / 付く[電気が～]"
   },
   {
     "id": "y2-l29-v004",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "きえます [でんきが～]",
-    "meaningZh": "辞|\n消えます [電気が～]\n消える[電気が～]\nⅡ 自 [電燈] 關了、滅了",
+    "kana": "きえます [でんきが～] |ます| / きえる[でんきが～] |辞",
+    "meaningZh": "Ⅱ 自 [電燈] 關了、滅了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "きえます [でんきが～]\n|ます|\nきえる[でんきが～] |辞|\n消えます [電気が～]\n消える[電気が～]\nⅡ 自 [電燈] 關了、滅了"
+    "sourceText": "きえます [でんきが～] |ます| / きえる[でんきが～] |辞 |消えます [電気が～] / 消える[電気が～] Ⅱ 自 [電燈] 關了、滅了",
+    "kanji": "|消えます [電気が～] / 消える[電気が～]"
   },
   {
     "id": "y2-l29-v005",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "こわれます [いすが～]",
-    "meaningZh": "辞|\n壊れます [いすが～]\n壊れる[いすが～]\nⅡ 自 [椅子] 壞了",
+    "kana": "こわれます [いすが～] |ます| / こわれる[いすが～] |辞",
+    "meaningZh": "Ⅱ 自 [椅子] 壞了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "こわれます [いすが～]\n|ます|\nこわれる[いすが～] |辞|\n壊れます [いすが～]\n壊れる[いすが～]\nⅡ 自 [椅子] 壞了"
+    "sourceText": "こわれます [いすが～] |ます| / こわれる[いすが～] |辞 |壊れます [いすが～] / 壊れる[いすが～] Ⅱ 自 [椅子] 壞了",
+    "kanji": "|壊れます [いすが～] / 壊れる[いすが～]"
   },
   {
     "id": "y2-l29-v006",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "われます [コップが～]",
-    "meaningZh": "辞|\n割れます [コップが～]\n割れる[コップが～]\nⅡ 自 [杯子] 破裂了、碎了",
+    "kana": "われます [コップが～] |ます| / われる[コップが～] |辞",
+    "meaningZh": "Ⅱ 自 [杯子] 破裂了、碎了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "われます [コップが～]\n|ます|\nわれる[コップが～] |辞|\n割れます [コップが～]\n割れる[コップが～]\nⅡ 自 [杯子] 破裂了、碎了"
+    "sourceText": "われます [コップが～] |ます| / われる[コップが～] |辞 |割れます [コップが～] / 割れる[コップが～] Ⅱ 自 [杯子] 破裂了、碎了",
+    "kanji": "|割れます [コップが～] / 割れる[コップが～]"
   },
   {
     "id": "y2-l29-v007",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "おれます [きが～]",
-    "meaningZh": "辞|\n折れます [木が～]\n折れる[木が～]\nⅡ 自 [樹枝] 折斷了",
+    "kana": "おれます [きが～] |ます| / おれる[きが～] |辞",
+    "meaningZh": "Ⅱ 自 [樹枝] 折斷了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "おれます [きが～] |ます|\nおれる[きが～] |辞|\n折れます [木が～]\n折れる[木が～]\nⅡ 自 [樹枝] 折斷了"
+    "sourceText": "おれます [きが～] |ます| / おれる[きが～] |辞 |折れます [木が～] / 折れる[木が～] Ⅱ 自 [樹枝] 折斷了",
+    "kanji": "|折れます [木が～] / 折れる[木が～]"
   },
   {
     "id": "y2-l29-v008",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "やぶれます [かみが～]",
-    "meaningZh": "辞|\n破れます [紙が～]\n破れる[紙が～]\nⅡ 自 [紙] 破了、爛了",
+    "kana": "やぶれます [かみが～] |ます| / やぶれる[かみが～] |辞",
+    "meaningZh": "Ⅱ 自 [紙] 破了、爛了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "やぶれます [かみが～]\n|ます|\nやぶれる[かみが～] |辞|\n破れます [紙が～]\n破れる[紙が～]\nⅡ 自 [紙] 破了、爛了"
+    "sourceText": "やぶれます [かみが～] |ます| / やぶれる[かみが～] |辞 |破れます [紙が～] / 破れる[紙が～] Ⅱ 自 [紙] 破了、爛了",
+    "kanji": "|破れます [紙が～] / 破れる[紙が～]"
   },
   {
     "id": "y2-l29-v009",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "よごれます [ふくが～]",
-    "meaningZh": "辞|\n汚れます [服が～]\n汚れる[服が～]\nⅡ 自 [衣服] 髒了",
+    "kana": "よごれます [ふくが～] |ます| / よごれる[ふくが～] |辞",
+    "meaningZh": "Ⅱ 自 [衣服] 髒了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "よごれます [ふくが～]\n|ます|\nよごれる[ふくが～] |辞|\n汚れます [服が～]\n汚れる[服が～]\nⅡ 自 [衣服] 髒了"
+    "sourceText": "よごれます [ふくが～] |ます| / よごれる[ふくが～] |辞 |汚れます [服が～] / 汚れる[服が～] Ⅱ 自 [衣服] 髒了",
+    "kanji": "|汚れます [服が～] / 汚れる[服が～]"
   },
   {
     "id": "y2-l29-v010",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "つきます",
-    "meaningZh": "辞|\n付きます\n[ポケットが～]\n付く[ポケットが～]\nⅠ 自 帶有 [口袋]",
+    "kana": "つきます [ポケットが～] |ます| / つく[ポケットが～] |辞",
+    "meaningZh": "Ⅰ 自 帶有 [口袋]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "つきます\n[ポケットが～] |ます|\nつく[ポケットが～] |辞|\n付きます\n[ポケットが～]\n付く[ポケットが～]\nⅠ 自 帶有 [口袋]"
+    "sourceText": "つきます [ポケットが～] |ます| / つく[ポケットが～] |辞 |付きます [ポケットが～] / 付く[ポケットが～] Ⅰ 自 帶有 [口袋]",
+    "kanji": "|付きます [ポケットが～] / 付く[ポケットが～]"
   },
   {
     "id": "y2-l29-v011",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "はずれます",
-    "meaningZh": "外れます [ボタンが～]\n外れる[ボタンが～]\nⅡ 自 [紐扣] 脫了（沒扣好）\n|辞|",
+    "kana": "はずれます [ボタンが～] |ます| / はずれる[ボタンが～] |辞",
+    "meaningZh": "Ⅱ 自 [紐扣] 脫了（沒扣好）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "はずれます\n[ボタンが～] |ます|\nはずれる[ボタンが～]\n外れます [ボタンが～]\n外れる[ボタンが～]\nⅡ 自 [紐扣] 脫了（沒扣好）\n|辞|"
+    "sourceText": "はずれます [ボタンが～] |ます| / はずれる[ボタンが～] |辞 |外れます [ボタンが～] / 外れる[ボタンが～] Ⅱ 自 [紐扣] 脫了（沒扣好）",
+    "kanji": "|外れます [ボタンが～] / 外れる[ボタンが～]"
   },
   {
     "id": "y2-l29-v012",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "とまります",
-    "meaningZh": "辞|\n止まります [車が～]\n止まる[車が～]\nⅠ 自 [車] 停了、停著 [車]",
+    "kana": "とまります [くるまが～] |ます| / とまる[くるまが～] |辞",
+    "meaningZh": "Ⅰ 自 [車] 停了、停著 [車]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "とまります\n[くるまが～] |ます|\nとまる[くるまが～] |辞|\n止まります [車が～]\n止まる[車が～]\nⅠ 自 [車] 停了、停著 [車]"
+    "sourceText": "とまります [くるまが～] |ます| / とまる[くるまが～] |辞 |止まります [車が～] / 止まる[車が～] Ⅰ 自 [車] 停了、停著 [車]",
+    "kanji": "|止まります [車が～] / 止まる[車が～]"
   },
   {
     "id": "y2-l29-v013",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "かかります [かぎが～]",
-    "meaningZh": "辞|\n掛かります [かぎが～]\n掛かる[かぎが～]\nⅠ 自 上著鎖",
+    "kana": "かかります [かぎが～] |ます| / かかる[かぎが～] |辞",
+    "meaningZh": "Ⅰ 自 上著鎖",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "かかります [かぎが～]\n|ます|\nかかる[かぎが～] |辞|\n掛かります [かぎが～]\n掛かる[かぎが～]\nⅠ 自 上著鎖"
+    "sourceText": "かかります [かぎが～] |ます| / かかる[かぎが～] |辞 |掛かります [かぎが～] / 掛かる[かぎが～] Ⅰ 自 上著鎖",
+    "kanji": "|掛かります [かぎが～] / 掛かる[かぎが～]"
   },
   {
     "id": "y2-l29-v014",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "まちがえます",
-    "meaningZh": "辞|\n- Ⅱ 他 弄錯、搞錯",
+    "kana": "まちがえます |ます| / まちがえる |辞",
+    "meaningZh": "Ⅱ 他 弄錯、搞錯",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "まちがえます |ます|\nまちがえる |辞|\n- Ⅱ 他 弄錯、搞錯"
+    "sourceText": "まちがえます |ます| / まちがえる |辞 Ⅱ 他 弄錯、搞錯"
   },
   {
     "id": "y2-l29-v015",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "おとします",
-    "meaningZh": "辞|\n落とします [財布を～]\n落とす[財布を～]\nⅠ 他 掉了、弄丟",
+    "kana": "おとします [さいふを～] |ます| / おとす[さいふを～] |辞",
+    "meaningZh": "Ⅰ 他 掉了、弄丟",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "おとします\n[さいふを～] |ます|\nおとす[さいふを～] |辞|\n落とします [財布を～]\n落とす[財布を～]\nⅠ 他 掉了、弄丟"
+    "sourceText": "おとします [さいふを～] |ます| / おとす[さいふを～] |辞 |落とします [財布を～] / 落とす[財布を～] Ⅰ 他 掉了、弄丟",
+    "kanji": "|落とします [財布を～] / 落とす[財布を～]"
   },
   {
     "id": "y2-l29-v016",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "ふきます",
-    "meaningZh": "辞|\n- Ⅰ 他 擦 [桌子]",
+    "kana": "ふきます [テーブルを～」 |ます| / ふく[テーブルを～」 |辞",
+    "meaningZh": "Ⅰ 他 擦 [桌子]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "ふきます\n[テーブルを～」 |ます|\nふく[テーブルを～」\n|辞|\n- Ⅰ 他 擦 [桌子]"
+    "sourceText": "ふきます [テーブルを～」 |ます| / ふく[テーブルを～」 |辞 Ⅰ 他 擦 [桌子]"
   },
   {
     "id": "y2-l29-v017",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "とりかえます",
-    "meaningZh": "辞|\n取り替えます\n取り替える\nⅡ 他 更換",
+    "kana": "とりかえます |ます| / とりかえる |辞",
+    "meaningZh": "Ⅱ 他 更換",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "とりかえます |ます|\nとりかえる |辞|\n取り替えます\n取り替える\nⅡ 他 更換"
+    "sourceText": "とりかえます |ます| / とりかえる |辞 |取り替えます / 取り替える Ⅱ 他 更換",
+    "kanji": "|取り替えます / 取り替える"
   },
   {
     "id": "y2-l29-v018",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "かたづけます",
-    "meaningZh": "辞|\n片付けます\n片付ける\nⅡ 他 收拾\n名詞\n平仮名/片仮名 漢字 中譯",
+    "kana": "かたづけます |ます| / かたづける |辞",
+    "meaningZh": "Ⅱ 他 收拾",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "かたづけます |ます|\nかたづける |辞|\n片付けます\n片付ける\nⅡ 他 收拾\n名詞\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "かたづけます |ます| / かたづける |辞 |片付けます / 片付ける Ⅱ 他 收拾",
+    "kanji": "|片付けます / 片付ける"
   },
   {
     "id": "y2-l29-v019",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "[お] さら [お] 皿 盤子、碟子",
-    "meaningZh": "[お] さら [お] 皿 盤子、碟子",
+    "kana": "[お] さら",
+    "meaningZh": "盤子、碟子",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "[お] さら [お] 皿 盤子、碟子"
+    "sourceText": "[お] さら [お] 皿 盤子、碟子",
+    "kanji": "[お] 皿"
   },
   {
     "id": "y2-l29-v020",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "[お] ちゃわん [お] 茶碗 碗、飯碗",
-    "meaningZh": "[お] ちゃわん [お] 茶碗 碗、飯碗",
+    "kana": "[お] ちゃわん",
+    "meaningZh": "碗、飯碗",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "[お] ちゃわん [お] 茶碗 碗、飯碗"
+    "sourceText": "[お] ちゃわん [お] 茶碗 碗、飯碗",
+    "kanji": "[お] 茶碗"
   },
   {
     "id": "y2-l29-v021",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "コップ - 杯子",
-    "meaningZh": "コップ - 杯子",
+    "kana": "コップ",
+    "meaningZh": "杯子",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "コップ - 杯子"
+    "sourceText": "コップ 杯子"
   },
   {
     "id": "y2-l29-v022",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "ガラス - 玻璃",
-    "meaningZh": "ガラス - 玻璃",
+    "kana": "ガラス",
+    "meaningZh": "玻璃",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "ガラス - 玻璃"
+    "sourceText": "ガラス 玻璃"
   },
   {
     "id": "y2-l29-v023",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "ふくろ 袋 袋子",
-    "meaningZh": "ふくろ 袋 袋子",
+    "kana": "ふくろ",
+    "meaningZh": "袋子",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "ふくろ 袋 袋子"
+    "sourceText": "ふくろ 袋 袋子",
+    "kanji": "袋"
   },
   {
     "id": "y2-l29-v024",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "しょるい 書類 文件、材料",
-    "meaningZh": "しょるい 書類 文件、材料",
+    "kana": "しょるい",
+    "meaningZh": "文件、材料",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "しょるい 書類 文件、材料"
+    "sourceText": "しょるい 書類 文件、材料",
+    "kanji": "書類"
   },
   {
     "id": "y2-l29-v025",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "えだ 枝 樹枝",
-    "meaningZh": "えだ 枝 樹枝",
+    "kana": "えだ",
+    "meaningZh": "樹枝",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "えだ 枝 樹枝"
+    "sourceText": "えだ 枝 樹枝",
+    "kanji": "枝"
   },
   {
     "id": "y2-l29-v026",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "えきいん 駅員 車站工作人員",
-    "meaningZh": "えきいん 駅員 車站工作人員",
+    "kana": "えきいん",
+    "meaningZh": "車站工作人員",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "えきいん 駅員 車站工作人員"
+    "sourceText": "えきいん 駅員 車站工作人員",
+    "kanji": "駅員"
   },
   {
     "id": "y2-l29-v027",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "こうばん 交番 派出所",
-    "meaningZh": "こうばん 交番 派出所",
+    "kana": "こうばん",
+    "meaningZh": "派出所",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "こうばん 交番 派出所"
+    "sourceText": "こうばん 交番 派出所",
+    "kanji": "交番"
   },
   {
     "id": "y2-l29-v028",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "スピーチ - 演講、演説",
-    "meaningZh": "スピーチ - 演講、演説",
+    "kana": "スピーチ",
+    "meaningZh": "演講、演説",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "スピーチ - 演講、演説"
+    "sourceText": "スピーチ 演講、演説"
   },
   {
     "id": "y2-l29-v029",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "へんじ 返事 回信、回答",
-    "meaningZh": "へんじ 返事 回信、回答",
+    "kana": "へんじ",
+    "meaningZh": "回信、回答",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "へんじ 返事 回信、回答"
+    "sourceText": "へんじ 返事 回信、回答",
+    "kanji": "返事"
   },
   {
     "id": "y2-l29-v030",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "忘れ物 - 遺忘東西、遺失物品",
-    "meaningZh": "忘れ物 - 遺忘東西、遺失物品",
+    "kana": "忘れ物",
+    "meaningZh": "遺忘東西、遺失物品",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "忘れ物 - 遺忘東西、遺失物品"
+    "sourceText": "忘れ物 遺忘東西、遺失物品",
+    "kanji": "忘れ物"
   },
   {
     "id": "y2-l29-v031",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "ポケット - 口袋",
-    "meaningZh": "ポケット - 口袋",
+    "kana": "ポケット",
+    "meaningZh": "口袋",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "ポケット - 口袋"
+    "sourceText": "ポケット 口袋"
   },
   {
     "id": "y2-l29-v032",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "あみだな 網棚 行李架",
-    "meaningZh": "副詞\n平仮名/片仮名 漢字 中譯",
+    "kana": "あみだな",
+    "meaningZh": "行李架",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "あみだな 網棚 行李架\n副詞\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "あみだな 網棚 行李架",
+    "kanji": "網棚"
   },
   {
     "id": "y2-l29-v033",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "たしか 確か 似乎是、確實是",
-    "meaningZh": "其他\n平仮名/片仮名 漢字 中譯",
+    "kana": "たしか",
+    "meaningZh": "似乎是、確實是",
     "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "たしか 確か 似乎是、確實是\n其他\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "たしか 確か 似乎是、確實是",
+    "kanji": "確か"
   },
   {
     "id": "y2-l29-v034",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "いまのでんしゃ 今の電車 剛剛（走了）的那輛電車",
-    "meaningZh": "いまのでんしゃ 今の電車 剛剛（走了）的那輛電車",
+    "kana": "いまのでんしゃ",
+    "meaningZh": "剛剛（走了）的那輛電車",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "いまのでんしゃ 今の電車 剛剛（走了）的那輛電車"
+    "sourceText": "いまのでんしゃ 今の電車 剛剛（走了）的那輛電車",
+    "kanji": "今の電車"
   },
   {
     "id": "y2-l29-v035",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "このくらい - 這樣大小的",
-    "meaningZh": "このくらい - 這樣大小的",
+    "kana": "このくらい",
+    "meaningZh": "這樣大小的",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "このくらい - 這樣大小的"
+    "sourceText": "このくらい 這樣大小的"
   },
   {
     "id": "y2-l29-v036",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "～がわ ～側 ～側",
-    "meaningZh": "～がわ ～側 ～側",
+    "kana": "～がわ",
+    "meaningZh": "～側",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "～がわ ～側 ～側"
+    "sourceText": "～がわ ～側 ～側",
+    "kanji": "～側"
   },
   {
     "id": "y2-l29-v037",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "～へん ～辺 ～附近、～一帶",
-    "meaningZh": "～へん ～辺 ～附近、～一帶",
+    "kana": "～へん",
+    "meaningZh": "～附近、～一帶",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "～へん ～辺 ～附近、～一帶"
+    "sourceText": "～へん ～辺 ～附近、～一帶",
+    "kanji": "～辺"
   },
   {
     "id": "y2-l29-v038",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "[ああ、] よかった。 - [啊，]",
-    "meaningZh": "太好了。（用於表示放心時\n）\n読み物\n平仮名/片仮名 漢字 中譯",
+    "kana": "[ああ、] よかった。",
+    "meaningZh": "[啊，] 太好了。（用於表示放心時）",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "[ああ、] よかった。 - [啊，]\n太好了。（用於表示放心時\n）\n読み物\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "[ああ、] よかった。 [啊，] 太好了。（用於表示放心時）"
   },
   {
     "id": "y2-l29-v039",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "じしん 地震 地震",
-    "meaningZh": "じしん 地震 地震",
+    "kana": "じしん",
+    "meaningZh": "地震",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "じしん 地震 地震"
+    "sourceText": "じしん 地震 地震",
+    "kanji": "地震"
   },
   {
     "id": "y2-l29-v040",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "かべ 壁 牆壁",
-    "meaningZh": "かべ 壁 牆壁",
+    "kana": "かべ",
+    "meaningZh": "牆壁",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "かべ 壁 牆壁"
+    "sourceText": "かべ 壁 牆壁",
+    "kanji": "壁"
   },
   {
     "id": "y2-l29-v041",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "はり 針 指針",
-    "meaningZh": "はり 針 指針",
+    "kana": "はり",
+    "meaningZh": "指針",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "はり 針 指針"
+    "sourceText": "はり 針 指針",
+    "kanji": "針"
   },
   {
     "id": "y2-l29-v042",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "さします 指します 指在～",
-    "meaningZh": "さします 指します 指在～",
+    "kana": "さします",
+    "meaningZh": "指在～",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "さします 指します 指在～"
+    "sourceText": "さします 指します 指在～",
+    "kanji": "指します"
   },
   {
     "id": "y2-l29-v043",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "えきまえ 駅前 車站前",
-    "meaningZh": "えきまえ 駅前 車站前",
+    "kana": "えきまえ",
+    "meaningZh": "車站前",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "えきまえ 駅前 車站前"
+    "sourceText": "えきまえ 駅前 車站前",
+    "kanji": "駅前"
   },
   {
     "id": "y2-l29-v044",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "たおれます 倒れます 倒了、倒下來",
-    "meaningZh": "たおれます 倒れます 倒了、倒下來",
+    "kana": "たおれます",
+    "meaningZh": "倒了、倒下來",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "たおれます 倒れます 倒了、倒下來"
+    "sourceText": "たおれます 倒れます 倒了、倒下來",
+    "kanji": "倒れます"
   },
   {
     "id": "y2-l29-v045",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "にし 西 西邊",
-    "meaningZh": "にし 西 西邊",
+    "kana": "にし",
+    "meaningZh": "西邊",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "にし 西 西邊"
+    "sourceText": "にし 西 西邊",
+    "kanji": "西"
   },
   {
     "id": "y2-l29-v046",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "～のほう ～の方 ～面、～方",
-    "meaningZh": "～のほう ～の方 ～面、～方",
+    "kana": "～のほう",
+    "meaningZh": "～面、～方",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "～のほう ～の方 ～面、～方"
+    "sourceText": "～のほう ～の方 ～面、～方",
+    "kanji": "～の方"
   },
   {
     "id": "y2-l29-v047",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "もえます 燃えます 燃燒",
-    "meaningZh": "もえます 燃えます 燃燒",
+    "kana": "もえます",
+    "meaningZh": "燃燒",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "もえます 燃えます 燃燒"
+    "sourceText": "もえます 燃えます 燃燒",
+    "kanji": "燃えます"
   },
   {
     "id": "y2-l29-v048",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 29,
-    "kana": "レポーター - 採訪記者",
-    "meaningZh": "レポーター - 採訪記者",
+    "kana": "レポーター",
+    "meaningZh": "採訪記者",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch29.pdf.pdf"
     },
-    "sourceText": "レポーター - 採訪記者"
+    "sourceText": "レポーター 採訪記者"
   }
 ]
