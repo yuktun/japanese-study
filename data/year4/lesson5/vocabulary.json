@@ -10,7 +10,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 1,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v002",
@@ -23,7 +25,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 2,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v003",
@@ -36,7 +40,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 3,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v004",
@@ -49,7 +55,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 4,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v005",
@@ -62,7 +70,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 5,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v006",
@@ -75,7 +85,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 6,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v007",
@@ -88,7 +100,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 7,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v008",
@@ -101,7 +115,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 8,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v009",
@@ -114,7 +130,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 9,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v010",
@@ -127,7 +145,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 10,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v011",
@@ -140,7 +160,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 11,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v012",
@@ -153,7 +175,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 12,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v013",
@@ -166,7 +190,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 13,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v014",
@@ -179,7 +205,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 14,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v015",
@@ -192,7 +220,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 15,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v016",
@@ -205,7 +235,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 16,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v017",
@@ -218,7 +250,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 17,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v018",
@@ -231,7 +265,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 18,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l5-v019",
@@ -244,7 +280,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 19,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l5-v020",
@@ -257,7 +295,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 20,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l5-v021",
@@ -270,7 +310,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 21,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l5-v022",
@@ -283,7 +325,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 22,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l5-v023",
@@ -296,16 +340,37 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 23,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l5-v024",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "せんろ 線路 名詞 鐵路",
-    "meaningZh": "路對面）",
-    "category": "source_migrated",
+    "kana": "せんろ",
+    "meaningZh": "鐵路",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    },
+    "sourceOrder": 24,
+    "section": "話す・聞く",
+    "kanji": "線路"
+  },
+  {
+    "id": "y4-l5-v068",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "sourceOrder": 25,
+    "section": "話す・聞く",
+    "kana": "むこうがわ",
+    "kanji": "向こう側",
+    "category": "名詞",
+    "meaningZh": "對面（線路の～／鐵路對面）",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -322,7 +387,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 26,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l5-v026",
@@ -335,7 +402,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 27,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l5-v027",
@@ -348,7 +417,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 28,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l5-v028",
@@ -361,7 +432,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 29,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l5-v029",
@@ -374,7 +447,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 30,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l5-v030",
@@ -387,16 +462,37 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 31,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l5-v031",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "かわぞい 川沿い 名詞 沿河",
-    "meaningZh": "2 / 533 ～ぞい ～沿い 名詞 沿著～",
-    "category": "source_migrated",
+    "kana": "かわぞい",
+    "meaningZh": "沿河",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    },
+    "sourceOrder": 32,
+    "section": "話す・聞く",
+    "kanji": "川沿い"
+  },
+  {
+    "id": "y4-l5-v069",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "sourceOrder": 33,
+    "section": "話す・聞く",
+    "kana": "～ぞい",
+    "kanji": "～沿い",
+    "category": "名詞",
+    "meaningZh": "沿著～",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -413,7 +509,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 34,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l5-v033",
@@ -426,7 +524,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 35,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l5-v034",
@@ -439,7 +539,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 36,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l5-v035",
@@ -452,7 +554,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 37,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l5-v036",
@@ -465,7 +569,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 38,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v037",
@@ -478,7 +584,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 39,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v038",
@@ -491,7 +599,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 40,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v039",
@@ -504,7 +614,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 41,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v040",
@@ -517,7 +629,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 42,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v041",
@@ -530,7 +644,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 43,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v042",
@@ -543,7 +659,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 44,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v043",
@@ -556,7 +674,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 45,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v044",
@@ -569,7 +689,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 46,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v045",
@@ -582,7 +704,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 47,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v046",
@@ -595,7 +719,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 48,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v047",
@@ -608,7 +734,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 49,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v048",
@@ -621,7 +749,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 50,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v049",
@@ -631,6 +761,23 @@
     "kana": "どりょくする |辞|",
     "meaningZh": "努力",
     "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    },
+    "sourceOrder": 51,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l5-v070",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "sourceOrder": 52,
+    "section": "読む・書く",
+    "kana": "そこで",
+    "category": "接続詞",
+    "meaningZh": "因此",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -647,7 +794,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 53,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v051",
@@ -660,20 +809,25 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 54,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v052",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "むいしきに 無意識に 副詞 無意地、不知不覺",
-    "meaningZh": "地",
-    "category": "source_migrated",
+    "kana": "むいしきに",
+    "meaningZh": "無意地、不知不覺地",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 55,
+    "section": "読む・書く",
+    "kanji": "無意識に"
   },
   {
     "id": "y4-l5-v053",
@@ -686,7 +840,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 56,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v054",
@@ -699,7 +855,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 57,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v055",
@@ -712,7 +870,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 58,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v056",
@@ -725,7 +885,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 59,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v057",
@@ -738,7 +900,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 60,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v058",
@@ -751,7 +915,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 61,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v059",
@@ -764,7 +930,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 62,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v060",
@@ -777,7 +945,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 63,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v061",
@@ -790,7 +960,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 64,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v062",
@@ -803,7 +975,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 65,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l5-v063",
@@ -816,7 +990,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 66,
+    "section": "固有名詞"
   },
   {
     "id": "y4-l5-v064",
@@ -829,7 +1005,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 67,
+    "section": "固有名詞"
   },
   {
     "id": "y4-l5-v065",
@@ -842,7 +1020,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 68,
+    "section": "固有名詞"
   },
   {
     "id": "y4-l5-v066",
@@ -852,6 +1032,23 @@
     "kana": "マッカーサー - 固有",
     "meaningZh": "固有",
     "category": "source_migrated",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
+    },
+    "sourceOrder": 69,
+    "section": "固有名詞"
+  },
+  {
+    "id": "y4-l5-v071",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 5,
+    "sourceOrder": 70,
+    "section": "固有名詞",
+    "kana": "アフリカ",
+    "category": "固有名詞",
+    "meaningZh": "非洲",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -868,7 +1065,8 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
-    }
+    },
+    "sourceOrder": 71,
+    "section": "固有名詞"
   }
 ]
-
