@@ -1,4 +1,5 @@
 import {filterReviewDeck,normalizeReviewProgress,resetReviewStatuses,reviewCounts,reviewKeyFor,reviewRecordFor,sequenceForReviewMode,setReviewStatus,toggleReviewBookmark} from './src/flashcard-review.mjs?v=flashcard-mode-reset-1';
+import {orderCurriculumLessons} from './src/curriculum-order.mjs?v=curriculum-order-1';
 
 const REVIEW_STORAGE_KEY='jp-study-flashcard-review-progress';
 const state={all:[],references:[],lessons:[],scopeDeck:[],deck:[],index:0,revealed:false,quickSeen:0,type:'all',direction:'ja-zh',year:null,lesson:null,orderMode:localStorage.getItem('jp-study-card-order-mode')==='random'?'random':'sequential',reviewFilter:'all',reviewProgress:normalizeReviewProgress(readJsonStorage(REVIEW_STORAGE_KEY,{})),view:'review',library:{query:'',years:[],lessons:[],types:[]}};
@@ -245,9 +246,11 @@ function initialiseFilters(){
 }
 function populateYearSelect(years){$('#year-select').innerHTML=years.map(year=>`<option value="${year}">Year ${year}</option>`).join('');$('#year-select').value=String(state.year);}
 function populateLessonSelect(preferred){
-  const lessons=sortedUnique(state.all.filter(item=>item.schoolYear===state.year).map(item=>item.lesson));
+  const entries=orderCurriculumLessons(state.lessons.filter(item=>item.schoolYear===state.year),state.year)
+    .filter(meta=>state.all.some(item=>item.schoolYear===meta.schoolYear&&item.book===meta.book&&item.lesson===meta.lesson))
+    .map(meta=>({lesson:meta.lesson,meta}));
+  const lessons=entries.map(entry=>entry.lesson);
   state.lesson=lessons.includes(preferred)?preferred:lessons[0];
-  const entries=lessons.map(lesson=>({lesson,meta:state.lessons.find(item=>item.schoolYear===state.year&&item.lesson===lesson)||state.all.find(item=>item.schoolYear===state.year&&item.lesson===lesson)}));
   const groups=entries.reduce((result,entry)=>{const book=entry.meta?.book||'教材';if(!result.has(book))result.set(book,[]);result.get(book).push(entry);return result;},new Map());
   const option=entry=>`<option value="${entry.lesson}">${compactLessonLayout.matches?`Lesson ${String(entry.lesson).padStart(2,'0')}`:`${escapeHtml(entry.meta?.book||'')} · Lesson ${String(entry.lesson).padStart(2,'0')}`}</option>`;
   $('#lesson-select').innerHTML=groups.size>1?[...groups].map(([book,items])=>`<optgroup label="${escapeHtml(book)}">${items.map(option).join('')}</optgroup>`).join(''):entries.map(option).join('');
