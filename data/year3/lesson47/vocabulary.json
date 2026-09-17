@@ -4,104 +4,112 @@
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 47,
-    "kana": "ふきます [かぜが～]",
-    "meaningZh": "刮 [風]",
+    "kana": "ふきます [かぜが～] |ます| / ふく[かぜが～] |辞|",
+    "meaningZh": "Ⅰ 自 刮 [風]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
-    }
+    },
+    "kanji": "吹きます [風が～] / 吹く[風が～]"
   },
   {
     "id": "y3-l47-v002",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 47,
-    "kana": "もえます [ごみが～]",
-    "meaningZh": "[垃圾] 燃燒",
+    "kana": "もえます [ごみが～] |ます| / もえる[ごみが～] |辞|",
+    "meaningZh": "Ⅱ 自 [垃圾] 燃燒",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
-    }
+    },
+    "kanji": "燃えます [ごみが～] / 燃える[ごみが～]"
   },
   {
     "id": "y3-l47-v003",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 47,
-    "kana": "なくなります",
-    "meaningZh": "去世（「死にます」的",
+    "kana": "なくなります |ます| / なくなる |辞|",
+    "meaningZh": "Ⅰ 自 去世（「死にます」的婉轉説法）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
-    }
+    },
+    "kanji": "亡くなります / 亡くなる"
   },
   {
     "id": "y3-l47-v004",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 47,
-    "kana": "あつまります",
-    "meaningZh": "聚集了 [很多人]",
+    "kana": "あつまります [ひとが～] |ます| / あつまる[ひとが～] |辞|",
+    "meaningZh": "Ⅰ 自 聚集了 [很多人]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
-    }
+    },
+    "kanji": "集まります [人が～] / 集まる[人が～]"
   },
   {
     "id": "y3-l47-v005",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 47,
-    "kana": "わかれます [ひとが～]",
-    "meaningZh": "[與人] 分手、分別",
+    "kana": "わかれます [ひとが～] |ます| / わかれる[ひとが～] |辞|",
+    "meaningZh": "Ⅱ 自 [與人] 分手、分別",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
-    }
+    },
+    "kanji": "別れます [人が～] / 別れる[人が～]"
   },
   {
     "id": "y3-l47-v006",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 47,
-    "kana": "します",
-    "meaningZh": "有 [聲音] 有 [味道] 有",
+    "kana": "します [おと／こえが～] [あじが～] [においが～] |ます| / する |辞|",
+    "meaningZh": "Ⅲ 自 有 [聲音] 有 [味道] 有 [氣味]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
-    }
+    },
+    "kanji": "[音／声が～] [味が～] する"
   },
   {
     "id": "y3-l47-v007",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 47,
-    "kana": "こんやくします",
-    "meaningZh": "訂婚",
+    "kana": "こんやくします |ます| / こんやくする |辞|",
+    "meaningZh": "Ⅲ 他 訂婚",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
-    }
+    },
+    "kanji": "婚約します / 婚約する"
   },
   {
     "id": "y3-l47-v008",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 47,
-    "kana": "しりあいます",
-    "meaningZh": "認識、結識",
+    "kana": "しりあいます |ます| / しりあう |辞|",
+    "meaningZh": "Ⅰ 他 認識、結識",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
-    }
+    },
+    "kanji": "知り合います / 知り合う"
   },
   {
     "id": "y3-l47-v009",
@@ -135,6 +143,20 @@
     "book": "初級 II",
     "lesson": 47,
     "kana": "じんこう 人口 人口",
+    "meaningZh": "氣味",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l47-v033",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "におい",
+    "kanji": "-",
     "meaningZh": "氣味",
     "category": "名詞",
     "source": {
@@ -364,6 +386,20 @@
     }
   },
   {
+    "id": "y3-l47-v034",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 47,
+    "kana": "じょせい",
+    "kanji": "女性",
+    "meaningZh": "女性",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch47.pdf.pdf"
+    }
+  },
+  {
     "id": "y3-l47-v029",
     "schoolYear": 3,
     "book": "初級 II",
@@ -416,4 +452,3 @@
     }
   }
 ]
-
