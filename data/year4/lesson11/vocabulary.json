@@ -4,9 +4,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ますます - 副詞 更加、越發",
-    "meaningZh": "副詞 更加、越發",
-    "category": "source_migrated",
+    "kana": "ますます",
+    "meaningZh": "更加、越發",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -17,9 +17,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "きぎょう 企業 名詞 企業",
-    "meaningZh": "2 きぎょう 企業 名詞 企業",
-    "category": "source_migrated",
+    "kana": "きぎょう",
+    "kanji": "企業",
+    "meaningZh": "企業",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -30,9 +31,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "こんご 今後 名詞 今後",
-    "meaningZh": "3 こんご 今後 名詞 今後",
-    "category": "source_migrated",
+    "kana": "こんご",
+    "kanji": "今後",
+    "meaningZh": "今後",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -43,9 +45,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ほうげん 方言 名詞 方言",
-    "meaningZh": "4 ほうげん 方言 名詞 方言",
-    "category": "source_migrated",
+    "kana": "ほうげん",
+    "kanji": "方言",
+    "meaningZh": "方言",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -56,9 +59,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ふきゅうする |辞|",
+    "kana": "ふきゅうする",
     "meaningZh": "普及",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -69,9 +72,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "たつ |辞|",
-    "meaningZh": "動詞 修起、建起",
-    "category": "source_migrated",
+    "kana": "たつ",
+    "meaningZh": "修起、建起",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -82,9 +85,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "だいかぞく 大家族 名詞 大家庭",
-    "meaningZh": "7 だいかぞく 大家族 名詞 大家庭",
-    "category": "source_migrated",
+    "kana": "だいかぞく",
+    "kanji": "大家族",
+    "meaningZh": "大家庭",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -95,9 +99,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "だい～ [～かぞく] 大～ [～家族] 接頭",
+    "kana": "だい～ ［～かぞく］ 大～ ［～家族］ 接頭",
     "meaningZh": "大～ [大家庭]",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -108,9 +112,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "パックツアー - 名詞 只包交通、住宿的",
-    "meaningZh": "名詞 只包交通、住宿的",
-    "category": "source_migrated",
+    "kana": "パックツアー",
+    "meaningZh": "只包交通、住宿的",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -121,9 +125,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "こじん 個人 名詞 個人",
-    "meaningZh": "10 こじん 個人 名詞 個人",
-    "category": "source_migrated",
+    "kana": "こじん",
+    "kanji": "個人",
+    "meaningZh": "個人",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -134,9 +139,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "いかにも - 副詞 顯然、分明",
-    "meaningZh": "副詞 顯然、分明",
-    "category": "source_migrated",
+    "kana": "いかにも",
+    "meaningZh": "顯然、分明",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -147,9 +152,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "にゅうがくしき 入学式 名詞 入學典禮",
-    "meaningZh": "12 にゅうがくしき 入学式 名詞 入學典禮",
-    "category": "source_migrated",
+    "kana": "にゅうがくしき",
+    "kanji": "入学式",
+    "meaningZh": "入學典禮",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -160,9 +166,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "はで [な] 派手 [な] な形",
+    "kana": "はで ［な］ 派手 ［な］ な形",
     "meaningZh": "華麗 [的]",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -173,9 +179,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "げんき 元気 名詞 精神、幹勁",
-    "meaningZh": "14 げんき 元気 名詞 精神、幹勁",
-    "category": "source_migrated",
+    "kana": "げんき",
+    "kanji": "元気",
+    "meaningZh": "精神、幹勁",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -186,9 +193,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "だす [げんきを～] |辞|",
+    "kana": "だす ［げんきを～］",
     "meaningZh": "打起 [打起精神]",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -199,9 +206,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "こうこく 広告 名詞 廣告",
-    "meaningZh": "16 こうこく 広告 名詞 廣告",
-    "category": "source_migrated",
+    "kana": "こうこく",
+    "kanji": "広告",
+    "meaningZh": "廣告",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -212,9 +220,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "びよういん 美容院 名詞 美容美髮店",
-    "meaningZh": "1 / 818 くるまいす 車いす 名詞 輪椅",
-    "category": "source_migrated",
+    "kana": "びよういん",
+    "kanji": "美容院",
+    "meaningZh": "美容美髮店",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -225,9 +234,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "きふする [びょういんに",
+    "kana": "きふする ［びょういんに",
     "meaningZh": "捐贈",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -238,9 +247,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "グレー - 名詞 灰色",
-    "meaningZh": "名詞 灰色",
-    "category": "source_migrated",
+    "kana": "グレー",
+    "meaningZh": "灰色",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -251,9 +260,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "じみ [な] 地味 [な] な形",
+    "kana": "じみ ［な］ 地味 ［な］ な形",
     "meaningZh": "樸素 [的]、素雅 [的]",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -264,9 +273,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "げんばく 原爆 名詞 原子彈",
-    "meaningZh": "原爆」的正式說法)",
-    "category": "source_migrated",
+    "kana": "げんばく",
+    "kanji": "原爆",
+    "meaningZh": "原子彈",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -277,9 +287,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ただひとつ - 名詞 唯一",
-    "meaningZh": "名詞 唯一",
-    "category": "source_migrated",
+    "kana": "ただひとつ",
+    "meaningZh": "唯一",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -290,9 +300,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "おそろしさ 恐ろしさ 名詞 可怕、恐怖",
-    "meaningZh": "24 おそろしさ 恐ろしさ 名詞 可怕、恐怖",
-    "category": "source_migrated",
+    "kana": "おそろしさ",
+    "kanji": "恐ろしさ",
+    "meaningZh": "可怕、恐怖",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -303,9 +314,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ダイナマイト - 名詞 黃色炸藥",
-    "meaningZh": "名詞 黃色炸藥",
-    "category": "source_migrated",
+    "kana": "ダイナマイト",
+    "meaningZh": "黃色炸藥",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -316,9 +327,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "じたく 自宅 名詞 自己的住宅",
-    "meaningZh": "26 じたく 自宅 名詞 自己的住宅",
-    "category": "source_migrated",
+    "kana": "じたく",
+    "kanji": "自宅",
+    "meaningZh": "自己的住宅",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -329,9 +341,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "あわてる |辞|",
+    "kana": "あわてる",
     "meaningZh": "- 動詞 II 自 慌張",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -342,9 +354,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "おちつく |辞|",
+    "kana": "おちつく",
     "meaningZh": "沉著、鎮靜",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -355,9 +367,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "こうどうする |辞|",
+    "kana": "こうどうする",
     "meaningZh": "行動",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -368,9 +380,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "のんびりする |辞|",
+    "kana": "のんびりする",
     "meaningZh": "悠閒自在",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -381,9 +393,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "シューズ - 名詞 鞋",
-    "meaningZh": "名詞 鞋",
-    "category": "source_migrated",
+    "kana": "シューズ",
+    "meaningZh": "鞋",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -394,9 +406,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "つながる [でんわが～]",
+    "kana": "つながる ［でんわが～］",
     "meaningZh": "接通 [接通電話]",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -407,9 +419,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "いせき 遺跡 名詞 遺跡、古跡",
-    "meaningZh": "33 いせき 遺跡 名詞 遺跡、古跡",
-    "category": "source_migrated",
+    "kana": "いせき",
+    "kanji": "遺跡",
+    "meaningZh": "遺跡、古跡",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -420,9 +433,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "はっくつ 発掘 名詞 發掘、挖掘",
-    "meaningZh": "34 はっくつ 発掘 名詞 發掘、挖掘",
-    "category": "source_migrated",
+    "kana": "はっくつ",
+    "kanji": "発掘",
+    "meaningZh": "發掘、挖掘",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -433,9 +447,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "これまでに - 接続",
+    "kana": "これまでに",
     "meaningZh": "接続",
-    "category": "source_migrated",
+    "category": "接続詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -446,9 +460,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "なんきょく 南極 名詞 南極",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
-    "category": "source_migrated",
+    "kana": "なんきょく",
+    "kanji": "南極",
+    "meaningZh": "南極",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -459,9 +474,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "せかいいさん 世界遺産 名詞 世界遺產",
-    "meaningZh": "38 せかいいさん 世界遺産 名詞 世界遺產",
-    "category": "source_migrated",
+    "kana": "せかいいさん",
+    "kanji": "世界遺産",
+    "meaningZh": "世界遺產",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -472,9 +488,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "かち 価値 名詞 價值",
-    "meaningZh": "39 かち 価値 名詞 價值",
-    "category": "source_migrated",
+    "kana": "かち",
+    "kanji": "価値",
+    "meaningZh": "價值",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -485,9 +502,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "やっぱり - 接続",
+    "kana": "やっぱり",
     "meaningZh": "接続",
-    "category": "source_migrated",
+    "category": "接続詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -498,9 +515,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "りゅうひょう 流氷 名詞 浮冰",
-    "meaningZh": "冰。)",
-    "category": "source_migrated",
+    "kana": "りゅうひょう",
+    "kanji": "流氷",
+    "meaningZh": "浮冰",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -511,9 +529,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "じゆうこうどう 自由行動 名詞 自由活動",
-    "meaningZh": "42 じゆうこうどう 自由行動 名詞 自由活動",
-    "category": "source_migrated",
+    "kana": "じゆうこうどう",
+    "kanji": "自由行動",
+    "meaningZh": "自由活動",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -524,9 +543,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ていあんする |辞|",
+    "kana": "ていあんする",
     "meaningZh": "提議、提出",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -539,7 +558,7 @@
     "lesson": 11,
     "kana": "かるく",
     "meaningZh": "[稍微地做一下操]",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -550,9 +569,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "のりもの 乗り物 名詞 交通工具",
-    "meaningZh": "45 のりもの 乗り物 名詞 交通工具",
-    "category": "source_migrated",
+    "kana": "のりもの",
+    "kanji": "乗り物",
+    "meaningZh": "交通工具",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -563,9 +583,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "よう [のりものに～]",
+    "kana": "よう ［のりものに～］",
     "meaningZh": "暈 [暈車船等]",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -576,9 +596,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "コメント - 名詞 建議、發言",
-    "meaningZh": "名詞 建議、發言",
-    "category": "source_migrated",
+    "kana": "コメント",
+    "meaningZh": "建議、發言",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -589,9 +609,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "さらに - 接続",
+    "kana": "さらに",
     "meaningZh": "接続",
-    "category": "source_migrated",
+    "category": "接続詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -602,9 +622,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "かそう 仮装 名詞 化裝 (舞會)",
-    "meaningZh": "49 かそう 仮装 名詞 化裝 (舞會)",
-    "category": "source_migrated",
+    "kana": "かそう",
+    "kanji": "仮装",
+    "meaningZh": "化裝 (舞會)",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -615,9 +636,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "そめる |辞|",
+    "kana": "そめる",
     "meaningZh": "染色",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -630,7 +651,7 @@
     "lesson": 11,
     "kana": "～っていうのはどうで",
     "meaningZh": "操怎麼樣。",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -643,7 +664,7 @@
     "lesson": 11,
     "kana": "それも悪くないですね",
     "meaningZh": "。",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -654,9 +675,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "それもそうですね。 - フレ",
+    "kana": "それもそうですね。",
     "meaningZh": "フレ",
-    "category": "source_migrated",
+    "category": "慣用表現",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -667,9 +688,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "けど、……。 - フレ",
+    "kana": "けど、……。",
     "meaningZh": "フレ",
-    "category": "source_migrated",
+    "category": "慣用表現",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -682,7 +703,7 @@
     "lesson": 11,
     "kana": "それも悪くないですけ",
     "meaningZh": "平仮名/片仮名 漢字 中譯",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -693,9 +714,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "おうごん 黄金 名詞 黃金",
-    "meaningZh": "56 おうごん 黄金 名詞 黃金",
-    "category": "source_migrated",
+    "kana": "おうごん",
+    "kanji": "黄金",
+    "meaningZh": "黃金",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -706,9 +728,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "でんせつ 伝説 名詞 傳說",
-    "meaningZh": "57 でんせつ 伝説 名詞 傳說",
-    "category": "source_migrated",
+    "kana": "でんせつ",
+    "kanji": "伝説",
+    "meaningZh": "傳說",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -719,9 +742,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "いくつか - 名詞 好幾個、多個",
-    "meaningZh": "名詞 好幾個、多個",
-    "category": "source_migrated",
+    "kana": "いくつか",
+    "meaningZh": "好幾個、多個",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -732,9 +755,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "やね 屋根 名詞 屋頂",
-    "meaningZh": "59 やね 屋根 名詞 屋頂",
-    "category": "source_migrated",
+    "kana": "やね",
+    "kanji": "屋根",
+    "meaningZh": "屋頂",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -745,9 +769,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "のうさくぶつ 農作物 名詞 農作物",
-    "meaningZh": "60 のうさくぶつ 農作物 名詞 農作物",
-    "category": "source_migrated",
+    "kana": "のうさくぶつ",
+    "kanji": "農作物",
+    "meaningZh": "農作物",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -758,9 +783,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "きんぎん 金銀 名詞 金銀",
-    "meaningZh": "61 きんぎん 金銀 名詞 金銀",
-    "category": "source_migrated",
+    "kana": "きんぎん",
+    "kanji": "金銀",
+    "meaningZh": "金銀",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -771,9 +797,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "おさめる |辞|",
+    "kana": "おさめる",
     "meaningZh": "治理",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -784,9 +810,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "てのひら 掌 名詞 手掌",
-    "meaningZh": "63 てのひら 掌 名詞 手掌",
-    "category": "source_migrated",
+    "kana": "てのひら",
+    "kanji": "掌",
+    "meaningZh": "手掌",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -797,9 +824,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "こうはん 後半 名詞 後半期",
-    "meaningZh": "64 こうはん 後半 名詞 後半期",
-    "category": "source_migrated",
+    "kana": "こうはん",
+    "kanji": "後半",
+    "meaningZh": "後半期",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -810,9 +838,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "くぎ - 名詞 釘",
-    "meaningZh": "名詞 釘",
-    "category": "source_migrated",
+    "kana": "くぎ",
+    "meaningZh": "釘",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -823,9 +851,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "むらびと 村人 名詞 村民",
-    "meaningZh": "66 むらびと 村人 名詞 村民",
-    "category": "source_migrated",
+    "kana": "むらびと",
+    "kanji": "村人",
+    "meaningZh": "村民",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -836,9 +865,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "かける [ひようを～]",
+    "kana": "かける ［ひようを～］",
     "meaningZh": "花費 [花錢]",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -849,9 +878,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "むき 向き 名詞 朝向、(風)向",
-    "meaningZh": "4 / 869 ていこう 抵抗 名詞 阻力",
-    "category": "source_migrated",
+    "kana": "むき",
+    "kanji": "向き",
+    "meaningZh": "朝向、(風)向",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -862,9 +892,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "～そう ～層 名詞 ～層",
-    "meaningZh": "70 ～そう ～層 名詞 ～層",
-    "category": "source_migrated",
+    "kana": "～そう ～",
+    "kanji": "層",
+    "meaningZh": "～層",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -875,9 +906,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "かいこ 蚕 名詞 蠶",
-    "meaningZh": "71 かいこ 蚕 名詞 蠶",
-    "category": "source_migrated",
+    "kana": "かいこ",
+    "kanji": "蚕",
+    "meaningZh": "蠶",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -888,9 +920,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "かやく 火薬 名詞 火藥",
-    "meaningZh": "72 かやく 火薬 名詞 火藥",
-    "category": "source_migrated",
+    "kana": "かやく",
+    "kanji": "火薬",
+    "meaningZh": "火藥",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -901,9 +934,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "せいぞうする |辞|",
+    "kana": "せいぞうする",
     "meaningZh": "製造、生產",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -914,9 +947,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "おくる [せいかつを～]",
+    "kana": "おくる ［せいかつを～］",
     "meaningZh": "過、度過 [過日子]",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -927,9 +960,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "かないさんぎょう 家内産業 名詞 家庭作坊、個體經",
-    "meaningZh": "營",
-    "category": "source_migrated",
+    "kana": "かないさんぎょう",
+    "kanji": "家内産業",
+    "meaningZh": "家庭作坊、個體經",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -940,9 +974,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ねんぐ 年貢 名詞 地租",
-    "meaningZh": "76 ねんぐ 年貢 名詞 地租",
-    "category": "source_migrated",
+    "kana": "ねんぐ",
+    "kanji": "年貢",
+    "meaningZh": "地租",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -953,9 +988,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "きたいする |辞|",
+    "kana": "きたいする",
     "meaningZh": "指望、期待",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -966,9 +1001,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ち 地 名詞 地方、(當)地",
-    "meaningZh": "78 ち 地 名詞 地方、(當)地",
-    "category": "source_migrated",
+    "kana": "ち",
+    "kanji": "地",
+    "meaningZh": "地方、(當)地",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -979,9 +1015,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ぜんはん 前半 名詞 前半期",
-    "meaningZh": "79 ぜんはん 前半 名詞 前半期",
-    "category": "source_migrated",
+    "kana": "ぜんはん",
+    "kanji": "前半",
+    "meaningZh": "前半期",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -992,9 +1029,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "やってくる |辞|",
+    "kana": "やってくる",
     "meaningZh": "- 動詞 III 自 來到、趕來",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1005,9 +1042,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "すみつく |辞|",
+    "kana": "すみつく",
     "meaningZh": "定居",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1018,9 +1055,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "いちぞく 一族 名詞 同族、家族",
-    "meaningZh": "82 いちぞく 一族 名詞 同族、家族",
-    "category": "source_migrated",
+    "kana": "いちぞく",
+    "kanji": "一族",
+    "meaningZh": "同族、家族",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1033,7 +1071,7 @@
     "lesson": 11,
     "kana": "～じょう",
     "meaningZh": "～城 [帰雲～] 名詞 ～城 [歸雲城]",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1044,9 +1082,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "しろ 城 名詞 城堡",
-    "meaningZh": "84 しろ 城 名詞 城堡",
-    "category": "source_migrated",
+    "kana": "しろ",
+    "kanji": "城",
+    "meaningZh": "城堡",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1057,9 +1096,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ほりあてる |辞|",
+    "kana": "ほりあてる",
     "meaningZh": "挖到",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1070,9 +1109,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "けんりょくしゃ 権力者 名詞 當權者",
-    "meaningZh": "86 けんりょくしゃ 権力者 名詞 當權者",
-    "category": "source_migrated",
+    "kana": "けんりょくしゃ",
+    "kanji": "権力者",
+    "meaningZh": "當權者",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1083,9 +1123,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ききん 飢きん 名詞 飢荒、饑饉",
-    "meaningZh": "87 ききん 飢きん 名詞 飢荒、饑饉",
-    "category": "source_migrated",
+    "kana": "ききん",
+    "kanji": "飢きん",
+    "meaningZh": "飢荒、饑饉",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1096,9 +1137,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "～けん ～軒 名詞 ～棟(房屋)",
-    "meaningZh": "5 / 8千人)",
-    "category": "source_migrated",
+    "kana": "～けん ～",
+    "kanji": "軒",
+    "meaningZh": "～棟(房屋)",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1109,9 +1151,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ひとりのこらず 一人残らず 副詞 一個人都不剩",
-    "meaningZh": "90 ひとりのこらず 一人残らず 副詞 一個人都不剩",
-    "category": "source_migrated",
+    "kana": "ひとりのこらず",
+    "kanji": "一人残らず",
+    "meaningZh": "一個人都不剩",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1122,9 +1165,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "きえる |辞|",
+    "kana": "きえる",
     "meaningZh": "消失",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1135,9 +1178,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ほかんする |辞|",
+    "kana": "ほかんする",
     "meaningZh": "存放、保管",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1148,9 +1191,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ちょう 兆 名詞 兆",
-    "meaningZh": "93 ちょう 兆 名詞 兆",
-    "category": "source_migrated",
+    "kana": "ちょう",
+    "kanji": "兆",
+    "meaningZh": "兆",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1161,9 +1205,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "わける |辞|",
+    "kana": "わける",
     "meaningZh": "分隔、分開 [分隔成",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1174,9 +1218,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "つもる [ゆきが～] |辞|",
+    "kana": "つもる ［ゆきが～］",
     "meaningZh": "堆積 [積雪]",
-    "category": "source_migrated",
+    "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1187,9 +1231,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "きこう 気候 名詞 天氣、氣候",
-    "meaningZh": "96 きこう 気候 名詞 天氣、氣候",
-    "category": "source_migrated",
+    "kana": "きこう",
+    "kanji": "気候",
+    "meaningZh": "天氣、氣候",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1200,9 +1245,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "かんこうあんない 観光案内 名詞 導遊",
-    "meaningZh": "97 かんこうあんない 観光案内 名詞 導遊",
-    "category": "source_migrated",
+    "kana": "かんこうあんない",
+    "kanji": "観光案内",
+    "meaningZh": "導遊",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1213,9 +1259,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "かんこうち 観光地 名詞 旅遊點、景點",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
-    "category": "source_migrated",
+    "kana": "かんこうち",
+    "kanji": "観光地",
+    "meaningZh": "旅遊點、景點",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1226,9 +1273,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ノーベル - 固有",
+    "kana": "ノーベル",
     "meaningZh": "固有",
-    "category": "source_migrated",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1239,9 +1286,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "モーツァルト - 固有",
+    "kana": "モーツァルト",
     "meaningZh": "固有",
-    "category": "source_migrated",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1254,7 +1301,7 @@
     "lesson": 11,
     "kana": "しゅりじょう 首里城 固有",
     "meaningZh": "王朝的城堡。",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1267,7 +1314,7 @@
     "lesson": 11,
     "kana": "ゆきまつり 雪祭り 固有",
     "meaningZh": "名。",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1280,7 +1327,7 @@
     "lesson": 11,
     "kana": "しらかわごう 白川郷 固有",
     "meaningZh": "頂的大屋裡。",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1293,7 +1340,7 @@
     "lesson": 11,
     "kana": "しらかみさんち 白神山地 固有",
     "meaningZh": "始森林。",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1306,7 +1353,7 @@
     "lesson": 11,
     "kana": "いつくしまじんじゃ 厳島神社 固有",
     "meaningZh": "國寶級文物。",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1319,7 +1366,7 @@
     "lesson": 11,
     "kana": "やくしま 屋久島 固有",
     "meaningZh": "杉」的自然林。",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1332,7 +1379,7 @@
     "lesson": 11,
     "kana": "しれとこ 知床 固有",
     "meaningZh": "為斷崖絕壁。",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1345,7 +1392,7 @@
     "lesson": 11,
     "kana": "げんばくドーム 原爆ドーム 固有",
     "meaningZh": "禍的象徵。",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1358,7 +1405,7 @@
     "lesson": 11,
     "kana": "がっしょうづくり 合掌造り 固有",
     "meaningZh": "。",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1371,7 +1418,7 @@
     "lesson": 11,
     "kana": "えどじだい 江戸時代 固有",
     "meaningZh": "京)而得名。",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1384,7 +1431,7 @@
     "lesson": 11,
     "kana": "うちがしまためうじ 内ヶ嶋為氏 固有",
     "meaningZh": "修建了歸雲城。",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1397,7 +1444,7 @@
     "lesson": 11,
     "kana": "かえりくもじょう 帰雲城 固有",
     "meaningZh": "天正大地震。",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
@@ -1410,11 +1457,10 @@
     "lesson": 11,
     "kana": "おだのぶなが 織田信長 固有",
     "meaningZh": "8 / 8",
-    "category": "source_migrated",
+    "category": "詞彙",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
     }
   }
 ]
-
