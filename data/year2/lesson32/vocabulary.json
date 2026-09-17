@@ -4,769 +4,824 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "うんどうします",
-    "meaningZh": "辞|\n運動します\n運動する\nⅢ 自\n／\n他\n運動",
+    "kana": "うんどうします |ます| / うんどうする |辞|",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "うんどうします |ます|\nうんどうする |辞|\n運動します\n運動する\nⅢ 自\n／\n他\n運動"
+    "sourceText": "うんどうします |ます|\nうんどうする |辞|\n運動します\n運動する\nⅢ 自\n／\n他\n運動",
+    "kanji": "運動します / 運動する",
+    "meaningZh": "Ⅲ 自／他 運動"
   },
   {
     "id": "y2-l32-v002",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "せいこうします",
-    "meaningZh": "辞|\n成功します\n成功する\nⅢ 自 成功",
+    "kana": "せいこうします |ます| / せいこうする |辞|",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "せいこうします |ます|\nせいこうする |辞|\n成功します\n成功する\nⅢ 自 成功"
+    "sourceText": "せいこうします |ます|\nせいこうする |辞|\n成功します\n成功する\nⅢ 自 成功",
+    "kanji": "成功します / 成功する",
+    "meaningZh": "Ⅲ 自 成功"
   },
   {
     "id": "y2-l32-v003",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "しっぱいします",
-    "meaningZh": "辞|\n失敗します [試験に～]\n失敗する[試験に～]\nⅢ 自 失敗",
+    "kana": "しっぱいします [しけんに～] |ます| / しっぱいする[しけんに～] |辞|",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "しっぱいします\n[しけんに～] |ます|\nしっぱいする[しけんに\n～] |辞|\n失敗します [試験に～]\n失敗する[試験に～]\nⅢ 自 失敗"
+    "sourceText": "しっぱいします\n[しけんに～] |ます|\nしっぱいする[しけんに\n～] |辞|\n失敗します [試験に～]\n失敗する[試験に～]\nⅢ 自 失敗",
+    "kanji": "失敗します [試験に～] / 失敗する[試験に～]",
+    "meaningZh": "Ⅲ 自 失敗"
   },
   {
     "id": "y2-l32-v004",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "ごうかくします",
-    "meaningZh": "辞|\n合格します [試験に～]\n合格する[試験に～]\nⅢ 自 [考試] 合格、及格",
+    "kana": "ごうかくします [しけんに～」 |ます| / ごうかくする[しけんに～」 |辞|",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "ごうかくします\n[しけんに～」 |ます|\nごうかくする[しけんに\n～」 |辞|\n合格します [試験に～]\n合格する[試験に～]\nⅢ 自 [考試] 合格、及格"
+    "sourceText": "ごうかくします\n[しけんに～」 |ます|\nごうかくする[しけんに\n～」 |辞|\n合格します [試験に～]\n合格する[試験に～]\nⅢ 自 [考試] 合格、及格",
+    "kanji": "合格します [試験に～] / 合格する[試験に～]",
+    "meaningZh": "Ⅲ 自 [考試] 合格、及格"
   },
   {
     "id": "y2-l32-v005",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "やみます [あめが～]",
-    "meaningZh": "辞|\nやみます [雨が～]\nやむ[雨が～]\nⅠ 自 [雨] 停了",
+    "kana": "やみます [あめが～] |ます| / やむ[あめが～] |辞|",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "やみます [あめが～]\n|ます|\nやむ[あめが～] |辞|\nやみます [雨が～]\nやむ[雨が～]\nⅠ 自 [雨] 停了"
+    "sourceText": "やみます [あめが～]\n|ます|\nやむ[あめが～] |辞|\nやみます [雨が～]\nやむ[雨が～]\nⅠ 自 [雨] 停了",
+    "kanji": "やみます [雨が～] / やむ[雨が～]",
+    "meaningZh": "Ⅰ 自 [雨] 停了"
   },
   {
     "id": "y2-l32-v006",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "はれます",
-    "meaningZh": "辞|\n晴れます\n晴れる\nⅡ 自 晴 [天]",
+    "kana": "はれます |ます| / はれる |辞|",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "はれます |ます|\nはれる |辞|\n晴れます\n晴れる\nⅡ 自 晴 [天]"
+    "sourceText": "はれます |ます|\nはれる |辞|\n晴れます\n晴れる\nⅡ 自 晴 [天]",
+    "kanji": "晴れます / 晴れる",
+    "meaningZh": "Ⅱ 自 晴 [天]"
   },
   {
     "id": "y2-l32-v007",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "くもります",
-    "meaningZh": "辞|\n曇ります\n曇る\nⅠ 自 陰 [天]",
+    "kana": "くもります |ます| / くもる |辞|",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "くもります |ます|\nくもる |辞|\n曇ります\n曇る\nⅠ 自 陰 [天]"
+    "sourceText": "くもります |ます|\nくもる |辞|\n曇ります\n曇る\nⅠ 自 陰 [天]",
+    "kanji": "曇ります / 曇る",
+    "meaningZh": "Ⅰ 自 陰 [天]"
   },
   {
     "id": "y2-l32-v008",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "つづきます [ねつが～]",
-    "meaningZh": "辞|\n続きます [熱が～]\n続く[熱が～]\nⅠ 自 持續 [發燒]",
+    "kana": "つづきます [ねつが～] |ます| / つづく[ねつが～] |辞|",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "つづきます [ねつが～]\n|ます|\nつづく[ねつが～] |辞|\n続きます [熱が～]\n続く[熱が～]\nⅠ 自 持續 [發燒]"
+    "sourceText": "つづきます [ねつが～]\n|ます|\nつづく[ねつが～] |辞|\n続きます [熱が～]\n続く[熱が～]\nⅠ 自 持續 [發燒]",
+    "kanji": "続きます [熱が～] / 続く[熱が～]",
+    "meaningZh": "Ⅰ 自 持續 [發燒]"
   },
   {
     "id": "y2-l32-v009",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "ひきます [かぜを～]",
-    "meaningZh": "辞|\n- Ⅰ 他 患 [感冒]",
+    "kana": "ひきます [かぜを～] |ます| / ひく[かぜを～] |辞|",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "ひきます [かぜを～]\n|ます|\nひく[かぜを～] |辞|\n- Ⅰ 他 患 [感冒]"
+    "sourceText": "ひきます [かぜを～]\n|ます|\nひく[かぜを～] |辞|\n- Ⅰ 他 患 [感冒]",
+    "kanji": "-",
+    "meaningZh": "Ⅰ 他 患 [感冒]"
   },
   {
     "id": "y2-l32-v010",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "ひやします",
-    "meaningZh": "辞|\n冷やします\n冷やす\nⅠ 他 使…涼下來",
+    "kana": "ひやします |ます| / ひやす |辞|",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "ひやします |ます|\nひやす |辞|\n冷やします\n冷やす\nⅠ 他 使…涼下來"
+    "sourceText": "ひやします |ます|\nひやす |辞|\n冷やします\n冷やす\nⅠ 他 使…涼下來",
+    "kanji": "冷やします / 冷やす",
+    "meaningZh": "Ⅰ 他 使…涼下來"
   },
   {
     "id": "y2-l32-v011",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "こみます [みちが～]",
-    "meaningZh": "辞|\n込みます [道が～]\n込む[道が～]\nⅠ 自 [道路] 擁擠",
+    "kana": "こみます [みちが～] |ます| / こむ[みちが～] |辞|",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "こみます [みちが～]\n|ます|\nこむ[みちが～] |辞|\n込みます [道が～]\n込む[道が～]\nⅠ 自 [道路] 擁擠"
+    "sourceText": "こみます [みちが～]\n|ます|\nこむ[みちが～] |辞|\n込みます [道が～]\n込む[道が～]\nⅠ 自 [道路] 擁擠",
+    "kanji": "込みます [道が～] / 込む[道が～]",
+    "meaningZh": "Ⅰ 自 [道路] 擁擠"
   },
   {
     "id": "y2-l32-v012",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "すきます [みちが～]",
-    "meaningZh": "辞|\nすきます [道が～]\nすく[道が～]\nⅠ 自 [道路] 不擁擠 （｢地下鉄\nが～｣:地鐵裏人少）",
+    "kana": "すきます [みちが～] |ます| / すく[みちが～] |辞|",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "すきます [みちが～]\n|ます|\nすく[みちが～] |辞|\nすきます [道が～]\nすく[道が～]\nⅠ 自 [道路] 不擁擠 （｢地下鉄\nが～｣:地鐵裏人少）"
+    "sourceText": "すきます [みちが～]\n|ます|\nすく[みちが～] |辞|\nすきます [道が～]\nすく[道が～]\nⅠ 自 [道路] 不擁擠 （｢地下鉄\nが～｣:地鐵裏人少）",
+    "kanji": "すきます [道が～] / すく[道が～]",
+    "meaningZh": "Ⅰ 自 [道路] 不擁擠 （｢地下鉄が～｣:地鐵裏人少）"
   },
   {
     "id": "y2-l32-v013",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "でます [しあいに～]",
-    "meaningZh": "辞|\n出ます [試合に～]\n出る[試合に～]\nⅡ 自 參加 [比賽]",
+    "kana": "でます [しあいに～] |ます| / でる[しあいに～] |辞|",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "でます [しあいに～]\n|ます|\nでる[しあいに～] |辞|\n出ます [試合に～]\n出る[試合に～]\nⅡ 自 參加 [比賽]"
+    "sourceText": "でます [しあいに～]\n|ます|\nでる[しあいに～] |辞|\n出ます [試合に～]\n出る[試合に～]\nⅡ 自 參加 [比賽]",
+    "kanji": "出ます [試合に～] / 出る[試合に～]",
+    "meaningZh": "Ⅱ 自 參加 [比賽]"
   },
   {
     "id": "y2-l32-v014",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "むりをします",
-    "meaningZh": "辞|\n無理をします\n無理をする\nⅢ 他 勉強\n名詞\n平仮名/片仮名 漢字 中譯",
+    "kana": "むりをします |ます| / むりをする |辞|",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "むりをします |ます|\nむりをする |辞|\n無理をします\n無理をする\nⅢ 他 勉強\n名詞\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "むりをします |ます| / むりをする |辞| 無理をします / 無理をする Ⅲ 他 勉強",
+    "kanji": "無理をします / 無理をする",
+    "meaningZh": "Ⅲ 他 勉強"
   },
   {
     "id": "y2-l32-v015",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "せんせい 先生 大夫、醫生",
-    "meaningZh": "せんせい 先生 大夫、醫生",
+    "kana": "せんせい",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "せんせい 先生 大夫、醫生"
+    "sourceText": "せんせい 先生 大夫、醫生",
+    "kanji": "先生",
+    "meaningZh": "大夫、醫生"
   },
   {
     "id": "y2-l32-v016",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "やけど - 燙傷、燒傷（～をします）",
-    "meaningZh": "やけど - 燙傷、燒傷（～をします）",
+    "kana": "やけど",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "やけど - 燙傷、燒傷（～をします）"
+    "sourceText": "やけど - 燙傷、燒傷（～をします）",
+    "kanji": "-",
+    "meaningZh": "燙傷、燒傷（～をします）"
   },
   {
     "id": "y2-l32-v017",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "けが - 受傷（～をします）",
-    "meaningZh": "けが - 受傷（～をします）",
+    "kana": "けが",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "けが - 受傷（～をします）"
+    "sourceText": "けが - 受傷（～をします）",
+    "kanji": "-",
+    "meaningZh": "受傷（～をします）"
   },
   {
     "id": "y2-l32-v018",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "せき - 咳嗽（～をします／～がで",
-    "meaningZh": "ます）",
+    "kana": "せき",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "せき - 咳嗽（～をします／～がで\nます）"
+    "sourceText": "せき - 咳嗽（～をします／～がで\nます）",
+    "kanji": "-",
+    "meaningZh": "咳嗽（～をします／～がでます）"
   },
   {
     "id": "y2-l32-v019",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "い 胃 胃",
-    "meaningZh": "い 胃 胃",
+    "kana": "い",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "い 胃 胃"
+    "sourceText": "い 胃 胃",
+    "kanji": "胃",
+    "meaningZh": "胃"
   },
   {
     "id": "y2-l32-v020",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "インフルエンザ - 流感",
-    "meaningZh": "インフルエンザ - 流感",
+    "kana": "インフルエンザ",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "インフルエンザ - 流感"
+    "sourceText": "インフルエンザ - 流感",
+    "kanji": "-",
+    "meaningZh": "流感"
   },
   {
     "id": "y2-l32-v021",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "ストレス - （精神上的）壓力、緊張",
-    "meaningZh": "ストレス - （精神上的）壓力、緊張",
+    "kana": "ストレス",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "ストレス - （精神上的）壓力、緊張"
+    "sourceText": "ストレス - （精神上的）壓力、緊張",
+    "kanji": "-",
+    "meaningZh": "（精神上的）壓力、緊張"
   },
   {
     "id": "y2-l32-v022",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "そら 空 天空",
-    "meaningZh": "そら 空 天空",
+    "kana": "そら",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "そら 空 天空"
+    "sourceText": "そら 空 天空",
+    "kanji": "空",
+    "meaningZh": "天空"
   },
   {
     "id": "y2-l32-v023",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "たいよう 太陽 太陽",
-    "meaningZh": "たいよう 太陽 太陽",
+    "kana": "たいよう",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "たいよう 太陽 太陽"
+    "sourceText": "たいよう 太陽 太陽",
+    "kanji": "太陽",
+    "meaningZh": "太陽"
   },
   {
     "id": "y2-l32-v024",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "ほし 星 星星",
-    "meaningZh": "ほし 星 星星",
+    "kana": "ほし",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "ほし 星 星星"
+    "sourceText": "ほし 星 星星",
+    "kanji": "星",
+    "meaningZh": "星星"
   },
   {
     "id": "y2-l32-v025",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "かぜ 風 風",
-    "meaningZh": "かぜ 風 風",
+    "kana": "かぜ",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "かぜ 風 風"
+    "sourceText": "かぜ 風 風",
+    "kanji": "風",
+    "meaningZh": "風"
   },
   {
     "id": "y2-l32-v026",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "ひがし 東 東",
-    "meaningZh": "ひがし 東 東",
+    "kana": "ひがし",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "ひがし 東 東"
+    "sourceText": "ひがし 東 東",
+    "kanji": "東",
+    "meaningZh": "東"
   },
   {
     "id": "y2-l32-v027",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "にし 西 西",
-    "meaningZh": "にし 西 西",
+    "kana": "にし",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "にし 西 西"
+    "sourceText": "にし 西 西",
+    "kanji": "西",
+    "meaningZh": "西"
   },
   {
     "id": "y2-l32-v028",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "みなみ 南 南",
-    "meaningZh": "みなみ 南 南",
+    "kana": "みなみ",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "みなみ 南 南"
+    "sourceText": "みなみ 南 南",
+    "kanji": "南",
+    "meaningZh": "南"
   },
   {
     "id": "y2-l32-v029",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "きた 北 北",
-    "meaningZh": "きた 北 北",
+    "kana": "きた",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "きた 北 北"
+    "sourceText": "きた 北 北",
+    "kanji": "北",
+    "meaningZh": "北"
   },
   {
     "id": "y2-l32-v030",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "こくさい～ 国際～ 國際～",
-    "meaningZh": "こくさい～ 国際～ 國際～",
+    "kana": "こくさい～",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "こくさい～ 国際～ 國際～"
+    "sourceText": "こくさい～ 国際～ 國際～",
+    "kanji": "国際～",
+    "meaningZh": "國際～"
   },
   {
     "id": "y2-l32-v031",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "すいどう 水道 自來水、自來水管",
-    "meaningZh": "すいどう 水道 自來水、自來水管",
+    "kana": "すいどう",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "すいどう 水道 自來水、自來水管"
+    "sourceText": "すいどう 水道 自來水、自來水管",
+    "kanji": "水道",
+    "meaningZh": "自來水、自來水管"
   },
   {
     "id": "y2-l32-v032",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "エンジン - 發動機、馬達",
-    "meaningZh": "エンジン - 發動機、馬達",
+    "kana": "エンジン",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "エンジン - 發動機、馬達"
+    "sourceText": "エンジン - 發動機、馬達",
+    "kanji": "-",
+    "meaningZh": "發動機、馬達"
   },
   {
     "id": "y2-l32-v033",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "チーム - 隊、團隊",
-    "meaningZh": "チーム - 隊、團隊",
+    "kana": "チーム",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "チーム - 隊、團隊"
+    "sourceText": "チーム - 隊、團隊",
+    "kanji": "-",
+    "meaningZh": "隊、團隊"
   },
   {
     "id": "y2-l32-v034",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "こんや 今夜 今晚",
-    "meaningZh": "こんや 今夜 今晚",
+    "kana": "こんや",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "こんや 今夜 今晚"
+    "sourceText": "こんや 今夜 今晚",
+    "kanji": "今夜",
+    "meaningZh": "今晚"
   },
   {
     "id": "y2-l32-v035",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "ゆうがた 夕方 黃昏、傍晚",
-    "meaningZh": "ゆうがた 夕方 黃昏、傍晚",
+    "kana": "ゆうがた",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "ゆうがた 夕方 黃昏、傍晚"
+    "sourceText": "ゆうがた 夕方 黃昏、傍晚",
+    "kanji": "夕方",
+    "meaningZh": "黃昏、傍晚"
   },
   {
     "id": "y2-l32-v036",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "まえ - 以前、之前",
-    "meaningZh": "まえ - 以前、之前",
+    "kana": "まえ",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "まえ - 以前、之前"
+    "sourceText": "まえ - 以前、之前",
+    "kanji": "-",
+    "meaningZh": "以前、之前"
   },
   {
     "id": "y2-l32-v037",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "おそく 遅く 晚（時間晚）",
-    "meaningZh": "おそく 遅く 晚（時間晚）",
+    "kana": "おそく",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "おそく 遅く 晚（時間晚）"
+    "sourceText": "おそく 遅く 晚（時間晚）",
+    "kanji": "遅く",
+    "meaningZh": "晚（時間晚）"
   },
   {
     "id": "y2-l32-v038",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "げんき 元気 精神、健康",
-    "meaningZh": "形容詞\n平仮名/片仮名 漢字 中譯",
+    "kana": "げんき",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "げんき 元気 精神、健康\nい形容詞\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "げんき 元気 精神、健康",
+    "kanji": "元気",
+    "meaningZh": "精神、健康"
   },
   {
     "id": "y2-l32-v039",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "おかしい - 奇怪的、可笑的",
-    "meaningZh": "おかしい - 奇怪的、可笑的",
+    "kana": "おかしい",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "おかしい - 奇怪的、可笑的"
+    "sourceText": "おかしい - 奇怪的、可笑的",
+    "kanji": "-",
+    "meaningZh": "奇怪的、可笑的"
   },
   {
     "id": "y2-l32-v040",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "うるさい - 吵鬧的、煩人的",
-    "meaningZh": "形容詞\n平仮名/片仮名 漢字 中譯",
+    "kana": "うるさい",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "うるさい - 吵鬧的、煩人的\nな形容詞\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "うるさい - 吵鬧的、煩人的",
+    "kanji": "-",
+    "meaningZh": "吵鬧的、煩人的"
   },
   {
     "id": "y2-l32-v041",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "じゅうぶん [な] 十分 [な] 足夠、充分",
-    "meaningZh": "副詞\n平仮名/片仮名 漢字 中譯",
+    "kana": "じゅうぶん [な]",
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "じゅうぶん [な] 十分 [な] 足夠、充分\n副詞\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "じゅうぶん [な] 十分 [な] 足夠、充分",
+    "kanji": "十分 [な]",
+    "meaningZh": "足夠、充分"
   },
   {
     "id": "y2-l32-v042",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "こんなに - 這麽（程度相當厲害）",
-    "meaningZh": "こんなに - 這麽（程度相當厲害）",
+    "kana": "こんなに",
     "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "こんなに - 這麽（程度相當厲害）"
+    "sourceText": "こんなに - 這麽（程度相當厲害）",
+    "kanji": "-",
+    "meaningZh": "這麽（程度相當厲害）"
   },
   {
     "id": "y2-l32-v043",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "そんなに - 那麽（與聽話人有關的事，",
-    "meaningZh": "程度相當厲害）",
+    "kana": "そんなに",
     "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "そんなに - 那麽（與聽話人有關的事，\n程度相當厲害）"
+    "sourceText": "そんなに - 那麽（與聽話人有關的事，\n程度相當厲害）",
+    "kanji": "-",
+    "meaningZh": "那麽（與聽話人有關的事，程度相當厲害）"
   },
   {
     "id": "y2-l32-v044",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "あんなに - 那麽（與説話人，聽話人都",
-    "meaningZh": "無關的事，程度相當厲害）\n其他\n平仮名/片仮名 漢字 中譯",
+    "kana": "あんなに",
     "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "あんなに - 那麽（與説話人，聽話人都\n無關的事，程度相當厲害）\n其他\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "あんなに - 那麽（與説話人，聽話人都無關的事，程度相當厲害）",
+    "kanji": "-",
+    "meaningZh": "那麽（與説話人，聽話人都無關的事，程度相當厲害）"
   },
   {
     "id": "y2-l32-v045",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "それはいけませんね。 - 那可不行啊。那可不太好啊",
-    "meaningZh": "読み物\n平仮名/片仮名 漢字 中譯",
+    "kana": "それはいけませんね。",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "それはいけませんね。 - 那可不行啊。那可不太好啊\n。\n読み物\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "それはいけませんね。 - 那可不行啊。那可不太好啊。",
+    "kanji": "-",
+    "meaningZh": "那可不行啊。那可不太好啊。"
   },
   {
     "id": "y2-l32-v046",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "ほしうらない 星占い 佔星朮、星相",
-    "meaningZh": "ほしうらない 星占い 佔星朮、星相",
+    "kana": "ほしうらない",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "ほしうらない 星占い 佔星朮、星相"
+    "sourceText": "ほしうらない 星占い 佔星朮、星相",
+    "kanji": "星占い",
+    "meaningZh": "佔星朮、星相"
   },
   {
     "id": "y2-l32-v047",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "おうしざ 牡牛座 牧牛座",
-    "meaningZh": "おうしざ 牡牛座 牧牛座",
+    "kana": "おうしざ",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "おうしざ 牡牛座 牧牛座"
+    "sourceText": "おうしざ 牡牛座 牧牛座",
+    "kanji": "牡牛座",
+    "meaningZh": "牧牛座"
   },
   {
     "id": "y2-l32-v048",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "はたらきすぎ 働きすぎ 工作過度",
-    "meaningZh": "はたらきすぎ 働きすぎ 工作過度",
+    "kana": "はたらきすぎ",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "はたらきすぎ 働きすぎ 工作過度"
+    "sourceText": "はたらきすぎ 働きすぎ 工作過度",
+    "kanji": "働きすぎ",
+    "meaningZh": "工作過度"
   },
   {
     "id": "y2-l32-v049",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "こまります 困ります 爲難、困惑",
-    "meaningZh": "こまります 困ります 爲難、困惑",
+    "kana": "こまります",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "こまります 困ります 爲難、困惑"
+    "sourceText": "こまります 困ります 爲難、困惑",
+    "kanji": "困ります",
+    "meaningZh": "爲難、困惑"
   },
   {
     "id": "y2-l32-v050",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "たからくじ 宝くじ 彩票",
-    "meaningZh": "たからくじ 宝くじ 彩票",
+    "kana": "たからくじ",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "たからくじ 宝くじ 彩票"
+    "sourceText": "たからくじ 宝くじ 彩票",
+    "kanji": "宝くじ",
+    "meaningZh": "彩票"
   },
   {
     "id": "y2-l32-v051",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "あたります",
-    "meaningZh": "当たります [宝くじが～] 中 [彩票]",
+    "kana": "あたります [たからくじが～]",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "あたります\n[たからくじが～]\n当たります [宝くじが～] 中 [彩票]"
+    "sourceText": "あたります\n[たからくじが～]\n当たります [宝くじが～] 中 [彩票]",
+    "kanji": "当たります [宝くじが～]",
+    "meaningZh": "中 [彩票]"
   },
   {
     "id": "y2-l32-v052",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "けんこう 健康 健康",
-    "meaningZh": "けんこう 健康 健康",
+    "kana": "けんこう",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "けんこう 健康 健康"
+    "sourceText": "けんこう 健康 健康",
+    "kanji": "健康",
+    "meaningZh": "健康"
   },
   {
     "id": "y2-l32-v053",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "れんあい 恋愛 戀愛",
-    "meaningZh": "れんあい 恋愛 戀愛",
+    "kana": "れんあい",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "れんあい 恋愛 戀愛"
+    "sourceText": "れんあい 恋愛 戀愛",
+    "kanji": "恋愛",
+    "meaningZh": "戀愛"
   },
   {
     "id": "y2-l32-v054",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "ラッキーアイテム - 吉祥物",
-    "meaningZh": "ラッキーアイテム - 吉祥物",
+    "kana": "ラッキーアイテム",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "ラッキーアイテム - 吉祥物"
+    "sourceText": "ラッキーアイテム - 吉祥物",
+    "kanji": "-",
+    "meaningZh": "吉祥物"
   },
   {
     "id": "y2-l32-v055",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 32,
-    "kana": "いし 石 石頭",
-    "meaningZh": "いし 石 石頭",
+    "kana": "いし",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch32.pdf.pdf"
     },
-    "sourceText": "いし 石 石頭"
+    "sourceText": "いし 石 石頭",
+    "kanji": "石",
+    "meaningZh": "石頭"
   }
 ]
