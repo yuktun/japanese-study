@@ -1,5 +1,7 @@
 import assert from 'node:assert/strict';
 import {filterReviewDeck,normalizeReviewProgress,resetReviewStatuses,reviewCounts,reviewKeyFor,sequenceForReviewMode,setReviewStatus,shuffledSequence,toggleReviewBookmark} from '../src/flashcard-review.mjs';
+import {readFile} from 'node:fs/promises';
+import {japaneseForFlashcard,labelForFlashcard,verbGroupLabel} from '../src/flashcard-presentation.mjs';
 
 const lessonOne=[
   {id:'y1-l01-v001',schoolYear:1,book:'初級 I',lesson:1,type:'vocabulary'},
@@ -39,5 +41,15 @@ const freshRandomPass=sequenceForReviewMode(lessonOne,'random',()=>0);
 assert.equal(freshRandomPass[0].id,'y1-l01-v002','a newly selected random mode has a newly shuffled first card');
 assert.equal(filterReviewDeck(freshRandomPass,progress,'bookmarked')[0].id,'y1-l01-g001','a filtered random sequence starts with its own first matching card');
 assert.equal(filterReviewDeck([],progress,'incorrect').length,0,'empty review filters remain empty');
+
+const lessonThreeVocabulary=JSON.parse(await readFile(new URL('../data/year3/lesson3/vocabulary.json',import.meta.url),'utf8'));
+const tantou=lessonThreeVocabulary.find(item=>item.id==='y3-l3-v002');
+assert.equal(labelForFlashcard({...tantou,type:'vocabulary'}),'生字','vocabulary badges do not contain the vocabulary term or part of speech');
+assert.equal(labelForFlashcard({type:'grammar'}),'文法','grammar badges remain distinct');
+assert.equal(japaneseForFlashcard({...tantou,type:'vocabulary'}),'担当する','Japanese prompts prefer kanji when supplied');
+assert.deepEqual({kana:tantou.kana,kanji:tantou.kanji,meaningZh:tantou.meaningZh,category:tantou.category},{kana:'たんとうする',kanji:'担当する',meaningZh:'負責、擔任',category:'動詞'},'Lesson 03 vocabulary uses canonical field mapping');
+assert.equal(lessonThreeVocabulary.some(item=>/^\d+$/.test(item.kana)),false,'Lesson 03 does not expose source row numbers as readings');
+assert.equal(verbGroupLabel({...tantou,type:'vocabulary'}),'','verb-group metadata is absent when its source does not provide it');
+assert.equal(verbGroupLabel({type:'vocabulary',verbGroup:2}),'動詞組別：2','verb groups have an explicit label when supplied');
 
 console.log('Flashcard review tests passed.');

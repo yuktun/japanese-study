@@ -87,6 +87,10 @@ for(const [lessonIndex,lesson] of manifest.lessons.entries()){
       for(const field of required[type])if(!present(item?.[field]))fail(`${itemLabel} is missing ${field}.`);
       validateSource(item.source,itemLabel);
       validatePublicValue(item,itemLabel);
+      if(type==='vocabulary'){
+        if('verbGroup' in item&&(!Number.isInteger(item.verbGroup)||item.verbGroup<1||item.verbGroup>3))fail(`${itemLabel} verbGroup must be an integer from 1 to 3 when present.`);
+        if(item.schoolYear>=3&&item.book.startsWith('中級')&&/^\d+$/.test(item.kana))fail(`${itemLabel} kana must not be a source row number.`);
+      }
       if(type==='grammar'&&item.sourceOrder!==itemIndex+1)fail(`${itemLabel} sourceOrder must be ${itemIndex+1} to match its PDF order.`);
       if(type==='grammar'){
         for(const field of ['meaningZh','explanationZh'])if(field in item)validateOptionalText(item[field],`${itemLabel} ${field}`);

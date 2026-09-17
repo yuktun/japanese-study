@@ -36,6 +36,11 @@
     "category": {
       "type": "string"
     },
+    "verbGroup": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 3
+    },
     "kana": {
       "type": "string"
     },
