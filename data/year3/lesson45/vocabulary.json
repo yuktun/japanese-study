@@ -4,52 +4,56 @@
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 45,
-    "kana": "しんじます",
-    "meaningZh": "相信",
+    "kana": "しんじます |ます| / しんじる |辞|",
+    "meaningZh": "Ⅱ 他 相信",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
-    }
+    },
+    "kanji": "信じます / 信じる"
   },
   {
     "id": "y3-l45-v002",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 45,
-    "kana": "キャンセルします",
-    "meaningZh": "取消",
+    "kana": "キャンセルします |ます| / キャンセルする |辞|",
+    "meaningZh": "Ⅲ 他 取消",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
-    }
+    },
+    "kanji": "-"
   },
   {
     "id": "y3-l45-v003",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 45,
-    "kana": "しらせます",
-    "meaningZh": "通知",
+    "kana": "しらせます |ます| / しらせる |辞|",
+    "meaningZh": "Ⅱ 他 通知",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
-    }
+    },
+    "kanji": "知らせます / 知らせる"
   },
   {
     "id": "y3-l45-v004",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 45,
-    "kana": "ゆうしょうします",
-    "meaningZh": "取勝、獲得冠軍",
+    "kana": "ゆうしょうします |ます| / ゆうしょうする |辞|",
+    "meaningZh": "Ⅲ 自 取勝、獲得冠軍",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
-    }
+    },
+    "kanji": "優勝します / 優勝する"
   },
   {
     "id": "y3-l45-v005",
@@ -214,7 +218,7 @@
     "lesson": 45,
     "kana": "きゅうに 急に 突然",
     "meaningZh": "17 きゅうに 急に 突然",
-    "category": "名詞",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
@@ -227,7 +231,21 @@
     "lesson": 45,
     "kana": "むりに 無理に 勉強地",
     "meaningZh": "19 いじょうです。 以上です。 到此結束。/我的話講完了。",
-    "category": "名詞",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l45-v028",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 45,
+    "kana": "いじょうです。",
+    "kanji": "以上です。",
+    "meaningZh": "到此結束。/我的話講完了。",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch45.pdf.pdf"
@@ -351,4 +369,3 @@
     }
   }
 ]
-
