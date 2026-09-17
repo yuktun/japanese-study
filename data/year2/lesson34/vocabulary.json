@@ -4,700 +4,749 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "みがきます [はを～]",
-    "meaningZh": "みがく[はを～] |辞|\r\n磨きます [歯を～]\r\n磨く[歯を～]\r\nⅠ 他 刷 [牙]",
+    "kana": "みがきます [はを～] |ます| / みがく[はを～] |辞|",
+    "meaningZh": "Ⅰ 他 刷 [牙]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "みがきます [はを～] \r\n|ます|\r\nみがく[はを～] |辞|\r\n磨きます [歯を～]\r\n磨く[歯を～]\r\nⅠ 他 刷 [牙]"
+    "sourceText": "みがきます [はを～] |ます| / みがく[はを～] |辞| 磨きます [歯を～] / 磨く[歯を～] Ⅰ 他 刷 [牙]",
+    "kanji": "磨きます [歯を～] / 磨く[歯を～]"
   },
   {
     "id": "y2-l34-v002",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "くみたてます",
-    "meaningZh": "くみたてる |辞|\r\n組み立てます\r\n組み立てる\r\nⅡ 他 組裝",
+    "kana": "くみたてます |ます| / くみたてる |辞|",
+    "meaningZh": "Ⅱ 他 組裝",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "くみたてます |ます|\r\nくみたてる |辞|\r\n組み立てます\r\n組み立てる\r\nⅡ 他 組裝"
+    "sourceText": "くみたてます |ます| / くみたてる |辞| 組み立てます / 組み立てる Ⅱ 他 組裝",
+    "kanji": "組み立てます / 組み立てる"
   },
   {
     "id": "y2-l34-v003",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "おります",
-    "meaningZh": "おる[かみを～] |辞|\r\n折ります [紙を～]\r\n折る[紙を～]\r\nⅠ 他 折 [紙]",
+    "kana": "おります |ます| / おる[かみを～] |辞|",
+    "meaningZh": "Ⅰ 他 折 [紙]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "おります |ます|\r\nおる[かみを～] |辞|\r\n折ります [紙を～]\r\n折る[紙を～]\r\nⅠ 他 折 [紙]"
+    "sourceText": "おります |ます| / おる[かみを～] |辞| 折ります [紙を～] / 折る[紙を～] Ⅰ 他 折 [紙]",
+    "kanji": "折ります [紙を～] / 折る[紙を～]"
   },
   {
     "id": "y2-l34-v004",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "きがつきます",
-    "meaningZh": "[わすれものに～] \r\nきがつく[わすれものに\r\n～] |辞|\r\n気がつきます\r\n[忘れ物に～]\r\n気がつく[忘れ物に～]\r\nⅠ 自 發覺、察覺 [忘了東西]",
+    "kana": "きがつきます [わすれものに～] |ます| / きがつく[わすれものに～] |辞|",
+    "meaningZh": "Ⅰ 自 發覺、察覺 [忘了東西]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "きがつきます\r\n[わすれものに～] |ます|\r\nきがつく[わすれものに\r\n～] |辞|\r\n気がつきます\r\n[忘れ物に～]\r\n気がつく[忘れ物に～]\r\nⅠ 自 發覺、察覺 [忘了東西]"
+    "sourceText": "きがつきます [わすれものに～] |ます| / きがつく[わすれものに～] |辞| 気がつきます [忘れ物に～] / 気がつく[忘れ物に～] Ⅰ 自 發覺、察覺 [忘了東西]",
+    "kanji": "気がつきます [忘れ物に～] / 気がつく[忘れ物に～]"
   },
   {
     "id": "y2-l34-v005",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "つけます",
-    "meaningZh": "[しょうゆを～] \r\nつける[しょうゆを～] \r\n|辞|\r\n- Ⅱ 他 蘸 [醬油]",
+    "kana": "つけます [しょうゆを～] |ます| / つける[しょうゆを～] |辞|",
+    "meaningZh": "Ⅱ 他 蘸 [醬油]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "つけます\r\n[しょうゆを～] |ます|\r\nつける[しょうゆを～] \r\n|辞|\r\n- Ⅱ 他 蘸 [醬油]"
+    "sourceText": "つけます [しょうゆを～] |ます| / つける[しょうゆを～] |辞| - Ⅱ 他 蘸 [醬油]",
+    "kanji": "-"
   },
   {
     "id": "y2-l34-v006",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "みつかります",
-    "meaningZh": "[かぎが～] \r\nみつかる[かぎが～] |辞|\r\n見つかります\r\n[かぎが～]\r\n見つかる[かぎが～]\r\nⅠ 自 找到 [鑰匙]",
+    "kana": "みつかります [かぎが～] |ます| / みつかる[かぎが～] |辞|",
+    "meaningZh": "Ⅰ 自 找到 [鑰匙]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "みつかります\r\n[かぎが～] |ます|\r\nみつかる[かぎが～] |辞|\r\n見つかります\r\n[かぎが～]\r\n見つかる[かぎが～]\r\nⅠ 自 找到 [鑰匙]"
+    "sourceText": "みつかります [かぎが～] |ます| / みつかる[かぎが～] |辞| 見つかります [かぎが～] / 見つかる[かぎが～] Ⅰ 自 找到 [鑰匙]",
+    "kanji": "見つかります [かぎが～] / 見つかる[かぎが～]"
   },
   {
     "id": "y2-l34-v007",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "しつもんします",
-    "meaningZh": "しつもんする |辞|\r\n質問します\r\n質問する\r\nⅢ 他 提問",
+    "kana": "しつもんします |ます| / しつもんする |辞|",
+    "meaningZh": "Ⅲ 他 提問",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "しつもんします |ます|\r\nしつもんする |辞|\r\n質問します\r\n質問する\r\nⅢ 他 提問"
+    "sourceText": "しつもんします |ます| / しつもんする |辞| 質問します / 質問する Ⅲ 他 提問",
+    "kanji": "質問します / 質問する"
   },
   {
     "id": "y2-l34-v008",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "さします [かさを～]",
-    "meaningZh": "さす[かさを～] |辞|\r\nさします [傘を～]\r\nさす[傘を～]\r\nⅠ 他 打 [傘]",
+    "kana": "さします [かさを～] |ます| / さす[かさを～] |辞|",
+    "meaningZh": "Ⅰ 他 打 [傘]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "さします [かさを～] \r\n|ます|\r\nさす[かさを～] |辞|\r\nさします [傘を～]\r\nさす[傘を～]\r\nⅠ 他 打 [傘]"
+    "sourceText": "さします [かさを～] |ます| / さす[かさを～] |辞| さします [傘を～] / さす[傘を～] Ⅰ 他 打 [傘]",
+    "kanji": "さします [傘を～] / さす[傘を～]"
   },
   {
     "id": "y2-l34-v009",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "おちゃをたてます",
-    "meaningZh": "おちゃをたてる |辞|\r\nお茶をたてます\r\nお茶をたてる\r\nⅡ 他 泡茶、沏茶",
+    "kana": "おちゃをたてます |ます| / おちゃをたてる |辞|",
+    "meaningZh": "Ⅱ 他 泡茶、沏茶",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "おちゃをたてます |ます|\r\nおちゃをたてる |辞|\r\nお茶をたてます\r\nお茶をたてる\r\nⅡ 他 泡茶、沏茶"
+    "sourceText": "おちゃをたてます |ます| / おちゃをたてる |辞| お茶をたてます / お茶をたてる Ⅱ 他 泡茶、沏茶",
+    "kanji": "お茶をたてます / お茶をたてる"
   },
   {
     "id": "y2-l34-v010",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "のせます",
-    "meaningZh": "のせる |辞|\r\n載せます\r\n載せる\r\nⅡ 他 放、載\r\n名詞\r\n平仮名/片仮名 漢字 中譯",
+    "kana": "のせます |ます| / のせる |辞|",
+    "meaningZh": "Ⅱ 他 放、載",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "のせます |ます|\r\nのせる |辞|\r\n載せます\r\n載せる\r\nⅡ 他 放、載\r\n名詞\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "のせます |ます| / のせる |辞| 載せます / 載せる Ⅱ 他 放、載",
+    "kanji": "載せます / 載せる"
   },
   {
     "id": "y2-l34-v011",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "スポーツクラブ - 運動俱樂部",
-    "meaningZh": "スポーツクラブ - 運動俱樂部",
-    "category": "動詞",
+    "kana": "スポーツクラブ",
+    "meaningZh": "運動俱樂部",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "スポーツクラブ - 運動俱樂部"
+    "sourceText": "スポーツクラブ - 運動俱樂部",
+    "kanji": "-"
   },
   {
     "id": "y2-l34-v012",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "[お」しろ [お] 城 城",
-    "meaningZh": "[お」しろ [お] 城 城",
-    "category": "動詞",
+    "kana": "[お」しろ",
+    "meaningZh": "城",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "[お」しろ [お] 城 城"
+    "sourceText": "[お」しろ [お] 城 城",
+    "kanji": "[お] 城"
   },
   {
     "id": "y2-l34-v013",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "せつめいしょ 説明書 説明書",
-    "meaningZh": "せつめいしょ 説明書 説明書",
-    "category": "動詞",
+    "kana": "せつめいしょ",
+    "meaningZh": "説明書",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "せつめいしょ 説明書 説明書"
+    "sourceText": "せつめいしょ 説明書 説明書",
+    "kanji": "説明書"
   },
   {
     "id": "y2-l34-v014",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "ず 図 圖",
-    "meaningZh": "ず 図 圖",
-    "category": "動詞",
+    "kana": "ず",
+    "meaningZh": "圖",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "ず 図 圖"
+    "sourceText": "ず 図 圖",
+    "kanji": "図"
   },
   {
     "id": "y2-l34-v015",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "せん 線 綫",
-    "meaningZh": "せん 線 綫",
-    "category": "動詞",
+    "kana": "せん",
+    "meaningZh": "綫",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "せん 線 綫"
+    "sourceText": "せん 線 綫",
+    "kanji": "線"
   },
   {
     "id": "y2-l34-v016",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "やじるし 矢印 箭頭（記號）",
-    "meaningZh": "やじるし 矢印 箭頭（記號）",
-    "category": "動詞",
+    "kana": "やじるし",
+    "meaningZh": "箭頭（記號）",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "やじるし 矢印 箭頭（記號）"
+    "sourceText": "やじるし 矢印 箭頭（記號）",
+    "kanji": "矢印"
   },
   {
     "id": "y2-l34-v017",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "くろ 黒 黑色",
-    "meaningZh": "くろ 黒 黑色",
-    "category": "動詞",
+    "kana": "くろ",
+    "meaningZh": "黑色",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "くろ 黒 黑色"
+    "sourceText": "くろ 黒 黑色",
+    "kanji": "黒"
   },
   {
     "id": "y2-l34-v018",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "しろ 白 白色",
-    "meaningZh": "しろ 白 白色",
-    "category": "動詞",
+    "kana": "しろ",
+    "meaningZh": "白色",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "しろ 白 白色"
+    "sourceText": "しろ 白 白色",
+    "kanji": "白"
   },
   {
     "id": "y2-l34-v019",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "あか 赤 紅色",
-    "meaningZh": "あか 赤 紅色",
-    "category": "動詞",
+    "kana": "あか",
+    "meaningZh": "紅色",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "あか 赤 紅色"
+    "sourceText": "あか 赤 紅色",
+    "kanji": "赤"
   },
   {
     "id": "y2-l34-v020",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "あお 青 藍色",
-    "meaningZh": "あお 青 藍色",
-    "category": "動詞",
+    "kana": "あお",
+    "meaningZh": "藍色",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "あお 青 藍色"
+    "sourceText": "あお 青 藍色",
+    "kanji": "青"
   },
   {
     "id": "y2-l34-v021",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "こん 紺 深藍色",
-    "meaningZh": "こん 紺 深藍色",
-    "category": "動詞",
+    "kana": "こん",
+    "meaningZh": "深藍色",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "こん 紺 深藍色"
+    "sourceText": "こん 紺 深藍色",
+    "kanji": "紺"
   },
   {
     "id": "y2-l34-v022",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "きいろ 黄色 黃色",
-    "meaningZh": "きいろ 黄色 黃色",
-    "category": "動詞",
+    "kana": "きいろ",
+    "meaningZh": "黃色",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "きいろ 黄色 黃色"
+    "sourceText": "きいろ 黄色 黃色",
+    "kanji": "黄色"
   },
   {
     "id": "y2-l34-v023",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "ちゃいろ 茶色 棕色",
-    "meaningZh": "ちゃいろ 茶色 棕色",
-    "category": "動詞",
+    "kana": "ちゃいろ",
+    "meaningZh": "棕色",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "ちゃいろ 茶色 棕色"
+    "sourceText": "ちゃいろ 茶色 棕色",
+    "kanji": "茶色"
   },
   {
     "id": "y2-l34-v024",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "しょうゆ - 醬油",
-    "meaningZh": "しょうゆ - 醬油",
-    "category": "動詞",
+    "kana": "しょうゆ",
+    "meaningZh": "醬油",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "しょうゆ - 醬油"
+    "sourceText": "しょうゆ - 醬油",
+    "kanji": "-"
   },
   {
     "id": "y2-l34-v025",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "ソース - 甜醬、沙司",
-    "meaningZh": "ソース - 甜醬、沙司",
-    "category": "動詞",
+    "kana": "ソース",
+    "meaningZh": "甜醬、沙司",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "ソース - 甜醬、沙司"
+    "sourceText": "ソース - 甜醬、沙司",
+    "kanji": "-"
   },
   {
     "id": "y2-l34-v026",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "おきゃく [さん] お客 [さん] 客人、顧客",
-    "meaningZh": "おきゃく [さん] お客 [さん] 客人、顧客",
-    "category": "動詞",
+    "kana": "おきゃく [さん]",
+    "meaningZh": "客人、顧客",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "おきゃく [さん] お客 [さん] 客人、顧客"
+    "sourceText": "おきゃく [さん] お客 [さん] 客人、顧客",
+    "kanji": "お客 [さん]"
   },
   {
     "id": "y2-l34-v027",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "さどう 茶道 茶道",
-    "meaningZh": "さどう 茶道 茶道",
-    "category": "動詞",
+    "kana": "さどう",
+    "meaningZh": "茶道",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "さどう 茶道 茶道"
+    "sourceText": "さどう 茶道 茶道",
+    "kanji": "茶道"
   },
   {
     "id": "y2-l34-v028",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "ゆうべ - 昨天晚上、昨晚",
-    "meaningZh": "ゆうべ - 昨天晚上、昨晚",
-    "category": "動詞",
+    "kana": "ゆうべ",
+    "meaningZh": "昨天晚上、昨晚",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "ゆうべ - 昨天晚上、昨晚"
+    "sourceText": "ゆうべ - 昨天晚上、昨晚",
+    "kanji": "-"
   },
   {
     "id": "y2-l34-v029",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "さっき - 剛才",
-    "meaningZh": "い形容詞\r\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "kana": "さっき",
+    "meaningZh": "剛才",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "さっき - 剛才\r\nい形容詞\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "さっき - 剛才",
+    "kanji": "-"
   },
   {
     "id": "y2-l34-v030",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "にがい 苦い 苦的",
-    "meaningZh": "副詞\r\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "kana": "にがい",
+    "meaningZh": "苦的",
+    "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "にがい 苦い 苦的\r\n副詞\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "にがい 苦い 苦的",
+    "kanji": "苦い"
   },
   {
     "id": "y2-l34-v031",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "さきに 先に 先、首先",
-    "meaningZh": "其他\r\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "kana": "さきに",
+    "meaningZh": "先、首先",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "さきに 先に 先、首先\r\n其他\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "さきに 先に 先、首先",
+    "kanji": "先に"
   },
   {
     "id": "y2-l34-v032",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "～か～ - ～或～",
-    "meaningZh": "～か～ - ～或～",
-    "category": "動詞",
+    "kana": "～か～",
+    "meaningZh": "～或～",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "～か～ - ～或～"
+    "sourceText": "～か～ - ～或～",
+    "kanji": "-"
   },
   {
     "id": "y2-l34-v033",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "これでいいですか。 - 這樣可以嗎？",
-    "meaningZh": "これでいいですか。 - 這樣可以嗎？",
-    "category": "動詞",
+    "kana": "これでいいですか。",
+    "meaningZh": "這樣可以嗎？",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "これでいいですか。 - 這樣可以嗎？"
+    "sourceText": "これでいいですか。 - 這樣可以嗎？",
+    "kanji": "-"
   },
   {
     "id": "y2-l34-v034",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "いかがですか。 - 怎麽樣？",
-    "meaningZh": "読み物\r\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "kana": "いかがですか。",
+    "meaningZh": "怎麽樣？",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "いかがですか。 - 怎麽樣？\r\n読み物\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "いかがですか。 - 怎麽樣？",
+    "kanji": "-"
   },
   {
     "id": "y2-l34-v035",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "おやこどんぶり 親子どんぶり 雞肉雞蛋飯",
-    "meaningZh": "おやこどんぶり 親子どんぶり 雞肉雞蛋飯",
-    "category": "動詞",
+    "kana": "おやこどんぶり",
+    "meaningZh": "雞肉雞蛋飯",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "おやこどんぶり 親子どんぶり 雞肉雞蛋飯"
+    "sourceText": "おやこどんぶり 親子どんぶり 雞肉雞蛋飯",
+    "kanji": "親子どんぶり"
   },
   {
     "id": "y2-l34-v036",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "ざいりょう 材料 材料",
-    "meaningZh": "ざいりょう 材料 材料",
-    "category": "動詞",
+    "kana": "ざいりょう",
+    "meaningZh": "材料",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "ざいりょう 材料 材料"
+    "sourceText": "ざいりょう 材料 材料",
+    "kanji": "材料"
   },
   {
     "id": "y2-l34-v037",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "～ぶん ～分 ～分（表示分量）",
-    "meaningZh": "～ぶん ～分 ～分（表示分量）",
-    "category": "動詞",
+    "kana": "～ぶん",
+    "meaningZh": "～分（表示分量）",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "～ぶん ～分 ～分（表示分量）"
+    "sourceText": "～ぶん ～分 ～分（表示分量）",
+    "kanji": "～分"
   },
   {
     "id": "y2-l34-v038",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "－グラム - 一克",
-    "meaningZh": "－グラム - 一克",
-    "category": "動詞",
+    "kana": "－グラム",
+    "meaningZh": "一克",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "－グラム - 一克"
+    "sourceText": "－グラム - 一克",
+    "kanji": "-"
   },
   {
     "id": "y2-l34-v039",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "－こ －個 一個",
-    "meaningZh": "－こ －個 一個",
-    "category": "動詞",
+    "kana": "－こ",
+    "meaningZh": "一個",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "－こ －個 一個"
+    "sourceText": "－こ －個 一個",
+    "kanji": "－個"
   },
   {
     "id": "y2-l34-v040",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "たまねぎ - 洋蔥",
-    "meaningZh": "たまねぎ - 洋蔥",
-    "category": "動詞",
+    "kana": "たまねぎ",
+    "meaningZh": "洋蔥",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "たまねぎ - 洋蔥"
+    "sourceText": "たまねぎ - 洋蔥",
+    "kanji": "-"
   },
   {
     "id": "y2-l34-v041",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "よんぶんのいち ４分の１(１/４) 四分之一",
-    "meaningZh": "よんぶんのいち ４分の１(１/４) 四分之一",
-    "category": "動詞",
+    "kana": "よんぶんのいち",
+    "meaningZh": "四分之一",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "よんぶんのいち ４分の１(１/４) 四分之一"
+    "sourceText": "よんぶんのいち ４分の１(１/４) 四分之一",
+    "kanji": "４分の１(１/４)"
   },
   {
     "id": "y2-l34-v042",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "ちょうみりょう 調味料 調料",
-    "meaningZh": "ちょうみりょう 調味料 調料",
-    "category": "動詞",
+    "kana": "ちょうみりょう",
+    "meaningZh": "調料",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "ちょうみりょう 調味料 調料"
+    "sourceText": "ちょうみりょう 調味料 調料",
+    "kanji": "調味料"
   },
   {
     "id": "y2-l34-v043",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "てきとうなおおきさに 適当な大きさに 適當的大小",
-    "meaningZh": "てきとうなおおきさに 適当な大きさに 適當的大小",
-    "category": "動詞",
+    "kana": "てきとうなおおきさに",
+    "meaningZh": "適當的大小",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "てきとうなおおきさに 適当な大きさに 適當的大小"
+    "sourceText": "てきとうなおおきさに 適当な大きさに 適當的大小",
+    "kanji": "適当な大きさに"
   },
   {
     "id": "y2-l34-v044",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "なべ - 鍋",
-    "meaningZh": "なべ - 鍋",
-    "category": "動詞",
+    "kana": "なべ",
+    "meaningZh": "鍋",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "なべ - 鍋"
+    "sourceText": "なべ - 鍋",
+    "kanji": "-"
   },
   {
     "id": "y2-l34-v045",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "ひ 火 火",
-    "meaningZh": "ひ 火 火",
-    "category": "動詞",
+    "kana": "ひ",
+    "meaningZh": "火",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "ひ 火 火"
+    "sourceText": "ひ 火 火",
+    "kanji": "火"
   },
   {
     "id": "y2-l34-v046",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "ひにかけます 火にかけます 放在火上",
-    "meaningZh": "ひにかけます 火にかけます 放在火上",
-    "category": "動詞",
+    "kana": "ひにかけます",
+    "meaningZh": "放在火上",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "ひにかけます 火にかけます 放在火上"
+    "sourceText": "ひにかけます 火にかけます 放在火上",
+    "kanji": "火にかけます"
   },
   {
     "id": "y2-l34-v047",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "にます 煮ます 煮、燉",
-    "meaningZh": "にます 煮ます 煮、燉",
-    "category": "動詞",
+    "kana": "にます",
+    "meaningZh": "煮、燉",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "にます 煮ます 煮、燉"
+    "sourceText": "にます 煮ます 煮、燉",
+    "kanji": "煮ます"
   },
   {
     "id": "y2-l34-v048",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "にえます 煮えます 煮熟",
-    "meaningZh": "にえます 煮えます 煮熟",
-    "category": "動詞",
+    "kana": "にえます",
+    "meaningZh": "煮熟",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "にえます 煮えます 煮熟"
+    "sourceText": "にえます 煮えます 煮熟",
+    "kanji": "煮えます"
   },
   {
     "id": "y2-l34-v049",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "どんぶり - 大碗",
-    "meaningZh": "どんぶり - 大碗",
-    "category": "動詞",
+    "kana": "どんぶり",
+    "meaningZh": "大碗",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "どんぶり - 大碗"
+    "sourceText": "どんぶり - 大碗",
+    "kanji": "-"
   },
   {
     "id": "y2-l34-v050",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 34,
-    "kana": "たちます - 流逝、過去",
-    "meaningZh": "たちます - 流逝、過去",
-    "category": "動詞",
+    "kana": "たちます",
+    "meaningZh": "流逝、過去",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch34.pdf.pdf"
     },
-    "sourceText": "たちます - 流逝、過去"
+    "sourceText": "たちます - 流逝、過去",
+    "kanji": "-"
   }
 ]
-
