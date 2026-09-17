@@ -4,130 +4,140 @@
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "りようします",
-    "meaningZh": "利用、使用",
+    "kana": "りようします |ます| / りようする |辞|",
+    "meaningZh": "Ⅲ 他 利用、使用",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+    },
+    "kanji": "利用します / 利用する"
   },
   {
     "id": "y3-l49-v002",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "つとめます",
-    "meaningZh": "[在公司] 上班",
+    "kana": "つとめます [かいしゃに～] |ます| / つとめる[かいしゃに～] |辞|",
+    "meaningZh": "Ⅱ 自 [在公司] 上班",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+    },
+    "kanji": "勤めます [会社に～] / 勤める[会社に～]"
   },
   {
     "id": "y3-l49-v003",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "かけます [いすに～]",
-    "meaningZh": "坐 [在椅子上]",
+    "kana": "かけます [いすに～] |ます| / かける[いすに～] |辞|",
+    "meaningZh": "Ⅱ 自 坐 [在椅子上]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+    },
+    "kanji": "掛けます [いすに～] / 掛ける[いすに～]"
   },
   {
     "id": "y3-l49-v004",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "すごします",
-    "meaningZh": "過、度過",
+    "kana": "すごします |ます| / すごす |辞|",
+    "meaningZh": "Ⅰ 他 過、度過",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+    },
+    "kanji": "過ごします / 過ごす"
   },
   {
     "id": "y3-l49-v005",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "いらっしゃいます",
-    "meaningZh": "在、去、來（「います",
+    "kana": "いらっしゃいます |ます| / いらっしゃる |辞|",
+    "meaningZh": "Ⅰ 自 在、去、來（「います、いきます、きます」的尊敬語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+    },
+    "kanji": "-"
   },
   {
     "id": "y3-l49-v006",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "めしあがります",
-    "meaningZh": "吃、喝（「たべます、",
+    "kana": "めしあがります |ます| / めしあがる |辞|",
+    "meaningZh": "Ⅰ 他 吃、喝（「たべます、のみます」的尊敬語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+    },
+    "kanji": "召し上がります / 召し上がる"
   },
   {
     "id": "y3-l49-v007",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "おっしゃいます",
-    "meaningZh": "說、叫（「いいます」",
+    "kana": "おっしゃいます |ます| / おっしゃる |辞|",
+    "meaningZh": "Ⅰ 他 說、叫（「いいます」的尊敬語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+    },
+    "kanji": "-"
   },
   {
     "id": "y3-l49-v008",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "なさいます",
-    "meaningZh": "做（「します」的尊敬",
+    "kana": "なさいます |ます| / なさる |辞|",
+    "meaningZh": "Ⅰ 他 做（「します」的尊敬語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+    },
+    "kanji": "-"
   },
   {
     "id": "y3-l49-v009",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "ごらんになります",
-    "meaningZh": "看（「みます」的尊敬",
+    "kana": "ごらんになります |ます| / ごらんになる |辞|",
+    "meaningZh": "Ⅰ 他 看（「みます」的尊敬語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+    },
+    "kanji": "ご覧になります / ご覧になる"
   },
   {
     "id": "y3-l49-v010",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "だします [ねつを～]",
-    "meaningZh": "發 [燒]",
+    "kana": "だします [ねつを～] |ます| / だす[ねつを～] |辞|",
+    "meaningZh": "Ⅰ 他 發 [燒]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+    },
+    "kanji": "出します [熱を～] / 出す[熱を～]"
   },
   {
     "id": "y3-l49-v011",
@@ -136,6 +146,20 @@
     "lesson": 49,
     "kana": "ごぞんじです ご存じです 知道(「知っています」的尊",
     "meaningZh": "寒暄、問候、致詞（～をし",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l49-v033",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 49,
+    "kana": "あいさつ",
+    "kanji": "-",
+    "meaningZh": "寒暄、問候、致詞（～をします）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -351,6 +375,20 @@
     }
   },
   {
+    "id": "y3-l49-v034",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 49,
+    "kana": "マウス",
+    "kanji": "-",
+    "meaningZh": "老鼠",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
+    }
+  },
+  {
     "id": "y3-l49-v028",
     "schoolYear": 3,
     "book": "初級 II",
@@ -416,4 +454,3 @@
     }
   }
 ]
-
