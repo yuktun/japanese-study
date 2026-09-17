@@ -4,700 +4,749 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "にげます",
-    "meaningZh": "にげる |辞|\r\n逃げます\r\n逃げる\r\nⅡ 自 逃走、逃跑",
+    "kana": "にげます |ます| / にげる |辞|",
+    "meaningZh": "Ⅱ 自 逃走、逃跑",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "にげます |ます|\r\nにげる |辞|\r\n逃げます\r\n逃げる\r\nⅡ 自 逃走、逃跑"
+    "sourceText": "にげます |ます| / にげる |辞| 逃げます / 逃げる Ⅱ 自 逃走、逃跑",
+    "kanji": "逃げます / 逃げる"
   },
   {
     "id": "y2-l33-v002",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "さわぎます",
-    "meaningZh": "さわぐ |辞|\r\n騒ぎます\r\n騒ぐ\r\nⅠ 自 喧鬧、吵嚷",
+    "kana": "さわぎます |ます| / さわぐ |辞|",
+    "meaningZh": "Ⅰ 自 喧鬧、吵嚷",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "さわぎます |ます|\r\nさわぐ |辞|\r\n騒ぎます\r\n騒ぐ\r\nⅠ 自 喧鬧、吵嚷"
+    "sourceText": "さわぎます |ます| / さわぐ |辞| 騒ぎます / 騒ぐ Ⅰ 自 喧鬧、吵嚷",
+    "kanji": "騒ぎます / 騒ぐ"
   },
   {
     "id": "y2-l33-v003",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "あきらめます",
-    "meaningZh": "あきらめる |辞|\r\n- Ⅱ 他 放棄、死心",
+    "kana": "あきらめます |ます| / あきらめる |辞|",
+    "meaningZh": "Ⅱ 他 放棄、死心",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "あきらめます |ます|\r\nあきらめる |辞|\r\n- Ⅱ 他 放棄、死心"
+    "sourceText": "あきらめます |ます| / あきらめる |辞| - Ⅱ 他 放棄、死心",
+    "kanji": "-"
   },
   {
     "id": "y2-l33-v004",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "なげます",
-    "meaningZh": "なげる |辞|\r\n投げます\r\n投げる\r\nⅡ 他 投、扔",
+    "kana": "なげます |ます| / なげる |辞|",
+    "meaningZh": "Ⅱ 他 投、扔",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "なげます |ます|\r\nなげる |辞|\r\n投げます\r\n投げる\r\nⅡ 他 投、扔"
+    "sourceText": "なげます |ます| / なげる |辞| 投げます / 投げる Ⅱ 他 投、扔",
+    "kanji": "投げます / 投げる"
   },
   {
     "id": "y2-l33-v005",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "まもります",
-    "meaningZh": "まもる |辞|\r\n守ります\r\n守る\r\nⅠ 他 遵守",
+    "kana": "まもります |ます| / まもる |辞|",
+    "meaningZh": "Ⅰ 他 遵守",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "まもります |ます|\r\nまもる |辞|\r\n守ります\r\n守る\r\nⅠ 他 遵守"
+    "sourceText": "まもります |ます| / まもる |辞| 守ります / 守る Ⅰ 他 遵守",
+    "kanji": "守ります / 守る"
   },
   {
     "id": "y2-l33-v006",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "はじまります",
-    "meaningZh": "[しきが～] \r\nはじまる[しきが～] |辞|\r\n始まります [式が～]\r\n始まる[式が～]\r\nⅠ 自 [典禮] 開始",
+    "kana": "はじまります [しきが～] |ます| / はじまる[しきが～] |辞|",
+    "meaningZh": "Ⅰ 自 [典禮] 開始",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "はじまります\r\n[しきが～] |ます|\r\nはじまる[しきが～] |辞|\r\n始まります [式が～]\r\n始まる[式が～]\r\nⅠ 自 [典禮] 開始"
+    "sourceText": "はじまります [しきが～] |ます| / はじまる[しきが～] |辞| 始まります [式が～] / 始まる[式が～] Ⅰ 自 [典禮] 開始",
+    "kanji": "始まります [式が～] / 始まる[式が～]"
   },
   {
     "id": "y2-l33-v007",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "しゅっせきします",
-    "meaningZh": "[かいぎに～] \r\nしゅっせきする[かいぎ\r\nに～] |辞|\r\n出席します [会議に～]\r\n出席する[会議に～]\r\nⅢ 自 出席 [會議]",
+    "kana": "しゅっせきします [かいぎに～] |ます| / しゅっせきする[かいぎに～] |辞|",
+    "meaningZh": "Ⅲ 自 出席 [會議]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "しゅっせきします\r\n[かいぎに～] |ます|\r\nしゅっせきする[かいぎ\r\nに～] |辞|\r\n出席します [会議に～]\r\n出席する[会議に～]\r\nⅢ 自 出席 [會議]"
+    "sourceText": "しゅっせきします [かいぎに～] |ます| / しゅっせきする[かいぎに～] |辞| 出席します [会議に～] / 出席する[会議に～] Ⅲ 自 出席 [會議]",
+    "kanji": "出席します [会議に～] / 出席する[会議に～]"
   },
   {
     "id": "y2-l33-v008",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "つたえます",
-    "meaningZh": "つたえる |辞|\r\n伝えます\r\n伝える\r\nⅡ 他 傳達、轉告",
+    "kana": "つたえます |ます| / つたえる |辞|",
+    "meaningZh": "Ⅱ 他 傳達、轉告",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "つたえます |ます|\r\nつたえる |辞|\r\n伝えます\r\n伝える\r\nⅡ 他 傳達、轉告"
+    "sourceText": "つたえます |ます| / つたえる |辞| 伝えます / 伝える Ⅱ 他 傳達、轉告",
+    "kanji": "伝えます / 伝える"
   },
   {
     "id": "y2-l33-v009",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "ちゅういします",
-    "meaningZh": "[くるまに～] \r\nちゅういする[くるまに\r\n～] |辞|\r\n注意します [車に～]\r\n注意する[車に～]\r\nⅢ 他 注意、小心 [汽車]",
+    "kana": "ちゅういします [くるまに～] |ます| / ちゅういする[くるまに～] |辞|",
+    "meaningZh": "Ⅲ 他 注意、小心 [汽車]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "ちゅういします\r\n[くるまに～] |ます|\r\nちゅういする[くるまに\r\n～] |辞|\r\n注意します [車に～]\r\n注意する[車に～]\r\nⅢ 他 注意、小心 [汽車]"
+    "sourceText": "ちゅういします [くるまに～] |ます| / ちゅういする[くるまに～] |辞| 注意します [車に～] / 注意する[車に～] Ⅲ 他 注意、小心 [汽車]",
+    "kanji": "注意します [車に～] / 注意する[車に～]"
   },
   {
     "id": "y2-l33-v010",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "はずします [せきを～]",
-    "meaningZh": "はずす[せきを～] |辞|\r\n外します [席を～]\r\n外す[席を～]\r\nⅠ 他 離開 [座位]",
+    "kana": "はずします [せきを～] |ます| / はずす[せきを～] |辞|",
+    "meaningZh": "Ⅰ 他 離開 [座位]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "はずします [せきを～] \r\n|ます|\r\nはずす[せきを～] |辞|\r\n外します [席を～]\r\n外す[席を～]\r\nⅠ 他 離開 [座位]"
+    "sourceText": "はずします [せきを～] |ます| / はずす[せきを～] |辞| 外します [席を～] / 外す[席を～] Ⅰ 他 離開 [座位]",
+    "kanji": "外します [席を～] / 外す[席を～]"
   },
   {
     "id": "y2-l33-v011",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "もどります",
-    "meaningZh": "もどる |辞|\r\n戻ります\r\n戻る\r\nⅠ 自 回到、回來",
+    "kana": "もどります |ます| / もどる |辞|",
+    "meaningZh": "Ⅰ 自 回到、回來",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "もどります |ます|\r\nもどる |辞|\r\n戻ります\r\n戻る\r\nⅠ 自 回到、回來"
+    "sourceText": "もどります |ます| / もどる |辞| 戻ります / 戻る Ⅰ 自 回到、回來",
+    "kanji": "戻ります / 戻る"
   },
   {
     "id": "y2-l33-v012",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "あります [でんわが～]",
-    "meaningZh": "ある[でんわが～] |辞|\r\nあります [電話が～]\r\nある[電話が～]\r\nⅠ 自 有 [電話]",
+    "kana": "あります [でんわが～] |ます| / ある[でんわが～] |辞|",
+    "meaningZh": "Ⅰ 自 有 [電話]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "あります [でんわが～] \r\n|ます|\r\nある[でんわが～] |辞|\r\nあります [電話が～]\r\nある[電話が～]\r\nⅠ 自 有 [電話]"
+    "sourceText": "あります [でんわが～] |ます| / ある[でんわが～] |辞| あります [電話が～] / ある[電話が～] Ⅰ 自 有 [電話]",
+    "kanji": "あります [電話が～] / ある[電話が～]"
   },
   {
     "id": "y2-l33-v013",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "リサイクルします",
-    "meaningZh": "リサイクルする |辞|\r\n- Ⅲ 他 再利用、資源回收\r\n名詞\r\n平仮名/片仮名 漢字 中譯",
+    "kana": "リサイクルします |ます| / リサイクルする |辞|",
+    "meaningZh": "Ⅲ 他 再利用、資源回收",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "リサイクルします |ます|\r\nリサイクルする |辞|\r\n- Ⅲ 他 再利用、資源回收\r\n名詞\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "リサイクルします |ます| / リサイクルする |辞| - Ⅲ 他 再利用、資源回收",
+    "kanji": "-"
   },
   {
     "id": "y2-l33-v014",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "おなじ - 一樣、同樣",
-    "meaningZh": "おなじ - 一樣、同樣",
-    "category": "動詞",
+    "kana": "おなじ",
+    "meaningZh": "一樣、同樣",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "おなじ - 一樣、同樣"
+    "sourceText": "おなじ - 一樣、同樣",
+    "kanji": "-"
   },
   {
     "id": "y2-l33-v015",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "けいさつ 警察 警察",
-    "meaningZh": "けいさつ 警察 警察",
-    "category": "動詞",
+    "kana": "けいさつ",
+    "meaningZh": "警察",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "けいさつ 警察 警察"
+    "sourceText": "けいさつ 警察 警察",
+    "kanji": "警察"
   },
   {
     "id": "y2-l33-v016",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "せき 席 座位",
-    "meaningZh": "せき 席 座位",
-    "category": "動詞",
+    "kana": "せき",
+    "meaningZh": "座位",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "せき 席 座位"
+    "sourceText": "せき 席 座位",
+    "kanji": "席"
   },
   {
     "id": "y2-l33-v017",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "マーク - 標記、記號",
-    "meaningZh": "マーク - 標記、記號",
-    "category": "動詞",
+    "kana": "マーク",
+    "meaningZh": "標記、記號",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "マーク - 標記、記號"
+    "sourceText": "マーク - 標記、記號",
+    "kanji": "-"
   },
   {
     "id": "y2-l33-v018",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "ボール - 球",
-    "meaningZh": "ボール - 球",
-    "category": "動詞",
+    "kana": "ボール",
+    "meaningZh": "球",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "ボール - 球"
+    "sourceText": "ボール - 球",
+    "kanji": "-"
   },
   {
     "id": "y2-l33-v019",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "しめきり 締め切り 截至、截止日期",
-    "meaningZh": "しめきり 締め切り 截至、截止日期",
-    "category": "動詞",
+    "kana": "しめきり",
+    "meaningZh": "截至、截止日期",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "しめきり 締め切り 截至、截止日期"
+    "sourceText": "しめきり 締め切り 截至、截止日期",
+    "kanji": "締め切り"
   },
   {
     "id": "y2-l33-v020",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "きそく 規則 規則",
-    "meaningZh": "きそく 規則 規則",
-    "category": "動詞",
+    "kana": "きそく",
+    "meaningZh": "規則",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "きそく 規則 規則"
+    "sourceText": "きそく 規則 規則",
+    "kanji": "規則"
   },
   {
     "id": "y2-l33-v021",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "きけん 危険 危險",
-    "meaningZh": "きけん 危険 危險",
-    "category": "動詞",
+    "kana": "きけん",
+    "meaningZh": "危險",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "きけん 危険 危險"
+    "sourceText": "きけん 危険 危險",
+    "kanji": "危険"
   },
   {
     "id": "y2-l33-v022",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "しようきんし 使用禁止 禁止使用",
-    "meaningZh": "しようきんし 使用禁止 禁止使用",
-    "category": "動詞",
+    "kana": "しようきんし",
+    "meaningZh": "禁止使用",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "しようきんし 使用禁止 禁止使用"
+    "sourceText": "しようきんし 使用禁止 禁止使用",
+    "kanji": "使用禁止"
   },
   {
     "id": "y2-l33-v023",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "たちいりきんし 立入禁止 禁止入内",
-    "meaningZh": "たちいりきんし 立入禁止 禁止入内",
-    "category": "動詞",
+    "kana": "たちいりきんし",
+    "meaningZh": "禁止入内",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "たちいりきんし 立入禁止 禁止入内"
+    "sourceText": "たちいりきんし 立入禁止 禁止入内",
+    "kanji": "立入禁止"
   },
   {
     "id": "y2-l33-v024",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "じょこう 徐行 慢行",
-    "meaningZh": "じょこう 徐行 慢行",
-    "category": "動詞",
+    "kana": "じょこう",
+    "meaningZh": "慢行",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "じょこう 徐行 慢行"
+    "sourceText": "じょこう 徐行 慢行",
+    "kanji": "徐行"
   },
   {
     "id": "y2-l33-v025",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "いりぐち 入口 入口",
-    "meaningZh": "いりぐち 入口 入口",
-    "category": "動詞",
+    "kana": "いりぐち",
+    "meaningZh": "入口",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "いりぐち 入口 入口"
+    "sourceText": "いりぐち 入口 入口",
+    "kanji": "入口"
   },
   {
     "id": "y2-l33-v026",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "でぐち 出口 出口",
-    "meaningZh": "でぐち 出口 出口",
-    "category": "動詞",
+    "kana": "でぐち",
+    "meaningZh": "出口",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "でぐち 出口 出口"
+    "sourceText": "でぐち 出口 出口",
+    "kanji": "出口"
   },
   {
     "id": "y2-l33-v027",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "ひじょうぐち 非常口 緊急出口",
-    "meaningZh": "ひじょうぐち 非常口 緊急出口",
-    "category": "動詞",
+    "kana": "ひじょうぐち",
+    "meaningZh": "緊急出口",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "ひじょうぐち 非常口 緊急出口"
+    "sourceText": "ひじょうぐち 非常口 緊急出口",
+    "kanji": "非常口"
   },
   {
     "id": "y2-l33-v028",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "むりょう 無料 免費",
-    "meaningZh": "むりょう 無料 免費",
-    "category": "動詞",
+    "kana": "むりょう",
+    "meaningZh": "免費",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "むりょう 無料 免費"
+    "sourceText": "むりょう 無料 免費",
+    "kanji": "無料"
   },
   {
     "id": "y2-l33-v029",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "わりびき 割引 折扣",
-    "meaningZh": "わりびき 割引 折扣",
-    "category": "動詞",
+    "kana": "わりびき",
+    "meaningZh": "折扣",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "わりびき 割引 折扣"
+    "sourceText": "わりびき 割引 折扣",
+    "kanji": "割引"
   },
   {
     "id": "y2-l33-v030",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "のみほうだい 飲み放題 飲料自助",
-    "meaningZh": "のみほうだい 飲み放題 飲料自助",
-    "category": "動詞",
+    "kana": "のみほうだい",
+    "meaningZh": "飲料自助",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "のみほうだい 飲み放題 飲料自助"
+    "sourceText": "のみほうだい 飲み放題 飲料自助",
+    "kanji": "飲み放題"
   },
   {
     "id": "y2-l33-v031",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "しようちゅう 使用中 正在使用",
-    "meaningZh": "しようちゅう 使用中 正在使用",
-    "category": "動詞",
+    "kana": "しようちゅう",
+    "meaningZh": "正在使用",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "しようちゅう 使用中 正在使用"
+    "sourceText": "しようちゅう 使用中 正在使用",
+    "kanji": "使用中"
   },
   {
     "id": "y2-l33-v032",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "ぼしゅうちゅう 募集中 正在招募",
-    "meaningZh": "ぼしゅうちゅう 募集中 正在招募",
-    "category": "動詞",
+    "kana": "ぼしゅうちゅう",
+    "meaningZh": "正在招募",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "ぼしゅうちゅう 募集中 正在招募"
+    "sourceText": "ぼしゅうちゅう 募集中 正在招募",
+    "kanji": "募集中"
   },
   {
     "id": "y2-l33-v033",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "ちゅうしゃいはん 駐車違反 違章停車",
-    "meaningZh": "ちゅうしゃいはん 駐車違反 違章停車",
-    "category": "動詞",
+    "kana": "ちゅうしゃいはん",
+    "meaningZh": "違章停車",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "ちゅうしゃいはん 駐車違反 違章停車"
+    "sourceText": "ちゅうしゃいはん 駐車違反 違章停車",
+    "kanji": "駐車違反"
   },
   {
     "id": "y2-l33-v034",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "ばっきん 罰金 罰款",
-    "meaningZh": "な形容詞\r\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "kana": "ばっきん",
+    "meaningZh": "罰款",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "ばっきん 罰金 罰款\r\nな形容詞\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "ばっきん 罰金 罰款",
+    "kanji": "罰金"
   },
   {
     "id": "y2-l33-v035",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "だめ [な] - 不行",
-    "meaningZh": "副詞\r\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "kana": "だめ [な]",
+    "meaningZh": "不行",
+    "category": "な形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "だめ [な] - 不行\r\n副詞\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "だめ [な] - 不行",
+    "kanji": "-"
   },
   {
     "id": "y2-l33-v036",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "いくら [～ても] - 無論～也～",
-    "meaningZh": "いくら [～ても] - 無論～也～",
-    "category": "動詞",
+    "kana": "いくら [～ても]",
+    "meaningZh": "無論～也～",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "いくら [～ても] - 無論～也～"
+    "sourceText": "いくら [～ても] - 無論～也～",
+    "kanji": "-"
   },
   {
     "id": "y2-l33-v037",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "もう - 已經，不再（與否定形一起",
-    "meaningZh": "使用）\r\n疑問詞\r\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "kana": "もう",
+    "meaningZh": "已經，不再（與否定形一起使用）",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "もう - 已經，不再（與否定形一起\r\n使用）\r\n疑問詞\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "もう - 已經，不再（與否定形一起使用）",
+    "kanji": "-"
   },
   {
     "id": "y2-l33-v038",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "どういう～ - 怎樣的～、什麽樣的～",
-    "meaningZh": "其他\r\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "kana": "どういう～",
+    "meaningZh": "怎樣的～、什麽樣的～",
+    "category": "疑問詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "どういう～ - 怎樣的～、什麽樣的～\r\n其他\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "どういう～ - 怎樣的～、什麽樣的～",
+    "kanji": "-"
   },
   {
     "id": "y2-l33-v039",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "～ちゅう ～中 正在～",
-    "meaningZh": "～ちゅう ～中 正在～",
-    "category": "動詞",
+    "kana": "～ちゅう",
+    "meaningZh": "正在～",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "～ちゅう ～中 正在～"
+    "sourceText": "～ちゅう ～中 正在～",
+    "kanji": "～中"
   },
   {
     "id": "y2-l33-v040",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "あと～ - 還有～",
-    "meaningZh": "あと～ - 還有～",
-    "category": "動詞",
+    "kana": "あと～",
+    "meaningZh": "還有～",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "あと～ - 還有～"
+    "sourceText": "あと～ - 還有～",
+    "kanji": "-"
   },
   {
     "id": "y2-l33-v041",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "～ほど - 大約～左右",
-    "meaningZh": "読み物\r\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "kana": "～ほど",
+    "meaningZh": "大約～左右",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "～ほど - 大約～左右\r\n読み物\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "～ほど - 大約～左右",
+    "kanji": "-"
   },
   {
     "id": "y2-l33-v042",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "じしん 地震 地震",
-    "meaningZh": "じしん 地震 地震",
-    "category": "動詞",
+    "kana": "じしん",
+    "meaningZh": "地震",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "じしん 地震 地震"
+    "sourceText": "じしん 地震 地震",
+    "kanji": "地震"
   },
   {
     "id": "y2-l33-v043",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "おきます 起きます 發生",
-    "meaningZh": "おきます 起きます 發生",
-    "category": "動詞",
+    "kana": "おきます",
+    "meaningZh": "發生",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "おきます 起きます 發生"
+    "sourceText": "おきます 起きます 發生",
+    "kanji": "起きます"
   },
   {
     "id": "y2-l33-v044",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "たすけあいます 助け合います 互相幫助",
-    "meaningZh": "たすけあいます 助け合います 互相幫助",
-    "category": "動詞",
+    "kana": "たすけあいます",
+    "meaningZh": "互相幫助",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "たすけあいます 助け合います 互相幫助"
+    "sourceText": "たすけあいます 助け合います 互相幫助",
+    "kanji": "助け合います"
   },
   {
     "id": "y2-l33-v045",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "もともと - 原本、原來",
-    "meaningZh": "もともと - 原本、原來",
-    "category": "動詞",
+    "kana": "もともと",
+    "meaningZh": "原本、原來",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "もともと - 原本、原來"
+    "sourceText": "もともと - 原本、原來",
+    "kanji": "-"
   },
   {
     "id": "y2-l33-v046",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "かなしい 悲しい 悲傷",
-    "meaningZh": "かなしい 悲しい 悲傷",
-    "category": "動詞",
+    "kana": "かなしい",
+    "meaningZh": "悲傷",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "かなしい 悲しい 悲傷"
+    "sourceText": "かなしい 悲しい 悲傷",
+    "kanji": "悲しい"
   },
   {
     "id": "y2-l33-v047",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "もっと - 更加",
-    "meaningZh": "もっと - 更加",
-    "category": "動詞",
+    "kana": "もっと",
+    "meaningZh": "更加",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "もっと - 更加"
+    "sourceText": "もっと - 更加",
+    "kanji": "-"
   },
   {
     "id": "y2-l33-v048",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "あいさつ - 寒暄、問候、致詞",
-    "meaningZh": "あいさつ - 寒暄、問候、致詞",
-    "category": "動詞",
+    "kana": "あいさつ",
+    "meaningZh": "寒暄、問候、致詞",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "あいさつ - 寒暄、問候、致詞"
+    "sourceText": "あいさつ - 寒暄、問候、致詞",
+    "kanji": "-"
   },
   {
     "id": "y2-l33-v049",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "あいて 相手 對方",
-    "meaningZh": "あいて 相手 對方",
-    "category": "動詞",
+    "kana": "あいて",
+    "meaningZh": "對方",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "あいて 相手 對方"
+    "sourceText": "あいて 相手 對方",
+    "kanji": "相手"
   },
   {
     "id": "y2-l33-v050",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 33,
-    "kana": "きもち 気持ち 心情、情緒",
-    "meaningZh": "きもち 気持ち 心情、情緒",
-    "category": "動詞",
+    "kana": "きもち",
+    "meaningZh": "心情、情緒",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch33.pdf.pdf"
     },
-    "sourceText": "きもち 気持ち 心情、情緒"
+    "sourceText": "きもち 気持ち 心情、情緒",
+    "kanji": "気持ち"
   }
 ]
-
