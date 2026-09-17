@@ -4,671 +4,706 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "はります",
-    "meaningZh": "辞| はる\nⅠ 他 貼、張貼",
+    "kana": "はります |ます| / はる |辞|",
+    "meaningZh": "Ⅰ 他 貼、張貼",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "はります |ます|\nはる |辞| はる\nⅠ 他 貼、張貼"
+    "sourceText": "はります |ます| / はる |辞| はる Ⅰ 他 貼、張貼",
+    "kanji": "はる"
   },
   {
     "id": "y2-l30-v002",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "かけます",
-    "meaningZh": "辞|\n掛けます\n掛ける\nⅡ 他 掛",
+    "kana": "かけます |ます| / かける |辞|",
+    "meaningZh": "Ⅱ 他 掛",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "かけます |ます|\nかける |辞|\n掛けます\n掛ける\nⅡ 他 掛"
+    "sourceText": "かけます |ます| / かける |辞| 掛けます / 掛ける Ⅱ 他 掛",
+    "kanji": "掛けます / 掛ける"
   },
   {
     "id": "y2-l30-v003",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "かざります",
-    "meaningZh": "辞|\n飾ります\n飾る\nⅠ 他 裝飾、擺設",
+    "kana": "かざります |ます| / かざる |辞|",
+    "meaningZh": "Ⅰ 他 裝飾、擺設",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "かざります |ます|\nかざる |辞|\n飾ります\n飾る\nⅠ 他 裝飾、擺設"
+    "sourceText": "かざります |ます| / かざる |辞| 飾ります / 飾る Ⅰ 他 裝飾、擺設",
+    "kanji": "飾ります / 飾る"
   },
   {
     "id": "y2-l30-v004",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "ならべます",
-    "meaningZh": "辞|\n並べます\n並べる\nⅡ 他 排列",
+    "kana": "ならべます |ます| / ならべる |辞|",
+    "meaningZh": "Ⅱ 他 排列",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "ならべます |ます|\nならべる |辞|\n並べます\n並べる\nⅡ 他 排列"
+    "sourceText": "ならべます |ます| / ならべる |辞| 並べます / 並べる Ⅱ 他 排列",
+    "kanji": "並べます / 並べる"
   },
   {
     "id": "y2-l30-v005",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "うえます",
-    "meaningZh": "辞|\n植えます\n植える\nⅡ 他 種植",
+    "kana": "うえます |ます| / うえる |辞|",
+    "meaningZh": "Ⅱ 他 種植",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "うえます |ます|\nうえる |辞|\n植えます\n植える\nⅡ 他 種植"
+    "sourceText": "うえます |ます| / うえる |辞| 植えます / 植える Ⅱ 他 種植",
+    "kanji": "植えます / 植える"
   },
   {
     "id": "y2-l30-v006",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "もどします",
-    "meaningZh": "辞|\n戻します\n戻す\nⅠ 他 放回（原處）、還原",
+    "kana": "もどします |ます| / もどす |辞|",
+    "meaningZh": "Ⅰ 他 放回（原處）、還原",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "もどします |ます|\nもどす |辞|\n戻します\n戻す\nⅠ 他 放回（原處）、還原"
+    "sourceText": "もどします |ます| / もどす |辞| 戻します / 戻す Ⅰ 他 放回（原處）、還原",
+    "kanji": "戻します / 戻す"
   },
   {
     "id": "y2-l30-v007",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "まとめます",
-    "meaningZh": "辞|\n- Ⅱ 他 整理、總結、集中",
+    "kana": "まとめます |ます| / まとめる |辞|",
+    "meaningZh": "Ⅱ 他 整理、總結、集中",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "まとめます |ます|\nまとめる |辞|\n- Ⅱ 他 整理、總結、集中"
+    "sourceText": "まとめます |ます| / まとめる |辞| Ⅱ 他 整理、總結、集中"
   },
   {
     "id": "y2-l30-v008",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "しまいます",
-    "meaningZh": "辞|\n- Ⅰ 他 收拾起來、放到…裏面",
+    "kana": "しまいます |ます| / しまう |辞|",
+    "meaningZh": "Ⅰ 他 收拾起來、放到…裏面",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "しまいます |ます|\nしまう |辞|\n- Ⅰ 他 收拾起來、放到…裏面"
+    "sourceText": "しまいます |ます| / しまう |辞| Ⅰ 他 收拾起來、放到…裏面"
   },
   {
     "id": "y2-l30-v009",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "きめます",
-    "meaningZh": "辞|\n決めます\n決める\nⅡ 他 決定",
+    "kana": "きめます |ます| / きめる |辞|",
+    "meaningZh": "Ⅱ 他 決定",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "きめます |ます|\nきめる |辞|\n決めます\n決める\nⅡ 他 決定"
+    "sourceText": "きめます |ます| / きめる |辞| 決めます / 決める Ⅱ 他 決定",
+    "kanji": "決めます / 決める"
   },
   {
     "id": "y2-l30-v010",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "よしゅうします",
-    "meaningZh": "辞|\n予習します\n予習する\nⅢ 他 預習",
+    "kana": "よしゅうします |ます| / よしゅうする |辞|",
+    "meaningZh": "Ⅲ 他 預習",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "よしゅうします |ます|\nよしゅうする |辞|\n予習します\n予習する\nⅢ 他 預習"
+    "sourceText": "よしゅうします |ます| / よしゅうする |辞| 予習します / 予習する Ⅲ 他 預習",
+    "kanji": "予習します / 予習する"
   },
   {
     "id": "y2-l30-v011",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "ふくしゅうします",
-    "meaningZh": "辞|\n復習します\n復習する\nⅢ 他 復習",
+    "kana": "ふくしゅうします |ます| / ふくしゅうする |辞|",
+    "meaningZh": "Ⅲ 他 復習",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "ふくしゅうします |ます|\nふくしゅうする |辞|\n復習します\n復習する\nⅢ 他 復習"
+    "sourceText": "ふくしゅうします |ます| / ふくしゅうする |辞| 復習します / 復習する Ⅲ 他 復習",
+    "kanji": "復習します / 復習する"
   },
   {
     "id": "y2-l30-v012",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "そのままにします",
-    "meaningZh": "辞|\n- Ⅲ 他 保持原狀",
+    "kana": "そのままにします |ます| / そのままにする |辞|",
+    "meaningZh": "Ⅲ 他 保持原狀",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "そのままにします |ます|\nそのままにする |辞|\n- Ⅲ 他 保持原狀"
+    "sourceText": "そのままにします |ます| / そのままにする |辞| Ⅲ 他 保持原狀"
   },
   {
     "id": "y2-l30-v013",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "せいかつします",
-    "meaningZh": "辞|\n生活します\n生活する\nⅢ 自 生活\n名詞\n平仮名/片仮名 漢字 中譯",
+    "kana": "せいかつします |ます| / せいかつする |辞|",
+    "meaningZh": "Ⅲ 自 生活",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "せいかつします |ます|\nせいかつする |辞|\n生活します\n生活する\nⅢ 自 生活\n名詞\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "せいかつします |ます| / せいかつする |辞| 生活します / 生活する Ⅲ 自 生活",
+    "kanji": "生活します / 生活する"
   },
   {
     "id": "y2-l30-v014",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "じゅぎょう 授業 課堂、課程",
-    "meaningZh": "じゅぎょう 授業 課堂、課程",
+    "kana": "じゅぎょう",
+    "meaningZh": "課堂、課程",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "じゅぎょう 授業 課堂、課程"
+    "sourceText": "じゅぎょう 授業 課堂、課程",
+    "kanji": "授業"
   },
   {
     "id": "y2-l30-v015",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "こうぎ 講義 講義",
-    "meaningZh": "こうぎ 講義 講義",
+    "kana": "こうぎ",
+    "meaningZh": "講義",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "こうぎ 講義 講義"
+    "sourceText": "こうぎ 講義 講義",
+    "kanji": "講義"
   },
   {
     "id": "y2-l30-v016",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "ミーティング - 會議",
-    "meaningZh": "ミーティング - 會議",
+    "kana": "ミーティング",
+    "meaningZh": "會議",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "ミーティング - 會議"
+    "sourceText": "ミーティング 會議"
   },
   {
     "id": "y2-l30-v017",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "よてい 予定 預定、計劃",
-    "meaningZh": "よてい 予定 預定、計劃",
+    "kana": "よてい",
+    "meaningZh": "預定、計劃",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "よてい 予定 預定、計劃"
+    "sourceText": "よてい 予定 預定、計劃",
+    "kanji": "予定"
   },
   {
     "id": "y2-l30-v018",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "おしらせ お知らせ 通知",
-    "meaningZh": "おしらせ お知らせ 通知",
+    "kana": "おしらせ",
+    "meaningZh": "通知",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "おしらせ お知らせ 通知"
+    "sourceText": "おしらせ お知らせ 通知",
+    "kanji": "お知らせ"
   },
   {
     "id": "y2-l30-v019",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "ガイドブック - 指南、指引、導遊書",
-    "meaningZh": "ガイドブック - 指南、指引、導遊書",
+    "kana": "ガイドブック",
+    "meaningZh": "指南、指引、導遊書",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "ガイドブック - 指南、指引、導遊書"
+    "sourceText": "ガイドブック 指南、指引、導遊書"
   },
   {
     "id": "y2-l30-v020",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "カレンダー - 月曆",
-    "meaningZh": "カレンダー - 月曆",
+    "kana": "カレンダー",
+    "meaningZh": "月曆",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "カレンダー - 月曆"
+    "sourceText": "カレンダー 月曆"
   },
   {
     "id": "y2-l30-v021",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "ポスター - 海報",
-    "meaningZh": "ポスター - 海報",
+    "kana": "ポスター",
+    "meaningZh": "海報",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "ポスター - 海報"
+    "sourceText": "ポスター 海報"
   },
   {
     "id": "y2-l30-v022",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "よていひょう 予定表 行程表、計劃表",
-    "meaningZh": "よていひょう 予定表 行程表、計劃表",
+    "kana": "よていひょう",
+    "meaningZh": "行程表、計劃表",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "よていひょう 予定表 行程表、計劃表"
+    "sourceText": "よていひょう 予定表 行程表、計劃表",
+    "kanji": "予定表"
   },
   {
     "id": "y2-l30-v023",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "ごみばこ ごみ箱 垃圾箱",
-    "meaningZh": "ごみばこ ごみ箱 垃圾箱",
+    "kana": "ごみばこ",
+    "meaningZh": "垃圾箱",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "ごみばこ ごみ箱 垃圾箱"
+    "sourceText": "ごみばこ ごみ箱 垃圾箱",
+    "kanji": "ごみ箱"
   },
   {
     "id": "y2-l30-v024",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "にんぎょう 人形 木偶、布娃娃",
-    "meaningZh": "にんぎょう 人形 木偶、布娃娃",
+    "kana": "にんぎょう",
+    "meaningZh": "木偶、布娃娃",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "にんぎょう 人形 木偶、布娃娃"
+    "sourceText": "にんぎょう 人形 木偶、布娃娃",
+    "kanji": "人形"
   },
   {
     "id": "y2-l30-v025",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "かびん 花瓶 花瓶",
-    "meaningZh": "かびん 花瓶 花瓶",
+    "kana": "かびん",
+    "meaningZh": "花瓶",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "かびん 花瓶 花瓶"
+    "sourceText": "かびん 花瓶 花瓶",
+    "kanji": "花瓶"
   },
   {
     "id": "y2-l30-v026",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "かがみ 鏡 鏡子",
-    "meaningZh": "かがみ 鏡 鏡子",
+    "kana": "かがみ",
+    "meaningZh": "鏡子",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "かがみ 鏡 鏡子"
+    "sourceText": "かがみ 鏡 鏡子",
+    "kanji": "鏡"
   },
   {
     "id": "y2-l30-v027",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "ひきだし 引き出し 抽屜",
-    "meaningZh": "ひきだし 引き出し 抽屜",
+    "kana": "ひきだし",
+    "meaningZh": "抽屜",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "ひきだし 引き出し 抽屜"
+    "sourceText": "ひきだし 引き出し 抽屜",
+    "kanji": "引き出し"
   },
   {
     "id": "y2-l30-v028",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "げんかん 玄関 玄関、門口",
-    "meaningZh": "げんかん 玄関 玄関、門口",
+    "kana": "げんかん",
+    "meaningZh": "玄関、門口",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "げんかん 玄関 玄関、門口"
+    "sourceText": "げんかん 玄関 玄関、門口",
+    "kanji": "玄関"
   },
   {
     "id": "y2-l30-v029",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "ろうか 廊下 走廊",
-    "meaningZh": "ろうか 廊下 走廊",
+    "kana": "ろうか",
+    "meaningZh": "走廊",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "ろうか 廊下 走廊"
+    "sourceText": "ろうか 廊下 走廊",
+    "kanji": "廊下"
   },
   {
     "id": "y2-l30-v030",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "かべ 壁 牆壁",
-    "meaningZh": "かべ 壁 牆壁",
+    "kana": "かべ",
+    "meaningZh": "牆壁",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "かべ 壁 牆壁"
+    "sourceText": "かべ 壁 牆壁",
+    "kanji": "壁"
   },
   {
     "id": "y2-l30-v031",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "いけ 池 池塘、水池",
-    "meaningZh": "いけ 池 池塘、水池",
+    "kana": "いけ",
+    "meaningZh": "池塘、水池",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "いけ 池 池塘、水池"
+    "sourceText": "いけ 池 池塘、水池",
+    "kanji": "池"
   },
   {
     "id": "y2-l30-v032",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "もとのところ 元のところ 原處、原來的地方",
-    "meaningZh": "もとのところ 元のところ 原處、原來的地方",
+    "kana": "もとのところ",
+    "meaningZh": "原處、原來的地方",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "もとのところ 元のところ 原處、原來的地方"
+    "sourceText": "もとのところ 元のところ 原處、原來的地方",
+    "kanji": "元のところ"
   },
   {
     "id": "y2-l30-v033",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "まわり 周り 周圍",
-    "meaningZh": "まわり 周り 周圍",
+    "kana": "まわり",
+    "meaningZh": "周圍",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "まわり 周り 周圍"
+    "sourceText": "まわり 周り 周圍",
+    "kanji": "周り"
   },
   {
     "id": "y2-l30-v034",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "まんなか 真ん中 正中閒",
-    "meaningZh": "まんなか 真ん中 正中閒",
+    "kana": "まんなか",
+    "meaningZh": "正中閒",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "まんなか 真ん中 正中閒"
+    "sourceText": "まんなか 真ん中 正中閒",
+    "kanji": "真ん中"
   },
   {
     "id": "y2-l30-v035",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "すみ 隅 角落",
-    "meaningZh": "すみ 隅 角落",
+    "kana": "すみ",
+    "meaningZh": "角落",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "すみ 隅 角落"
+    "sourceText": "すみ 隅 角落",
+    "kanji": "隅"
   },
   {
     "id": "y2-l30-v036",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "リュック - 背囊、帆布背包",
-    "meaningZh": "リュック - 背囊、帆布背包",
+    "kana": "リュック",
+    "meaningZh": "背囊、帆布背包",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "リュック - 背囊、帆布背包"
+    "sourceText": "リュック 背囊、帆布背包"
   },
   {
     "id": "y2-l30-v037",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "ひじょうぶくろ 非常袋 應急備用包",
-    "meaningZh": "ひじょうぶくろ 非常袋 應急備用包",
+    "kana": "ひじょうぶくろ",
+    "meaningZh": "應急備用包",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "ひじょうぶくろ 非常袋 應急備用包"
+    "sourceText": "ひじょうぶくろ 非常袋 應急備用包",
+    "kanji": "非常袋"
   },
   {
     "id": "y2-l30-v038",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "ひじょうじ 非常時 發生緊急情況時",
-    "meaningZh": "ひじょうじ 非常時 發生緊急情況時",
+    "kana": "ひじょうじ",
+    "meaningZh": "發生緊急情況時",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "ひじょうじ 非常時 發生緊急情況時"
+    "sourceText": "ひじょうじ 非常時 發生緊急情況時",
+    "kanji": "非常時"
   },
   {
     "id": "y2-l30-v039",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "かいちゅうでんとう 懐中電灯 手電",
-    "meaningZh": "其他\n平仮名/片仮名 漢字 中譯",
+    "kana": "かいちゅうでんとう",
+    "meaningZh": "手電",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "かいちゅうでんとう 懐中電灯 手電\n其他\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "かいちゅうでんとう 懐中電灯 手電",
+    "kanji": "懐中電灯"
   },
   {
     "id": "y2-l30-v040",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "まだ - 還沒",
-    "meaningZh": "まだ - 還沒",
+    "kana": "まだ",
+    "meaningZh": "還沒",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "まだ - 還沒"
+    "sourceText": "まだ 還沒"
   },
   {
     "id": "y2-l30-v041",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "～とか、～とか - ～啦，～啦（表示列舉）",
-    "meaningZh": "読み物\n平仮名/片仮名 漢字 中譯",
+    "kana": "～とか、～とか",
+    "meaningZh": "～啦，～啦（表示列舉）",
     "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "～とか、～とか - ～啦，～啦（表示列舉）\n読み物\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "～とか、～とか ～啦，～啦（表示列舉）"
   },
   {
     "id": "y2-l30-v042",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "まるい 丸い 圓圓的",
-    "meaningZh": "まるい 丸い 圓圓的",
+    "kana": "まるい",
+    "meaningZh": "圓圓的",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "まるい 丸い 圓圓的"
+    "sourceText": "まるい 丸い 圓圓的",
+    "kanji": "丸い"
   },
   {
     "id": "y2-l30-v043",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "ある～ - 某～、某個～",
-    "meaningZh": "ある～ - 某～、某個～",
+    "kana": "ある～",
+    "meaningZh": "某～、某個～",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "ある～ - 某～、某個～"
+    "sourceText": "ある～ 某～、某個～"
   },
   {
     "id": "y2-l30-v044",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "ゆめをみます 夢を見ます 做夢",
-    "meaningZh": "ゆめをみます 夢を見ます 做夢",
+    "kana": "ゆめをみます",
+    "meaningZh": "做夢",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "ゆめをみます 夢を見ます 做夢"
+    "sourceText": "ゆめをみます 夢を見ます 做夢",
+    "kanji": "夢を見ます"
   },
   {
     "id": "y2-l30-v045",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "うれしい - 開心、高興",
-    "meaningZh": "うれしい - 開心、高興",
+    "kana": "うれしい",
+    "meaningZh": "開心、高興",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "うれしい - 開心、高興"
+    "sourceText": "うれしい 開心、高興"
   },
   {
     "id": "y2-l30-v046",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "いや [な] 嫌 [な] 討厭、不喜歡",
-    "meaningZh": "いや [な] 嫌 [な] 討厭、不喜歡",
+    "kana": "いや [な]",
+    "meaningZh": "討厭、不喜歡",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "いや [な] 嫌 [な] 討厭、不喜歡"
+    "sourceText": "いや [な] 嫌 [な] 討厭、不喜歡",
+    "kanji": "嫌 [な]"
   },
   {
     "id": "y2-l30-v047",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "すると - 於是",
-    "meaningZh": "すると - 於是",
+    "kana": "すると",
+    "meaningZh": "於是",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "すると - 於是"
+    "sourceText": "すると 於是"
   },
   {
     "id": "y2-l30-v048",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 30,
-    "kana": "めがさめます 目が覚めます 醒來、睜眼",
-    "meaningZh": "めがさめます 目が覚めます 醒來、睜眼",
+    "kana": "めがさめます",
+    "meaningZh": "醒來、睜眼",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch30.pdf.pdf"
     },
-    "sourceText": "めがさめます 目が覚めます 醒來、睜眼"
+    "sourceText": "めがさめます 目が覚めます 醒來、睜眼",
+    "kanji": "目が覚めます"
   }
 ]
