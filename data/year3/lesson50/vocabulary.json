@@ -4,164 +4,191 @@
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 50,
-    "kana": "まいります",
-    "meaningZh": "來、去（「きます、い",
+    "kana": "まいります |ます| / まいる |辞|",
+    "meaningZh": "Ⅰ 自 來、去（「きます、いきます」的謙遜語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
-    }
+    },
+    "kanji": "参ります / 参る"
   },
   {
     "id": "y3-l50-v002",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 50,
-    "kana": "おります",
-    "meaningZh": "在（「います」的謙遜",
+    "kana": "おります |ます| / おる |辞|",
+    "meaningZh": "Ⅰ 自 在（「います」的謙遜語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
-    }
+    },
+    "kanji": "-"
   },
   {
     "id": "y3-l50-v003",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 50,
-    "kana": "いただきます",
-    "meaningZh": "吃、喝、得到（「たべ",
+    "kana": "いただきます |ます| / いただく |辞|",
+    "meaningZh": "Ⅰ 他 吃、喝、得到（「たべます、のみます、もらいます」的謙遜語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
-    }
+    },
+    "kanji": "-"
   },
   {
     "id": "y3-l50-v004",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 50,
-    "kana": "もうします",
-    "meaningZh": "說、叫（「いいます」",
+    "kana": "もうします |ます| / もうす |辞|",
+    "meaningZh": "Ⅰ 他 說、叫（「いいます」的謙遜語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
-    }
+    },
+    "kanji": "申します / 申す"
   },
   {
     "id": "y3-l50-v005",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 50,
-    "kana": "いたします",
-    "meaningZh": "做（「します」的謙遜",
+    "kana": "いたします |ます| / いたす |辞|",
+    "meaningZh": "Ⅰ 他 做（「します」的謙遜語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
-    }
+    },
+    "kanji": "-"
   },
   {
     "id": "y3-l50-v006",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 50,
-    "kana": "はいけんします",
-    "meaningZh": "看（「みます」的謙遜",
+    "kana": "はいけんします |ます| / はいけんする |辞|",
+    "meaningZh": "Ⅲ 他 看（「みます」的謙遜語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
-    }
+    },
+    "kanji": "拝見します / 拝見する"
   },
   {
     "id": "y3-l50-v007",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 50,
-    "kana": "ぞんじます",
-    "meaningZh": "知道（「知ります」的",
+    "kana": "ぞんじます |ます| / ぞんじる |辞|",
+    "meaningZh": "Ⅱ 他 知道（「知ります」的謙遜語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
-    }
+    },
+    "kanji": "存じます / 存じる"
   },
   {
     "id": "y3-l50-v008",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 50,
-    "kana": "うかがいます",
-    "meaningZh": "聼、詢問、拜訪（「き",
+    "kana": "うかがいます |ます| / 伺う |辞|",
+    "meaningZh": "Ⅰ 自 聼、詢問、拜訪（「ききます、いきます」的謙遜語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
-    }
+    },
+    "kanji": "伺います / 伺う"
   },
   {
     "id": "y3-l50-v009",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 50,
-    "kana": "おめにかかります",
-    "meaningZh": "見面（「会います」的",
+    "kana": "おめにかかります |ます| / おめにかかる |辞|",
+    "meaningZh": "Ⅰ 自 見面（「会います」的謙遜語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
-    }
+    },
+    "kanji": "お目にかかります / お目にかかる"
   },
   {
     "id": "y3-l50-v010",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 50,
-    "kana": "いれます",
-    "meaningZh": "沏、泡［咖啡］",
+    "kana": "いれます [コーヒーを～] |ます| / いれる |辞|",
+    "meaningZh": "Ⅱ 他 沏、泡［咖啡］",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
-    }
+    },
+    "kanji": "-"
   },
   {
     "id": "y3-l50-v011",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 50,
-    "kana": "よういします",
-    "meaningZh": "準備",
+    "kana": "よういします |ます| / よういする |辞|",
+    "meaningZh": "Ⅲ 他 準備",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
-    }
+    },
+    "kanji": "用意します / 用意する"
   },
   {
     "id": "y3-l50-v012",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 50,
-    "kana": "きんちょうします",
-    "meaningZh": "緊張",
+    "kana": "きんちょうします |ます| / きんちょうする |辞|",
+    "meaningZh": "Ⅲ 自 緊張",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
-    }
+    },
+    "kanji": "緊張します / 緊張する"
   },
   {
     "id": "y3-l50-v013",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 50,
-    "kana": "かないます [ゆめが～]",
-    "meaningZh": "實現［夢想］",
+    "kana": "かないます [ゆめが～] |ます| / かなう |辞|",
+    "meaningZh": "Ⅰ 自 實現［夢想］",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    },
+    "kanji": "かないます [夢が～]"
+  },
+  {
+    "id": "y3-l50-v032",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "おうえんします |ます| / おうえんする |辞|",
+    "kanji": "応援します / 応援する",
+    "meaningZh": "Ⅲ 他 支持、聲援",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
@@ -364,6 +391,20 @@
     }
   },
   {
+    "id": "y3-l50-v033",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 50,
+    "kana": "おげんきでいらっしゃいますか。",
+    "kanji": "お元気でいらっしゃいますか。",
+    "meaningZh": "身體好嗎？（「おげんきですか」的尊敬語）",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch50.pdf.pdf"
+    }
+  },
+  {
     "id": "y3-l50-v029",
     "schoolYear": 3,
     "book": "初級 II",
@@ -403,4 +444,3 @@
     }
   }
 ]
-
