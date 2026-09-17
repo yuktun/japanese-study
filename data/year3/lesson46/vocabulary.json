@@ -4,117 +4,126 @@
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 46,
-    "kana": "わたします",
-    "meaningZh": "交給、遞交",
+    "kana": "わたします |ます| / わたす |辞|",
+    "meaningZh": "Ⅰ 他 交給、遞交",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
-    }
+    },
+    "kanji": "渡します / 渡す"
   },
   {
     "id": "y3-l46-v002",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 46,
-    "kana": "かえってきます",
-    "meaningZh": "回來",
+    "kana": "かえってきます |ます| / かえってくる |辞|",
+    "meaningZh": "Ⅲ 自 回來",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
-    }
+    },
+    "kanji": "帰ってきます / 帰ってくる"
   },
   {
     "id": "y3-l46-v003",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 46,
-    "kana": "でます [バスが～]",
-    "meaningZh": "[巴士] 出發",
+    "kana": "でます [バスが～] |ます| / でる[バスが～] |辞|",
+    "meaningZh": "Ⅱ 自 [巴士] 出發",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
-    }
+    },
+    "kanji": "出ます [バスが～] / 出る[バスが～]"
   },
   {
     "id": "y3-l46-v004",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 46,
-    "kana": "とどきます",
-    "meaningZh": "[包裹/東西] 送達",
+    "kana": "とどきます [にもつが～] |ます| / とどく[にもつが～] |辞|",
+    "meaningZh": "Ⅰ 自 [包裹/東西] 送達",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
-    }
+    },
+    "kanji": "届きます [荷物が～] / 届く[荷物が～]"
   },
   {
     "id": "y3-l46-v005",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 46,
-    "kana": "にゅうがくします",
-    "meaningZh": "進入 [大學]",
+    "kana": "にゅうがくします [だいがくに～] |ます| / にゅうがくする[だいがくに～] |辞|",
+    "meaningZh": "Ⅲ 自 進入 [大學]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
-    }
+    },
+    "kanji": "入学します [大学に～] / 入学する[大学に～]"
   },
   {
     "id": "y3-l46-v006",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 46,
-    "kana": "そつぎょうします",
-    "meaningZh": "[大學] 畢業",
+    "kana": "そつぎょうします [だいがくを～] |ます| / そつぎょうする[だいがくを～] |辞|",
+    "meaningZh": "Ⅲ 自 [大學] 畢業",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
-    }
+    },
+    "kanji": "卒業します [大学を～] / 卒業する[大学を～]"
   },
   {
     "id": "y3-l46-v007",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 46,
-    "kana": "やきます",
-    "meaningZh": "燒、烤",
+    "kana": "やきます |ます| / やく |辞|",
+    "meaningZh": "Ⅰ 他 燒、烤",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
-    }
+    },
+    "kanji": "焼きます / 焼く"
   },
   {
     "id": "y3-l46-v008",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 46,
-    "kana": "やけます",
-    "meaningZh": "[麵包] 烤好了、[肉]",
+    "kana": "やけます [パンが～／にくが～] |ます| / やける[パンが～／にくが～] |辞|",
+    "meaningZh": "Ⅱ 自 [麵包] 烤好了、[肉] 烤熟了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
-    }
+    },
+    "kanji": "焼けます [パンが～／肉が～] / 焼ける[パンが～／肉が～]"
   },
   {
     "id": "y3-l46-v009",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 46,
-    "kana": "むかいます",
-    "meaningZh": "朝著～去",
+    "kana": "むかいます |ます| / むかう |辞|",
+    "meaningZh": "Ⅰ 自 朝著～去",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
-    }
+    },
+    "kanji": "向かいます / 向かう"
   },
   {
     "id": "y3-l46-v010",
@@ -123,6 +132,20 @@
     "lesson": 46,
     "kana": "るす 留守 不在家（「留守番」：看家",
     "meaningZh": "1 / 311 たくはいびん 宅配便 宅急送",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l46-v031",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "たくはいびん",
+    "kanji": "宅配便",
+    "meaningZh": "宅急送",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -377,6 +400,20 @@
     }
   },
   {
+    "id": "y3-l46-v032",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 46,
+    "kana": "じゅんばんに",
+    "kanji": "順番に",
+    "meaningZh": "（按）順序",
+    "category": "読み物",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch46.pdf.pdf"
+    }
+  },
+  {
     "id": "y3-l46-v030",
     "schoolYear": 3,
     "book": "初級 II",
@@ -390,4 +427,3 @@
     }
   }
 ]
-
