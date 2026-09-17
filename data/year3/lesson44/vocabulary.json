@@ -4,104 +4,112 @@
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "なきます",
-    "meaningZh": "哭",
+    "kana": "なきます |ます| / なく |辞|",
+    "meaningZh": "Ⅰ 自 哭",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+    },
+    "kanji": "泣きます / 泣く"
   },
   {
     "id": "y3-l44-v002",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "わらいます",
-    "meaningZh": "笑",
+    "kana": "わらいます |ます| / わらう |辞|",
+    "meaningZh": "Ⅰ 自 笑",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+    },
+    "kanji": "笑います / 笑う"
   },
   {
     "id": "y3-l44-v003",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "ねむります",
-    "meaningZh": "睡、睡着",
+    "kana": "ねむります |ます| / ねむる |辞|",
+    "meaningZh": "Ⅰ 自 睡、睡着",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+    },
+    "kanji": "眠ります / 眠る"
   },
   {
     "id": "y3-l44-v004",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "かわきます",
-    "meaningZh": "[襯衫] 乾了",
+    "kana": "かわきます [シャツが～] |ます| / かわく[シャツが～] |辞|",
+    "meaningZh": "Ⅰ 自 [襯衫] 乾了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+    },
+    "kanji": "乾きます [シャツが～] / 乾く[シャツが～]"
   },
   {
     "id": "y3-l44-v005",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "ぬれます [シャツが～]",
-    "meaningZh": "[襯衫] 濕了",
+    "kana": "ぬれます [シャツが～] |ます| / ぬれる |辞|",
+    "meaningZh": "Ⅱ 自 [襯衫] 濕了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+    },
+    "kanji": "-"
   },
   {
     "id": "y3-l44-v006",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "すべります",
-    "meaningZh": "滑",
+    "kana": "すべります |ます| / すべる |辞|",
+    "meaningZh": "Ⅰ 自 滑",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+    },
+    "kanji": "滑ります / 滑る"
   },
   {
     "id": "y3-l44-v007",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "おきます [じこが～]",
-    "meaningZh": "發生 [事故]",
+    "kana": "おきます [じこが～] |ます| / おきる[じこが～] |辞|",
+    "meaningZh": "Ⅱ 自 發生 [事故]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+    },
+    "kanji": "起きます [事故が～] / 起きる[事故が～]"
   },
   {
     "id": "y3-l44-v008",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "ちょうせつします",
-    "meaningZh": "調節",
+    "kana": "ちょうせつします |ます| / ちょうせつする |辞|",
+    "meaningZh": "Ⅲ 他 調節",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+    },
+    "kanji": "調節します / 調節する"
   },
   {
     "id": "y3-l44-v009",
@@ -162,6 +170,20 @@
     "lesson": 44,
     "kana": "おかず - 菜餚",
     "meaningZh": "菜餚",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
+    "id": "y3-l44-v042",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "りょう",
+    "kanji": "量",
+    "meaningZh": "量",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -364,6 +386,20 @@
     }
   },
   {
+    "id": "y3-l44-v043",
+    "schoolYear": 3,
+    "book": "初級 II",
+    "lesson": 44,
+    "kana": "～みたいにしてください。",
+    "kanji": "-",
+    "meaningZh": "請做成像～的樣子。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+    }
+  },
+  {
     "id": "y3-l44-v029",
     "schoolYear": 3,
     "book": "初級 II",
@@ -533,4 +569,3 @@
     }
   }
 ]
-
