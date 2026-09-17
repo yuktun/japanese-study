@@ -6,7 +6,7 @@ const root=resolve(import.meta.dirname,'..');
 const manifest=JSON.parse(await readFile(resolve(root,'data/manifest.json'),'utf8'));
 const coreAssets=[
   'index.html','styles.css','manifest.webmanifest','assets/japanese-study-icon.png','app.js',
-  'src/flashcard-review.mjs','src/curriculum-order.mjs','src/pwa-client.mjs','data/manifest.json','data/course-map.json',
+  'src/flashcard-review.mjs','src/curriculum-order.mjs','src/pwa-client.mjs','src/japanese-speech.mjs','data/manifest.json','data/course-map.json',
   'data/conjugation/forms.json','data/conjugation/verbs.json','data/conjugation/keigo.json','data/conjugation/quick-reference.json','data/conjugation/plain-forms.json','data/conjugation/derived-forms.json'
 ];
 const lessonAssets=[...new Set(manifest.lessons.flatMap(lesson=>['vocabulary','grammar','reference'].map(key=>lesson[key]).filter(Boolean).map(path=>path.replace(/^\.\//,''))))];

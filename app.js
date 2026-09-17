@@ -1,10 +1,10 @@
 import {filterReviewDeck,normalizeReviewProgress,resetReviewStatuses,reviewCounts,reviewKeyFor,reviewRecordFor,sequenceForReviewMode,setReviewStatus,toggleReviewBookmark} from './src/flashcard-review.mjs?v=flashcard-mode-reset-1';
 import {orderCurriculumLessons} from './src/curriculum-order.mjs?v=curriculum-order-1';
 import {initialisePwa} from './src/pwa-client.mjs?v=pwa-1';
+import {configureJapanesePlaybackAudioSession} from './src/japanese-speech.mjs?v=ios-audio-session-1';
 
 const REVIEW_STORAGE_KEY='jp-study-flashcard-review-progress';
 const state={all:[],references:[],lessons:[],scopeDeck:[],deck:[],index:0,revealed:false,quickSeen:0,type:'all',direction:'ja-zh',year:null,lesson:null,orderMode:localStorage.getItem('jp-study-card-order-mode')==='random'?'random':'sequential',reviewFilter:'all',reviewProgress:normalizeReviewProgress(readJsonStorage(REVIEW_STORAGE_KEY,{})),view:'review',library:{query:'',years:[],lessons:[],types:[]}};
-let fallbackAudio=null;
 const $=selector=>document.querySelector(selector);
 const $$=selector=>[...document.querySelectorAll(selector)];
 const escapeHtml=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
@@ -201,8 +201,19 @@ function answerBackHtml(item,japanese,reverse){
 function speakerButton(){return '<button class="speak-button" data-speak type="button" aria-label="播放日文發音" title="播放日文發音"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4.03v8.05A4.5 4.5 0 0 0 16.5 12zm-2.5-8.7v2.06a7 7 0 0 1 0 13.28v2.06a9 9 0 0 0 0-17.4z"/></svg></button>';}
 function bindSpeakButtons(text){$$('#flashcard [data-speak]').forEach(button=>button.addEventListener('click',event=>{event.stopPropagation();speakJapanese(text);}));}
 function speakJapanese(text){
-  if('speechSynthesis'in window){window.speechSynthesis.cancel();const utterance=new SpeechSynthesisUtterance(text);utterance.lang='ja-JP';utterance.rate=.86;const voice=window.speechSynthesis.getVoices().find(item=>item.lang.toLowerCase().startsWith('ja'));if(voice)utterance.voice=voice;window.speechSynthesis.speak(utterance);return;}
-  if(fallbackAudio)fallbackAudio.pause();fallbackAudio=new Audio(`https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=ja&q=${encodeURIComponent(text)}`);fallbackAudio.play().catch(()=>showToast('語音暫時播放唔到，請稍後再試。'));
+  if(!('speechSynthesis'in window)||!('SpeechSynthesisUtterance'in window)){showToast('呢個瀏覽器未支援日文語音。');return;}
+  // On supported iOS versions, playback prevents a pronunciation request from
+  // being routed through the silent/ambient audio session. Reapply at start in
+  // case the speech engine has changed the session while a prior request ended.
+  configureJapanesePlaybackAudioSession();
+  window.speechSynthesis.cancel();
+  const utterance=new SpeechSynthesisUtterance(text);
+  utterance.lang='ja-JP';
+  utterance.rate=.86;
+  utterance.onstart=()=>configureJapanesePlaybackAudioSession();
+  const voice=window.speechSynthesis.getVoices().find(item=>item.lang.toLowerCase().startsWith('ja'));
+  if(voice)utterance.voice=voice;
+  window.speechSynthesis.speak(utterance);
 }
 function revealCard(){if(state.revealed||state.index>=state.deck.length)return;state.revealed=true;$('#flashcard').classList.add('is-flipped');$('#flashcard').setAttribute('aria-label','答案已顯示');renderAnswerActions();}
 function hideAnswer(){if(!state.revealed)return;state.revealed=false;$('#flashcard').classList.remove('is-flipped');$('#flashcard').setAttribute('aria-label','溫習卡，按下顯示答案');renderAnswerActions();}
