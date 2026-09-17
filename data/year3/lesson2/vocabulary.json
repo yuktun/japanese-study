@@ -4,12 +4,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "インタビューする |辞|",
-    "meaningZh": "採訪",
-    "category": "source_migrated",
+    "sourceOrder": 1,
+    "section": "文法・練習",
+    "kana": "ふく［ガラスを～］",
+    "meaningZh": "擦［～玻璃］",
+    "category": "動詞",
+    "notes": "Ⅰ 他; ます形: ふきます［ガラスを～］",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -17,12 +21,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "たんとうする |辞|",
-    "meaningZh": "負責、擔任",
-    "category": "source_migrated",
+    "sourceOrder": 2,
+    "section": "文法・練習",
+    "kana": "けっか",
+    "kanji": "結果",
+    "meaningZh": "結果",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -30,12 +38,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "アルバイトさき アルバイト先 名詞 兼職處",
-    "meaningZh": "3 アルバイトさき アルバイト先 名詞 兼職處",
-    "category": "source_migrated",
+    "sourceOrder": 3,
+    "section": "文法・練習",
+    "kana": "がいらいご",
+    "kanji": "外来語",
+    "meaningZh": "外來語",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -43,12 +55,17 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "～さき ～先 名詞 ～處、～地",
-    "meaningZh": "4 ～さき ～先 名詞 ～處、～地",
-    "category": "source_migrated",
+    "sourceOrder": 4,
+    "section": "文法・練習",
+    "kana": "まもる［ちきゅうを～］",
+    "kanji": "守る［地球を～］",
+    "meaningZh": "保護［～地球］",
+    "category": "動詞",
+    "notes": "Ⅰ 他; ます形: まもります［ちきゅうを～］ / 守ります［地球を～］",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -56,12 +73,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "てんちょう 店長 名詞 店長、商店經理",
-    "meaningZh": "5 てんちょう 店長 名詞 店長、商店經理",
-    "category": "source_migrated",
+    "sourceOrder": 5,
+    "section": "文法・練習",
+    "kana": "ソフトウェア",
+    "meaningZh": "軟件",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -69,12 +89,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "けんしゅう 研修 名詞 研修、實習",
-    "meaningZh": "6 けんしゅう 研修 名詞 研修、實習",
-    "category": "source_migrated",
+    "sourceOrder": 6,
+    "section": "文法・練習",
+    "kana": "メール",
+    "meaningZh": "信件、電子郵件",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -82,12 +105,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "はなしあう |辞|",
-    "meaningZh": "商量、協商",
-    "category": "source_migrated",
+    "sourceOrder": 7,
+    "section": "文法・練習",
+    "kana": "ゆうびん",
+    "kanji": "郵便",
+    "meaningZh": "郵政、郵件、郵寄",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -95,12 +122,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "つうきんする |辞|",
-    "meaningZh": "上下班",
-    "category": "source_migrated",
+    "sourceOrder": 8,
+    "section": "文法・練習",
+    "kana": "イーメール",
+    "kanji": "Eメール",
+    "meaningZh": "電子郵件",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -108,12 +139,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "これまで - 副詞 至今",
-    "meaningZh": "副詞 至今",
-    "category": "source_migrated",
+    "sourceOrder": 9,
+    "section": "文法・練習",
+    "kana": "プレイガイド",
+    "meaningZh": "（預售文藝演出、體育比賽等門票的）票務中心",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -121,12 +155,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "へらす |辞|",
-    "meaningZh": "減少",
-    "category": "source_migrated",
+    "sourceOrder": 10,
+    "section": "文法・練習",
+    "kana": "えいよう",
+    "kanji": "栄養",
+    "meaningZh": "營養",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -134,12 +172,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "ひっこす |辞|",
-    "meaningZh": "搬家",
-    "category": "source_migrated",
+    "sourceOrder": 11,
+    "section": "文法・練習",
+    "kana": "カロリー",
+    "meaningZh": "卡路里（計算熱量的單位）",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -147,12 +188,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "～かこく ～か国 名詞 ～個國家",
-    "meaningZh": "12 ～かこく ～か国 名詞 ～個國家",
-    "category": "source_migrated",
+    "sourceOrder": 12,
+    "section": "文法・練習",
+    "kana": "エコ",
+    "meaningZh": "有環保意識的",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -160,12 +204,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "かてい 家庭 名詞 家庭",
-    "meaningZh": "13 かてい 家庭 名詞 家庭",
-    "category": "source_migrated",
+    "sourceOrder": 13,
+    "section": "文法・練習",
+    "kana": "かんきょう",
+    "kanji": "環境",
+    "meaningZh": "環境",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -173,12 +221,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "じじょう 事情 名詞 情況、有事(發生)",
-    "meaningZh": "14 じじょう 事情 名詞 情況、有事(發生)",
-    "category": "source_migrated",
+    "sourceOrder": 14,
+    "section": "文法・練習",
+    "kana": "アポ",
+    "meaningZh": "預約（與人見面）",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -186,12 +237,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "ようちえん 幼稚園 名詞 幼稚園",
-    "meaningZh": "15 ようちえん 幼稚園 名詞 幼稚園",
-    "category": "source_migrated",
+    "sourceOrder": 15,
+    "section": "文法・練習",
+    "kana": "しょうエネ",
+    "kanji": "省エネ",
+    "meaningZh": "節能",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -199,12 +254,17 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "ひるねする |辞|",
-    "meaningZh": "午睡",
-    "category": "source_migrated",
+    "sourceOrder": 16,
+    "section": "文法・練習",
+    "kana": "がくしゅうする",
+    "kanji": "学習する",
+    "meaningZh": "學習",
+    "category": "動詞",
+    "notes": "Ⅲ 他; ます形: がくしゅうします / 学習します",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 1
     }
   },
   {
@@ -212,12 +272,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "らいしゃ 来社 名詞 來公司",
-    "meaningZh": "18 らいしゃ 来社 名詞 來公司",
-    "category": "source_migrated",
+    "sourceOrder": 17,
+    "section": "文法・練習",
+    "kana": "きじ",
+    "kanji": "記事",
+    "meaningZh": "（報刊雜誌的）文章、新聞報導",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -225,12 +289,17 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "しんせいひん 新製品 名詞 新產品",
-    "meaningZh": "19 しんせいひん 新製品 名詞 新產品",
-    "category": "source_migrated",
+    "sourceOrder": 18,
+    "section": "文法・練習",
+    "kana": "わける［ごみを～］",
+    "kanji": "分ける",
+    "meaningZh": "分類［將垃圾分類］",
+    "category": "動詞",
+    "notes": "Ⅱ 他; ます形: わけます［ごみを～］ / 分けます［ごみを～］",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -238,12 +307,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "しん～ 新～ 名詞 新的～ (剛做出來的",
-    "meaningZh": "、最新的)",
-    "category": "source_migrated",
+    "sourceOrder": 19,
+    "section": "文法・練習",
+    "kana": "うわさ",
+    "meaningZh": "謠言、傳言",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -251,12 +323,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "はっぴょうかい 発表会 名詞 發佈會",
-    "meaningZh": "21 はっぴょうかい 発表会 名詞 發佈會",
-    "category": "source_migrated",
+    "sourceOrder": 20,
+    "section": "文法・練習",
+    "kana": "あたり",
+    "kanji": "辺り",
+    "meaningZh": "一帶、附近",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -264,12 +340,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "いつまでも - 副詞 一直、永遠",
-    "meaningZh": "副詞 一直、永遠",
-    "category": "source_migrated",
+    "sourceOrder": 21,
+    "section": "文法・練習",
+    "kana": "アドバイス",
+    "meaningZh": "建議",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -277,12 +356,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "けいき 景気 名詞 景氣",
-    "meaningZh": "23 けいき 景気 名詞 景氣",
-    "category": "source_migrated",
+    "sourceOrder": 22,
+    "section": "文法・練習",
+    "kana": "じけん",
+    "kanji": "事件",
+    "meaningZh": "案件、刑事案件",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -290,12 +373,17 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "これいじょう これ以上 副詞 再、更加",
-    "meaningZh": "24 これいじょう これ以上 副詞 再、更加",
-    "category": "source_migrated",
+    "sourceOrder": 23,
+    "section": "文法・練習",
+    "kana": "うばう",
+    "kanji": "奪う",
+    "meaningZh": "搶奪",
+    "category": "動詞",
+    "notes": "Ⅰ 他; ます形: うばいます / 奪います",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -303,12 +391,17 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "もり 森 名詞 森林",
-    "meaningZh": "25 もり 森 名詞 森林",
-    "category": "source_migrated",
+    "sourceOrder": 24,
+    "section": "文法・練習",
+    "kana": "ほす",
+    "kanji": "干す",
+    "meaningZh": "曬、晾",
+    "category": "動詞",
+    "notes": "Ⅰ 他; ます形: ほします / 干します",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -316,12 +409,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "うける",
-    "meaningZh": "接受 (接受採訪)",
-    "category": "source_migrated",
+    "sourceOrder": 25,
+    "section": "文法・練習",
+    "kana": "いがい",
+    "kanji": "以外",
+    "meaningZh": "除了～以外（[3]+以外）",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -329,12 +426,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "ようぼう 要望 名詞 要求、 期望",
-    "meaningZh": "27 ようぼう 要望 名詞 要求、 期望",
-    "category": "source_migrated",
+    "sourceOrder": 26,
+    "section": "文法・練習",
+    "kana": "つく［うそを～］",
+    "meaningZh": "撒［撒謊、説謊］",
+    "category": "動詞",
+    "notes": "Ⅰ 他; ます形: つきます［うそを～］",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -342,12 +443,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "ほんとうは 本当は 副詞 說真的",
-    "meaningZh": "28 ほんとうは 本当は 副詞 說真的",
-    "category": "source_migrated",
+    "sourceOrder": 27,
+    "section": "文法・練習",
+    "kana": "ロボット",
+    "meaningZh": "機器人",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -355,12 +459,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "おとなしい - い形",
-    "meaningZh": "い形",
-    "category": "source_migrated",
+    "sourceOrder": 28,
+    "section": "文法・練習",
+    "kana": "ほんもの",
+    "kanji": "本物",
+    "meaningZh": "真正的（東西）、實物",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -368,12 +476,17 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "こえ [しみんの] 声 [市民の～] 名詞 聲音 (市民的心聲)",
-    "meaningZh": "30 こえ [しみんの] 声 [市民の～] 名詞 聲音 (市民的心聲)",
-    "category": "source_migrated",
+    "sourceOrder": 29,
+    "section": "文法・練習",
+    "kana": "とぶ［そらを～］",
+    "kanji": "飛ぶ［空を～］",
+    "meaningZh": "飛［在天上飛］",
+    "category": "動詞",
+    "notes": "Ⅰ 自; ます形: とびます［そらを～］ / 飛びます［空を～］",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -381,12 +494,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "しゃべる |辞|",
-    "meaningZh": "說、說話",
-    "category": "source_migrated",
+    "sourceOrder": 30,
+    "section": "文法・練習",
+    "kana": "オレンジ",
+    "meaningZh": "橙子",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -394,12 +510,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "ふる [かのじょを～]",
-    "meaningZh": "拋棄 (拋棄她)",
-    "category": "source_migrated",
+    "sourceOrder": 31,
+    "section": "文法・練習",
+    "kana": "パジャマ",
+    "meaningZh": "睡衣褲",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -407,12 +526,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "ティーシャツ Tシャツ 名詞 T 恤",
-    "meaningZh": "33 ティーシャツ Tシャツ 名詞 T 恤",
-    "category": "source_migrated",
+    "sourceOrder": 32,
+    "section": "文法・練習",
+    "kana": "しかくい",
+    "kanji": "四角い",
+    "meaningZh": "四角形的",
+    "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -420,12 +543,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "かず 数 名詞 數量",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
-    "category": "source_migrated",
+    "sourceOrder": 33,
+    "section": "文法・練習",
+    "kana": "うで",
+    "kanji": "腕",
+    "meaningZh": "手腕、手臂、胳膊",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -433,12 +560,17 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "きる [でんわを～] |辞|",
-    "meaningZh": "掛斷（電話）",
-    "category": "source_migrated",
+    "sourceOrder": 34,
+    "section": "文法・練習",
+    "kana": "つける［うでに～］",
+    "kanji": "つける［腕に～］",
+    "meaningZh": "戴［戴在手腕上］",
+    "category": "動詞",
+    "notes": "Ⅱ 他; ます形: つけます［うでに～］ / つけます［腕に～］",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -446,12 +578,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "きょうじゅ 教授 名詞 教授",
-    "meaningZh": "37 きょうじゅ 教授 名詞 教授",
-    "category": "source_migrated",
+    "sourceOrder": 35,
+    "section": "文法・練習",
+    "kana": "ふるさと",
+    "meaningZh": "故鄉、家鄉",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 2
     }
   },
   {
@@ -459,12 +594,17 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "わざわざ - 副詞 特意",
-    "meaningZh": "副詞 特意",
-    "category": "source_migrated",
+    "sourceOrder": 36,
+    "section": "話す・聞く",
+    "kana": "はなしかける",
+    "kanji": "話しかける",
+    "meaningZh": "（跟別人）搭話",
+    "category": "動詞",
+    "notes": "Ⅱ 自; ます形: はなしかけます / 話しかけます",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 3
     }
   },
   {
@@ -472,12 +612,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "とる [じかんを～] |辞|",
-    "meaningZh": "留出、騰出",
-    "category": "source_migrated",
+    "sourceOrder": 37,
+    "section": "話す・聞く",
+    "kana": "ふざいれんらくひょう",
+    "kanji": "不在連絡票",
+    "meaningZh": "招領通知單（收件人不在家聯絡單）",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 3
     }
   },
   {
@@ -485,12 +629,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "できれば - 副詞 如果可以的話",
-    "meaningZh": "副詞 如果可以的話",
-    "category": "source_migrated",
+    "sourceOrder": 38,
+    "section": "話す・聞く",
+    "kana": "～たく",
+    "kanji": "～宅",
+    "meaningZh": "（某先生的）府上、宅第",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 3
     }
   },
   {
@@ -498,12 +646,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "へんこうする |辞|",
-    "meaningZh": "變更、更改",
-    "category": "source_migrated",
+    "sourceOrder": 39,
+    "section": "話す・聞く",
+    "kana": "こうじ",
+    "kanji": "工事",
+    "meaningZh": "工程、施工",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 3
     }
   },
   {
@@ -511,12 +663,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "きゅうよう 急用 名詞 急事",
-    "meaningZh": "42 きゅうよう 急用 名詞 急事",
-    "category": "source_migrated",
+    "sourceOrder": 40,
+    "section": "話す・聞く",
+    "kana": "きゅうじつ",
+    "kanji": "休日",
+    "meaningZh": "假日",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 3
     }
   },
   {
@@ -524,12 +680,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "きにする |辞|",
-    "meaningZh": "在意、放心上",
-    "category": "source_migrated",
+    "sourceOrder": 41,
+    "section": "話す・聞く",
+    "kana": "だんすい",
+    "kanji": "断水",
+    "meaningZh": "停水",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 3
     }
   },
   {
@@ -537,12 +697,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "とりひきさき 取引先 名詞 客戶",
-    "meaningZh": "44 とりひきさき 取引先 名詞 客戶",
-    "category": "source_migrated",
+    "sourceOrder": 42,
+    "section": "話す・聞く",
+    "kana": "お忙しいところ……。",
+    "meaningZh": "在您百忙當中打擾了，……。一邊在意著對方的狀況，一邊搭話。",
+    "category": "フレーズ",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 3
     }
   },
   {
@@ -550,12 +713,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "がくせいよう 学生用 名詞 學生用的",
-    "meaningZh": "45 がくせいよう 学生用 名詞 學生用的",
-    "category": "source_migrated",
+    "sourceOrder": 43,
+    "section": "話す・聞く",
+    "kana": "それで……。",
+    "meaningZh": "那後來呢……。那麼……。聽到對方說起某件事後，催促對方繼續把話說完。",
+    "category": "フレーズ",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 3
     }
   },
   {
@@ -563,12 +729,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "～よう [がくせい～] ～用 [学生～] 名詞 ～用",
-    "meaningZh": "46 ～よう [がくせい～] ～用 [学生～] 名詞 ～用",
-    "category": "source_migrated",
+    "sourceOrder": 44,
+    "section": "読む・書く",
+    "kana": "僕自身もそうだけど、……。",
+    "meaningZh": "我本人也是的，……。",
+    "category": "フレーズ",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 3
     }
   },
   {
@@ -576,12 +745,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "コンピューターしつ コンピューター室 名詞 電腦室",
-    "meaningZh": "47 コンピューターしつ コンピューター室 名詞 電腦室",
-    "category": "source_migrated",
+    "sourceOrder": 45,
+    "section": "読む・書く",
+    "kana": "何が何だかわからない。",
+    "meaningZh": "完全搞不憧。",
+    "category": "フレーズ",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 3
     }
   },
   {
@@ -589,12 +761,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "～しつ ～室 名詞 ～室",
-    "meaningZh": "48 ～しつ ～室 名詞 ～室",
-    "category": "source_migrated",
+    "sourceOrder": 46,
+    "section": "読む・書く",
+    "kana": "リモコン",
+    "meaningZh": "遙控器",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 3
     }
   },
   {
@@ -602,12 +777,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "じゅうたい 渋滞 名詞 塞車",
-    "meaningZh": "49 じゅうたい 渋滞 名詞 塞車",
-    "category": "source_migrated",
+    "sourceOrder": 47,
+    "section": "読む・書く",
+    "kana": "ロボコン",
+    "meaningZh": "機器人競賽",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 3
     }
   },
   {
@@ -615,12 +793,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "お電話、代わりました",
-    "meaningZh": "話時使用。)",
-    "category": "source_migrated",
+    "sourceOrder": 48,
+    "section": "読む・書く",
+    "kana": "にがて［な］",
+    "kanji": "苦手［な］",
+    "meaningZh": "不擅長［的］",
+    "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 3
     }
   },
   {
@@ -628,12 +810,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "どうかしましたか。 - フレ",
-    "meaningZh": "フレ",
-    "category": "source_migrated",
+    "sourceOrder": 49,
+    "section": "読む・書く",
+    "kana": "まぎらわしい",
+    "kanji": "紛らわしい",
+    "meaningZh": "容易混淆的、難以區別的",
+    "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 3
     }
   },
   {
@@ -641,12 +827,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "わざわざ～ていただい",
-    "meaningZh": "，沒想到……。",
-    "category": "source_migrated",
+    "sourceOrder": 50,
+    "section": "読む・書く",
+    "kana": "せいかく［な］",
+    "kanji": "正確［な］",
+    "meaningZh": "正確［的］、準確［的］",
+    "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 3
     }
   },
   {
@@ -654,12 +844,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "困りましたね。 - フレ",
-    "meaningZh": "フレ",
-    "category": "source_migrated",
+    "sourceOrder": 51,
+    "section": "読む・書く",
+    "kana": "バランス",
+    "meaningZh": "平衡",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -667,12 +860,17 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "おいでください。 - フレ",
-    "meaningZh": "フレ",
-    "category": "source_migrated",
+    "sourceOrder": 52,
+    "section": "読む・書く",
+    "kana": "ひく［せんを～］",
+    "kanji": "引く［線を～］",
+    "meaningZh": "劃［～線］",
+    "category": "動詞",
+    "notes": "Ⅰ 他; ます形: ひきます［せんを～］ / 引きます［線を～］",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -680,12 +878,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "申し訳ありませんでし",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
-    "category": "source_migrated",
+    "sourceOrder": 53,
+    "section": "読む・書く",
+    "kana": "ひっしゃ",
+    "kanji": "筆者",
+    "meaningZh": "筆者",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -693,12 +895,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "しゅんかん 瞬間 名詞 瞬間、一剎那",
-    "meaningZh": "57 しゅんかん 瞬間 名詞 瞬間、一剎那",
-    "category": "source_migrated",
+    "sourceOrder": 54,
+    "section": "読む・書く",
+    "kana": "いまだに",
+    "meaningZh": "現在仍舊、至今仍然",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -706,12 +911,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "いしき 意識 名詞 認識、意識",
-    "meaningZh": "58 いしき 意識 名詞 認識、意識",
-    "category": "source_migrated",
+    "sourceOrder": 55,
+    "section": "読む・書く",
+    "kana": "とんでもない",
+    "meaningZh": "1.（本課）沒這回事 2.毫無道理 3.哪兒的話",
+    "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -719,12 +927,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "アンケート - 名詞 問卷調查",
-    "meaningZh": "名詞 問卷調查",
-    "category": "source_migrated",
+    "sourceOrder": 56,
+    "section": "読む・書く",
+    "kana": "うちゅうじん",
+    "kanji": "宇宙人",
+    "meaningZh": "外星人",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -732,12 +944,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "ちょうさ 調査 名詞 調查",
-    "meaningZh": "60 ちょうさ 調査 名詞 調查",
-    "category": "source_migrated",
+    "sourceOrder": 57,
+    "section": "読む・書く",
+    "kana": "まったく",
+    "kanji": "全く",
+    "meaningZh": "完全",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -745,12 +961,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "けいこう 傾向 名詞 傾向",
-    "meaningZh": "61 けいこう 傾向 名詞 傾向",
-    "category": "source_migrated",
+    "sourceOrder": 58,
+    "section": "読む・書く",
+    "kana": "べつの",
+    "kanji": "別の",
+    "meaningZh": "別的",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -758,12 +978,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "さける |辞|",
-    "meaningZh": "避免",
-    "category": "source_migrated",
+    "sourceOrder": 59,
+    "section": "読む・書く",
+    "kana": "～じしん",
+    "kanji": "～自身",
+    "meaningZh": "～本人、～自身",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -771,12 +995,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "ひかんてき [な] 悲観的 [な] な形",
-    "meaningZh": "悲觀 [的]",
-    "category": "source_migrated",
+    "sourceOrder": 60,
+    "section": "読む・書く",
+    "kana": "ゆうじん",
+    "kanji": "友人",
+    "meaningZh": "朋友、友人",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -784,12 +1012,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "グラフ - 名詞 圖表、表",
-    "meaningZh": "名詞 圖表、表",
-    "category": "source_migrated",
+    "sourceOrder": 61,
+    "section": "読む・書く",
+    "kana": "また",
+    "meaningZh": "又、再",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -797,12 +1028,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "とき 時 名詞 時間、時候",
-    "meaningZh": "65 とき 時 名詞 時間、時候",
-    "category": "source_migrated",
+    "sourceOrder": 62,
+    "section": "読む・書く",
+    "kana": "ライス",
+    "meaningZh": "米飯",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -810,12 +1044,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "さいこうに 最高に 副詞 最",
-    "meaningZh": "66 さいこうに 最高に 副詞 最",
-    "category": "source_migrated",
+    "sourceOrder": 63,
+    "section": "読む・書く",
+    "kana": "アドレス",
+    "meaningZh": "地址、住址、電子郵箱地址",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -823,12 +1060,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "もうひとつ もう一つ 其他 還有一個、另一個",
-    "meaningZh": "67 もうひとつ もう一つ 其他 還有一個、另一個",
-    "category": "source_migrated",
+    "sourceOrder": 64,
+    "section": "読む・書く",
+    "kana": "メールアドレス",
+    "meaningZh": "電子郵箱地址",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -836,12 +1076,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "あいだ - 名詞 ～期間",
-    "meaningZh": "名詞 ～期間",
-    "category": "source_migrated",
+    "sourceOrder": 65,
+    "section": "読む・書く",
+    "kana": "プレゼン",
+    "meaningZh": "口頭發表",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -849,12 +1092,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "ぜんしゃ 前者 名詞 前者",
-    "meaningZh": "69 ぜんしゃ 前者 名詞 前者",
-    "category": "source_migrated",
+    "sourceOrder": 66,
+    "section": "読む・書く",
+    "kana": "アイデンティティ",
+    "meaningZh": "身分（自我認識）",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -862,12 +1108,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "こうしゃ 後者 名詞 後者",
-    "meaningZh": "70 こうしゃ 後者 名詞 後者",
-    "category": "source_migrated",
+    "sourceOrder": 67,
+    "section": "読む・書く",
+    "kana": "コンプライアンス",
+    "meaningZh": "遵守，服從（法律、法規、規則等）",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -875,12 +1124,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "やはり - 副詞 仍然、還是",
-    "meaningZh": "副詞 仍然、還是",
-    "category": "source_migrated",
+    "sourceOrder": 68,
+    "section": "読む・書く",
+    "kana": "たとえば",
+    "kanji": "例えば",
+    "meaningZh": "比如、比方説",
+    "category": "接続詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -888,12 +1141,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "こい 恋 名詞 戀愛",
-    "meaningZh": "4 / 573 しあわせ 幸せ 名詞 幸福",
-    "category": "source_migrated",
+    "sourceOrder": 69,
+    "section": "読む・書く",
+    "kana": "ポリシー",
+    "meaningZh": "原則；方針",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -901,12 +1157,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "かんじる |辞|",
-    "meaningZh": "感覺、覺得",
-    "category": "source_migrated",
+    "sourceOrder": 70,
+    "section": "読む・書く",
+    "kana": "ばあい",
+    "kanji": "場合",
+    "meaningZh": "場合、情況",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -914,12 +1174,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "ねぼうする |辞|",
-    "meaningZh": "睡懶覺、睡過頭",
-    "category": "source_migrated",
+    "sourceOrder": 71,
+    "section": "読む・書く",
+    "kana": "パーセント",
+    "kanji": "％",
+    "meaningZh": "百分比",
+    "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -927,12 +1191,16 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "きけん 危険 名詞 危險",
-    "meaningZh": "76 きけん 危険 名詞 危險",
-    "category": "source_migrated",
+    "sourceOrder": 72,
+    "section": "読む・書く",
+    "kana": "ふつうに",
+    "kanji": "普通に",
+    "meaningZh": "一般",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 4
     }
   },
   {
@@ -940,12 +1208,15 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "ねがお 寝顔 名詞 睡臉",
-    "meaningZh": "77 ねがお 寝顔 名詞 睡臉",
-    "category": "source_migrated",
+    "sourceOrder": 73,
+    "section": "読む・書く",
+    "kana": "いまさら",
+    "meaningZh": "現在才、事到如今",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 5
     }
   },
   {
@@ -953,13 +1224,85 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 2,
-    "kana": "東北 - 固有",
-    "meaningZh": "固有",
-    "category": "source_migrated",
+    "sourceOrder": 74,
+    "section": "読む・書く",
+    "kana": "ひつよう",
+    "kanji": "必要",
+    "meaningZh": "必要",
+    "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv2_ch2.pdf.pdf"
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 5
+    }
+  },
+  {
+    "id": "y3-l2-v075",
+    "schoolYear": 3,
+    "book": "中級 I",
+    "lesson": 2,
+    "sourceOrder": 75,
+    "section": "読む・書く",
+    "kana": "なくてはならない",
+    "meaningZh": "必須、不可或缺的",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 5
+    }
+  },
+  {
+    "id": "y3-l2-v076",
+    "schoolYear": 3,
+    "book": "中級 I",
+    "lesson": 2,
+    "sourceOrder": 76,
+    "section": "読む・書く",
+    "kana": "とる［バランスを～］",
+    "kanji": "取る［バランスを～］",
+    "meaningZh": "取得［～平衡］",
+    "category": "動詞",
+    "notes": "Ⅰ 他; ます形: とります［バランスを～］ / 取ります［バランスを～］",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 5
+    }
+  },
+  {
+    "id": "y3-l2-v077",
+    "schoolYear": 3,
+    "book": "中級 I",
+    "lesson": 2,
+    "sourceOrder": 77,
+    "section": "読む・書く",
+    "kana": "ぶんしょう",
+    "kanji": "文章",
+    "meaningZh": "文章",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 5
+    }
+  },
+  {
+    "id": "y3-l2-v078",
+    "schoolYear": 3,
+    "book": "中級 I",
+    "lesson": 2,
+    "sourceOrder": 78,
+    "section": "読む・書く",
+    "kana": "くらべる",
+    "kanji": "比べる",
+    "meaningZh": "比較",
+    "category": "動詞",
+    "notes": "Ⅱ 他; ます形: くらべます / 比べます",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch2.pdf.pdf",
+      "page": 5
     }
   }
 ]
-
