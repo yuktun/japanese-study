@@ -4,65 +4,70 @@
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "おろします",
-    "meaningZh": "放下來、卸下來",
+    "kana": "おろします |ます| / おろす |辞|",
+    "meaningZh": "Ⅰ 他 放下來、卸下來",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+    },
+    "kanji": "降ろします、下ろします / 降ろす、下ろす"
   },
   {
     "id": "y3-l48-v002",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "とどけます",
-    "meaningZh": "遞送、送到",
+    "kana": "とどけます |ます| / とどける |辞|",
+    "meaningZh": "Ⅱ 他 遞送、送到",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+    },
+    "kanji": "届けます / 届ける"
   },
   {
     "id": "y3-l48-v003",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "せわをします",
-    "meaningZh": "照顧、照料",
+    "kana": "せわをします |ます| / せわをする |辞|",
+    "meaningZh": "Ⅲ 他 照顧、照料",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+    },
+    "kanji": "世話をします / 世話をする"
   },
   {
     "id": "y3-l48-v004",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "ろくおんします",
-    "meaningZh": "錄音",
+    "kana": "ろくおんします |ます| / ろくおんする |辞|",
+    "meaningZh": "Ⅲ 他 錄音",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+    },
+    "kanji": "録音します / 録音する"
   },
   {
     "id": "y3-l48-v005",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "たのしみます",
-    "meaningZh": "享受、享樂",
+    "kana": "たのしみます |ます| / たのしむ |辞|",
+    "meaningZh": "Ⅰ 他 享受、享樂",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+    },
+    "kanji": "楽しみます / 楽しむ"
   },
   {
     "id": "y3-l48-v006",
@@ -286,4 +291,3 @@
     }
   }
 ]
-
