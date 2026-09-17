@@ -4,798 +4,854 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "さんかします",
-    "meaningZh": "[りょこうに～] \r\nさんかする[りょこうに\r\n～] |辞|\r\n参加します [旅行に～]\r\n参加する[旅行に～]\r\nⅢ 自 參加 [旅行]",
+    "kana": "さんかします [りょこうに～] |ます| / さんかする[りょこうに～] |辞|",
+    "meaningZh": "Ⅲ 自 參加 [旅行]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "さんかします\r\n[りょこうに～] |ます|\r\nさんかする[りょこうに\r\n～] |辞|\r\n参加します [旅行に～]\r\n参加する[旅行に～]\r\nⅢ 自 參加 [旅行]"
+    "sourceText": "さんかします [りょこうに～] |ます| / さんかする[りょこうに～] |辞| / 参加します [旅行に～] / 参加する[旅行に～] / Ⅲ 自 參加 [旅行]",
+    "kanji": "参加します [旅行に～] / 参加する[旅行に～]"
   },
   {
     "id": "y2-l38-v002",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "そだてます",
-    "meaningZh": "そだてる |辞|\r\n育てます\r\n育てる\r\nⅡ 他 培育、養",
+    "kana": "そだてます |ます| / そだてる |辞|",
+    "meaningZh": "Ⅱ 他 培育、養",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "そだてます |ます|\r\nそだてる |辞|\r\n育てます\r\n育てる\r\nⅡ 他 培育、養"
+    "sourceText": "そだてます |ます| / そだてる |辞| / 育てます / 育てる / Ⅱ 他 培育、養",
+    "kanji": "育てます / 育てる"
   },
   {
     "id": "y2-l38-v003",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "はこびます",
-    "meaningZh": "はこぶ |辞|\r\n運びます\r\n運ぶ\r\nⅠ 他 搬、搬運",
+    "kana": "はこびます |ます| / はこぶ |辞|",
+    "meaningZh": "Ⅰ 他 搬、搬運",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "はこびます |ます|\r\nはこぶ |辞|\r\n運びます\r\n運ぶ\r\nⅠ 他 搬、搬運"
+    "sourceText": "はこびます |ます| / はこぶ |辞| / 運びます / 運ぶ / Ⅰ 他 搬、搬運",
+    "kanji": "運びます / 運ぶ"
   },
   {
     "id": "y2-l38-v004",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "にゅういんします",
-    "meaningZh": "にゅういんする |辞|\r\n入院します\r\n入院する\r\nⅢ 自 住院",
+    "kana": "にゅういんします |ます| / にゅういんする |辞|",
+    "meaningZh": "Ⅲ 自 住院",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "にゅういんします |ます|\r\nにゅういんする |辞|\r\n入院します\r\n入院する\r\nⅢ 自 住院"
+    "sourceText": "にゅういんします |ます| / にゅういんする |辞| / 入院します / 入院する / Ⅲ 自 住院",
+    "kanji": "入院します / 入院する"
   },
   {
     "id": "y2-l38-v005",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "たいいんします",
-    "meaningZh": "たいいんする |辞|\r\n退院します\r\n退院する\r\nⅢ 自 出院",
+    "kana": "たいいんします |ます| / たいいんする |辞|",
+    "meaningZh": "Ⅲ 自 出院",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "たいいんします |ます|\r\nたいいんする |辞|\r\n退院します\r\n退院する\r\nⅢ 自 出院"
+    "sourceText": "たいいんします |ます| / たいいんする |辞| / 退院します / 退院する / Ⅲ 自 出院",
+    "kanji": "退院します / 退院する"
   },
   {
     "id": "y2-l38-v006",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "いれます",
-    "meaningZh": "[でんげんを～] \r\nいれる[でんげんを～] \r\n|辞|\r\n入れます [電源を～]\r\n入れる[電源を～]\r\nⅡ 他 打開 [電源]",
+    "kana": "いれます [でんげんを～] |ます| / いれる[でんげんを～] |辞|",
+    "meaningZh": "Ⅱ 他 打開 [電源]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "いれます\r\n[でんげんを～] |ます|\r\nいれる[でんげんを～] \r\n|辞|\r\n入れます [電源を～]\r\n入れる[電源を～]\r\nⅡ 他 打開 [電源]"
+    "sourceText": "いれます [でんげんを～] |ます| / いれる[でんげんを～] |辞| / 入れます [電源を～] / 入れる[電源を～] / Ⅱ 他 打開 [電源]",
+    "kanji": "入れます [電源を～] / 入れる[電源を～]"
   },
   {
     "id": "y2-l38-v007",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "きります",
-    "meaningZh": "[でんげんを～] \r\nきる[でんげんを～] |辞|\r\n切ります [電源を～]\r\n切る[電源を～]\r\nⅠ 他 關上 [電源]",
+    "kana": "きります [でんげんを～] |ます| / きる[でんげんを～] |辞|",
+    "meaningZh": "Ⅰ 他 關上 [電源]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "きります\r\n[でんげんを～] |ます|\r\nきる[でんげんを～] |辞|\r\n切ります [電源を～]\r\n切る[電源を～]\r\nⅠ 他 關上 [電源]"
+    "sourceText": "きります [でんげんを～] |ます| / きる[でんげんを～] |辞| / 切ります [電源を～] / 切る[電源を～] / Ⅰ 他 關上 [電源]",
+    "kanji": "切ります [電源を～] / 切る[電源を～]"
   },
   {
     "id": "y2-l38-v008",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "かけます [かぎを～]",
-    "meaningZh": "かける[かぎを～] |辞|\r\n掛けます [かぎを～]\r\n掛ける[かぎを～]\r\nⅡ 他 上 [鎖]",
+    "kana": "かけます [かぎを～] |ます| / かける[かぎを～] |辞|",
+    "meaningZh": "Ⅱ 他 上 [鎖]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "かけます [かぎを～] \r\n|ます|\r\nかける[かぎを～] |辞|\r\n掛けます [かぎを～]\r\n掛ける[かぎを～]\r\nⅡ 他 上 [鎖]"
+    "sourceText": "かけます [かぎを～] |ます| / かける[かぎを～] |辞| / 掛けます [かぎを～] / 掛ける[かぎを～] / Ⅱ 他 上 [鎖]",
+    "kanji": "掛けます [かぎを～] / 掛ける[かぎを～]"
   },
   {
     "id": "y2-l38-v009",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "つきます [うそを～]",
-    "meaningZh": "つく[うそを～] |辞|\r\n- Ⅰ 他 說 [謊]",
+    "kana": "つきます [うそを～] |ます| / つく[うそを～] |辞|",
+    "meaningZh": "Ⅰ 他 說 [謊]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "つきます [うそを～] \r\n|ます|\r\nつく[うそを～] |辞|\r\n- Ⅰ 他 說 [謊]"
+    "sourceText": "つきます [うそを～] |ます| / つく[うそを～] |辞| / - / Ⅰ 他 說 [謊]",
+    "kanji": "-"
   },
   {
     "id": "y2-l38-v010",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "せいりします",
-    "meaningZh": "せいりする |辞|\r\n整理します\r\n整理する\r\nⅢ 他 整理、收拾",
+    "kana": "せいりします |ます| / せいりする |辞|",
+    "meaningZh": "Ⅲ 他 整理、收拾",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "せいりします |ます|\r\nせいりする |辞|\r\n整理します\r\n整理する\r\nⅢ 他 整理、收拾"
+    "sourceText": "せいりします |ます| / せいりする |辞| / 整理します / 整理する / Ⅲ 他 整理、收拾",
+    "kanji": "整理します / 整理する"
   },
   {
     "id": "y2-l38-v011",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "おします [はんこを～]",
-    "meaningZh": "おす[はんこを～] |辞|\r\n押します [はんこを～]\r\n押す[はんこを～]\r\nⅠ 他 蓋 [章]\r\n名詞\r\n平仮名/片仮名 漢字 中譯",
+    "kana": "おします [はんこを～] |ます| / おす[はんこを～] |辞|",
+    "meaningZh": "Ⅰ 他 蓋 [章]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "おします [はんこを～] \r\n|ます|\r\nおす[はんこを～] |辞|\r\n押します [はんこを～]\r\n押す[はんこを～]\r\nⅠ 他 蓋 [章]\r\n名詞\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "おします [はんこを～] |ます| / おす[はんこを～] |辞| / 押します [はんこを～] / 押す[はんこを～] / Ⅰ 他 蓋 [章]",
+    "kanji": "押します [はんこを～] / 押す[はんこを～]"
   },
   {
     "id": "y2-l38-v012",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "あかちゃん 赤ちゃん 嬰兒",
-    "meaningZh": "あかちゃん 赤ちゃん 嬰兒",
-    "category": "動詞",
+    "kana": "あかちゃん",
+    "meaningZh": "嬰兒",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "あかちゃん 赤ちゃん 嬰兒"
+    "sourceText": "あかちゃん / 赤ちゃん / 嬰兒",
+    "kanji": "赤ちゃん"
   },
   {
     "id": "y2-l38-v013",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "しょうがっこう 小学校 小學",
-    "meaningZh": "しょうがっこう 小学校 小學",
-    "category": "動詞",
+    "kana": "しょうがっこう",
+    "meaningZh": "小學",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "しょうがっこう 小学校 小學"
+    "sourceText": "しょうがっこう / 小学校 / 小學",
+    "kanji": "小学校"
   },
   {
     "id": "y2-l38-v014",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "ちゅうがっこう 中学校 初中",
-    "meaningZh": "ちゅうがっこう 中学校 初中",
-    "category": "動詞",
+    "kana": "ちゅうがっこう",
+    "meaningZh": "初中",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "ちゅうがっこう 中学校 初中"
+    "sourceText": "ちゅうがっこう / 中学校 / 初中",
+    "kanji": "中学校"
   },
   {
     "id": "y2-l38-v015",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "えきまえ 駅前 車站前",
-    "meaningZh": "えきまえ 駅前 車站前",
-    "category": "動詞",
+    "kana": "えきまえ",
+    "meaningZh": "車站前",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "えきまえ 駅前 車站前"
+    "sourceText": "えきまえ / 駅前 / 車站前",
+    "kanji": "駅前"
   },
   {
     "id": "y2-l38-v016",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "かいがん 海岸 海岸",
-    "meaningZh": "かいがん 海岸 海岸",
-    "category": "動詞",
+    "kana": "かいがん",
+    "meaningZh": "海岸",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "かいがん 海岸 海岸"
+    "sourceText": "かいがん / 海岸 / 海岸",
+    "kanji": "海岸"
   },
   {
     "id": "y2-l38-v017",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "こうじょう 工場 工廠",
-    "meaningZh": "こうじょう 工場 工廠",
-    "category": "動詞",
+    "kana": "こうじょう",
+    "meaningZh": "工廠",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "こうじょう 工場 工廠"
+    "sourceText": "こうじょう / 工場 / 工廠",
+    "kanji": "工場"
   },
   {
     "id": "y2-l38-v018",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "むら 村 村莊",
-    "meaningZh": "むら 村 村莊",
-    "category": "動詞",
+    "kana": "むら",
+    "meaningZh": "村莊",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "むら 村 村莊"
+    "sourceText": "むら / 村 / 村莊",
+    "kanji": "村"
   },
   {
     "id": "y2-l38-v019",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "かな - 假名（日文字母）",
-    "meaningZh": "かな - 假名（日文字母）",
-    "category": "動詞",
+    "kana": "かな",
+    "meaningZh": "假名（日文字母）",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "かな - 假名（日文字母）"
+    "sourceText": "かな / - / 假名（日文字母）",
+    "kanji": "-"
   },
   {
     "id": "y2-l38-v020",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "ゆびわ 指輪 戒指",
-    "meaningZh": "ゆびわ 指輪 戒指",
-    "category": "動詞",
+    "kana": "ゆびわ",
+    "meaningZh": "戒指",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "ゆびわ 指輪 戒指"
+    "sourceText": "ゆびわ / 指輪 / 戒指",
+    "kanji": "指輪"
   },
   {
     "id": "y2-l38-v021",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "でんげん 電源 電源",
-    "meaningZh": "でんげん 電源 電源",
-    "category": "動詞",
+    "kana": "でんげん",
+    "meaningZh": "電源",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "でんげん 電源 電源"
+    "sourceText": "でんげん / 電源 / 電源",
+    "kanji": "電源"
   },
   {
     "id": "y2-l38-v022",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "しゅうかん 習慣 習慣",
-    "meaningZh": "しゅうかん 習慣 習慣",
-    "category": "動詞",
+    "kana": "しゅうかん",
+    "meaningZh": "習慣",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "しゅうかん 習慣 習慣"
+    "sourceText": "しゅうかん / 習慣 / 習慣",
+    "kanji": "習慣"
   },
   {
     "id": "y2-l38-v023",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "けんこう 健康 健康",
-    "meaningZh": "けんこう 健康 健康",
-    "category": "動詞",
+    "kana": "けんこう",
+    "meaningZh": "健康",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "けんこう 健康 健康"
+    "sourceText": "けんこう / 健康 / 健康",
+    "kanji": "健康"
   },
   {
     "id": "y2-l38-v024",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "かいらん 回覧 傳閲文件",
-    "meaningZh": "かいらん 回覧 傳閲文件",
-    "category": "動詞",
+    "kana": "かいらん",
+    "meaningZh": "傳閲文件",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "かいらん 回覧 傳閲文件"
+    "sourceText": "かいらん / 回覧 / 傳閲文件",
+    "kanji": "回覧"
   },
   {
     "id": "y2-l38-v025",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "けんきゅうしつ 研究室 研究室",
-    "meaningZh": "けんきゅうしつ 研究室 研究室",
-    "category": "動詞",
+    "kana": "けんきゅうしつ",
+    "meaningZh": "研究室",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "けんきゅうしつ 研究室 研究室"
+    "sourceText": "けんきゅうしつ / 研究室 / 研究室",
+    "kanji": "研究室"
   },
   {
     "id": "y2-l38-v026",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "ほうほう 方法 方法",
-    "meaningZh": "ほうほう 方法 方法",
-    "category": "動詞",
+    "kana": "ほうほう",
+    "meaningZh": "方法",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "ほうほう 方法 方法"
+    "sourceText": "ほうほう / 方法 / 方法",
+    "kanji": "方法"
   },
   {
     "id": "y2-l38-v027",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "はんこ - 印章",
-    "meaningZh": "はんこ - 印章",
-    "category": "動詞",
+    "kana": "はんこ",
+    "meaningZh": "印章",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "はんこ - 印章"
+    "sourceText": "はんこ / - / 印章",
+    "kanji": "-"
   },
   {
     "id": "y2-l38-v028",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "おととし - 前年",
-    "meaningZh": "おととし - 前年",
-    "category": "動詞",
+    "kana": "おととし",
+    "meaningZh": "前年",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "おととし - 前年"
+    "sourceText": "おととし / - / 前年",
+    "kanji": "-"
   },
   {
     "id": "y2-l38-v029",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "～せい ～製 ～製造",
-    "meaningZh": "い形容詞\r\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "kana": "～せい",
+    "meaningZh": "～製造",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "～せい ～製 ～製造\r\nい形容詞\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "～せい / ～製 / ～製造",
+    "kanji": "～製"
   },
   {
     "id": "y2-l38-v030",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "きもちがいい 気持ちがいい 舒服",
-    "meaningZh": "きもちがいい 気持ちがいい 舒服",
-    "category": "動詞",
+    "kana": "きもちがいい",
+    "meaningZh": "舒服",
+    "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "きもちがいい 気持ちがいい 舒服"
+    "sourceText": "きもちがいい / 気持ちがいい / 舒服",
+    "kanji": "気持ちがいい"
   },
   {
     "id": "y2-l38-v031",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "きもちがわるい 気持ちが悪い 不舒服、噁心",
-    "meaningZh": "数量詞\r\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "kana": "きもちがわるい",
+    "meaningZh": "不舒服、噁心",
+    "category": "い形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "きもちがわるい 気持ちが悪い 不舒服、噁心\r\n数量詞\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "きもちがわるい / 気持ちが悪い / 不舒服、噁心",
+    "kanji": "気持ちが悪い"
   },
   {
     "id": "y2-l38-v032",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "－さつ －冊 一冊、一本",
-    "meaningZh": "副詞\r\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "kana": "－さつ",
+    "meaningZh": "一冊、一本",
+    "category": "数量詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "－さつ －冊 一冊、一本\r\n副詞\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "－さつ / －冊 / 一冊、一本",
+    "kanji": "－冊"
   },
   {
     "id": "y2-l38-v033",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "きちんと - 整整齊齊、好好地",
-    "meaningZh": "其他\r\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "kana": "きちんと",
+    "meaningZh": "整整齊齊、好好地",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "きちんと - 整整齊齊、好好地\r\n其他\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "きちんと / - / 整整齊齊、好好地",
+    "kanji": "-"
   },
   {
     "id": "y2-l38-v034",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "おおきな～ 大きな～ 大的（後面只接名詞）",
-    "meaningZh": "おおきな～ 大きな～ 大的（後面只接名詞）",
-    "category": "動詞",
+    "kana": "おおきな～",
+    "meaningZh": "大的（後面只接名詞）",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "おおきな～ 大きな～ 大的（後面只接名詞）"
+    "sourceText": "おおきな～ / 大きな～ / 大的（後面只接名詞）",
+    "kanji": "大きな～"
   },
   {
     "id": "y2-l38-v035",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "ちいさな～ 小さな～ 小的（後面只接名詞）",
-    "meaningZh": "ちいさな～ 小さな～ 小的（後面只接名詞）",
-    "category": "動詞",
+    "kana": "ちいさな～",
+    "meaningZh": "小的（後面只接名詞）",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "ちいさな～ 小さな～ 小的（後面只接名詞）"
+    "sourceText": "ちいさな～ / 小さな～ / 小的（後面只接名詞）",
+    "kanji": "小さな～"
   },
   {
     "id": "y2-l38-v036",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "～という - 叫～、名為～",
-    "meaningZh": "～という - 叫～、名為～",
-    "category": "動詞",
+    "kana": "～という",
+    "meaningZh": "叫～、名為～",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "～という - 叫～、名為～"
+    "sourceText": "～という / - / 叫～、名為～",
+    "kanji": "-"
   },
   {
     "id": "y2-l38-v037",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "[あ、] いけない。 - [啊，] 糟了。（用於做錯了",
-    "meaningZh": "什麽，或失敗時。）",
-    "category": "動詞",
+    "kana": "[あ、] いけない。",
+    "meaningZh": "[啊，] 糟了。（用於做錯了什麽，或失敗時。）",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "[あ、] いけない。 - [啊，] 糟了。（用於做錯了\r\n什麽，或失敗時。）"
+    "sourceText": "[あ、] いけない。 / - / [啊，] 糟了。（用於做錯了什麽，或失敗時。）",
+    "kanji": "-"
   },
   {
     "id": "y2-l38-v038",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "おさきに",
-    "meaningZh": "[しつれいします]。\r\nお先に [失礼します]。 我先告辭了。\r\n固有名詞\r\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "kana": "おさきに [しつれいします]。",
+    "meaningZh": "我先告辭了。",
+    "category": "其他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "おさきに\r\n[しつれいします]。\r\nお先に [失礼します]。 我先告辭了。\r\n固有名詞\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "おさきに [しつれいします]。 / お先に [失礼します]。 / 我先告辭了。",
+    "kanji": "お先に [失礼します]。"
   },
   {
     "id": "y2-l38-v039",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "げんばくドーム 原爆ドーム 廣島原子彈爆炸紀念館",
-    "meaningZh": "げんばくドーム 原爆ドーム 廣島原子彈爆炸紀念館",
-    "category": "動詞",
+    "kana": "げんばくドーム",
+    "meaningZh": "廣島原子彈爆炸紀念館",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "げんばくドーム 原爆ドーム 廣島原子彈爆炸紀念館"
+    "sourceText": "げんばくドーム / 原爆ドーム / 廣島原子彈爆炸紀念館",
+    "kanji": "原爆ドーム"
   },
   {
     "id": "y2-l38-v040",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "いずもたいしゃ 出雲大社 出雲大社（位于島根縣出雲",
-    "meaningZh": "市的神社）",
-    "category": "動詞",
+    "kana": "いずもたいしゃ",
+    "meaningZh": "出雲大社（位于島根縣出雲市的神社）",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "いずもたいしゃ 出雲大社 出雲大社（位于島根縣出雲\r\n市的神社）"
+    "sourceText": "いずもたいしゃ / 出雲大社 / 出雲大社（位于島根縣出雲市的神社）",
+    "kanji": "出雲大社"
   },
   {
     "id": "y2-l38-v041",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "チェンマイ - 清邁（泰國）",
-    "meaningZh": "読み物\r\n平仮名/片仮名 漢字 中譯",
-    "category": "動詞",
+    "kana": "チェンマイ",
+    "meaningZh": "清邁（泰國）",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "チェンマイ - 清邁（泰國）\r\n読み物\r\n平仮名/片仮名 漢字 中譯"
+    "sourceText": "チェンマイ / - / 清邁（泰國）",
+    "kanji": "-"
   },
   {
     "id": "y2-l38-v042",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "ふたご 双子 雙胞胎",
-    "meaningZh": "ふたご 双子 雙胞胎",
-    "category": "動詞",
+    "kana": "ふたご",
+    "meaningZh": "雙胞胎",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "ふたご 双子 雙胞胎"
+    "sourceText": "ふたご / 双子 / 雙胞胎",
+    "kanji": "双子"
   },
   {
     "id": "y2-l38-v043",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "しまい 姉妹 姐妹",
-    "meaningZh": "しまい 姉妹 姐妹",
-    "category": "動詞",
+    "kana": "しまい",
+    "meaningZh": "姐妹",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "しまい 姉妹 姐妹"
+    "sourceText": "しまい / 姉妹 / 姐妹",
+    "kanji": "姉妹"
   },
   {
     "id": "y2-l38-v044",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "ごねんせい ５年生 五年級學生",
-    "meaningZh": "ごねんせい ５年生 五年級學生",
-    "category": "動詞",
+    "kana": "ごねんせい",
+    "meaningZh": "五年級學生",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "ごねんせい ５年生 五年級學生"
+    "sourceText": "ごねんせい / ５年生 / 五年級學生",
+    "kanji": "５年生"
   },
   {
     "id": "y2-l38-v045",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "にています 似ています 相似、相像",
-    "meaningZh": "にています 似ています 相似、相像",
-    "category": "動詞",
+    "kana": "にています",
+    "meaningZh": "相似、相像",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "にています 似ています 相似、相像"
+    "sourceText": "にています / 似ています / 相似、相像",
+    "kanji": "似ています"
   },
   {
     "id": "y2-l38-v046",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "せいかく 性格 性格",
-    "meaningZh": "せいかく 性格 性格",
-    "category": "動詞",
+    "kana": "せいかく",
+    "meaningZh": "性格",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "せいかく 性格 性格"
+    "sourceText": "せいかく / 性格 / 性格",
+    "kanji": "性格"
   },
   {
     "id": "y2-l38-v047",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "おとなしい - 老實、溫順",
-    "meaningZh": "おとなしい - 老實、溫順",
-    "category": "動詞",
+    "kana": "おとなしい",
+    "meaningZh": "老實、溫順",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "おとなしい - 老實、溫順"
+    "sourceText": "おとなしい / - / 老實、溫順",
+    "kanji": "-"
   },
   {
     "id": "y2-l38-v048",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "やさしい 優しい 溫柔、親切",
-    "meaningZh": "やさしい 優しい 溫柔、親切",
-    "category": "動詞",
+    "kana": "やさしい",
+    "meaningZh": "溫柔、親切",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "やさしい 優しい 溫柔、親切"
+    "sourceText": "やさしい / 優しい / 溫柔、親切",
+    "kanji": "優しい"
   },
   {
     "id": "y2-l38-v049",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "せわをします 世話をします 照顧、照料",
-    "meaningZh": "せわをします 世話をします 照顧、照料",
-    "category": "動詞",
+    "kana": "せわをします",
+    "meaningZh": "照顧、照料",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "せわをします 世話をします 照顧、照料"
+    "sourceText": "せわをします / 世話をします / 照顧、照料",
+    "kanji": "世話をします"
   },
   {
     "id": "y2-l38-v050",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "じかんがたちます 時間がたちます 時間流逝",
-    "meaningZh": "じかんがたちます 時間がたちます 時間流逝",
-    "category": "動詞",
+    "kana": "じかんがたちます",
+    "meaningZh": "時間流逝",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "じかんがたちます 時間がたちます 時間流逝"
+    "sourceText": "じかんがたちます / 時間がたちます / 時間流逝",
+    "kanji": "時間がたちます"
   },
   {
     "id": "y2-l38-v051",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "だいすき [な] 大好き [な] 非常喜歡",
-    "meaningZh": "だいすき [な] 大好き [な] 非常喜歡",
-    "category": "動詞",
+    "kana": "だいすき [な]",
+    "meaningZh": "非常喜歡",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "だいすき [な] 大好き [な] 非常喜歡"
+    "sourceText": "だいすき [な] / 大好き [な] / 非常喜歡",
+    "kanji": "大好き [な]"
   },
   {
     "id": "y2-l38-v052",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "－てん －点 一分（考試的分數）",
-    "meaningZh": "－てん －点 一分（考試的分數）",
-    "category": "動詞",
+    "kana": "－てん",
+    "meaningZh": "一分（考試的分數）",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "－てん －点 一分（考試的分數）"
+    "sourceText": "－てん / －点 / 一分（考試的分數）",
+    "kanji": "－点"
   },
   {
     "id": "y2-l38-v053",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "きがつよい 気が強い 好強、剛強",
-    "meaningZh": "きがつよい 気が強い 好強、剛強",
-    "category": "動詞",
+    "kana": "きがつよい",
+    "meaningZh": "好強、剛強",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "きがつよい 気が強い 好強、剛強"
+    "sourceText": "きがつよい / 気が強い / 好強、剛強",
+    "kanji": "気が強い"
   },
   {
     "id": "y2-l38-v054",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "けんかします - 吵架、打架",
-    "meaningZh": "けんかします - 吵架、打架",
-    "category": "動詞",
+    "kana": "けんかします",
+    "meaningZh": "吵架、打架",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "けんかします - 吵架、打架"
+    "sourceText": "けんかします / - / 吵架、打架",
+    "kanji": "-"
   },
   {
     "id": "y2-l38-v055",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "ふしぎ [な] 不思議 [な] 不可思議",
-    "meaningZh": "ふしぎ [な] 不思議 [な] 不可思議",
-    "category": "動詞",
+    "kana": "ふしぎ [な]",
+    "meaningZh": "不可思議",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "ふしぎ [な] 不思議 [な] 不可思議"
+    "sourceText": "ふしぎ [な] / 不思議 [な] / 不可思議",
+    "kanji": "不思議 [な]"
   },
   {
     "id": "y2-l38-v056",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "ねんれい 年齢 年齡",
-    "meaningZh": "ねんれい 年齢 年齡",
-    "category": "動詞",
+    "kana": "ねんれい",
+    "meaningZh": "年齡",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "ねんれい 年齢 年齡"
+    "sourceText": "ねんれい / 年齢 / 年齡",
+    "kanji": "年齢"
   },
   {
     "id": "y2-l38-v057",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 38,
-    "kana": "しかた - 方法、辦法",
-    "meaningZh": "しかた - 方法、辦法",
-    "category": "動詞",
+    "kana": "しかた",
+    "meaningZh": "方法、辦法",
+    "category": "読み物",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv1_ch38.pdf.pdf"
     },
-    "sourceText": "しかた - 方法、辦法"
+    "sourceText": "しかた / - / 方法、辦法",
+    "kanji": "-"
   }
 ]
-
