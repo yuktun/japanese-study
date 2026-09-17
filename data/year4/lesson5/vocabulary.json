@@ -4,9 +4,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "きょうかしょ 教科書 名詞 教材、教科書",
-    "meaningZh": "1 きょうかしょ 教科書 名詞 教材、教科書",
-    "category": "source_migrated",
+    "kana": "きょうかしょ",
+    "kanji": "教科書",
+    "meaningZh": "教材、教科書",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -19,9 +20,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "いざかや 居酒屋 名詞 小酒館",
-    "meaningZh": "2 いざかや 居酒屋 名詞 小酒館",
-    "category": "source_migrated",
+    "kana": "いざかや",
+    "kanji": "居酒屋",
+    "meaningZh": "小酒館",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -34,9 +36,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "やきとり - 名詞 烤雞串、串燒",
-    "meaningZh": "名詞 烤雞串、串燒",
-    "category": "source_migrated",
+    "kana": "やきとり",
+    "meaningZh": "烤雞串、串燒",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -49,9 +51,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "がめん 画面 名詞 畫面",
-    "meaningZh": "4 がめん 画面 名詞 畫面",
-    "category": "source_migrated",
+    "kana": "がめん",
+    "kanji": "画面",
+    "meaningZh": "畫面",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -64,9 +67,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "はいゆう 俳優 名詞 演員",
-    "meaningZh": "5 はいゆう 俳優 名詞 演員",
-    "category": "source_migrated",
+    "kana": "はいゆう",
+    "kanji": "俳優",
+    "meaningZh": "演員",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -79,9 +83,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "そっくり - 副詞 十分相像、一個樣(",
-    "meaningZh": "副詞 十分相像、一個樣(",
-    "category": "source_migrated",
+    "kana": "そっくり",
+    "meaningZh": "十分相像、一個樣（AはBに～だ／A十分像B、AとBはそっくりだ／A和B一個樣）",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -94,9 +98,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "コンビ二 - 名詞 便利店",
-    "meaningZh": "名詞 便利店",
-    "category": "source_migrated",
+    "kana": "コンビ二",
+    "meaningZh": "便利店",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -109,9 +113,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "かいさつ [～ぐち] 改札 [～口] 名詞 檢票 [口] [檢票口]",
-    "meaningZh": "8 かいさつ [～ぐち] 改札 [～口] 名詞 檢票 [口] [檢票口]",
-    "category": "source_migrated",
+    "kana": "かいさつ［～ぐち］",
+    "kanji": "改札［～口］",
+    "meaningZh": "檢票［口］［檢票口］",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -124,9 +129,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "うんてんしゅ 運転手 名詞 司機",
-    "meaningZh": "9 うんてんしゅ 運転手 名詞 司機",
-    "category": "source_migrated",
+    "kana": "うんてんしゅ",
+    "kanji": "運転手",
+    "meaningZh": "司機",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -141,7 +147,8 @@
     "lesson": 5,
     "kana": "かかってくる",
     "meaningZh": "打來 [打來電話]",
-    "category": "source_migrated",
+    "category": "動詞 Ⅲ 自",
+    "notes": "辞書形：かかってくる［電話が～］／ます形：かかってきます［電話が～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -154,9 +161,11 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "きれる ［でんわが～]",
-    "meaningZh": "斷、斷掉 [電話斷了]",
-    "category": "source_migrated",
+    "kana": "きれる［でんわが～］",
+    "kanji": "切れる［電話が～］",
+    "meaningZh": "斷、斷掉［電話斷了］",
+    "category": "動詞 Ⅱ 自",
+    "notes": "辞書形：きれる［でんわが～］／ます形：きれます［でんわが～］；切れる［電話が～］／切れます［電話が～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -169,9 +178,11 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "あげる ［れいを～] |辞|",
-    "meaningZh": "舉、列舉 [舉例]",
-    "category": "source_migrated",
+    "kana": "あげる［れいを～］",
+    "kanji": "挙げる［例を～］",
+    "meaningZh": "舉、列舉［舉例］",
+    "category": "動詞 Ⅱ 他",
+    "notes": "辞書形：あげる［れいを～］／ます形：あげます［れいを～］；挙げる［例を～］／挙げます［例を～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -184,9 +195,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "みらい 未来 名詞 未來",
-    "meaningZh": "13 みらい 未来 名詞 未來",
-    "category": "source_migrated",
+    "kana": "みらい",
+    "kanji": "未来",
+    "meaningZh": "未來",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -199,9 +211,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "なくす ［せんそうを～]",
-    "meaningZh": "消滅、消除",
-    "category": "source_migrated",
+    "kana": "なくす［せんそうを～］",
+    "meaningZh": "消滅、消除［消除戰爭］",
+    "category": "動詞 Ⅰ 他",
+    "notes": "辞書形：なくす［せんそうを～］／ます形：なくします［せんそうを～］；［戦争を～］／なくします［戦争を～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -214,9 +227,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "ふしぎ ［な] 不思議 ［な] な形",
-    "meaningZh": "不可思議 [的]",
-    "category": "source_migrated",
+    "kana": "ふしぎ［な］",
+    "kanji": "不思議［な］",
+    "meaningZh": "不可思議［的］",
+    "category": "な形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -229,9 +243,11 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "ふやす |辞|",
+    "kana": "ふやす",
+    "kanji": "増やす",
     "meaningZh": "增加",
-    "category": "source_migrated",
+    "category": "動詞 Ⅰ 他",
+    "notes": "辞書形：ふやす／ます形：ふやします；増やす／増やします。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -244,9 +260,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "いまごろ 今ごろ 名詞 現在、目前",
-    "meaningZh": "17 いまごろ 今ごろ 名詞 現在、目前",
-    "category": "source_migrated",
+    "kana": "いまごろ",
+    "kanji": "今ごろ",
+    "meaningZh": "現在、目前",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -259,9 +276,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "かんこうきゃく 観光客 名詞 遊客、觀光客",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
-    "category": "source_migrated",
+    "kana": "かんこうきゃく",
+    "kanji": "観光客",
+    "meaningZh": "遊客、觀光客",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -274,9 +292,11 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "そう ［かわに～] |辞|",
-    "meaningZh": "沿著 [沿河]",
-    "category": "source_migrated",
+    "kana": "そう［かわに～］",
+    "kanji": "沿う［川に～］",
+    "meaningZh": "沿著［沿河］",
+    "category": "動詞 Ⅰ 自",
+    "notes": "辞書形：そう［かわに～］／ます形：そいます［かわに～］；沿う［川に～］／沿います［川に～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -289,9 +309,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "おおどおり 大通り 名詞 大道、大路",
-    "meaningZh": "20 おおどおり 大通り 名詞 大道、大路",
-    "category": "source_migrated",
+    "kana": "おおどおり",
+    "kanji": "大通り",
+    "meaningZh": "大道、大路",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -304,9 +325,11 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "でる ［おおどおりに～]",
-    "meaningZh": "來到、出來",
-    "category": "source_migrated",
+    "kana": "でる［おおどおりに～］",
+    "kanji": "出る［大通りに～］",
+    "meaningZh": "來到、出來［來到大路上］",
+    "category": "動詞 Ⅱ 自",
+    "notes": "辞書形：でる［おおどおりに～］／ます形：でます［おおどおりに～］；出る［大通りに～］／出ます［大通りに～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -319,9 +342,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "おうだんほどう 横断歩道 名詞 人行橫道",
-    "meaningZh": "22 おうだんほどう 横断歩道 名詞 人行橫道",
-    "category": "source_migrated",
+    "kana": "おうだんほどう",
+    "kanji": "横断歩道",
+    "meaningZh": "人行橫道",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"
@@ -334,9 +358,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 5,
-    "kana": "つきあたり 突き当たり 名詞 （道路的）盡頭",
-    "meaningZh": "23 つきあたり 突き当たり 名詞 （道路的）盡頭",
-    "category": "source_migrated",
+    "kana": "つきあたり",
+    "kanji": "突き当たり",
+    "meaningZh": "（道路的）盡頭",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch5.pdf.pdf"

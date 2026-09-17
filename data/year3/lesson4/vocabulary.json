@@ -229,9 +229,10 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 4,
-    "kana": "へいわ [な] 平和 [な] な形",
-    "meaningZh": "和平 [的]",
-    "category": "source_migrated",
+    "kana": "へいわ［な］",
+    "kanji": "平和［な］",
+    "meaningZh": "和平［的］",
+    "category": "な形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch4.pdf.pdf"
@@ -532,9 +533,11 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 4,
-    "kana": "みとめる |辞|",
+    "kana": "みとめる",
+    "kanji": "認める",
     "meaningZh": "承認、認可",
-    "category": "source_migrated",
+    "category": "動詞 Ⅱ 他",
+    "notes": "辞書形：みとめる／ます形：みとめます；認める／認めます。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch4.pdf.pdf"
@@ -715,9 +718,10 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 4,
-    "kana": "きゅう [な] 急 [な] な形",
-    "meaningZh": "緊急 [的]",
-    "category": "source_migrated",
+    "kana": "きゅう［な］",
+    "kanji": "急［な］",
+    "meaningZh": "緊急［的］",
+    "category": "な形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch4.pdf.pdf"
@@ -730,9 +734,11 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 4,
-    "kana": "はいる [しごとが～]",
+    "kana": "はいる［しごとが～］",
+    "kanji": "入る［仕事が～］",
     "meaningZh": "來了",
-    "category": "source_migrated",
+    "category": "動詞 Ⅰ 自",
+    "notes": "辞書形：はいる［しごとが～］／ます形：はいります［しごとが～］；入る［仕事が～］／入ります［仕事が～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch4.pdf.pdf"
@@ -745,9 +751,11 @@
     "schoolYear": 3,
     "book": "中級 I",
     "lesson": 4,
-    "kana": "とりけす |辞|",
+    "kana": "とりけす",
+    "kanji": "取り消す",
     "meaningZh": "取消、撤消",
-    "category": "source_migrated",
+    "category": "動詞 Ⅰ 他",
+    "notes": "辞書形：とりけす／ます形：とりけします；取り消す／取り消します。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch4.pdf.pdf"
