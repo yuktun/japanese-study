@@ -2,6 +2,7 @@ import {filterReviewDeck,normalizeReviewProgress,resetReviewStatuses,reviewCount
 import {orderCurriculumLessons} from './src/curriculum-order.mjs?v=curriculum-order-1';
 import {initialisePwa} from './src/pwa-client.mjs?v=pwa-1';
 import {configureJapanesePlaybackAudioSession} from './src/japanese-speech.mjs?v=ios-audio-session-1';
+import {initialiseInstallApp} from './src/install-app.mjs?v=install-app-1';
 
 const REVIEW_STORAGE_KEY='jp-study-flashcard-review-progress';
 const state={all:[],references:[],lessons:[],scopeDeck:[],deck:[],index:0,revealed:false,quickSeen:0,type:'all',direction:'ja-zh',year:null,lesson:null,orderMode:localStorage.getItem('jp-study-card-order-mode')==='random'?'random':'sequential',reviewFilter:'all',reviewProgress:normalizeReviewProgress(readJsonStorage(REVIEW_STORAGE_KEY,{})),view:'review',library:{query:'',years:[],lessons:[],types:[]}};
@@ -453,4 +454,4 @@ document.addEventListener('keydown',event=>{
   if(event.key.toLowerCase()==='s'){event.preventDefault();toggleCurrentBookmark();return;}
   if(event.code==='Space'){event.preventDefault();state.revealed?hideAnswer():revealCard();}
 });
-applyTheme(document.documentElement.dataset.theme||'light');updateToday();initialisePwa();loadData();
+applyTheme(document.documentElement.dataset.theme||'light');updateToday();initialisePwa();initialiseInstallApp();loadData();

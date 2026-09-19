@@ -44,11 +44,14 @@
         <p class="course-caption" id="course-lesson">Lesson 1 已加入</p>
       </div>
 
-      <div class="sidebar-note">
-        <span>教材狀態</span>
-        <b><i></i> 學校 PDF 樣本</b>
+      <div class="sidebar-footer">
+        <div class="sidebar-note">
+          <span>教材狀態</span>
+          <b><i></i> 學校 PDF 樣本</b>
+        </div>
+        <div class="offline-status" id="offline-status" role="status" aria-live="polite" hidden></div>
+        <button class="sidebar-install" id="install-app-button" type="button">📲 <span>安裝桌面 App</span></button>
       </div>
-      <div class="offline-status" id="offline-status" role="status" aria-live="polite" hidden></div>
     </aside>
     <div class="drawer-backdrop" id="drawer-backdrop" hidden aria-hidden="true"></div>
 
@@ -183,6 +186,14 @@
   <section class="pwa-update" id="pwa-update" role="dialog" aria-labelledby="pwa-update-title" hidden>
     <div><b id="pwa-update-title">發現新版本</b><p>新版本已準備好，更新後將重新載入 App。你的溫習紀錄會保留。</p></div>
     <div class="pwa-update-actions"><button type="button" id="pwa-update-later">稍後</button><button type="button" id="pwa-update-now">立即更新</button></div>
+  </section>
+  <section class="install-modal" id="install-modal" role="dialog" aria-modal="true" aria-labelledby="install-modal-title" hidden>
+    <div class="install-modal-dialog" id="install-modal-dialog" tabindex="-1">
+      <button class="install-modal-close" id="install-modal-close" type="button" aria-label="關閉安裝說明">×</button>
+      <h2 id="install-modal-title">安裝 Japanese Study</h2>
+      <div class="install-modal-content" id="install-modal-content"></div>
+      <button class="install-modal-confirm" id="install-modal-confirm" type="button">明白</button>
+    </div>
   </section>
   <script type="module" src="./app.js?v=pwa-1"></script>
 </body>
