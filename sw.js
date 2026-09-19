@@ -1,5 +1,5 @@
 /* Japanese Study offline-first service worker. Bump CACHE_VERSION for each release. */
-const CACHE_VERSION='2026-09-19-pwa-4';
+const CACHE_VERSION='2026-09-19-pwa-5';
 const CACHE_PREFIX='jp-study-offline-';
 const CACHE_NAME=`${CACHE_PREFIX}${CACHE_VERSION}`;
 const READY_MARKER='__jp_study_offline_ready__';
