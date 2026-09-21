@@ -85,6 +85,14 @@ The app checks for updates when it opens, returns to the foreground, and reconne
 
 Flashcard answer status, bookmarks, and review progress remain in browser-local storage. They are never placed in the Service Worker cache and are retained through app updates, but they do not automatically synchronize between devices or browsers.
 
+## Optional account sync
+
+Google login is optional. Without it, `jp-study-flashcard-review-progress` remains the local source of truth and the app works offline. After login, progress is still saved locally first; changes are batched to Firestore when a connection is available. Each card is stored separately at `users/{uid}/progress/{encoded-card-id}` with `schemaVersion`, `cardId`, `status`, `bookmarked`, `lastReviewed`, and a server-confirmed `updatedAt` timestamp. Lesson data is never uploaded.
+
+On a first sign-in with existing local progress, the app creates an account-scoped local backup and asks whether to merge, use cloud progress, or retain local progress for now. Merge retains cards unique to either side, retains bookmarks from both, and uses the newest trustworthy `lastReviewed` for conflicting answer states. Ties or missing timestamps are disclosed before confirmation and keep the local state. Logging out restores the pre-login guest snapshot; cloud progress and pending writes are never shown to the next account.
+
+Deploy `firestore.rules` separately in the Firebase Console or with the Firebase CLI after review; committing it does not deploy it. The configured Authentication authorized domains must include `yuktun.github.io` and `sasukimm.github.io`, and Google must be enabled as a sign-in provider. The included `firebase.json` is for the Local Emulator Suite; do not point emulator tests at production data.
+
 Japanese pronunciation uses the browser's Japanese speech-synthesis voice. It may be available offline only when the device has an offline Japanese voice installed; the app does not download or bundle audio voices.
 
 ### PWA release check

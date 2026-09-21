@@ -3,8 +3,9 @@ import {orderCurriculumLessons} from './src/curriculum-order.mjs?v=curriculum-or
 import {initialisePwa} from './src/pwa-client.mjs?v=pwa-1';
 import {configureJapanesePlaybackAudioSession} from './src/japanese-speech.mjs?v=ios-audio-session-1';
 import {initialiseInstallApp} from './src/install-app.mjs?v=install-app-1';
+import {createProgressSync} from './src/progress-sync.mjs?v=firebase-sync-1';
+import {GUEST_PROGRESS_KEY,REVIEW_STORAGE_KEY,cloneProgress} from './src/progress-storage.mjs?v=firebase-sync-1';
 
-const REVIEW_STORAGE_KEY='jp-study-flashcard-review-progress';
 const state={all:[],references:[],lessons:[],scopeDeck:[],deck:[],index:0,revealed:false,quickSeen:0,type:'all',direction:'ja-zh',year:null,lesson:null,orderMode:localStorage.getItem('jp-study-card-order-mode')==='random'?'random':'sequential',reviewFilter:'all',reviewProgress:normalizeReviewProgress(readJsonStorage(REVIEW_STORAGE_KEY,{})),view:'review',library:{query:'',years:[],lessons:[],types:[]}};
 const $=selector=>document.querySelector(selector);
 const $$=selector=>[...document.querySelectorAll(selector)];
@@ -59,7 +60,20 @@ function updateCourseDetails(){
   if(deckSummary)deckSummary.textContent=`現有 Lesson ${state.lesson}：${vocabularyCount} 個生字、${grammarCount} 項文法。`;
 }
 
-function saveReviewProgress(){localStorage.setItem(REVIEW_STORAGE_KEY,JSON.stringify(state.reviewProgress));}
+let accountSessionActive=false;
+let progressSync;
+function saveReviewProgress(keys){localStorage.setItem(REVIEW_STORAGE_KEY,JSON.stringify(state.reviewProgress));progressSync?.queue(state.reviewProgress,keys);}
+function setSyncedProgress(progress){state.reviewProgress=normalizeReviewProgress(progress);localStorage.setItem(REVIEW_STORAGE_KEY,JSON.stringify(state.reviewProgress));if(state.scopeDeck.length)renderCard();}
+function renderAccount(user=null,status={state:'guest',message:'進度保存在此裝置'}){
+  const guest=$('#account-guest-state'),signedIn=$('#account-user-state');
+  guest.hidden=Boolean(user);signedIn.hidden=!user;
+  if(user){$('#account-name').textContent=user.displayName||'Google 帳戶';$('#account-email').textContent=user.email||'';$('#sync-status').textContent=status.message;$('#sync-status').dataset.state=status.state;}
+}
+function requestMigration({merge}){
+  const dialog=$('#migration-dialog'),conflict=$('#migration-conflict');
+  conflict.hidden=!merge.conflicts.length;conflict.textContent=merge.conflicts.length?`有 ${merge.conflicts.length} 張卡片的答題狀態沒有可比較的時間；合併時會保留此裝置目前的狀態。`:'';
+  return new Promise(resolve=>{dialog.addEventListener('close',()=>resolve(dialog.returnValue||'later'),{once:true});dialog.showModal();});
+}
 function applyReviewFilter(currentId=null){
   state.deck=filterReviewDeck(state.scopeDeck,state.reviewProgress,state.reviewFilter);
   const currentIndex=currentId?state.deck.findIndex(item=>reviewKeyFor(item)===currentId):-1;
@@ -147,12 +161,12 @@ function setOrderMode(mode){
 }
 function markCurrentCard(status){
   const item=state.deck[state.index];if(!item)return;
-  state.reviewProgress=setReviewStatus(state.reviewProgress,item,status);saveReviewProgress();
+  state.reviewProgress=setReviewStatus(state.reviewProgress,item,status);saveReviewProgress([reviewKeyFor(item)]);
   renderCard();
 }
 function toggleCurrentBookmark(){
   const item=state.deck[state.index];if(!item)return;
-  state.reviewProgress=toggleReviewBookmark(state.reviewProgress,item);saveReviewProgress();
+  state.reviewProgress=toggleReviewBookmark(state.reviewProgress,item);saveReviewProgress([reviewKeyFor(item)]);
   renderCard();
 }
 function reconcileDeckForNavigation(direction){
@@ -399,6 +413,12 @@ $('#menu-button').addEventListener('click',()=>setDrawerOpen($('#menu-button').g
 drawerBackdrop.addEventListener('click',()=>setDrawerOpen(false));
 compactSidebarQuery.addEventListener('change',event=>setDrawerOpen(!event.matches));
 $('#theme-toggle').addEventListener('click',()=>applyTheme(document.documentElement.dataset.theme==='dark'?'light':'dark'));
+$('#google-login-button').addEventListener('click',async()=>{
+  const button=$('#google-login-button');button.disabled=true;
+  try{await progressSync?.login();}catch(error){showToast(error.message||'Google 登入失敗，請稍後再試。');}finally{button.disabled=false;}
+});
+$('#sync-now-button').addEventListener('click',async()=>{try{await progressSync?.retry();await progressSync?.flush();}catch(error){showToast('同步失敗，請重試。');}});
+$('#logout-button').addEventListener('click',async()=>{try{await progressSync?.logout();}catch(error){showToast('尚有未同步進度，請連線後重試。');}});
 $('#deck-type').addEventListener('change',event=>{state.type=event.target.value;resetDeck();});
 $('#year-select').addEventListener('change',event=>{state.year=Number(event.target.value);populateLessonSelect(null);resetDeck();});
 $('#lesson-select').addEventListener('change',event=>{state.lesson=Number(event.target.value);localStorage.setItem('jp-study-deck-lesson',String(state.lesson));resetDeck();});
@@ -408,7 +428,7 @@ $$('[data-order-mode]').forEach(button=>button.addEventListener('click',()=>setO
 $('#reset-review-progress').addEventListener('click',()=>{
   if(!state.scopeDeck.length)return;
   if(!window.confirm('重設目前卡組的答對／答錯紀錄？收藏會保留。'))return;
-  state.reviewProgress=resetReviewStatuses(state.reviewProgress,state.scopeDeck);saveReviewProgress();
+  state.reviewProgress=resetReviewStatuses(state.reviewProgress,state.scopeDeck);saveReviewProgress(state.scopeDeck.map(reviewKeyFor));
   applyReviewFilter();state.revealed=false;renderCard();showToast('已重設目前卡組的溫習紀錄。');
 });
 const flashcardSwipe={pointerId:null,startX:0,startY:0,ignoreClick:false};
@@ -454,4 +474,21 @@ document.addEventListener('keydown',event=>{
   if(event.key.toLowerCase()==='s'){event.preventDefault();toggleCurrentBookmark();return;}
   if(event.code==='Space'){event.preventDefault();state.revealed?hideAnswer():revealCard();}
 });
-applyTheme(document.documentElement.dataset.theme||'light');updateToday();initialisePwa();initialiseInstallApp();loadData();
+progressSync=createProgressSync({
+  getProgress:()=>state.reviewProgress,
+  setProgress:setSyncedProgress,
+  onStatus:status=>renderAccount(progressSync?.user,status),
+  onUser:user=>{
+    if(user){
+      if(!accountSessionActive&&!localStorage.getItem(GUEST_PROGRESS_KEY))localStorage.setItem(GUEST_PROGRESS_KEY,JSON.stringify(cloneProgress(state.reviewProgress)));
+      accountSessionActive=true;renderAccount(user,{state:'syncing',message:'正在讀取雲端進度…'});
+    }else{
+      if(accountSessionActive){state.reviewProgress=normalizeReviewProgress(readJsonStorage(GUEST_PROGRESS_KEY,{}));localStorage.setItem(REVIEW_STORAGE_KEY,JSON.stringify(state.reviewProgress));if(state.scopeDeck.length)renderCard();}
+      accountSessionActive=false;renderAccount();
+    }
+  },
+  onMigration:requestMigration,
+  onError:error=>console.warn('Progress sync:',error)
+});
+window.addEventListener('online',()=>progressSync?.flush());
+renderAccount();applyTheme(document.documentElement.dataset.theme||'light');updateToday();initialisePwa();initialiseInstallApp();progressSync.initialise();loadData();

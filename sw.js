@@ -1,5 +1,5 @@
 /* Japanese Study offline-first service worker. Bump CACHE_VERSION for each release. */
-const CACHE_VERSION='2026-09-19-pwa-6';
+const CACHE_VERSION='2026-09-21-firebase-sync-1';
 const CACHE_PREFIX='jp-study-offline-';
 const CACHE_NAME=`${CACHE_PREFIX}${CACHE_VERSION}`;
 const READY_MARKER='__jp_study_offline_ready__';
@@ -15,6 +15,10 @@ const CORE_ASSETS=[
   './src/pwa-client.mjs',
   './src/japanese-speech.mjs',
   './src/install-app.mjs',
+  './src/firebase-config.mjs',
+  './src/auth-service.mjs',
+  './src/progress-storage.mjs',
+  './src/progress-sync.mjs',
   './data/manifest.json',
   './data/course-map.json',
   './data/conjugation/forms.json',

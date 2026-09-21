@@ -43,6 +43,11 @@
         <div class="course-progress"><span></span></div>
         <p class="course-caption" id="course-lesson">Lesson 1 已加入</p>
       </div>
+      <section class="account-sync" aria-labelledby="account-sync-title">
+        <p class="side-label" id="account-sync-title">帳戶與同步</p>
+        <div id="account-guest-state"><b>本機儲存</b><small>進度保存在此裝置</small><button class="account-button primary" id="google-login-button" type="button">使用 Google 登入</button><p>登入後可在不同裝置同步學習進度</p></div>
+        <div id="account-user-state" hidden><b id="account-name"></b><small id="account-email"></small><p class="sync-status" id="sync-status" role="status" aria-live="polite">正在準備同步…</p><div class="account-actions"><button class="account-button" id="sync-now-button" type="button">立即同步</button><button class="account-button" id="logout-button" type="button">登出</button></div></div>
+      </section>
 
       <div class="sidebar-footer">
         <div class="sidebar-note">
@@ -183,6 +188,7 @@
   </div>
 
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <dialog class="migration-dialog" id="migration-dialog" aria-labelledby="migration-title"><form method="dialog"><h2 id="migration-title">選擇進度處理方式</h2><p>偵測到此裝置及雲端都有學習進度。兩者都會先保留備份。</p><p class="migration-conflict" id="migration-conflict" hidden></p><button value="merge" class="migration-choice"><b>合併本機與雲端進度</b><small>保留兩邊的卡片記錄；較新的答題狀態優先。</small></button><button value="cloud" class="migration-choice"><b>使用雲端進度</b><small>以此帳戶的已同步進度取代目前畫面。</small></button><button value="later" class="migration-choice"><b>暫時保留本機進度</b><small>現在不會上傳或覆蓋任何雲端資料。</small></button></form></dialog>
   <section class="pwa-update" id="pwa-update" role="dialog" aria-labelledby="pwa-update-title" hidden>
     <div><b id="pwa-update-title">發現新版本</b><p>新版本已準備好，更新後將重新載入 App。你的溫習紀錄會保留。</p></div>
     <div class="pwa-update-actions"><button type="button" id="pwa-update-later">稍後</button><button type="button" id="pwa-update-now">立即更新</button></div>
