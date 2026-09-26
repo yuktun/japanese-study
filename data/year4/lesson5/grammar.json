@@ -6,8 +6,8 @@
     "lesson": 5,
     "sourceOrder": 1,
     "section": "文法・練習",
-    "pattern": "あ～・そ～（文脈指示）",
-    "meaningZh": "會話中雙方都知道用あ～；一方不知道用そ～。文章中指前文事物用そ～。",
+    "pattern": "あ～・そ～（文脈指示（会話））／そ～（文脈指示（文章））",
+    "meaningZh": "會話：說話人和聽話人都直接知道 -> あ～；只有一方知道 -> そ～。文章：指前面已出現的事物 -> そ～。",
     "examples": [
       {
         "ja": "さっき、山本さんに会ったよ。…え、あの人、今日本にいるんですか。",
@@ -26,6 +26,10 @@
         "zh": "在英國一本人氣火爆的小說譯成了日語。它成為今年日本最暢銷書。"
       }
     ],
+    "notes": [
+      "会話：說話人和聽話人都直接知道 -> あ～；只有一方知道 -> そ～。",
+      "文章：指前面已出現的事物 -> そ～。"
+    ],
     "source": {
       "type": "school_pdf",
       "filename": "g_2_05.pdf"
@@ -39,7 +43,7 @@
     "sourceOrder": 2,
     "section": "文法・練習",
     "pattern": "…んじゃない？",
-    "meaningZh": "普通形＋んじゃないですか／んじゃない？；較隨意地敘述想法。",
+    "meaningZh": "V／いA：普通形；なA／N：普通形的 だ -> な；＋んじゃないですか／んじゃない？；較隨意地敘述想法。",
     "examples": [
       {
         "ja": "元気がないですね。何か困っていることがあるんじゃないですか。…ええ、実は……。",
@@ -53,7 +57,11 @@
     "source": {
       "type": "school_pdf",
       "filename": "g_2_05.pdf"
-    }
+    },
+    "notes": [
+      "V／いA：普通形；なA／N：普通形的 だ -> な；＋んじゃないですか／んじゃない？",
+      "親密場合可用「んじゃない」；需要禮貌時用「のではないでしょうか」。"
+    ]
   },
   {
     "id": "y4-l5-g003",
@@ -86,7 +94,7 @@
     "lesson": 5,
     "sourceOrder": 4,
     "section": "文法・練習",
-    "pattern": "～（よ）うとする／しない",
+    "pattern": "～（よ）う（意向形）とする／しない",
     "meaningZh": "意向形＋とする／しない：正要做、努力做，或不願做。",
     "examples": [
       {
@@ -130,7 +138,7 @@
     "sourceOrder": 5,
     "section": "文法・練習",
     "pattern": "…のだろうか",
-    "meaningZh": "普通形＋のだろうか；自問、委婉提問或表達疑問。",
+    "meaningZh": "V／いA：普通形；なA／N：普通形的 だ -> な；＋のだろうか。與疑問詞一起可用於自問自答。「のでしょうか」比「のですか」更委婉、不強求回答。沒有疑問詞時，也可表示對 X 是否正確的懷疑。",
     "examples": [
       {
         "ja": "この店ではクレジットカードが使えるのだろうか。",
@@ -149,6 +157,12 @@
         "zh": "這個班裡講日語的機會很少。靠這樣的學習口語能進步嗎？"
       }
     ],
+    "notes": [
+      "V／いA：普通形；なA／N：普通形的 だ -> な；＋のだろうか。",
+      "與疑問詞一起可用於自問自答。",
+      "「のでしょうか」比「のですか」更委婉、不強求回答。",
+      "沒有疑問詞時，也可表示對 X 是否正確的懷疑。"
+    ],
     "source": {
       "type": "school_pdf",
       "filename": "g_2_05.pdf"
@@ -162,7 +176,7 @@
     "sourceOrder": 6,
     "section": "文法・練習",
     "pattern": "～との／での／からの／までの／への～",
-    "meaningZh": "N＋格助詞＋の＋N；に、が、を後不可接の。",
+    "meaningZh": "N＋格助詞＋の＋N；に cannot take の in this construction; change に to へ -> への. が and を also do not take の。",
     "examples": [
       {
         "ja": "友達との北海道旅行は、とても楽しかったです。",
@@ -189,6 +203,10 @@
         "zh": "我打算在研究生院從事醫學研究。"
       }
     ],
+    "notes": [
+      "に cannot take の in this construction; change に to へ -> への.",
+      "が and を also do not take の."
+    ],
     "source": {
       "type": "school_pdf",
       "filename": "g_2_05.pdf"
@@ -202,7 +220,7 @@
     "sourceOrder": 7,
     "section": "文法・練習",
     "pattern": "…だろう・…だろうと思う（推量）",
-    "meaningZh": "普通形＋だろう；簡體文章的推量；會話中常用だろうと思う。",
+    "meaningZh": "普通形＋だろう；「…だろう」is the plain form of「…でしょう」and is used in plain-style writing for uncertain inference. In conversation, it is commonly used as「…だろうと思う」。",
     "examples": [
       {
         "ja": "アジアの経済はこれからますます発展するだろう。",
@@ -222,6 +240,8 @@
       }
     ],
     "notes": [
+      "「…だろう」is the plain form of「…でしょう」and is used in plain-style writing for uncertain inference.",
+      "In conversation, it is commonly used as「…だろうと思う」。",
       "参考（初級I第21課）：７月に京都でお祭りがあるでしょう？",
       "参考（初級II第32課）：あしたは雪が降るでしょう。"
     ],
