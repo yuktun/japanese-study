@@ -176,7 +176,7 @@
     "sourceOrder": 6,
     "section": "文法・練習",
     "pattern": "～との／での／からの／までの／への～",
-    "meaningZh": "N＋格助詞＋の＋N；に cannot take の in this construction; change に to へ -> への. が and を also do not take の。",
+    "meaningZh": "N＋格助詞＋の＋N；「と、で、から、まで、へ」等格助詞後可接「の」修飾名詞。「に」後不能接「の」，此時可把「に」換成「へ」，成為「への」；「が」「を」後也不接「の」。",
     "examples": [
       {
         "ja": "友達との北海道旅行は、とても楽しかったです。",
@@ -204,8 +204,8 @@
       }
     ],
     "notes": [
-      "に cannot take の in this construction; change に to へ -> への.",
-      "が and を also do not take の."
+      "「に」後不能接「の」，此時可把「に」換成「へ」，成為「への」。",
+      "「が」「を」後也不接「の」。"
     ],
     "source": {
       "type": "school_pdf",
@@ -220,7 +220,7 @@
     "sourceOrder": 7,
     "section": "文法・練習",
     "pattern": "…だろう・…だろうと思う（推量）",
-    "meaningZh": "普通形＋だろう；「…だろう」is the plain form of「…でしょう」and is used in plain-style writing for uncertain inference. In conversation, it is commonly used as「…だろうと思う」。",
+    "meaningZh": "普通形＋だろう；「…だろう」是「…でしょう」的普通形，用於簡體文章，表示說話人不完全確定的推測；會話中通常用「…だろうと思う」。",
     "examples": [
       {
         "ja": "アジアの経済はこれからますます発展するだろう。",
@@ -240,8 +240,8 @@
       }
     ],
     "notes": [
-      "「…だろう」is the plain form of「…でしょう」and is used in plain-style writing for uncertain inference.",
-      "In conversation, it is commonly used as「…だろうと思う」。",
+      "「…だろう」是「…でしょう」的普通形，用於簡體文章，表示說話人不完全確定的推測。",
+      "會話中通常用「…だろうと思う」。",
       "参考（初級I第21課）：７月に京都でお祭りがあるでしょう？",
       "参考（初級II第32課）：あしたは雪が降るでしょう。"
     ],
