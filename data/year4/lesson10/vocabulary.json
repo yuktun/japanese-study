@@ -8,7 +8,7 @@
     "kanji": "もうける［お金を～］",
     "meaningZh": "賺［～錢］",
     "category": "動詞 Ⅱ 他",
-    "notes": "動詞 II 他。ます形：もうけます［おかねを～］／もうけます［お金を～］。",
+    "notes": "辞書形：もうける［おかねを～］／ます形：もうけます［おかねを～］；もうける［お金を～］／もうけます［お金を～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -25,7 +25,7 @@
     "kanji": "見かける",
     "meaningZh": "偶然看到",
     "category": "動詞 Ⅱ 他",
-    "notes": "來源異常：學校 PDF 的辞書形印作「みかける..」。",
+    "notes": "辞書形：みかける..／ます形：みかけます；見かける／見かけます。來源異常：學校 PDF 的辞書形印作「みかける..」。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -42,7 +42,7 @@
     "kanji": "否定する",
     "meaningZh": "否認",
     "category": "動詞 Ⅲ 他",
-    "notes": "動詞 III 他。ます形：ひていします／否定します。",
+    "notes": "辞書形：ひていする／ます形：ひていします；否定する／否定します。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -90,7 +90,7 @@
     "kanji": "当たる［宝くじが～］",
     "meaningZh": "中了［中了彩票］",
     "category": "動詞 Ⅰ 自",
-    "notes": "動詞 I 自。ます形：あたります［たからくじが～］／当たります［宝くじが～］。",
+    "notes": "辞書形：あたる［たからくじが～］／ます形：あたります［たからくじが～］；当たる［宝くじが～］／当たります［宝くじが～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -184,7 +184,7 @@
     "kanji": "通じる［電話が～］",
     "meaningZh": "接通［電話～］",
     "category": "動詞 Ⅱ 自",
-    "notes": "動詞 II 自。ます形：つうじます［でんわが～］／通じます［電話が～］。",
+    "notes": "辞書形：つうじる［でんわが～］／ます形：つうじます［でんわが～］；通じる［電話が～］／通じます［電話が～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -216,7 +216,7 @@
     "kana": "かかる［エンジンが～］",
     "meaningZh": "發動［～引擎］",
     "category": "動詞",
-    "notes": "動詞。ます形：かかります［エンジンが～］。PDF omits group and transitivity.",
+    "notes": "辞書形：かかる［エンジンが～］／ます形：かかります［エンジンが～］。學校 PDF 未標示動詞組別／自他。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -249,7 +249,7 @@
     "kanji": "怒る",
     "meaningZh": "發火、發怒",
     "category": "動詞",
-    "notes": "動詞。ます形：おこります／怒ります。PDF omits group and transitivity.",
+    "notes": "辞書形：おこる／ます形：おこります；怒る／怒ります。學校 PDF 未標示動詞組別／自他。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -346,7 +346,7 @@
     "kanji": "出す［修理に～］",
     "meaningZh": "送去［送去修理］",
     "category": "動詞 Ⅰ 他",
-    "notes": "動詞 I 他。ます形：だします［しゅうりに～］／出します［修理に～］。",
+    "notes": "辞書形：だす［しゅうりに～］／ます形：だします［しゅうりに～］；出す［修理に～］／出します［修理に～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -363,7 +363,7 @@
     "kanji": "聞き返す",
     "meaningZh": "反問、再問一次",
     "category": "動詞 Ⅰ 他",
-    "notes": "動詞 I 他。ます形：ききかえします／聞き返します。",
+    "notes": "辞書形：ききかえす／ます形：ききかえします；聞き返す／聞き返します。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -426,7 +426,7 @@
     "kanji": "入る［電源が～］",
     "meaningZh": "接通［～電源］",
     "category": "動詞 Ⅰ 自",
-    "notes": "動詞 I 自。ます形：はいります［でんげんが～］／入ります［電源が～］。",
+    "notes": "辞書形：はいる［でんげんが～］／ます形：はいります［でんげんが～］；入る［電源が～］／入ります［電源が～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -474,7 +474,7 @@
     "kanji": "驚く",
     "meaningZh": "驚訝、吃驚",
     "category": "動詞 Ⅰ 自",
-    "notes": "動詞 I 自。ます形：おどろきます／驚きます。",
+    "notes": "辞書形：おどろく／ます形：おどろきます；驚く／驚きます。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -663,7 +663,7 @@
     "kanji": "転ぶ",
     "meaningZh": "跌倒",
     "category": "動詞 Ⅰ 自",
-    "notes": "動詞 I 自。ます形：ころびます／転びます。",
+    "notes": "辞書形：ころぶ／ます形：ころびます；転ぶ／転びます。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -711,7 +711,7 @@
     "kana": "ぼんやりする",
     "meaningZh": "恍惚",
     "category": "動詞",
-    "notes": "動詞。ます形：ぼんやりします。PDF omits group and transitivity.",
+    "notes": "辞書形：ぼんやりする／ます形：ぼんやりします。學校 PDF 未標示動詞組別／自他。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -836,7 +836,7 @@
     "kana": "おかす［ミスを～］",
     "meaningZh": "犯下［～錯誤］",
     "category": "動詞 Ⅰ 他",
-    "notes": "動詞 I 他。ます形：おかします［ミスを～］。",
+    "notes": "辞書形：おかす［ミスを～］／ます形：おかします［ミスを～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -1054,7 +1054,7 @@
     "kanji": "完成する",
     "meaningZh": "完成",
     "category": "動詞 Ⅲ 他",
-    "notes": "動詞 III 他。ます形：かんせいします／完成します。",
+    "notes": "辞書形：かんせいする／ます形：かんせいします；完成する／完成します。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -1071,7 +1071,7 @@
     "kanji": "つながる［出来事に～］",
     "meaningZh": "引發、引起［引發事件］",
     "category": "動詞 Ⅰ 自",
-    "notes": "動詞 I 自。ます形：つながります［できごとに～］／つながります［出来事に～］。",
+    "notes": "辞書形：つながる［できごとに～］／ます形：つながります［できごとに～］；つながる［出来事に～］／つながります［出来事に～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
@@ -1120,7 +1120,7 @@
     "kanji": "引き起こす",
     "meaningZh": "引起",
     "category": "動詞 Ⅰ 他",
-    "notes": "動詞 I 他。ます形：ひきおこします／引き起こします。",
+    "notes": "辞書形：ひきおこす／ます形：ひきおこします；引き起こす／引き起こします。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
