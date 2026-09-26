@@ -4,75 +4,95 @@
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 25,
-    "kana": "かんがえます |ます| / かんがえる |辞|",
+    "kana": "かんがえる",
     "meaningZh": "想、考慮",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch25.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch25.pdf.pdf",
+      "page": 1
     },
     "sourceText": "かんがえます |ます| / かんがえる |辞| 考えます / 考える Ⅱ 想、考慮",
-    "kanji": "考えます / 考える"
+    "kanji": "考える",
+    "notes": "Ⅱ; ます形: かんがえます / 考えます",
+    "sourceOrder": 1,
+    "section": "動詞"
   },
   {
     "id": "y2-l25-v002",
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 25,
-    "kana": "つきます |ます| / つく |辞|",
+    "kana": "つく",
     "meaningZh": "到達",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch25.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch25.pdf.pdf",
+      "page": 1
     },
     "sourceText": "つきます |ます| / つく |辞| 着きます / 着く Ⅰ 到達",
-    "kanji": "着きます / 着く"
+    "kanji": "着く",
+    "notes": "Ⅰ; ます形: つきます / 着きます",
+    "sourceOrder": 2,
+    "section": "動詞"
   },
   {
     "id": "y2-l25-v003",
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 25,
-    "kana": "とります [としを～] |ます| / とる[としを∼] |辞|",
+    "kana": "とる[としを～]",
     "meaningZh": "上[年紀]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch25.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch25.pdf.pdf",
+      "page": 1
     },
     "sourceText": "とります [としを～] |ます| / とる[としを∼] |辞| 取ります [年を～] / 取る[年を∼] Ⅰ 上[年紀]",
-    "kanji": "取ります [年を～] / 取る[年を∼]"
+    "kanji": "取る[年を～]",
+    "notes": "Ⅰ; ます形: とります [としを～] / 取ります [年を～]",
+    "sourceOrder": 3,
+    "section": "動詞"
   },
   {
     "id": "y2-l25-v004",
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 25,
-    "kana": "がんばります |ます| / がんばる |辞|",
+    "kana": "がんばる",
     "meaningZh": "努力、加油",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch25.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch25.pdf.pdf",
+      "page": 1
     },
     "sourceText": "がんばります |ます| / がんばる |辞| 頑張ります / 頑張る Ⅰ 努力、加油",
-    "kanji": "頑張ります / 頑張る"
+    "kanji": "頑張る",
+    "notes": "Ⅰ; ます形: がんばります / 頑張ります",
+    "sourceOrder": 4,
+    "section": "動詞"
   },
   {
     "id": "y2-l25-v005",
     "schoolYear": 2,
     "book": "初級 I",
     "lesson": 25,
-    "kana": "たります |ます| / たりる |辞|",
+    "kana": "たりる",
     "meaningZh": "夠",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch25.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch25.pdf.pdf",
+      "page": 1
     },
     "sourceText": "たります |ます| / たりる |辞| 足ります / 足りる Ⅱ 夠",
-    "kanji": "足ります / 足りる"
+    "kanji": "足りる",
+    "notes": "Ⅱ; ます形: たります / 足ります",
+    "sourceOrder": 5,
+    "section": "動詞"
   },
   {
     "id": "y2-l25-v006",
@@ -84,10 +104,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch25.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch25.pdf.pdf",
+      "page": 1
     },
     "sourceText": "いなか 田舎 鄉下、老家",
-    "kanji": "田舎"
+    "kanji": "田舎",
+    "sourceOrder": 6,
+    "section": "名詞"
   },
   {
     "id": "y2-l25-v007",
@@ -99,10 +122,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch25.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch25.pdf.pdf",
+      "page": 1
     },
     "sourceText": "いみ 意味 意思",
-    "kanji": "意味"
+    "kanji": "意味",
+    "sourceOrder": 7,
+    "section": "名詞"
   },
   {
     "id": "y2-l25-v008",
@@ -114,9 +140,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch25.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch25.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "チャンス - 機會"
+    "sourceText": "チャンス - 機會",
+    "sourceOrder": 8,
+    "section": "名詞"
   },
   {
     "id": "y2-l25-v009",
@@ -128,10 +157,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch25.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch25.pdf.pdf",
+      "page": 1
     },
     "sourceText": "てんきん 転勤 工作調動（～します：調動工作）",
-    "kanji": "転勤"
+    "kanji": "転勤",
+    "sourceOrder": 9,
+    "section": "名詞"
   },
   {
     "id": "y2-l25-v010",
@@ -143,10 +175,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch25.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch25.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ひま 暇 空閒（～があります：有空）",
-    "kanji": "暇"
+    "kanji": "暇",
+    "sourceOrder": 10,
+    "section": "名詞"
   },
   {
     "id": "y2-l25-v011",
@@ -158,10 +193,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch25.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch25.pdf.pdf",
+      "page": 1
     },
     "sourceText": "おく 億 億",
-    "kanji": "億"
+    "kanji": "億",
+    "sourceOrder": 11,
+    "section": "其他"
   },
   {
     "id": "y2-l25-v012",
@@ -173,10 +211,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch25.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch25.pdf.pdf",
+      "page": 1
     },
     "sourceText": "[いろいろ] おせわに なりました。 [いろいろ] お世話に なりました。 承蒙您的照顧了。",
-    "kanji": "[いろいろ] お世話に なりました。"
+    "kanji": "[いろいろ] お世話に なりました。",
+    "sourceOrder": 12,
+    "section": "其他"
   },
   {
     "id": "y2-l25-v013",
@@ -188,10 +229,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch25.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch25.pdf.pdf",
+      "page": 2
     },
     "sourceText": "どうぞ おげんきで。 どうぞ お元気で。 請多保重/祝你健康。（用於長期分別時）",
-    "kanji": "どうぞ お元気で。"
+    "kanji": "どうぞ お元気で。",
+    "sourceOrder": 13,
+    "section": "其他"
   },
   {
     "id": "y2-l25-v014",
@@ -203,9 +247,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch25.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch25.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "もし [～たら] - 如果，要是…"
+    "sourceText": "もし [～たら] - 如果，要是…",
+    "sourceOrder": 14,
+    "section": "其他"
   },
   {
     "id": "y2-l25-v015",
@@ -217,8 +264,11 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch25.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch25.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "もしもし - 喂（打電話時的用語）"
+    "sourceText": "もしもし - 喂（打電話時的用語）",
+    "sourceOrder": 15,
+    "section": "其他"
   }
 ]
