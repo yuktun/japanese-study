@@ -31,6 +31,39 @@ const validateGrammarNotes=(value,label)=>{
   const notes=Array.isArray(value)?value:[value];
   if(notes.some(note=>/(?:^|\n)\s*例：/.test(note)))fail(`${label} must not include source example blocks.`);
 };
+const validateGrammarExample=(example,label,{allowEmptyZh=false}={})=>{
+  if(!example||typeof example!=='object'||Array.isArray(example))fail(`${label} must be an object.`);
+  if(!nonEmptyText(example.ja))fail(`${label} ja must be a non-empty string.`);
+  if(typeof example.zh!=='string'||(!allowEmptyZh&&!nonEmptyText(example.zh)))fail(`${label} zh must be ${allowEmptyZh?'a string':'a non-empty string'}.`);
+  if(/^\s*(?:解説：|注意：)/.test(example.ja))fail(`${label} ja starts with source metadata instead of an example.`);
+  if(/(?:[）)]\s*\d+|(?:^|\n)\s*\d+[．.])/.test(example.zh))fail(`${label} zh contains a likely parser fragment.`);
+};
+const validateGrammarExamples=(examples,label,options={})=>{
+  if(!Array.isArray(examples)||!examples.length)fail(`${label} must be a non-empty array.`);
+  examples.forEach((example,index)=>validateGrammarExample(example,`${label.slice(0,-1)} ${index+1}`,options));
+  return examples.length;
+};
+const validateGrammarSubpattern=(subpattern,label)=>{
+  if(!subpattern||typeof subpattern!=='object'||Array.isArray(subpattern))fail(`${label} must be an object.`);
+  if('pattern' in subpattern){
+    if(!nonEmptyText(subpattern.pattern))fail(`${label} pattern must be a non-empty string.`);
+    for(const field of ['meaningZh','explanationZh'])if(field in subpattern)validateOptionalText(subpattern[field],`${label} ${field}`);
+    validateGrammarNotes(subpattern.notes,`${label} notes`);
+    if('table' in subpattern&&(!Array.isArray(subpattern.table)||!subpattern.table.length))fail(`${label} table must be a non-empty array when present.`);
+    return 'examples' in subpattern?validateGrammarExamples(subpattern.examples,`${label} examples`,{allowEmptyZh:true}):0;
+  }
+  if(!nonEmptyText(subpattern.title))fail(`${label} title must be a non-empty string.`);
+  if('explanationZh' in subpattern)validateOptionalText(subpattern.explanationZh,`${label} explanationZh`);
+  validateGrammarNotes(subpattern.notes,`${label} notes`);
+  let exampleCount=0;
+  if('examples' in subpattern)exampleCount+=validateGrammarExamples(subpattern.examples,`${label} examples`,{allowEmptyZh:true});
+  if('children' in subpattern){
+    if(!Array.isArray(subpattern.children)||!subpattern.children.length)fail(`${label} children must be a non-empty array when present.`);
+    exampleCount+=subpattern.children.reduce((count,child,index)=>count+validateGrammarSubpattern(child,`${label} child ${index+1}`),0);
+  }
+  if(!exampleCount)fail(`${label} must contain examples or children with examples.`);
+  return exampleCount;
+};
 const bannedSourceFields=new Set(['driveFileId','fileName','driveUrl','googleDriveUrl']);
 const validatePublicValue=(value,label)=>{
   if(typeof value==='string'){
@@ -92,14 +125,14 @@ for(const [lessonIndex,lesson] of manifest.lessons.entries()){
         for(const field of ['meaningZh','explanationZh'])if(field in item)validateOptionalText(item[field],`${itemLabel} ${field}`);
         validateGrammarSourceText(item.sourceText,`${itemLabel}`);
         validateGrammarNotes(item.notes,`${itemLabel} notes`);
+        let nestedExampleCount=0;
+        if('subpatterns' in item){
+          if(!Array.isArray(item.subpatterns)||!item.subpatterns.length)fail(`${itemLabel} subpatterns must be a non-empty array when present.`);
+          nestedExampleCount=item.subpatterns.reduce((count,subpattern,index)=>count+validateGrammarSubpattern(subpattern,`${itemLabel} subpattern ${index+1}`),0);
+        }
         if('examples' in item){
-          if(!Array.isArray(item.examples)||!item.examples.length)fail(`${itemLabel} examples must be a non-empty array when present.`);
-          item.examples.forEach((example,exampleIndex)=>{
-            if(!example||typeof example!=='object'||Array.isArray(example))fail(`${itemLabel} example ${exampleIndex+1} must be an object.`);
-            for(const field of ['ja','zh'])validateOptionalText(example[field],`${itemLabel} example ${exampleIndex+1} ${field}`);
-            if(/^\s*(?:解説：|注意：)/.test(example.ja))fail(`${itemLabel} example ${exampleIndex+1} ja starts with source metadata instead of an example.`);
-            if(/(?:[）)]\s*\d+|(?:^|\n)\s*\d+[．.])/.test(example.zh))fail(`${itemLabel} example ${exampleIndex+1} zh contains a likely parser fragment.`);
-          });
+          if(!Array.isArray(item.examples)||(!item.examples.length&&!nestedExampleCount))fail(`${itemLabel} examples must be a non-empty array unless subpatterns contain examples.`);
+          item.examples.forEach((example,exampleIndex)=>validateGrammarExample(example,`${itemLabel} example ${exampleIndex+1}`));
         }
         if('supplementary' in item){
           if(!item.supplementary||Array.isArray(item.supplementary)||typeof item.supplementary!=='object')fail(`${itemLabel} supplementary must be an object when present.`);
