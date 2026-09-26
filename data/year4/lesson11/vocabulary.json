@@ -10,7 +10,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 1,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v002",
@@ -24,7 +26,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 2,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v003",
@@ -38,7 +42,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 3,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v004",
@@ -52,7 +58,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 4,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v005",
@@ -61,11 +69,15 @@
     "lesson": 11,
     "kana": "ふきゅうする",
     "meaningZh": "普及",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 5,
+    "section": "文法・練習",
+    "kanji": "普及する",
+    "notes": "辞書形：ふきゅうする／ます形：ふきゅうします；普及する／普及します。"
   },
   {
     "id": "y4-l11-v006",
@@ -78,7 +90,11 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 6,
+    "section": "文法・練習",
+    "kanji": "建つ",
+    "notes": "辞書形：たつ／ます形：たちます；建つ／建ちます。學校 PDF 未標示動詞組別／自他。"
   },
   {
     "id": "y4-l11-v007",
@@ -92,20 +108,25 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 7,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v008",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "だい～ ［～かぞく］ 大～ ［～家族］ 接頭",
-    "meaningZh": "大～ [大家庭]",
-    "category": "詞彙",
+    "kana": "だい～［～かぞく］",
+    "meaningZh": "大～［大家庭］",
+    "category": "接頭辞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 8,
+    "section": "文法・練習",
+    "kanji": "大～［～家族］"
   },
   {
     "id": "y4-l11-v009",
@@ -113,12 +134,14 @@
     "book": "中級 I",
     "lesson": 11,
     "kana": "パックツアー",
-    "meaningZh": "只包交通、住宿的",
+    "meaningZh": "只包交通、住宿的半自由式旅行團。",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 9,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v010",
@@ -132,7 +155,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 10,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v011",
@@ -145,7 +170,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 11,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v012",
@@ -159,20 +186,25 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 12,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v013",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "はで ［な］ 派手 ［な］ な形",
-    "meaningZh": "華麗 [的]",
-    "category": "詞彙",
+    "kana": "はで［な］",
+    "meaningZh": "華麗［的］",
+    "category": "な形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 13,
+    "section": "文法・練習",
+    "kanji": "派手［な］"
   },
   {
     "id": "y4-l11-v014",
@@ -186,20 +218,26 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 14,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v015",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "だす ［げんきを～］",
-    "meaningZh": "打起 [打起精神]",
-    "category": "動詞",
+    "kana": "だす［げんきを～］",
+    "meaningZh": "打起［打起精神］",
+    "category": "動詞 Ⅰ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 15,
+    "section": "文法・練習",
+    "kanji": "出す［元気を～］",
+    "notes": "辞書形：だす［げんきを～］／ます形：だします［げんきを～］；出す［元気を～］／出します［元気を～］。"
   },
   {
     "id": "y4-l11-v016",
@@ -213,7 +251,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 16,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v017",
@@ -227,20 +267,42 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 17,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l11-v110",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 11,
+    "kana": "くるまいす",
+    "kanji": "車いす",
+    "category": "名詞",
+    "meaningZh": "輪椅",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
+    },
+    "sourceOrder": 18,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v018",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "きふする ［びょういんに",
-    "meaningZh": "捐贈",
-    "category": "詞彙",
+    "kana": "きふする［びょういんにくるまいすを～］",
+    "meaningZh": "捐贈［捐贈輪椅給醫院］",
+    "category": "動詞 Ⅲ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 19,
+    "section": "文法・練習",
+    "kanji": "寄付する［病院に車いすを～］",
+    "notes": "辞書形：きふする［びょういんにくるまいすを～］／ます形：きふします［びょういんにくるまいすを～］；寄付する［病院に車いすを～］／寄付します［病院に車いすを～］。"
   },
   {
     "id": "y4-l11-v019",
@@ -253,20 +315,25 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 20,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v020",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "じみ ［な］ 地味 ［な］ な形",
-    "meaningZh": "樸素 [的]、素雅 [的]",
-    "category": "詞彙",
+    "kana": "じみ［な］",
+    "category": "な形容詞",
+    "meaningZh": "樸素［的］、素雅［的］",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 21,
+    "section": "文法・練習",
+    "kanji": "地味［な］"
   },
   {
     "id": "y4-l11-v021",
@@ -280,7 +347,10 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 22,
+    "section": "文法・練習",
+    "notes": "＊「原子爆弾」是「原爆」的正式說法。"
   },
   {
     "id": "y4-l11-v022",
@@ -293,7 +363,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 23,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v023",
@@ -307,7 +379,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 24,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v024",
@@ -320,7 +394,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 25,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v025",
@@ -334,7 +410,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 26,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v026",
@@ -342,12 +420,15 @@
     "book": "中級 I",
     "lesson": 11,
     "kana": "あわてる",
-    "meaningZh": "- 動詞 II 自 慌張",
-    "category": "動詞",
+    "meaningZh": "慌張",
+    "category": "動詞 Ⅱ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 27,
+    "section": "文法・練習",
+    "notes": "辞書形：あわてる／ます形：あわてます。"
   },
   {
     "id": "y4-l11-v027",
@@ -356,11 +437,15 @@
     "lesson": 11,
     "kana": "おちつく",
     "meaningZh": "沉著、鎮靜",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 28,
+    "section": "文法・練習",
+    "kanji": "落ち着く",
+    "notes": "辞書形：おちつく／ます形：おちつきます；落ち着く／落ち着きます。"
   },
   {
     "id": "y4-l11-v028",
@@ -369,11 +454,15 @@
     "lesson": 11,
     "kana": "こうどうする",
     "meaningZh": "行動",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 29,
+    "section": "文法・練習",
+    "kanji": "行動する",
+    "notes": "辞書形：こうどうする／ます形：こうどうします；行動する／行動します。"
   },
   {
     "id": "y4-l11-v029",
@@ -382,11 +471,14 @@
     "lesson": 11,
     "kana": "のんびりする",
     "meaningZh": "悠閒自在",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 30,
+    "section": "文法・練習",
+    "notes": "辞書形：のんびりする／ます形：のんびりします。"
   },
   {
     "id": "y4-l11-v030",
@@ -399,20 +491,26 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 31,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v031",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "つながる ［でんわが～］",
-    "meaningZh": "接通 [接通電話]",
-    "category": "詞彙",
+    "kana": "つながる［でんわが～］",
+    "meaningZh": "接通［接通電話］",
+    "category": "動詞 Ⅰ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 32,
+    "section": "文法・練習",
+    "kanji": "［電話が～］",
+    "notes": "辞書形：つながる［でんわが～］／ます形：つながります［でんわが～］；つながる［電話が～］／つながります［電話が～］。"
   },
   {
     "id": "y4-l11-v032",
@@ -426,7 +524,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 33,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v033",
@@ -440,7 +540,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 34,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v034",
@@ -448,12 +550,14 @@
     "book": "中級 I",
     "lesson": 11,
     "kana": "これまでに",
-    "meaningZh": "接続",
+    "meaningZh": "至今",
     "category": "接続詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 35,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v035",
@@ -467,7 +571,25 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 36,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l11-v111",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 11,
+    "kana": "たんけん",
+    "kanji": "探検",
+    "category": "名詞",
+    "meaningZh": "探險",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
+    },
+    "sourceOrder": 37,
+    "section": "文法・練習"
   },
   {
     "id": "y4-l11-v036",
@@ -481,7 +603,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 38,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l11-v037",
@@ -495,7 +619,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 39,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l11-v038",
@@ -503,12 +629,14 @@
     "book": "中級 I",
     "lesson": 11,
     "kana": "やっぱり",
-    "meaningZh": "接続",
+    "meaningZh": "仍然、還是（是「やはり」的口語說法）",
     "category": "接続詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 40,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l11-v039",
@@ -517,12 +645,14 @@
     "lesson": 11,
     "kana": "りゅうひょう",
     "kanji": "流氷",
-    "meaningZh": "浮冰",
+    "meaningZh": "浮冰（特指冬天從北方漂到北海道海面的浮冰。）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 41,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l11-v040",
@@ -536,7 +666,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 42,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l11-v041",
@@ -545,24 +677,31 @@
     "lesson": 11,
     "kana": "ていあんする",
     "meaningZh": "提議、提出",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 43,
+    "section": "話す・聞く",
+    "kanji": "提案する",
+    "notes": "辞書形：ていあんする／ます形：ていあんします；提案する／提案します。"
   },
   {
     "id": "y4-l11-v042",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "かるく",
-    "meaningZh": "[稍微地做一下操]",
-    "category": "詞彙",
+    "kana": "かるく［～たいそうする］",
+    "meaningZh": "稍微地［稍微地做一下操］",
+    "category": "副詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 44,
+    "section": "話す・聞く",
+    "kanji": "軽く［～体操する］"
   },
   {
     "id": "y4-l11-v043",
@@ -576,20 +715,26 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 45,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l11-v044",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "よう ［のりものに～］",
-    "meaningZh": "暈 [暈車船等]",
-    "category": "詞彙",
+    "kana": "よう［のりものに～］",
+    "meaningZh": "暈［暈車船等］",
+    "category": "動詞 Ⅰ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 46,
+    "section": "話す・聞く",
+    "kanji": "酔う［乗り物に～］",
+    "notes": "辞書形：よう［のりものに～］／ます形：よいます［のりものに～］；酔う［乗り物に～］／酔います［乗り物に～］。"
   },
   {
     "id": "y4-l11-v045",
@@ -602,7 +747,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 47,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l11-v046",
@@ -610,12 +757,14 @@
     "book": "中級 I",
     "lesson": 11,
     "kana": "さらに",
-    "meaningZh": "接続",
+    "meaningZh": "更加、進一步",
     "category": "接続詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 48,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l11-v047",
@@ -629,7 +778,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 49,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l11-v048",
@@ -638,37 +789,46 @@
     "lesson": 11,
     "kana": "そめる",
     "meaningZh": "染色",
-    "category": "動詞",
+    "category": "動詞 Ⅱ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 50,
+    "section": "話す・聞く",
+    "kanji": "染める",
+    "notes": "辞書形：そめる／ます形：そめます；染める／染めます。"
   },
   {
     "id": "y4-l11-v049",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "～っていうのはどうで",
-    "meaningZh": "操怎麼樣。",
-    "category": "詞彙",
+    "kana": "～っていうのはどうですか。",
+    "meaningZh": "你看……怎麼樣？",
+    "category": "フレーズ",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 51,
+    "section": "話す・聞く",
+    "notes": "當問到自己的意見時，以一種無論對方采納與否都行的輕鬆語氣提出建議。\n例：軽く体操するっていうのはどうですか。\n中譯：你看做些輕鬆的體操怎麼樣。"
   },
   {
     "id": "y4-l11-v050",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "それも悪くないですね",
-    "meaningZh": "。",
-    "category": "詞彙",
+    "kana": "それも悪くないですね。",
+    "meaningZh": "倒也不錯，那也行。",
+    "category": "フレーズ",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 52,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l11-v051",
@@ -676,12 +836,14 @@
     "book": "中級 I",
     "lesson": 11,
     "kana": "それもそうですね。",
-    "meaningZh": "フレ",
-    "category": "慣用表現",
+    "meaningZh": "那倒也是。",
+    "category": "フレーズ",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 53,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l11-v052",
@@ -689,25 +851,30 @@
     "book": "中級 I",
     "lesson": 11,
     "kana": "けど、……。",
-    "meaningZh": "フレ",
-    "category": "慣用表現",
+    "meaningZh": "不過，可是。",
+    "category": "フレーズ",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 54,
+    "section": "話す・聞く"
   },
   {
     "id": "y4-l11-v053",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "それも悪くないですけ",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
-    "category": "詞彙",
+    "kana": "それも悪くないですけど……。",
+    "meaningZh": "那也行，不過……。",
+    "category": "フレーズ",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 55,
+    "section": "話す・聞く",
+    "notes": "先認可對方的意見，然後說出自己的想法。"
   },
   {
     "id": "y4-l11-v054",
@@ -721,7 +888,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 56,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v055",
@@ -735,7 +904,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 57,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v056",
@@ -748,7 +919,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 58,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v057",
@@ -762,7 +935,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 59,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v058",
@@ -776,7 +951,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 60,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v059",
@@ -790,7 +967,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 61,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v060",
@@ -799,11 +978,15 @@
     "lesson": 11,
     "kana": "おさめる",
     "meaningZh": "治理",
-    "category": "動詞",
+    "category": "動詞 Ⅱ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 62,
+    "section": "読む・書く",
+    "kanji": "治める",
+    "notes": "辞書形：おさめる／ます形：おさめます；治める／治めます。"
   },
   {
     "id": "y4-l11-v061",
@@ -817,7 +1000,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 63,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v062",
@@ -831,7 +1016,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 64,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v063",
@@ -844,7 +1031,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 65,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v064",
@@ -858,20 +1047,26 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 66,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v065",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "かける ［ひようを～］",
-    "meaningZh": "花費 [花錢]",
-    "category": "詞彙",
+    "kana": "かける［ひようを～］",
+    "meaningZh": "花費［花錢］",
+    "category": "動詞 Ⅱ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 67,
+    "section": "読む・書く",
+    "kanji": "［費用を～］",
+    "notes": "辞書形：かける［ひようを～］／ます形：かけます［ひようを～］；かける［費用を～］／かけます［費用を～］。"
   },
   {
     "id": "y4-l11-v066",
@@ -885,21 +1080,41 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 68,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l11-v112",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 11,
+    "kana": "ていこう",
+    "kanji": "抵抗",
+    "category": "名詞",
+    "meaningZh": "阻力",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
+    },
+    "sourceOrder": 69,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v067",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "～そう ～",
-    "kanji": "層",
+    "kana": "～そう",
+    "kanji": "～層",
     "meaningZh": "～層",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 70,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v068",
@@ -913,7 +1128,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 71,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v069",
@@ -927,7 +1144,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 72,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v070",
@@ -936,24 +1155,32 @@
     "lesson": 11,
     "kana": "せいぞうする",
     "meaningZh": "製造、生產",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 73,
+    "section": "読む・書く",
+    "kanji": "製造する",
+    "notes": "辞書形：せいぞうする／ます形：せいぞうします；製造する／製造します。"
   },
   {
     "id": "y4-l11-v071",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "おくる ［せいかつを～］",
-    "meaningZh": "過、度過 [過日子]",
-    "category": "詞彙",
+    "kana": "おくる［せいかつを～］",
+    "meaningZh": "過、度過［過日子］",
+    "category": "動詞 Ⅰ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 74,
+    "section": "読む・書く",
+    "kanji": "送る［生活を～］",
+    "notes": "辞書形：おくる［せいかつを～］／ます形：おくります［せいかつを～］；送る［生活を～］／送ります［生活を～］。"
   },
   {
     "id": "y4-l11-v072",
@@ -962,12 +1189,14 @@
     "lesson": 11,
     "kana": "かないさんぎょう",
     "kanji": "家内産業",
-    "meaningZh": "家庭作坊、個體經",
+    "meaningZh": "家庭作坊、個體經營",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 75,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v073",
@@ -981,7 +1210,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 76,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v074",
@@ -990,11 +1221,15 @@
     "lesson": 11,
     "kana": "きたいする",
     "meaningZh": "指望、期待",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 77,
+    "section": "読む・書く",
+    "kanji": "期待する",
+    "notes": "辞書形：きたいする／ます形：きたいします；期待する／期待します。"
   },
   {
     "id": "y4-l11-v075",
@@ -1008,7 +1243,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 78,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v076",
@@ -1022,7 +1259,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 79,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v077",
@@ -1030,12 +1269,15 @@
     "book": "中級 I",
     "lesson": 11,
     "kana": "やってくる",
-    "meaningZh": "- 動詞 III 自 來到、趕來",
-    "category": "動詞",
+    "meaningZh": "來到、趕來",
+    "category": "動詞 Ⅲ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 80,
+    "section": "読む・書く",
+    "notes": "辞書形：やってくる／ます形：やってきます。"
   },
   {
     "id": "y4-l11-v078",
@@ -1044,11 +1286,15 @@
     "lesson": 11,
     "kana": "すみつく",
     "meaningZh": "定居",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 81,
+    "section": "読む・書く",
+    "kanji": "住み着く",
+    "notes": "辞書形：すみつく／ます形：すみつきます；住み着く／住み着ます。"
   },
   {
     "id": "y4-l11-v079",
@@ -1062,20 +1308,25 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 82,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v080",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "～じょう",
-    "meaningZh": "～城 [帰雲～] 名詞 ～城 [歸雲城]",
-    "category": "詞彙",
+    "kana": "～じょう［かえりくも～］",
+    "meaningZh": "～城［歸雲城］",
+    "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 83,
+    "section": "読む・書く",
+    "kanji": "～城［帰雲～］"
   },
   {
     "id": "y4-l11-v081",
@@ -1089,7 +1340,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 84,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v082",
@@ -1098,11 +1351,15 @@
     "lesson": 11,
     "kana": "ほりあてる",
     "meaningZh": "挖到",
-    "category": "動詞",
+    "category": "動詞 Ⅱ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 85,
+    "section": "読む・書く",
+    "kanji": "掘り当てる",
+    "notes": "辞書形：ほりあてる／ます形：ほりあてます；掘り当てる／掘り当てます。"
   },
   {
     "id": "y4-l11-v083",
@@ -1116,7 +1373,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 86,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v084",
@@ -1130,21 +1389,41 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 87,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v085",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "～けん ～",
-    "kanji": "軒",
-    "meaningZh": "～棟(房屋)",
+    "kana": "～けん",
+    "kanji": "～軒",
+    "meaningZh": "～棟（房屋）、～家（商店等）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 88,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l11-v113",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 11,
+    "kana": "すうひゃくにん",
+    "kanji": "数百人",
+    "category": "名詞",
+    "meaningZh": "好幾百人（＊数十人／數十人、数千人／數千人）",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
+    },
+    "sourceOrder": 89,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v086",
@@ -1158,7 +1437,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 90,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v087",
@@ -1167,11 +1448,15 @@
     "lesson": 11,
     "kana": "きえる",
     "meaningZh": "消失",
-    "category": "動詞",
+    "category": "動詞 Ⅱ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 91,
+    "section": "読む・書く",
+    "kanji": "消える",
+    "notes": "辞書形：きえる／ます形：きえます；消える／消えます。"
   },
   {
     "id": "y4-l11-v088",
@@ -1180,11 +1465,15 @@
     "lesson": 11,
     "kana": "ほかんする",
     "meaningZh": "存放、保管",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 92,
+    "section": "読む・書く",
+    "kanji": "保管する",
+    "notes": "辞書形：ほかんする／ます形：ほかんします；保管する／保管します。"
   },
   {
     "id": "y4-l11-v089",
@@ -1198,33 +1487,43 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 93,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v090",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "わける",
-    "meaningZh": "分隔、分開 [分隔成",
-    "category": "動詞",
+    "kana": "わける［いくつかに～］",
+    "meaningZh": "分隔、分開［分隔成幾間、分成幾個］",
+    "category": "動詞 Ⅱ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 94,
+    "section": "読む・書く",
+    "kanji": "分ける［いくつかに～］",
+    "notes": "辞書形：わける［いくつかに～］／ます形：わけます［いくつかに～］；分ける［いくつかに～］／分けます［いくつかに～］。"
   },
   {
     "id": "y4-l11-v091",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "つもる ［ゆきが～］",
-    "meaningZh": "堆積 [積雪]",
-    "category": "動詞",
+    "kana": "つもる［ゆきが～］",
+    "meaningZh": "堆積［積雪］",
+    "category": "動詞 Ⅰ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 95,
+    "section": "読む・書く",
+    "kanji": "積もる［雪が～］",
+    "notes": "辞書形：つもる［ゆきが～］／ます形：つもります［ゆきが～］；積もる［雪が～］／積もります［雪が～］。"
   },
   {
     "id": "y4-l11-v092",
@@ -1238,7 +1537,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 96,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v093",
@@ -1252,7 +1553,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 97,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v094",
@@ -1266,7 +1569,9 @@
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 98,
+    "section": "読む・書く"
   },
   {
     "id": "y4-l11-v095",
@@ -1274,12 +1579,14 @@
     "book": "中級 I",
     "lesson": 11,
     "kana": "ノーベル",
-    "meaningZh": "固有",
+    "meaningZh": "諾貝爾: Alfred Bernhard Nobel（阿爾弗雷德．貝恩哈德．諾貝爾）（1833～1896）瑞典的科學家，炸藥的發明者。",
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 99,
+    "section": "固有名詞"
   },
   {
     "id": "y4-l11-v096",
@@ -1287,180 +1594,221 @@
     "book": "中級 I",
     "lesson": 11,
     "kana": "モーツァルト",
-    "meaningZh": "固有",
+    "meaningZh": "莫扎特: Wolfgang Amadeus Mozart（1756～1791）奧地利作曲家，一生創作了歌劇「費加羅的婚姻」等600多部音樂作品。",
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 100,
+    "section": "固有名詞"
   },
   {
     "id": "y4-l11-v097",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "しゅりじょう 首里城 固有",
-    "meaningZh": "王朝的城堡。",
-    "category": "詞彙",
+    "kana": "しゅりじょう",
+    "meaningZh": "首里古城: 位於沖繩縣首里市的古琉球王朝的城堡。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 101,
+    "section": "固有名詞",
+    "kanji": "首里城"
   },
   {
     "id": "y4-l11-v098",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "ゆきまつり 雪祭り 固有",
-    "meaningZh": "名。",
-    "category": "詞彙",
+    "kana": "ゆきまつり",
+    "meaningZh": "雪節: 在北海道札幌市舉行的旅遊觀光活動，以巨大的雪塑像和燈飾樹而著名。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 102,
+    "section": "固有名詞",
+    "kanji": "雪祭り"
   },
   {
     "id": "y4-l11-v099",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "しらかわごう 白川郷 固有",
-    "meaningZh": "頂的大屋裡。",
-    "category": "詞彙",
+    "kana": "しらかわごう",
+    "meaningZh": "白川鄉: 位於歧阜縣庄川河上游的山村，古時候一個大家庭的很多成員都共同生活在合掌式屋頂的大屋裡。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 103,
+    "section": "固有名詞",
+    "kanji": "白川郷"
   },
   {
     "id": "y4-l11-v100",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "しらかみさんち 白神山地 固有",
-    "meaningZh": "始森林。",
-    "category": "詞彙",
+    "kana": "しらかみさんち",
+    "meaningZh": "白神山區: 位於青森縣與秋田縣之間，以白神峰為中心的山區，有世界最大規模的山毛櫸的原始森林。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 104,
+    "section": "固有名詞",
+    "kanji": "白神山地"
   },
   {
     "id": "y4-l11-v101",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "いつくしまじんじゃ 厳島神社 固有",
-    "meaningZh": "國寶級文物。",
-    "category": "詞彙",
+    "kana": "いつくしまじんじゃ",
+    "meaningZh": "嚴島神社: 位於廣島縣宮島町，神殿建於海中，很美，神社內有很多古跡和國寶級文物。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 105,
+    "section": "固有名詞",
+    "kanji": "厳島神社"
   },
   {
     "id": "y4-l11-v102",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "やくしま 屋久島 固有",
-    "meaningZh": "杉」的自然林。",
-    "category": "詞彙",
+    "kana": "やくしま",
+    "meaningZh": "屋久島: 該島屬於鹿兒島縣的大隈群島，擁有樹齡千年以上的，號稱「屋久杉」的自然林。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 106,
+    "section": "固有名詞",
+    "kanji": "屋久島"
   },
   {
     "id": "y4-l11-v103",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "しれとこ 知床 固有",
-    "meaningZh": "為斷崖絕壁。",
-    "category": "詞彙",
+    "kana": "しれとこ",
+    "meaningZh": "知床半島: 位於北海道的東端，是伸向鄂霍次克海的狹長形半島，海岸線多為斷崖絕壁。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 107,
+    "section": "固有名詞",
+    "kanji": "知床"
   },
   {
     "id": "y4-l11-v104",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "げんばくドーム 原爆ドーム 固有",
-    "meaningZh": "禍的象徵。",
-    "category": "詞彙",
+    "kana": "げんばくドーム",
+    "meaningZh": "原爆圓頂館: 該館是被1945年8月6日在廣島投下的原子彈所破壞的，它的殘跡已經成為人類慘禍的象徵。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 108,
+    "section": "固有名詞",
+    "kanji": "原爆ドーム"
   },
   {
     "id": "y4-l11-v105",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "がっしょうづくり 合掌造り 固有",
-    "meaningZh": "。",
-    "category": "詞彙",
+    "kana": "がっしょうづくり",
+    "meaningZh": "合掌式屋頂的建築: 為一個大家庭的居住和養蠶而修建的飛驒地區的普通民家，為了對付大雪，屋頂的坡度很陡。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 109,
+    "section": "固有名詞",
+    "kanji": "合掌造り"
   },
   {
     "id": "y4-l11-v106",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "えどじだい 江戸時代 固有",
-    "meaningZh": "京)而得名。",
-    "category": "詞彙",
+    "kana": "えどじだい",
+    "meaningZh": "江戶時代:（1603～1867）也稱作德川時代，因當時的幕府設在江戶（現在的東京）而得名。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 110,
+    "section": "固有名詞",
+    "kanji": "江戸時代"
   },
   {
     "id": "y4-l11-v107",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "うちがしまためうじ 内ヶ嶋為氏 固有",
-    "meaningZh": "修建了歸雲城。",
-    "category": "詞彙",
+    "kana": "うちがしまためうじ",
+    "meaningZh": "內嶋為氏: 此人生卒年未詳，為室町時代武將，在白川鄉修建了歸雲城。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 111,
+    "section": "固有名詞",
+    "kanji": "内ヶ嶋為氏"
   },
   {
     "id": "y4-l11-v108",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "かえりくもじょう 帰雲城 固有",
-    "meaningZh": "天正大地震。",
-    "category": "詞彙",
+    "kana": "かえりくもじょう",
+    "meaningZh": "歸雲城: 內嶋為氏於1464年前後在岐阜縣白川鄉修建此城，後毀於1586年的天正大地震。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 112,
+    "section": "固有名詞",
+    "kanji": "帰雲城"
   },
   {
     "id": "y4-l11-v109",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 11,
-    "kana": "おだのぶなが 織田信長 固有",
-    "meaningZh": "8 / 8",
-    "category": "詞彙",
+    "kana": "おだのぶなが",
+    "meaningZh": "織田信長:（1534～1582）日本戰國安土桃山時代的武將。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch11.pdf.pdf"
-    }
+    },
+    "sourceOrder": 113,
+    "section": "固有名詞",
+    "kanji": "織田信長"
   }
 ]
