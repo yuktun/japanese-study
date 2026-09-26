@@ -6,13 +6,15 @@
     "lesson": 9,
     "kana": "きまる",
     "meaningZh": "決定",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 1,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "決まる",
+    "notes": "辞書形：きまる／ます形：きまります；決まる／決まります。"
   },
   {
     "id": "y4-l9-v002",
@@ -21,13 +23,15 @@
     "lesson": 9,
     "kana": "すむ",
     "meaningZh": "完了、結束",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 2,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "済む",
+    "notes": "辞書形：すむ／ます形：すみます；済む／済みます。"
   },
   {
     "id": "y4-l9-v003",
@@ -146,13 +150,15 @@
     "lesson": 9,
     "kana": "じまんする",
     "meaningZh": "自豪",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 10,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "自慢する",
+    "notes": "辞書形：じまんする／ます形：じまんします；自慢する／自慢します。"
   },
   {
     "id": "y4-l9-v011",
@@ -320,13 +326,15 @@
     "lesson": 9,
     "kana": "にゅうこくする",
     "meaningZh": "入境",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 21,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "入国する",
+    "notes": "辞書形：にゅうこくする／ます形：にゅうこくします；入国する／入国します。"
   },
   {
     "id": "y4-l9-v021",
@@ -349,15 +357,17 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "とれる ［こめが～］",
-    "meaningZh": "產、生產 [～稻米]",
-    "category": "動詞",
+    "kana": "とれる［こめが～］",
+    "meaningZh": "產、生產［～稻米］",
+    "category": "動詞 Ⅱ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 23,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "とれる［米が～］",
+    "notes": "辞書形：とれる［こめが～］／ます形：とれます［こめが～］；とれる［米が～］／とれます［米が～］。"
   },
   {
     "id": "y4-l9-v023",
@@ -382,13 +392,15 @@
     "lesson": 9,
     "kana": "かんそうする",
     "meaningZh": "乾燥",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 25,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "乾燥する",
+    "notes": "辞書形：かんそうする／ます形：かんそうします；乾燥する／乾燥します。"
   },
   {
     "id": "y4-l9-v025",
@@ -444,13 +456,15 @@
     "lesson": 9,
     "kana": "いきる",
     "meaningZh": "活著、生存",
-    "category": "動詞",
+    "category": "動詞 Ⅱ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 29,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "生きる",
+    "notes": "辞書形：いきる／ます形：いきます；生きる／生きます。"
   },
   {
     "id": "y4-l9-v029",
@@ -475,13 +489,15 @@
     "lesson": 9,
     "kana": "じつげんする",
     "meaningZh": "實現",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 31,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "実現する",
+    "notes": "辞書形：じつげんする／ます形：じつげんします；実現する／実現します。"
   },
   {
     "id": "y4-l9-v031",
@@ -566,8 +582,8 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "シンプル ［な］",
-    "meaningZh": "な形",
+    "kana": "シンプル［な］",
+    "meaningZh": "簡單［的］、簡潔［的］",
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
@@ -597,8 +613,8 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "れいぶん",
-    "meaningZh": "例句",
+    "kana": "けんさく",
+    "meaningZh": "檢索",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -606,7 +622,7 @@
     },
     "sourceOrder": 39,
     "section": "話す・聞く",
-    "kanji": "例文"
+    "kanji": "検索"
   },
   {
     "id": "y4-l9-v039",
@@ -676,8 +692,8 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "～しゃ ～",
-    "kanji": "社",
+    "kana": "～しゃ",
+    "kanji": "～社",
     "meaningZh": "～公司",
     "category": "名詞",
     "source": {
@@ -724,15 +740,17 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "のる ［れいぶんが～］",
-    "meaningZh": "記載 [～例句]",
-    "category": "詞彙",
+    "kana": "のる［れいぶんが～］",
+    "meaningZh": "記載［～例句］",
+    "category": "動詞 Ⅰ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 47,
-    "section": "話す・聞く"
+    "section": "話す・聞く",
+    "kanji": "載る［例文が～］",
+    "notes": "辞書形：のる［れいぶんが～］／ます形：のります［れいぶんが～］；載る［例文が～］／載ります［例文が～］。"
   },
   {
     "id": "y4-l9-v046",
@@ -756,13 +774,15 @@
     "lesson": 9,
     "kana": "つけくわえる",
     "meaningZh": "加上",
-    "category": "動詞",
+    "category": "動詞 Ⅱ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 49,
-    "section": "話す・聞く"
+    "section": "話す・聞く",
+    "kanji": "付け加える",
+    "notes": "辞書形：つけくわえる／ます形：つけくわえます；付け加える／付け加えます。"
   },
   {
     "id": "y4-l9-v048",
@@ -771,13 +791,15 @@
     "lesson": 9,
     "kana": "へんしゅうする",
     "meaningZh": "編輯",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 50,
-    "section": "話す・聞く"
+    "section": "話す・聞く",
+    "kanji": "編集する",
+    "notes": "辞書形：へんしゅうする／ます形：へんしゅうします；編集する／編集します。"
   },
   {
     "id": "y4-l9-v049",
@@ -801,13 +823,15 @@
     "lesson": 9,
     "kana": "るすばんをする",
     "meaningZh": "看家、看門",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 52,
-    "section": "話す・聞く"
+    "section": "話す・聞く",
+    "kanji": "留守番をする",
+    "notes": "辞書形：るすばんをする／ます形：るすばんをします；留守番をする／留守番をします。"
   },
   {
     "id": "y4-l9-v051",
@@ -831,8 +855,8 @@
     "book": "中級 I",
     "lesson": 9,
     "kana": "こうやって",
-    "meaningZh": "フレ",
-    "category": "慣用表現",
+    "meaningZh": "像這樣……",
+    "category": "フレーズ",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
@@ -845,30 +869,32 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "～だけじゃなくて、～",
-    "meaningZh": "有鎖的就好了。",
-    "category": "詞彙",
+    "kana": "～だけじゃなくて、～のがいいんですが……。",
+    "meaningZh": "不光～，並且～為好（對想買的商品，另提附加條件。）",
+    "category": "フレーズ",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 55,
-    "section": "話す・聞く"
+    "section": "話す・聞く",
+    "notes": "例：丈夫なだけじゃなくて、鍵がついているのがいいんですが。\n中譯：不光要堅固，並且帶有鎖的就好了。"
   },
   {
     "id": "y4-l9-v054",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "それでしたら、～（の",
-    "meaningZh": "嗎?",
-    "category": "詞彙",
+    "kana": "それでしたら、～（の）がよろしいんじゃないでしょうか。",
+    "meaningZh": "如果那樣的話……不就好了嗎？",
+    "category": "フレーズ",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 56,
-    "section": "話す・聞く"
+    "section": "話す・聞く",
+    "notes": "例：それでしたら、こちらのがよろしいんじゃないでしょうか。\n中譯：如果是那樣的話，這邊的一個不是很好嗎？"
   },
   {
     "id": "y4-l9-v055",
@@ -894,8 +920,8 @@
     "section": "話す・聞く",
     "kana": "～で、～はありませんか。",
     "category": "フレーズ",
-    "meaningZh": "請問有沒有同一顏色的大碼？",
-    "notes": "例：同じ色で、Lサイズはありませんか。",
+    "meaningZh": "同一種（商品），有沒有其他（款式）。（當店員推薦某款商品時，詢問有沒有具某同樣條件但不同款式型號的商品。）",
+    "notes": "例：同じ色で、Lサイズはありませんか。\n中譯：請問有沒有同一顏色的大碼？",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
@@ -988,13 +1014,15 @@
     "lesson": 9,
     "kana": "ほこる",
     "meaningZh": "自豪、引以爲傲",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 64,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "誇る",
+    "notes": "辞書形：ほこる／ます形：ほこります；誇る／誇ります。"
   },
   {
     "id": "y4-l9-v062",
@@ -1003,35 +1031,38 @@
     "lesson": 9,
     "kana": "あらわれる",
     "meaningZh": "表現出、顯現",
-    "category": "動詞",
+    "category": "動詞 Ⅱ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 65,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "表れる",
+    "notes": "辞書形：あらわれる／ます形：あらわれます；表れる／表れます。"
   },
   {
     "id": "y4-l9-v063",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "いまでは 今では 接続",
+    "kana": "いまでは",
     "meaningZh": "現在則是",
-    "category": "詞彙",
+    "category": "接続詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 66,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "今では"
   },
   {
     "id": "y4-l9-v064",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "ツナミ TSUNAMI",
+    "kana": "ツナミ",
     "meaningZh": "海嘯",
     "category": "名詞",
     "source": {
@@ -1039,7 +1070,8 @@
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 67,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "TSUNAMI"
   },
   {
     "id": "y4-l9-v065",
@@ -1080,29 +1112,30 @@
     "lesson": 9,
     "kana": "ろくおんする",
     "meaningZh": "錄音",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 70,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "録音する",
+    "notes": "辞書形：ろくおんする／ます形：ろくおんします；録音する／録音します。"
   },
   {
     "id": "y4-l9-v068",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "きょうそう",
-    "meaningZh": "競争",
+    "kana": "ヒント",
+    "meaningZh": "提示、暗示",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 71,
-    "section": "読む・書く",
-    "kanji": "競争"
+    "section": "読む・書く"
   },
   {
     "id": "y4-l9-v069",
@@ -1111,13 +1144,15 @@
     "lesson": 9,
     "kana": "かしだす",
     "meaningZh": "借出、出租",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 72,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "貸し出す",
+    "notes": "辞書形：かしだす／ます形：かしだします；貸し出す／貸し出します。"
   },
   {
     "id": "y4-l9-v070",
@@ -1125,7 +1160,7 @@
     "book": "中級 I",
     "lesson": 9,
     "kana": "ところが",
-    "meaningZh": "接続",
+    "meaningZh": "然而、不過",
     "category": "接続詞",
     "source": {
       "type": "school_pdf",
@@ -1219,8 +1254,8 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "［お］ としより ［お］",
-    "kanji": "お年寄り",
+    "kana": "［お］としより",
+    "kanji": "［お］お年寄り",
     "meaningZh": "年長者、老人家",
     "category": "名詞",
     "source": {
@@ -1269,28 +1304,31 @@
     "lesson": 9,
     "kana": "なおす",
     "meaningZh": "治癒",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 82,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "治す",
+    "notes": "辞書形：なおす／ます形：なおします；治す／治します。"
   },
   {
     "id": "y4-l9-v079",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "たんなる 単なる 接頭",
+    "kana": "たんなる",
     "meaningZh": "僅僅、純粹",
-    "category": "詞彙",
+    "category": "接頭辞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 83,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "単なる"
   },
   {
     "id": "y4-l9-v080",
@@ -1362,13 +1400,15 @@
     "lesson": 9,
     "kana": "やくだつ",
     "meaningZh": "有用處、起作用",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 88,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "役立つ",
+    "notes": "辞書形：やくだつ／ます形：やくだちます；役立つ／役立ちます。"
   },
   {
     "id": "y4-l9-v085",
@@ -1392,7 +1432,7 @@
     "book": "中級 I",
     "lesson": 9,
     "kana": "ドラえもん",
-    "meaningZh": "固有",
+    "meaningZh": "多啦A夢、叮噹貓、機器貓：漫畫主人公，被改編成動畫片，譯成多種語言，在世界上廣為流傳。",
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
@@ -1407,7 +1447,7 @@
     "book": "中級 I",
     "lesson": 9,
     "kana": "アインシュタイン",
-    "meaningZh": "固有",
+    "meaningZh": "愛因斯坦：Albert Einstein（艾伯特．愛因斯坦）（1879～1955）。德籍，理論物理學家。諾貝爾獎得獎者。",
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
@@ -1422,7 +1462,7 @@
     "book": "中級 I",
     "lesson": 9,
     "kana": "タイム",
-    "meaningZh": "固有",
+    "meaningZh": "時代週刊：美國新聞週刊雜誌。在世界30個國家出版。",
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
@@ -1440,7 +1480,7 @@
     "section": "固有名詞",
     "kana": "ガンジー",
     "category": "固有名詞",
-    "meaningZh": "甘地：Mohandas Karamchand Gandhi（1869～1948）印度政治家、思想家。",
+    "meaningZh": "甘地：Mohandas Karamchand Gandhi（莫罕達斯．卡拉姆昌德．甘地）（1869～1948）印度政治家、思想家。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
@@ -1451,45 +1491,48 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "もうたくとう 毛沢東 固有",
-    "meaningZh": "民共和國。",
-    "category": "詞彙",
+    "kana": "もうたくとう",
+    "meaningZh": "毛澤東：（1893～1976）中國政治家、思想家。建立中華人民共和國。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 95,
-    "section": "固有名詞"
+    "section": "固有名詞",
+    "kanji": "毛沢東"
   },
   {
     "id": "y4-l9-v090",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "くろざわあきら 黒澤明 固有",
-    "meaningZh": "[七武士]。",
-    "category": "詞彙",
+    "kana": "くろざわあきら",
+    "meaningZh": "黑澤明：（1910~1998）電影導演。代表作［七武士］。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 96,
-    "section": "固有名詞"
+    "section": "固有名詞",
+    "kanji": "黒澤明"
   },
   {
     "id": "y4-l9-v091",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "いのうえだいすけ 井上大佑 固有",
-    "meaningZh": "出生。",
-    "category": "詞彙",
+    "kana": "いのうえだいすけ",
+    "meaningZh": "井上大佑：卡拉OK的發明者。1949年出生。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 97,
-    "section": "固有名詞"
+    "section": "固有名詞",
+    "kanji": "井上大佑"
   },
   {
     "id": "y4-l9-v092",
@@ -1497,7 +1540,7 @@
     "book": "中級 I",
     "lesson": 9,
     "kana": "8ジューク",
-    "meaningZh": "固有",
+    "meaningZh": "8—juke（8聲道點唱機）：第一台卡拉OK機。1971年，由井上大佑發明。",
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
@@ -1511,15 +1554,16 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 9,
-    "kana": "まがるストロー 曲がるストロー 固有",
-    "meaningZh": "管時得到的啟發。",
-    "category": "詞彙",
+    "kana": "まがるストロー",
+    "meaningZh": "彎曲吸管：坂田多賀夫以波紋狀的排風管為樣本發明並取得了專利。這是他看到他的朋友在病床上用直吸管時得到的啟發。",
+    "category": "固有名詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch9.pdf.pdf"
     },
     "sourceOrder": 99,
-    "section": "固有名詞"
+    "section": "固有名詞",
+    "kanji": "曲がるストロー"
   },
   {
     "id": "y4-l9-v094",
@@ -1527,7 +1571,7 @@
     "book": "中級 I",
     "lesson": 9,
     "kana": "プルトップリング",
-    "meaningZh": "固有",
+    "meaningZh": "易拉環：開啟飲料罐飲用口蓋子的拉環。",
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
