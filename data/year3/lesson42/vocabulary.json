@@ -4,84 +4,108 @@
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 42,
-    "kana": "つつみます |ます| / つつむ |辞|",
-    "meaningZh": "Ⅰ 他 包、包上",
+    "kana": "つつむ",
+    "meaningZh": "包、包上",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 1
     },
-    "kanji": "包みます / 包む"
+    "kanji": "包む",
+    "sourceOrder": 1,
+    "section": "動詞",
+    "notes": "Ⅰ 他; ます形: つつみます / 包みます"
   },
   {
     "id": "y3-l42-v002",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 42,
-    "kana": "わかします |ます| / わかす |辞|",
-    "meaningZh": "Ⅰ 他 燒開",
+    "kana": "わかす",
+    "meaningZh": "燒開",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 1
     },
-    "kanji": "沸かします / 沸かす"
+    "kanji": "沸かす",
+    "sourceOrder": 2,
+    "section": "動詞",
+    "notes": "Ⅰ 他; ます形: わかします / 沸かします"
   },
   {
     "id": "y3-l42-v003",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 42,
-    "kana": "まぜます |ます| / まぜる |辞|",
-    "meaningZh": "Ⅱ 他 攪拌、混合",
+    "kana": "まぜる",
+    "meaningZh": "攪拌、混合",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 1
     },
-    "kanji": "混ぜます / 混ぜる"
+    "kanji": "混ぜる",
+    "sourceOrder": 3,
+    "section": "動詞",
+    "notes": "Ⅱ 他; ます形: まぜます / 混ぜます"
   },
   {
     "id": "y3-l42-v004",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 42,
-    "kana": "けいさんします |ます| / けいさんする |辞|",
-    "meaningZh": "Ⅲ 他 計算",
+    "kana": "けいさんする",
+    "meaningZh": "計算",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 1
     },
-    "kanji": "計算します / 計算する"
+    "kanji": "計算する",
+    "sourceOrder": 4,
+    "section": "動詞",
+    "notes": "Ⅲ 他; ます形: けいさんします / 計算します"
   },
   {
     "id": "y3-l42-v005",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 42,
-    "kana": "ならびます |ます| / ならぶ |辞|",
-    "meaningZh": "Ⅰ 自 排列、排隊",
+    "kana": "ならぶ",
+    "meaningZh": "排列、排隊",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 1
     },
-    "kanji": "並びます / 並ぶ"
+    "kanji": "並ぶ",
+    "sourceOrder": 5,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: ならびます / 並びます"
   },
   {
     "id": "y3-l42-v006",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 42,
-    "kana": "でます [ボーナスが] |ます| / でる[ボーナスが～] |辞|",
-    "meaningZh": "Ⅱ 自 發 [獎金]",
+    "kana": "でる[ボーナスが～]",
+    "meaningZh": "發 [獎金]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 1
     },
-    "kanji": "出ます [ボーナスが～] / 出る[ボーナスが～]"
+    "kanji": "出る[ボーナスが～]",
+    "sourceOrder": 6,
+    "section": "動詞",
+    "notes": "Ⅱ 自; ます形: でます [ボーナスが] / 出ます [ボーナスが～]"
   },
   {
     "id": "y3-l42-v007",
@@ -93,9 +117,11 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 1
     },
-    "kanji": "-"
+    "sourceOrder": 8,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v008",
@@ -107,9 +133,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 1
     },
-    "kanji": "弁護士"
+    "kanji": "弁護士",
+    "sourceOrder": 9,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v009",
@@ -121,9 +150,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 1
     },
-    "kanji": "音楽家"
+    "kanji": "音楽家",
+    "sourceOrder": 10,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v010",
@@ -135,9 +167,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 1
     },
-    "kanji": "子どもたち"
+    "kanji": "子どもたち",
+    "sourceOrder": 11,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v011",
@@ -149,9 +184,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 1
     },
-    "kanji": "自然"
+    "kanji": "自然",
+    "sourceOrder": 12,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v012",
@@ -163,9 +201,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 1
     },
-    "kanji": "教育"
+    "kanji": "教育",
+    "sourceOrder": 13,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v013",
@@ -177,9 +218,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 1
     },
-    "kanji": "文化"
+    "kanji": "文化",
+    "sourceOrder": 14,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v014",
@@ -191,9 +235,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 1
     },
-    "kanji": "社会"
+    "kanji": "社会",
+    "sourceOrder": 15,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v015",
@@ -205,9 +252,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 1
     },
-    "kanji": "政治"
+    "kanji": "政治",
+    "sourceOrder": 16,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v052",
@@ -217,12 +267,15 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
     "kana": "ほうりつ",
     "kanji": "法律",
     "meaningZh": "法律",
-    "sourceText": "ほうりつ / 法律 / 法律"
+    "sourceText": "ほうりつ / 法律 / 法律",
+    "sourceOrder": 17,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v016",
@@ -234,9 +287,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "戦争"
+    "kanji": "戦争",
+    "sourceOrder": 18,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v017",
@@ -248,9 +304,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "平和"
+    "kanji": "平和",
+    "sourceOrder": 19,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v018",
@@ -262,9 +321,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "目的"
+    "kanji": "目的",
+    "sourceOrder": 20,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v019",
@@ -276,9 +338,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "論文"
+    "kanji": "論文",
+    "sourceOrder": 21,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v020",
@@ -290,9 +355,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "楽しみ"
+    "kanji": "楽しみ",
+    "sourceOrder": 22,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v021",
@@ -304,9 +372,11 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 23,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v022",
@@ -318,9 +388,11 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 24,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v023",
@@ -332,9 +404,11 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 25,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v024",
@@ -346,9 +420,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "栓抜き"
+    "kanji": "栓抜き",
+    "sourceOrder": 26,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v025",
@@ -360,9 +437,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "缶切り"
+    "kanji": "缶切り",
+    "sourceOrder": 27,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v026",
@@ -374,9 +454,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "缶詰"
+    "kanji": "缶詰",
+    "sourceOrder": 28,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v027",
@@ -388,9 +471,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "のし袋"
+    "kanji": "のし袋",
+    "sourceOrder": 29,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v028",
@@ -402,9 +488,11 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 30,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v029",
@@ -416,9 +504,11 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 31,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v030",
@@ -430,9 +520,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "体温計"
+    "kanji": "体温計",
+    "sourceOrder": 32,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v031",
@@ -444,9 +537,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "材料"
+    "kanji": "材料",
+    "sourceOrder": 33,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v032",
@@ -458,9 +554,11 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 34,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v033",
@@ -472,9 +570,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "半分"
+    "kanji": "半分",
+    "sourceOrder": 35,
+    "section": "名詞"
   },
   {
     "id": "y3-l42-v034",
@@ -486,9 +587,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "丈夫 [な]"
+    "kanji": "丈夫 [な]",
+    "sourceOrder": 7,
+    "section": "な形容詞"
   },
   {
     "id": "y3-l42-v035",
@@ -500,9 +604,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 2
     },
-    "kanji": "一生懸命"
+    "kanji": "一生懸命",
+    "sourceOrder": 37,
+    "section": "副詞"
   },
   {
     "id": "y3-l42-v053",
@@ -512,12 +619,14 @@
     "category": "疑問詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
     "kana": "なぜ",
-    "kanji": "-",
     "meaningZh": "爲什麽",
-    "sourceText": "なぜ / - / 爲什麽"
+    "sourceText": "なぜ / - / 爲什麽",
+    "sourceOrder": 38,
+    "section": "疑問詞"
   },
   {
     "id": "y3-l42-v036",
@@ -529,9 +638,11 @@
     "category": "疑問詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "-"
+    "sourceOrder": 39,
+    "section": "疑問詞"
   },
   {
     "id": "y3-l42-v037",
@@ -543,9 +654,11 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "-"
+    "sourceOrder": 36,
+    "section": "其他"
   },
   {
     "id": "y3-l42-v038",
@@ -557,9 +670,12 @@
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "国連"
+    "kanji": "国連",
+    "sourceOrder": 40,
+    "section": "固有名詞"
   },
   {
     "id": "y3-l42-v039",
@@ -571,9 +687,11 @@
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "-"
+    "sourceOrder": 41,
+    "section": "固有名詞"
   },
   {
     "id": "y3-l42-v040",
@@ -585,9 +703,11 @@
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "-"
+    "sourceOrder": 42,
+    "section": "固有名詞"
   },
   {
     "id": "y3-l42-v041",
@@ -599,9 +719,11 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "-"
+    "sourceOrder": 43,
+    "section": "読み物"
   },
   {
     "id": "y3-l42-v042",
@@ -613,9 +735,12 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "世界初"
+    "kanji": "世界初",
+    "sourceOrder": 44,
+    "section": "読み物"
   },
   {
     "id": "y3-l42-v043",
@@ -627,9 +752,11 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "-"
+    "sourceOrder": 45,
+    "section": "読み物"
   },
   {
     "id": "y3-l42-v044",
@@ -641,9 +768,11 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "-"
+    "sourceOrder": 46,
+    "section": "読み物"
   },
   {
     "id": "y3-l42-v045",
@@ -655,9 +784,11 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "-"
+    "sourceOrder": 47,
+    "section": "読み物"
   },
   {
     "id": "y3-l42-v046",
@@ -669,9 +800,12 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "広めます"
+    "kanji": "広めます",
+    "sourceOrder": 48,
+    "section": "読み物"
   },
   {
     "id": "y3-l42-v047",
@@ -683,9 +817,12 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "市場調査"
+    "kanji": "市場調査",
+    "sourceOrder": 49,
+    "section": "読み物"
   },
   {
     "id": "y3-l42-v048",
@@ -697,9 +834,12 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "割ります"
+    "kanji": "割ります",
+    "sourceOrder": 50,
+    "section": "読み物"
   },
   {
     "id": "y3-l42-v049",
@@ -711,9 +851,12 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "注ぎます"
+    "kanji": "注ぎます",
+    "sourceOrder": 51,
+    "section": "読み物"
   },
   {
     "id": "y3-l42-v050",
@@ -721,13 +864,15 @@
     "book": "初級 II",
     "lesson": 42,
     "kana": "チキンラーメン",
-    "meaningZh": "[商品名稱]雞湯麵",
+    "meaningZh": "[商品名稱] 雞湯麵",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "-"
+    "sourceOrder": 52,
+    "section": "読み物"
   },
   {
     "id": "y3-l42-v051",
@@ -739,8 +884,11 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch42.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch42.pdf.pdf",
+      "page": 3
     },
-    "kanji": "安藤百福"
+    "kanji": "安藤百福",
+    "sourceOrder": 53,
+    "section": "読み物"
   }
 ]
