@@ -36,8 +36,8 @@
     ],
     "table": [
       [
-        "ordinary",
-        "honorific"
+        "普通形",
+        "尊他敬語"
       ],
       [
         "行く／いる／来る",
@@ -135,7 +135,7 @@
     "notes": [
       "形成1：N／V普通形＋ほど＋いA（い→くない）／なA（だ→ではない）。",
       "形成2：N／V普通形＋ほどではない。",
-      "SOURCE ANOMALY：PDF explanatory text once prints「はど」in the line describing V（普通形）＋ほど. Keep the correct pattern「ほど」in app data; preserve the typo only in this note."
+      "來源異常：學校 PDF 的解說文字有一處將「ほど」印成「はど」。App 的文法句型維持正確的「ほど」，只在此備註保留來源異常。"
     ],
     "source": {
       "type": "school_pdf",
