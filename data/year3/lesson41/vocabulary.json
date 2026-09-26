@@ -4,90 +4,111 @@
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 41,
-    "kana": "いただきます |ます| / いただく |辞|",
-    "meaningZh": "Ⅰ 他 得到、收到（「もらいます」的謙遜語）",
+    "kana": "いただく",
+    "meaningZh": "得到、收到（「もらいます」的謙遜語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 1
     },
-    "kanji": "-",
-    "sourceText": "いただきます |ます| / いただく |辞| / - / Ⅰ 他 得到、收到（「もらいます」的謙遜語）"
+    "sourceText": "いただきます |ます| / いただく |辞| / - / Ⅰ 他 得到、收到（「もらいます」的謙遜語）",
+    "sourceOrder": 1,
+    "section": "動詞",
+    "notes": "Ⅰ 他; ます形: いただきます"
   },
   {
     "id": "y3-l41-v002",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 41,
-    "kana": "くださいます |ます| / くださる |辞|",
-    "meaningZh": "Ⅰ 他 給我（「くれます｣的尊敬語）",
+    "kana": "くださる",
+    "meaningZh": "給我（「くれます｣的尊敬語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 1
     },
-    "kanji": "-",
-    "sourceText": "くださいます |ます| / くださる |辞| / - / Ⅰ 他 給我（「くれます｣的尊敬語）"
+    "sourceText": "くださいます |ます| / くださる |辞| / - / Ⅰ 他 給我（「くれます｣的尊敬語）",
+    "sourceOrder": 2,
+    "section": "動詞",
+    "notes": "Ⅰ 他; ます形: くださいます"
   },
   {
     "id": "y3-l41-v003",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 41,
-    "kana": "やります |ます| / やる |辞|",
-    "meaningZh": "Ⅰ 他 給（用於給比自己年紀小、職位低以及動植物等）",
+    "kana": "やる",
+    "meaningZh": "給（用於給比自己年紀小、職位低以及動植物等）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 1
     },
-    "kanji": "-",
-    "sourceText": "やります |ます| / やる |辞| / - / Ⅰ 他 給（用於給比自己年紀小、職位低以及動植物等）"
+    "sourceText": "やります |ます| / やる |辞| / - / Ⅰ 他 給（用於給比自己年紀小、職位低以及動植物等）",
+    "sourceOrder": 3,
+    "section": "動詞",
+    "notes": "Ⅰ 他; ます形: やります"
   },
   {
     "id": "y3-l41-v004",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 41,
-    "kana": "あげます |ます| / あげる |辞|",
-    "meaningZh": "Ⅱ 他 提高、改善",
+    "kana": "あげる",
+    "meaningZh": "提高、改善",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 1
     },
-    "kanji": "上げます / 上げる",
-    "sourceText": "あげます |ます| / あげる |辞| / 上げます / 上げる / Ⅱ 他 提高、改善"
+    "kanji": "上げる",
+    "sourceText": "あげます |ます| / あげる |辞| / 上げます / 上げる / Ⅱ 他 提高、改善",
+    "sourceOrder": 4,
+    "section": "動詞",
+    "notes": "Ⅱ 他; ます形: あげます / 上げます"
   },
   {
     "id": "y3-l41-v005",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 41,
-    "kana": "さげます |ます| / さげる |辞|",
-    "meaningZh": "Ⅱ 他 降低、放低",
+    "kana": "さげる",
+    "meaningZh": "降低、放低",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 1
     },
-    "kanji": "下げます / 下げる",
-    "sourceText": "さげます |ます| / さげる |辞| / 下げます / 下げる / Ⅱ 他 降低、放低"
+    "kanji": "下げる",
+    "sourceText": "さげます |ます| / さげる |辞| / 下げます / 下げる / Ⅱ 他 降低、放低",
+    "sourceOrder": 5,
+    "section": "動詞",
+    "notes": "Ⅱ 他; ます形: さげます / 下げます"
   },
   {
     "id": "y3-l41-v006",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 41,
-    "kana": "しんせつにします |ます| / しんせつにする |辞|",
-    "meaningZh": "Ⅲ 他 親切對待、熱情對待（表示行爲上的幫助）",
+    "kana": "しんせつにする",
+    "meaningZh": "親切對待、熱情對待（表示行爲上的幫助）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 1
     },
-    "kanji": "親切にします / 親切にする",
-    "sourceText": "しんせつにします |ます| / しんせつにする |辞| / 親切にします / 親切にする / Ⅲ 他 親切對待、熱情對待（表示行爲上的幫助）"
+    "kanji": "親切にする",
+    "sourceText": "しんせつにします |ます| / しんせつにする |辞| / 親切にします / 親切にする / Ⅲ 他 親切對待、熱情對待（表示行爲上的幫助）",
+    "sourceOrder": 6,
+    "section": "動詞",
+    "notes": "Ⅲ 他; ます形: しんせつにします / 親切にします"
   },
   {
     "id": "y3-l41-v007",
@@ -95,13 +116,16 @@
     "book": "初級 II",
     "lesson": 41,
     "kana": "おいわい",
-    "meaningZh": "祝賀、賀禮（表示行爲和物",
+    "meaningZh": "祝賀、賀禮（表示行爲和物品雙重意思。～します：祝賀、送賀禮）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 1
     },
-    "kanji": "お祝い"
+    "kanji": "お祝い",
+    "sourceOrder": 9,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v008",
@@ -113,22 +137,29 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 1
     },
-    "kanji": "お年玉"
+    "kanji": "お年玉",
+    "sourceOrder": 10,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v009",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 41,
-    "kana": "[お] みまい [お] 見舞い 探望（病人）、慰問品",
-    "meaningZh": "みまい [お] 見舞い 探望（病人）、慰問品",
+    "kana": "[お] みまい",
+    "meaningZh": "探望（病人）、慰問品",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 1
+    },
+    "sourceOrder": 11,
+    "section": "名詞",
+    "kanji": "[お] 見舞い"
   },
   {
     "id": "y3-l41-v010",
@@ -136,13 +167,16 @@
     "book": "初級 II",
     "lesson": 41,
     "kana": "きょうみ",
-    "meaningZh": "愛好、興趣（[コンピュータ",
+    "meaningZh": "愛好、興趣（[コンピューターに]～があります：對[電腦]感興趣）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 1
     },
-    "kanji": "興味"
+    "kanji": "興味",
+    "sourceOrder": 12,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v011",
@@ -154,9 +188,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 1
     },
-    "kanji": "情報"
+    "kanji": "情報",
+    "sourceOrder": 13,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v012",
@@ -168,9 +205,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 1
     },
-    "kanji": "文法"
+    "kanji": "文法",
+    "sourceOrder": 14,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v013",
@@ -182,9 +222,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 1
     },
-    "kanji": "発音"
+    "kanji": "発音",
+    "sourceOrder": 15,
+    "section": "名詞"
   },
   {
     "schoolYear": 3,
@@ -196,9 +239,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "id": "y3-l41-v016"
+    "id": "y3-l41-v016",
+    "sourceOrder": 16,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v014",
@@ -210,9 +256,11 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 17,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v015",
@@ -224,9 +272,11 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 18,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v017",
@@ -238,9 +288,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "絵本"
+    "kanji": "絵本",
+    "sourceOrder": 19,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v018",
@@ -252,9 +305,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "絵はがき"
+    "kanji": "絵はがき",
+    "sourceOrder": 20,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v019",
@@ -266,9 +322,11 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 21,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v020",
@@ -280,9 +338,11 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 22,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v021",
@@ -294,9 +354,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "靴下"
+    "kanji": "靴下",
+    "sourceOrder": 23,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v022",
@@ -308,9 +371,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "手袋"
+    "kanji": "手袋",
+    "sourceOrder": 24,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v023",
@@ -322,9 +388,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "幼稚園"
+    "kanji": "幼稚園",
+    "sourceOrder": 25,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v024",
@@ -336,9 +405,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "暖房"
+    "kanji": "暖房",
+    "sourceOrder": 26,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v025",
@@ -350,9 +422,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "冷房"
+    "kanji": "冷房",
+    "sourceOrder": 27,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v026",
@@ -364,9 +439,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "温度"
+    "kanji": "温度",
+    "sourceOrder": 28,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v027",
@@ -378,9 +456,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "祖父"
+    "kanji": "祖父",
+    "sourceOrder": 29,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v028",
@@ -392,9 +473,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "祖母"
+    "kanji": "祖母",
+    "sourceOrder": 30,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v029",
@@ -406,9 +490,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "孫"
+    "kanji": "孫",
+    "sourceOrder": 31,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v030",
@@ -420,9 +507,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "お孫さん"
+    "kanji": "お孫さん",
+    "sourceOrder": 32,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v031",
@@ -430,13 +520,15 @@
     "book": "初級 II",
     "lesson": 41,
     "kana": "おじ",
-    "meaningZh": "（自己的）叔叔、伯父、舅",
+    "meaningZh": "（自己的）叔叔、伯父、舅舅等",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 33,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v032",
@@ -444,13 +536,15 @@
     "book": "初級 II",
     "lesson": 41,
     "kana": "おじさん",
-    "meaningZh": "（別人的）叔叔、伯父、舅",
+    "meaningZh": "（別人的）叔叔、伯父、舅舅等",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 34,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v033",
@@ -458,13 +552,15 @@
     "book": "初級 II",
     "lesson": 41,
     "kana": "おば",
-    "meaningZh": "（自己的）阿姨、姑姑、舅",
+    "meaningZh": "（自己的）阿姨、姑姑、舅媽等",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 35,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v034",
@@ -472,13 +568,15 @@
     "book": "初級 II",
     "lesson": 41,
     "kana": "おばさん",
-    "meaningZh": "（別人的）阿姨、姑姑、舅",
+    "meaningZh": "（別人的）阿姨、姑姑、舅媽等",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 36,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v035",
@@ -490,9 +588,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "管理人"
+    "kanji": "管理人",
+    "sourceOrder": 37,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v036",
@@ -500,13 +601,15 @@
     "book": "初級 II",
     "lesson": 41,
     "kana": "～さん",
-    "meaningZh": "（爲了表示禮貌、接續在職",
+    "meaningZh": "（爲了表示禮貌、接續在職業或職務名之後的結尾詞）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 38,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v037",
@@ -518,9 +621,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "この間"
+    "kanji": "この間",
+    "sourceOrder": 39,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v038",
@@ -532,9 +638,11 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 2
     },
-    "kanji": "-"
+    "sourceOrder": 40,
+    "section": "名詞"
   },
   {
     "schoolYear": 3,
@@ -546,9 +654,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "id": "y3-l41-v042"
+    "id": "y3-l41-v042",
+    "sourceOrder": 41,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v039",
@@ -556,13 +667,16 @@
     "book": "初級 II",
     "lesson": 41,
     "kana": "おたく",
-    "meaningZh": "貴宅（「うち」「いえ」的",
+    "meaningZh": "貴宅（「うち」「いえ」的尊敬語）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "お宅"
+    "kanji": "お宅",
+    "sourceOrder": 42,
+    "section": "名詞"
   },
   {
     "id": "y3-l41-v040",
@@ -574,9 +688,11 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "-"
+    "sourceOrder": 7,
+    "section": "い形容詞"
   },
   {
     "id": "y3-l41-v041",
@@ -588,9 +704,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "珍しい"
+    "kanji": "珍しい",
+    "sourceOrder": 8,
+    "section": "い形容詞"
   },
   {
     "id": "y3-l41-v043",
@@ -598,13 +717,15 @@
     "book": "初級 II",
     "lesson": 41,
     "kana": "～ずつ",
-    "meaningZh": "每～（表示固定的同數量分",
+    "meaningZh": "每～（表示固定的同數量分配）",
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "-"
+    "sourceOrder": 43,
+    "section": "其他"
   },
   {
     "id": "y3-l41-v044",
@@ -616,9 +737,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "どうぞお幸せに。"
+    "kanji": "どうぞお幸せに。",
+    "sourceOrder": 44,
+    "section": "其他"
   },
   {
     "id": "y3-l41-v045",
@@ -626,13 +750,16 @@
     "book": "初級 II",
     "lesson": 41,
     "kana": "うらしまたろう",
-    "meaningZh": "浦島太郎（傳説中主人公的",
+    "meaningZh": "浦島太郎（傳説中主人公的名字）",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "浦島太郎"
+    "kanji": "浦島太郎",
+    "sourceOrder": 45,
+    "section": "読み物"
   },
   {
     "id": "y3-l41-v046",
@@ -644,9 +771,12 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "昔話"
+    "kanji": "昔話",
+    "sourceOrder": 46,
+    "section": "読み物"
   },
   {
     "id": "y3-l41-v047",
@@ -658,9 +788,11 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "-"
+    "sourceOrder": 47,
+    "section": "読み物"
   },
   {
     "id": "y3-l41-v048",
@@ -672,9 +804,11 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "-"
+    "sourceOrder": 48,
+    "section": "読み物"
   },
   {
     "id": "y3-l41-v049",
@@ -686,9 +820,11 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "-"
+    "sourceOrder": 49,
+    "section": "読み物"
   },
   {
     "id": "y3-l41-v050",
@@ -700,9 +836,12 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "助けます"
+    "kanji": "助けます",
+    "sourceOrder": 50,
+    "section": "読み物"
   },
   {
     "id": "y3-l41-v051",
@@ -714,9 +853,12 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "優しい"
+    "kanji": "優しい",
+    "sourceOrder": 51,
+    "section": "読み物"
   },
   {
     "id": "y3-l41-v052",
@@ -728,9 +870,12 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "お姫様"
+    "kanji": "お姫様",
+    "sourceOrder": 52,
+    "section": "読み物"
   },
   {
     "id": "y3-l41-v053",
@@ -742,9 +887,12 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "暮らします"
+    "kanji": "暮らします",
+    "sourceOrder": 53,
+    "section": "読み物"
   },
   {
     "id": "y3-l41-v054",
@@ -756,9 +904,12 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "陸"
+    "kanji": "陸",
+    "sourceOrder": 54,
+    "section": "読み物"
   },
   {
     "id": "y3-l41-v055",
@@ -770,9 +921,11 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "-"
+    "sourceOrder": 55,
+    "section": "読み物"
   },
   {
     "id": "y3-l41-v056",
@@ -784,23 +937,29 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "煙"
+    "kanji": "煙",
+    "sourceOrder": 56,
+    "section": "読み物"
   },
   {
     "id": "y3-l41-v057",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 41,
-    "kana": "まっしろ",
-    "meaningZh": "真っ白[な]雪白的、純白的",
+    "kana": "まっしろ [な]",
+    "meaningZh": "雪白的、純白的",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 3
     },
-    "kanji": "[な]"
+    "kanji": "真っ白 [な]",
+    "sourceOrder": 57,
+    "section": "読み物"
   },
   {
     "schoolYear": 3,
@@ -812,8 +971,11 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch41.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch41.pdf.pdf",
+      "page": 4
     },
-    "id": "y3-l41-v058"
+    "id": "y3-l41-v058",
+    "sourceOrder": 58,
+    "section": "読み物"
   }
 ]
