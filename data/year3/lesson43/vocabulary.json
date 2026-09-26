@@ -4,120 +4,150 @@
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 43,
-    "kana": "ふえます [ゆしゅつが～] |ます| / ふえる[ゆしゅつが～] |辞|",
-    "kanji": "増えます [輸出が～] / 増える[輸出が～]",
-    "meaningZh": "Ⅱ 自 [出口] 增加",
+    "kana": "ふえる[ゆしゅつが～]",
+    "kanji": "増える[輸出が～]",
+    "meaningZh": "[出口] 增加",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "ふえます [ゆしゅつが～] |ます| / ふえる[ゆしゅつが～] |辞| / 増えます [輸出が～] / 増える[輸出が～] / Ⅱ 自 [出口] 增加"
+    "sourceText": "ふえます [ゆしゅつが～] |ます| / ふえる[ゆしゅつが～] |辞| / 増えます [輸出が～] / 増える[輸出が～] / Ⅱ 自 [出口] 增加",
+    "sourceOrder": 1,
+    "section": "動詞",
+    "notes": "Ⅱ 自; ます形: ふえます [ゆしゅつが～] / 増えます [輸出が～]"
   },
   {
     "id": "y3-l43-v002",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 43,
-    "kana": "へります [ゆしゅつが～] |ます| / へる[ゆしゅつが～] |辞|",
-    "kanji": "減ります [輸出が～] / 減る[輸出が～]",
-    "meaningZh": "Ⅰ 自 [出口] 減少",
+    "kana": "へる[ゆしゅつが～]",
+    "kanji": "減る[輸出が～]",
+    "meaningZh": "[出口] 減少",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "へります [ゆしゅつが～] |ます| / へる[ゆしゅつが～] |辞| / 減ります [輸出が～] / 減る[輸出が～] / Ⅰ 自 [出口] 減少"
+    "sourceText": "へります [ゆしゅつが～] |ます| / へる[ゆしゅつが～] |辞| / 減ります [輸出が～] / 減る[輸出が～] / Ⅰ 自 [出口] 減少",
+    "sourceOrder": 2,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: へります [ゆしゅつが～] / 減ります [輸出が～]"
   },
   {
     "id": "y3-l43-v003",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 43,
-    "kana": "あがります [ねだんが～] |ます| / あがる[ねだんが～] |辞|",
-    "kanji": "上がります [値段が～] / 上がる[値段が～]",
-    "meaningZh": "Ⅰ 自 [價格] 上漲",
+    "kana": "あがる[ねだんが～]",
+    "kanji": "上がる[値段が～]",
+    "meaningZh": "[價格] 上漲",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "あがります [ねだんが～] |ます| / あがる[ねだんが～] |辞| / 上がります [値段が～] / 上がる[値段が～] / Ⅰ 自 [價格] 上漲"
+    "sourceText": "あがります [ねだんが～] |ます| / あがる[ねだんが～] |辞| / 上がります [値段が～] / 上がる[値段が～] / Ⅰ 自 [價格] 上漲",
+    "sourceOrder": 3,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: あがります [ねだんが～] / 上がります [値段が～]"
   },
   {
     "id": "y3-l43-v004",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 43,
-    "kana": "さがります [値段が～] |ます| / さがる[ねだんが～] |辞|",
-    "kanji": "下がります [値段が～] / 下がる[値段が～]",
-    "meaningZh": "Ⅰ 自 [價格] 下降",
+    "kana": "さがる[ねだんが～]",
+    "kanji": "下がる[値段が～]",
+    "meaningZh": "[價格] 下降",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "さがります [値段が～] |ます| / さがる[ねだんが～] |辞| / 下がります [値段が～] / 下がる[値段が～] / Ⅰ 自 [價格] 下降"
+    "sourceText": "さがります [値段が～] |ます| / さがる[ねだんが～] |辞| / 下がります [値段が～] / 下がる[値段が～] / Ⅰ 自 [價格] 下降",
+    "sourceOrder": 4,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: さがります [値段が～] / 下がります [値段が～]"
   },
   {
     "id": "y3-l43-v005",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 43,
-    "kana": "きれます [ひもが～] |ます| / きれる[ひもが～] |辞|",
-    "kanji": "切れます [ひもが～] / 切れる[ひもが～]",
-    "meaningZh": "Ⅱ 自 [繩子] 斷了",
+    "kana": "きれる[ひもが～]",
+    "kanji": "切れる[ひもが～]",
+    "meaningZh": "[繩子] 斷了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "きれます [ひもが～] |ます| / きれる[ひもが～] |辞| / 切れます [ひもが～] / 切れる[ひもが～] / Ⅱ 自 [繩子] 斷了"
+    "sourceText": "きれます [ひもが～] |ます| / きれる[ひもが～] |辞| / 切れます [ひもが～] / 切れる[ひもが～] / Ⅱ 自 [繩子] 斷了",
+    "sourceOrder": 5,
+    "section": "動詞",
+    "notes": "Ⅱ 自; ます形: きれます [ひもが～] / 切れます [ひもが～]"
   },
   {
     "id": "y3-l43-v006",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 43,
-    "kana": "とれます [ボタンが～] |ます| / とれる[ボタンが～] |辞|",
-    "meaningZh": "Ⅱ 自 [紐扣] 脫落",
+    "kana": "とれる[ボタンが～]",
+    "meaningZh": "[紐扣] 脫落",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 1
     },
-    "kanji": "-",
-    "sourceText": "とれます [ボタンが～] |ます| / とれる[ボタンが～] |辞| / - / Ⅱ 自 [紐扣] 脫落"
+    "sourceText": "とれます [ボタンが～] |ます| / とれる[ボタンが～] |辞| / - / Ⅱ 自 [紐扣] 脫落",
+    "sourceOrder": 6,
+    "section": "動詞",
+    "notes": "Ⅱ 自; ます形: とれます [ボタンが～]"
   },
   {
     "id": "y3-l43-v007",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 43,
-    "kana": "おちます [にもつが～] |ます| / おちる[にもつが～] |辞|",
-    "kanji": "落ちます [荷物が～] / 落ちる[荷物が～]",
-    "meaningZh": "Ⅱ 自 [行李] 掉下來",
+    "kana": "おちる[にもつが～]",
+    "kanji": "落ちる[荷物が～]",
+    "meaningZh": "[行李] 掉下來",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "おちます [にもつが～] |ます| / おちる[にもつが～] |辞| / 落ちます [荷物が～] / 落ちる[荷物が～] / Ⅱ 自 [行李] 掉下來"
+    "sourceText": "おちます [にもつが～] |ます| / おちる[にもつが～] |辞| / 落ちます [荷物が～] / 落ちる[荷物が～] / Ⅱ 自 [行李] 掉下來",
+    "sourceOrder": 7,
+    "section": "動詞",
+    "notes": "Ⅱ 自; ます形: おちます [にもつが～] / 落ちます [荷物が～]"
   },
   {
     "id": "y3-l43-v008",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 43,
-    "kana": "なくなります [ガソリンが～] |ます| / なくなる[ガソリンが～] |辞|",
-    "meaningZh": "Ⅰ 自 [汽油] 用光了、沒了、丟了",
+    "kana": "なくなる[ガソリンが～]",
+    "meaningZh": "[汽油] 用光了、沒了、丟了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 1
     },
-    "kanji": "-",
-    "sourceText": "なくなります [ガソリンが～] |ます| / なくなる[ガソリンが～] |辞| / - / Ⅰ 自 [汽油] 用光了、沒了、丟了"
+    "sourceText": "なくなります [ガソリンが～] |ます| / なくなる[ガソリンが～] |辞| / - / Ⅰ 自 [汽油] 用光了、沒了、丟了",
+    "sourceOrder": 8,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: なくなります [ガソリンが～]"
   },
   {
     "id": "y3-l43-v016",
@@ -129,8 +159,11 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 1
+    },
+    "sourceOrder": 16,
+    "section": "名詞"
   },
   {
     "id": "y3-l43-v017",
@@ -143,8 +176,11 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 17,
+    "section": "名詞"
   },
   {
     "id": "y3-l43-v018",
@@ -156,8 +192,11 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 18,
+    "section": "名詞"
   },
   {
     "id": "y3-l43-v009",
@@ -169,8 +208,11 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 9,
+    "section": "い形容詞"
   },
   {
     "id": "y3-l43-v010",
@@ -182,8 +224,11 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 10,
+    "section": "い形容詞"
   },
   {
     "id": "y3-l43-v011",
@@ -195,8 +240,11 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 11,
+    "section": "い形容詞"
   },
   {
     "id": "y3-l43-v012",
@@ -209,8 +257,11 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 12,
+    "section": "い形容詞"
   },
   {
     "id": "y3-l43-v013",
@@ -223,8 +274,11 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 13,
+    "section": "な形容詞"
   },
   {
     "id": "y3-l43-v014",
@@ -237,8 +291,11 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 14,
+    "section": "な形容詞"
   },
   {
     "id": "y3-l43-v015",
@@ -251,8 +308,11 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 15,
+    "section": "な形容詞"
   },
   {
     "id": "y3-l43-v019",
@@ -266,8 +326,11 @@
     "notes": "用於描寫變化就要發生之前的狀況。",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 19,
+    "section": "副詞"
   },
   {
     "id": "y3-l43-v020",
@@ -279,8 +342,11 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 20,
+    "section": "其他"
   },
   {
     "id": "y3-l43-v021",
@@ -292,8 +358,11 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 21,
+    "section": "読み物"
   },
   {
     "id": "y3-l43-v022",
@@ -305,8 +374,11 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 22,
+    "section": "読み物"
   },
   {
     "id": "y3-l43-v023",
@@ -319,8 +391,11 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 23,
+    "section": "読み物"
   },
   {
     "id": "y3-l43-v024",
@@ -333,8 +408,11 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 24,
+    "section": "読み物"
   },
   {
     "id": "y3-l43-v025",
@@ -347,7 +425,10 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch43.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch43.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 25,
+    "section": "読み物"
   }
 ]
