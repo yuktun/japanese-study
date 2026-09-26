@@ -1,78 +1,1208 @@
 [
-  {"id":"y4-l10-v001","schoolYear":4,"book":"中級 I","lesson":10,"kana":"もうける［おかねを～］","kanji":"もうける［お金を～］","meaningZh":"賺［～錢］","category":"文法・練習","notes":"動詞 II 他。ます形：もうけます［おかねを～］／もうけます［お金を～］。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v002","schoolYear":4,"book":"中級 I","lesson":10,"kana":"みかける..","kanji":"見かける","meaningZh":"偶然看到","category":"文法・練習","notes":"動詞 II 他。ます形：みかけます／見かけます。PDF dictionary form prints 「みかける..」 with two dots.","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v003","schoolYear":4,"book":"中級 I","lesson":10,"kana":"ひていする","kanji":"否定する","meaningZh":"否認","category":"文法・練習","notes":"動詞 III 他。ます形：ひていします／否定します。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v004","schoolYear":4,"book":"中級 I","lesson":10,"kana":"タイムマシン","meaningZh":"時光機","category":"文法・練習","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v005","schoolYear":4,"book":"中級 I","lesson":10,"kana":"たからくじ","kanji":"宝くじ","meaningZh":"彩票","category":"文法・練習","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v006","schoolYear":4,"book":"中級 I","lesson":10,"kana":"あたる［たからくじが～］","kanji":"当たる［宝くじが～］","meaningZh":"中了［中了彩票］","category":"文法・練習","notes":"動詞 I 自。ます形：あたります［たからくじが～］／当たります［宝くじが～］。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v007","schoolYear":4,"book":"中級 I","lesson":10,"kana":"ワールドカップ","meaningZh":"世界盃","category":"文法・練習","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v008","schoolYear":4,"book":"中級 I","lesson":10,"kana":"カエル","meaningZh":"青蛙","category":"文法・練習","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v009","schoolYear":4,"book":"中級 I","lesson":10,"kana":"けいかく","kanji":"計画","meaningZh":"計畫","category":"文法・練習","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v010","schoolYear":4,"book":"中級 I","lesson":10,"kana":"じっさい","kanji":"実際","meaningZh":"實際情況","category":"文法・練習","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v011","schoolYear":4,"book":"中級 I","lesson":10,"kana":"めったに","meaningZh":"稀少（後接否定）","category":"文法・練習","notes":"副詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v012","schoolYear":4,"book":"中級 I","lesson":10,"kana":"つうじる［でんわが～］","kanji":"通じる［電話が～］","meaningZh":"接通［電話～］","category":"文法・練習","notes":"動詞 II 自。ます形：つうじます［でんわが～］／通じます［電話が～］。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v013","schoolYear":4,"book":"中級 I","lesson":10,"kana":"じかんどおりに","kanji":"時間通りに","meaningZh":"準時地、按時地","category":"文法・練習","notes":"副詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v014","schoolYear":4,"book":"中級 I","lesson":10,"kana":"かかる［エンジンが～］","meaningZh":"發動［～引擎］","category":"文法・練習","notes":"動詞。ます形：かかります［エンジンが～］。PDF omits group and transitivity.","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v073","schoolYear":4,"book":"中級 I","lesson":10,"kana":"おに","kanji":"鬼","meaningZh":"（日本民間故事裏的）山鬼","category":"文法・練習","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v015","schoolYear":4,"book":"中級 I","lesson":10,"kana":"おこる","kanji":"怒る","meaningZh":"發火、發怒","category":"文法・練習","notes":"動詞。ます形：おこります／怒ります。PDF omits group and transitivity.","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v016","schoolYear":4,"book":"中級 I","lesson":10,"kana":"シーオーツー","kanji":"CO2","meaningZh":"二氧化碳","category":"文法・練習","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v017","schoolYear":4,"book":"中級 I","lesson":10,"kana":"ちゅうせん","kanji":"抽選","meaningZh":"抽籤選出","category":"文法・練習","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v018","schoolYear":4,"book":"中級 I","lesson":10,"kana":"いっとう","kanji":"一等","meaningZh":"第一","category":"文法・練習","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v019","schoolYear":4,"book":"中級 I","lesson":10,"kana":"とうひょう","kanji":"投票","meaningZh":"投票","category":"文法・練習","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v020","schoolYear":4,"book":"中級 I","lesson":10,"kana":"[お]たがいに","kanji":"[お]互いに","meaningZh":"互相","category":"文法・練習","notes":"副詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v021","schoolYear":4,"book":"中級 I","lesson":10,"kana":"だす［しゅうりに～］","kanji":"出す［修理に～］","meaningZh":"送去［送去修理］","category":"話す・聞く","notes":"動詞 I 他。ます形：だします［しゅうりに～］／出します［修理に～］。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v022","schoolYear":4,"book":"中級 I","lesson":10,"kana":"ききかえす","kanji":"聞き返す","meaningZh":"反問、再問一次","category":"話す・聞く","notes":"動詞 I 他。ます形：ききかえします／聞き返します。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v023","schoolYear":4,"book":"中級 I","lesson":10,"kana":"てっきり","meaningZh":"還以爲、以爲一定是","category":"話す・聞く","notes":"副詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v024","schoolYear":4,"book":"中級 I","lesson":10,"kana":"そうこ","kanji":"倉庫","meaningZh":"倉庫","category":"話す・聞く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v025","schoolYear":4,"book":"中級 I","lesson":10,"kana":"プリンター","meaningZh":"打印機","category":"話す・聞く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v026","schoolYear":4,"book":"中級 I","lesson":10,"kana":"はいる［でんげんが～］","kanji":"入る［電源が～］","meaningZh":"接通［～電源］","category":"話す・聞く","notes":"動詞 I 自。ます形：はいります［でんげんが～］／入ります［電源が～］。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v027","schoolYear":4,"book":"中級 I","lesson":10,"kana":"マニュアル","meaningZh":"使用手冊","category":"話す・聞く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v028","schoolYear":4,"book":"中級 I","lesson":10,"kana":"したしい","kanji":"親しい","meaningZh":"親密的","category":"話す・聞く","notes":"い形容詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v029","schoolYear":4,"book":"中級 I","lesson":10,"kana":"おどろく","kanji":"驚く","meaningZh":"驚訝、吃驚","category":"話す・聞く","notes":"動詞 I 自。ます形：おどろきます／驚きます。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v030","schoolYear":4,"book":"中級 I","lesson":10,"kana":"～だい［60～］","kanji":"～代［60～］","meaningZh":"～多歲、～字頭［60～］","category":"話す・聞く","notes":"接頭辞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v031","schoolYear":4,"book":"中級 I","lesson":10,"kana":"ごかい","kanji":"誤解","meaningZh":"誤解","category":"話す・聞く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v074","schoolYear":4,"book":"中級 I","lesson":10,"kana":"どういうことでしょうか。","meaningZh":"怎麼回事啊？表達對對方所說的事情有點遺憾的心情。","category":"話す・聞く","notes":"フレーズ。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v032","schoolYear":4,"book":"中級 I","lesson":10,"kana":"そんなはずはありません。","meaningZh":"不可能有那樣的事。","category":"話す・聞く","notes":"フレーズ。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v033","schoolYear":4,"book":"中級 I","lesson":10,"kana":"てっきり～と思っていました。","meaningZh":"我一直以為～。告訴對方原先認定的事情，表達了一時有點不敢相信的心情。我還真的以為你六十多歲。","category":"話す・聞く","notes":"フレーズ。例：てっきり、60代だと思っていました。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v034","schoolYear":4,"book":"中級 I","lesson":10,"kana":"気を悪くする","meaningZh":"心情變壞、影響情緒。","category":"話す・聞く","notes":"フレーズ。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v035","schoolYear":4,"book":"中級 I","lesson":10,"kana":"わかってもらえればいいんです。","meaningZh":"只要你能明白就可以了。","category":"話す・聞く","notes":"フレーズ。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v036","schoolYear":4,"book":"中級 I","lesson":10,"kana":"きおく","kanji":"記憶","meaningZh":"記憶","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v037","schoolYear":4,"book":"中級 I","lesson":10,"kana":"かた","kanji":"型","meaningZh":"型","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v038","schoolYear":4,"book":"中級 I","lesson":10,"kana":"～がた","kanji":"～型","meaningZh":"～型","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v039","schoolYear":4,"book":"中級 I","lesson":10,"kana":"おとしもの","kanji":"落し物","meaningZh":"遺失物品","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v040","schoolYear":4,"book":"中級 I","lesson":10,"kana":"ころぶ","kanji":"転ぶ","meaningZh":"跌倒","category":"読む・書く","notes":"動詞 I 自。ます形：ころびます／転びます。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v041","schoolYear":4,"book":"中級 I","lesson":10,"kana":"きすう","kanji":"奇数","meaningZh":"奇數、單數","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v042","schoolYear":4,"book":"中級 I","lesson":10,"kana":"ぐうすう","kanji":"偶数","meaningZh":"偶數、雙數","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v043","schoolYear":4,"book":"中級 I","lesson":10,"kana":"ぼんやりする","meaningZh":"恍惚","category":"読む・書く","notes":"動詞。ます形：ぼんやりします。PDF omits group and transitivity.","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v044","schoolYear":4,"book":"中級 I","lesson":10,"kana":"あわてもの","kanji":"あわて者","meaningZh":"冒冒失失的人","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v045","schoolYear":4,"book":"中級 I","lesson":10,"kana":"ミス","meaningZh":"過失","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v046","schoolYear":4,"book":"中級 I","lesson":10,"kana":"これら","meaningZh":"這些","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v075","schoolYear":4,"book":"中級 I","lesson":10,"kana":"ヒューマンエラー","meaningZh":"人為錯誤","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v047","schoolYear":4,"book":"中級 I","lesson":10,"kana":"しゅじゅつ","kanji":"手術","meaningZh":"手術","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v048","schoolYear":4,"book":"中級 I","lesson":10,"kana":"かんじゃ","kanji":"患者","meaningZh":"患者","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v049","schoolYear":4,"book":"中級 I","lesson":10,"kana":"しんりがくしゃ","kanji":"心理学者","meaningZh":"心理學家","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v050","schoolYear":4,"book":"中級 I","lesson":10,"kana":"おかす［ミスを～］","meaningZh":"犯下［～錯誤］","category":"読む・書く","notes":"動詞 I 他。ます形：おかします［ミスを～］。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v051","schoolYear":4,"book":"中級 I","lesson":10,"kana":"うっかりミス","meaningZh":"粗心而犯下的失誤","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v052","schoolYear":4,"book":"中級 I","lesson":10,"kana":"うっかり","meaningZh":"粗心大意","category":"読む・書く","notes":"副詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v053","schoolYear":4,"book":"中級 I","lesson":10,"kana":"こういう","meaningZh":"這種","category":"読む・書く","notes":"指示詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v054","schoolYear":4,"book":"中級 I","lesson":10,"kana":"チェックリスト","meaningZh":"核對用清單","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v055","schoolYear":4,"book":"中級 I","lesson":10,"kana":"てがかり","kanji":"手がかり","meaningZh":"綫索","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v056","schoolYear":4,"book":"中級 I","lesson":10,"kana":"いっぽう","kanji":"一方","meaningZh":"另一方面","category":"読む・書く","notes":"接続詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v057","schoolYear":4,"book":"中級 I","lesson":10,"kana":"ふかく［～こきゅうする］","kanji":"深く［～呼吸する］","meaningZh":"深深地［～呼吸］","category":"読む・書く","notes":"副詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v058","schoolYear":4,"book":"中級 I","lesson":10,"kana":"ゆび","kanji":"指","meaningZh":"手指","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v059","schoolYear":4,"book":"中級 I","lesson":10,"kana":"せいじんくんし","kanji":"聖人君子","meaningZh":"聖人君子","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v060","schoolYear":4,"book":"中級 I","lesson":10,"kana":"うそつき","meaningZh":"騙子","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v061","schoolYear":4,"book":"中級 I","lesson":10,"kana":"または","meaningZh":"或是","category":"読む・書く","notes":"接続詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v062","schoolYear":4,"book":"中級 I","lesson":10,"kana":"エラー","meaningZh":"錯誤","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v063","schoolYear":4,"book":"中級 I","lesson":10,"kana":"こまったひと","kanji":"困った人","meaningZh":"令人頭痛之人","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v064","schoolYear":4,"book":"中級 I","lesson":10,"kana":"かんせいする","kanji":"完成する","meaningZh":"完成","category":"読む・書く","notes":"動詞 III 他。ます形：かんせいします／完成します。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v065","schoolYear":4,"book":"中級 I","lesson":10,"kana":"つながる［できごとに～］","kanji":"つながる［出来事に～］","meaningZh":"引發、引起［引發事件］","category":"読む・書く","notes":"動詞 I 自。ます形：つながります［できごとに～］／つながります［出来事に～］。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v066","schoolYear":4,"book":"中級 I","lesson":10,"kana":"できごと","kanji":"出来事","meaningZh":"事情、事件","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v067","schoolYear":4,"book":"中級 I","lesson":10,"kana":"ふちゅうい","kanji":"不注意","meaningZh":"疏忽","category":"読む・書く","notes":"名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v076","schoolYear":4,"book":"中級 I","lesson":10,"kana":"ひきおこす","kanji":"引き起こす","meaningZh":"引起","category":"読む・書く","notes":"動詞 I 他。ます形：ひきおこします／引き起こします。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v068","schoolYear":4,"book":"中級 I","lesson":10,"kana":"JR","meaningZh":"JR（日本鐵路公司）","category":"固有名詞","notes":"固有名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v069","schoolYear":4,"book":"中級 I","lesson":10,"kana":"おきなわけん","kanji":"沖縄県","meaningZh":"沖繩縣：日本最南端的縣。以沖繩本島為主，包含琉球群島。縣政府所在地在那霸市。","category":"固有名詞","notes":"固有名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v070","schoolYear":4,"book":"中級 I","lesson":10,"kana":"マザー・テレサ","meaningZh":"德蘭修女：Mother Teresa（1910~1997）阿爾巴尼亞人，在印度從事慈善事業的天主教修女。諾貝爾獎得獎者。","category":"固有名詞","notes":"固有名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v071","schoolYear":4,"book":"中級 I","lesson":10,"kana":"しんじゅく","kanji":"新宿","meaningZh":"新宿：東京副都心之一。東京都都政廳於1991年搬遷於此。","category":"固有名詞","notes":"固有名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}},
-  {"id":"y4-l10-v072","schoolYear":4,"book":"中級 I","lesson":10,"kana":"リーズン","meaningZh":"James Reason：英國的心理學家。著作有《人為錯誤》、《組織事故》","category":"固有名詞","notes":"固有名詞。","source":{"type":"school_pdf","filename":"japanese_vocab_lv2_ch10.pdf.pdf"}}
+  {
+    "id": "y4-l10-v001",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "もうける［おかねを～］",
+    "kanji": "もうける［お金を～］",
+    "meaningZh": "賺［～錢］",
+    "category": "動詞 Ⅱ 他",
+    "notes": "動詞 II 他。ます形：もうけます［おかねを～］／もうけます［お金を～］。",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 1,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v002",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "みかける..",
+    "kanji": "見かける",
+    "meaningZh": "偶然看到",
+    "category": "動詞 Ⅱ 他",
+    "notes": "來源異常：學校 PDF 的辞書形印作「みかける..」。",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 2,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v003",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "ひていする",
+    "kanji": "否定する",
+    "meaningZh": "否認",
+    "category": "動詞 Ⅲ 他",
+    "notes": "動詞 III 他。ます形：ひていします／否定します。",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 3,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v004",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "タイムマシン",
+    "meaningZh": "時光機",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 4,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v005",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "たからくじ",
+    "kanji": "宝くじ",
+    "meaningZh": "彩票",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 5,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v006",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "あたる［たからくじが～］",
+    "kanji": "当たる［宝くじが～］",
+    "meaningZh": "中了［中了彩票］",
+    "category": "動詞 Ⅰ 自",
+    "notes": "動詞 I 自。ます形：あたります［たからくじが～］／当たります［宝くじが～］。",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 6,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v007",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "ワールドカップ",
+    "meaningZh": "世界盃",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 7,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v008",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "カエル",
+    "meaningZh": "青蛙",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 8,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v009",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "けいかく",
+    "kanji": "計画",
+    "meaningZh": "計畫",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 9,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v010",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "じっさい",
+    "kanji": "実際",
+    "meaningZh": "實際情況",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 10,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v011",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "めったに",
+    "meaningZh": "稀少（後接否定）",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 11,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v012",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "つうじる［でんわが～］",
+    "kanji": "通じる［電話が～］",
+    "meaningZh": "接通［電話～］",
+    "category": "動詞 Ⅱ 自",
+    "notes": "動詞 II 自。ます形：つうじます［でんわが～］／通じます［電話が～］。",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 12,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v013",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "じかんどおりに",
+    "kanji": "時間通りに",
+    "meaningZh": "準時地、按時地",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 13,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v014",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "かかる［エンジンが～］",
+    "meaningZh": "發動［～引擎］",
+    "category": "動詞",
+    "notes": "動詞。ます形：かかります［エンジンが～］。PDF omits group and transitivity.",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 14,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v073",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "おに",
+    "kanji": "鬼",
+    "meaningZh": "（日本民間故事裏的）山鬼",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 15,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v015",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "おこる",
+    "kanji": "怒る",
+    "meaningZh": "發火、發怒",
+    "category": "動詞",
+    "notes": "動詞。ます形：おこります／怒ります。PDF omits group and transitivity.",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 16,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v016",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "シーオーツー",
+    "kanji": "CO２",
+    "meaningZh": "二氧化碳",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 17,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v017",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "ちゅうせん",
+    "kanji": "抽選",
+    "meaningZh": "抽籤選出",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 18,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v018",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "いっとう",
+    "kanji": "一等",
+    "meaningZh": "第一",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 19,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v019",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "とうひょう",
+    "kanji": "投票",
+    "meaningZh": "投票",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 20,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v020",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "[お]たがいに",
+    "kanji": "[お]互いに",
+    "meaningZh": "互相",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 21,
+    "section": "文法・練習"
+  },
+  {
+    "id": "y4-l10-v021",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "だす［しゅうりに～］",
+    "kanji": "出す［修理に～］",
+    "meaningZh": "送去［送去修理］",
+    "category": "動詞 Ⅰ 他",
+    "notes": "動詞 I 他。ます形：だします［しゅうりに～］／出します［修理に～］。",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 22,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v022",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "ききかえす",
+    "kanji": "聞き返す",
+    "meaningZh": "反問、再問一次",
+    "category": "動詞 Ⅰ 他",
+    "notes": "動詞 I 他。ます形：ききかえします／聞き返します。",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 23,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v023",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "てっきり",
+    "meaningZh": "還以爲、以爲一定是",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 24,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v024",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "そうこ",
+    "kanji": "倉庫",
+    "meaningZh": "倉庫",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 25,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v025",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "プリンター",
+    "meaningZh": "打印機",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 26,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v026",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "はいる［でんげんが～］",
+    "kanji": "入る［電源が～］",
+    "meaningZh": "接通［～電源］",
+    "category": "動詞 Ⅰ 自",
+    "notes": "動詞 I 自。ます形：はいります［でんげんが～］／入ります［電源が～］。",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 27,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v027",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "マニュアル",
+    "meaningZh": "使用手冊",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 28,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v028",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "したしい",
+    "kanji": "親しい",
+    "meaningZh": "親密的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 29,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v029",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "おどろく",
+    "kanji": "驚く",
+    "meaningZh": "驚訝、吃驚",
+    "category": "動詞 Ⅰ 自",
+    "notes": "動詞 I 自。ます形：おどろきます／驚きます。",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 30,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v030",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "～だい［60～］",
+    "kanji": "～代［60～］",
+    "meaningZh": "～多歲、～字頭［60～］",
+    "category": "接頭辞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 31,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v031",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "ごかい",
+    "kanji": "誤解",
+    "meaningZh": "誤解",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 32,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v074",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "どういうことでしょうか。",
+    "meaningZh": "怎麼回事啊？表達對對方所說的事情有點遺憾的心情。",
+    "category": "フレーズ",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 33,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v032",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "そんなはずはありません。",
+    "meaningZh": "不可能有那樣的事。",
+    "category": "フレーズ",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 34,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v033",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "てっきり～と思っていました。",
+    "meaningZh": "我一直以為～。告訴對方原先認定的事情，表達了一時有點不敢相信的心情。",
+    "category": "フレーズ",
+    "notes": "例：てっきり、60代だと思っていました。\n中譯：我還真的以為你六十多歲。",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 35,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v034",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "気を悪くする",
+    "meaningZh": "心情變壞、影響情緒。",
+    "category": "フレーズ",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 36,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v035",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "わかってもらえればいいんです。",
+    "meaningZh": "只要你能明白就可以了。",
+    "category": "フレーズ",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 37,
+    "section": "話す・聞く"
+  },
+  {
+    "id": "y4-l10-v036",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "きおく",
+    "kanji": "記憶",
+    "meaningZh": "記憶",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 38,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v037",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "かた",
+    "kanji": "型",
+    "meaningZh": "型",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 39,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v038",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "～がた",
+    "kanji": "～型",
+    "meaningZh": "～型",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 40,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v039",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "おとしもの",
+    "kanji": "落し物",
+    "meaningZh": "遺失物品",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 41,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v040",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "ころぶ",
+    "kanji": "転ぶ",
+    "meaningZh": "跌倒",
+    "category": "動詞 Ⅰ 自",
+    "notes": "動詞 I 自。ます形：ころびます／転びます。",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 42,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v041",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "きすう",
+    "kanji": "奇数",
+    "meaningZh": "奇數、單數",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 43,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v042",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "ぐうすう",
+    "kanji": "偶数",
+    "meaningZh": "偶數、雙數",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 44,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v043",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "ぼんやりする",
+    "meaningZh": "恍惚",
+    "category": "動詞",
+    "notes": "動詞。ます形：ぼんやりします。PDF omits group and transitivity.",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 45,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v044",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "あわてもの",
+    "kanji": "あわて者",
+    "meaningZh": "冒冒失失的人",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 46,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v045",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "ミス",
+    "meaningZh": "過失",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 47,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v046",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "これら",
+    "meaningZh": "這些",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 48,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v075",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "ヒューマンエラー",
+    "meaningZh": "人為錯誤",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 49,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v047",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "しゅじゅつ",
+    "kanji": "手術",
+    "meaningZh": "手術",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 50,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v048",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "かんじゃ",
+    "kanji": "患者",
+    "meaningZh": "患者",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 51,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v049",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "しんりがくしゃ",
+    "kanji": "心理学者",
+    "meaningZh": "心理學家",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 52,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v050",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "おかす［ミスを～］",
+    "meaningZh": "犯下［～錯誤］",
+    "category": "動詞 Ⅰ 他",
+    "notes": "動詞 I 他。ます形：おかします［ミスを～］。",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 53,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v051",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "うっかりミス",
+    "meaningZh": "粗心而犯下的失誤",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 54,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v052",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "うっかり",
+    "meaningZh": "粗心大意",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 55,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v053",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "こういう",
+    "meaningZh": "這種",
+    "category": "指示詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 56,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v054",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "チェックリスト",
+    "meaningZh": "核對用清單",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 57,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v055",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "てがかり",
+    "kanji": "手がかり",
+    "meaningZh": "綫索",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 58,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v056",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "いっぽう",
+    "kanji": "一方",
+    "meaningZh": "另一方面",
+    "category": "接続詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 59,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v057",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "ふかく［～こきゅうする］",
+    "kanji": "深く［～呼吸する］",
+    "meaningZh": "深深地［～呼吸］",
+    "category": "副詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 60,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v058",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "ゆび",
+    "kanji": "指",
+    "meaningZh": "手指",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 61,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v059",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "せいじんくんし",
+    "kanji": "聖人君子",
+    "meaningZh": "聖人君子",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 62,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v060",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "うそつき",
+    "meaningZh": "騙子",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 63,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v061",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "または",
+    "meaningZh": "或是",
+    "category": "接続詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 64,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v062",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "エラー",
+    "meaningZh": "錯誤",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 65,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v063",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "こまったひと",
+    "kanji": "困った人",
+    "meaningZh": "令人頭痛之人",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 66,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v064",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "かんせいする",
+    "kanji": "完成する",
+    "meaningZh": "完成",
+    "category": "動詞 Ⅲ 他",
+    "notes": "動詞 III 他。ます形：かんせいします／完成します。",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 67,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v065",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "つながる［できごとに～］",
+    "kanji": "つながる［出来事に～］",
+    "meaningZh": "引發、引起［引發事件］",
+    "category": "動詞 Ⅰ 自",
+    "notes": "動詞 I 自。ます形：つながります［できごとに～］／つながります［出来事に～］。",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 68,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v066",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "できごと",
+    "kanji": "出来事",
+    "meaningZh": "事情、事件",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 69,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v067",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "ふちゅうい",
+    "kanji": "不注意",
+    "meaningZh": "疏忽",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 70,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v076",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "ひきおこす",
+    "kanji": "引き起こす",
+    "meaningZh": "引起",
+    "category": "動詞 Ⅰ 他",
+    "notes": "動詞 I 他。ます形：ひきおこします／引き起こします。",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 71,
+    "section": "読む・書く"
+  },
+  {
+    "id": "y4-l10-v068",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "JR",
+    "meaningZh": "JR（日本鐵路公司）",
+    "category": "固有名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 72,
+    "section": "固有名詞"
+  },
+  {
+    "id": "y4-l10-v069",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "おきなわけん",
+    "kanji": "沖縄県",
+    "meaningZh": "沖繩縣：日本最南端的縣。以沖繩本島為主，包含琉球群島。縣政府所在地在那霸市。",
+    "category": "固有名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 73,
+    "section": "固有名詞"
+  },
+  {
+    "id": "y4-l10-v070",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "マザー・テレサ",
+    "meaningZh": "德蘭修女：Mother Teresa（1910~1997）阿爾巴尼亞人，在印度從事慈善事業的天主教修女。諾貝爾獎得獎者。",
+    "category": "固有名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 74,
+    "section": "固有名詞"
+  },
+  {
+    "id": "y4-l10-v071",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "しんじゅく",
+    "kanji": "新宿",
+    "meaningZh": "新宿：東京副都心之一。東京都都政廳於1991年搬遷於此。",
+    "category": "固有名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 75,
+    "section": "固有名詞"
+  },
+  {
+    "id": "y4-l10-v072",
+    "schoolYear": 4,
+    "book": "中級 I",
+    "lesson": 10,
+    "kana": "リーズン",
+    "meaningZh": "James Reason：英國的心理學家。著作有《人為錯誤》、《組織事故》",
+    "category": "固有名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv2_ch10.pdf.pdf"
+    },
+    "sourceOrder": 76,
+    "section": "固有名詞"
+  }
 ]
