@@ -6,13 +6,15 @@
     "lesson": 8,
     "kana": "ねむる",
     "meaningZh": "睡著",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 1,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "眠る",
+    "notes": "辞書形：ねむる／ます形：ねむります；眠る／眠ります。"
   },
   {
     "id": "y4-l8-v002",
@@ -21,28 +23,32 @@
     "lesson": 8,
     "kana": "だまる",
     "meaningZh": "沉默、不說話",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 2,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "黙る",
+    "notes": "辞書形：だまる／ます形：だまります；黙る／黙ります。"
   },
   {
     "id": "y4-l8-v003",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 8,
-    "kana": "とる ［ノートを～］",
-    "meaningZh": "記下 [記筆記]",
-    "category": "動詞",
+    "kana": "とる［ノートを～］",
+    "meaningZh": "記下［記筆記］",
+    "category": "動詞 Ⅰ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 3,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "取る",
+    "notes": "辞書形：とる［ノートを～］／ます形：とります［ノートを～］；取る／取ります。"
   },
   {
     "id": "y4-l8-v004",
@@ -51,13 +57,15 @@
     "lesson": 8,
     "kana": "ぬすむ",
     "meaningZh": "偷盜、偷竊",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 4,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "盗む",
+    "notes": "辞書形：ぬすむ／ます形：ぬすみます；盗む／盗みます。"
   },
   {
     "id": "y4-l8-v005",
@@ -66,13 +74,15 @@
     "lesson": 8,
     "kana": "こげる",
     "meaningZh": "烤焦、燒糊",
-    "category": "動詞",
+    "category": "動詞 Ⅱ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 5,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "焦げる",
+    "notes": "辞書形：こげる／ます形：こげます；焦げる／焦げます。"
   },
   {
     "id": "y4-l8-v006",
@@ -81,28 +91,31 @@
     "lesson": 8,
     "kana": "かれる",
     "meaningZh": "枯萎、凋零",
-    "category": "動詞",
+    "category": "動詞 Ⅱ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 6,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "枯れる",
+    "notes": "辞書形：かれる／ます形：かれます；枯れる／枯れます。"
   },
   {
     "id": "y4-l8-v007",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 8,
-    "kana": "へいぼん ［な］ 平凡 ［な］ な形",
-    "meaningZh": "平凡[的]",
-    "category": "詞彙",
+    "kana": "へいぼん［な］",
+    "meaningZh": "平凡［的］",
+    "category": "な形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 7,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "平凡［な］"
   },
   {
     "id": "y4-l8-v008",
@@ -141,15 +154,17 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 8,
-    "kana": "とる ［めんきょを～］",
-    "meaningZh": "取得、獲取",
-    "category": "詞彙",
+    "kana": "とる［めんきょを～］",
+    "meaningZh": "取得、獲取［取得執照］",
+    "category": "動詞 Ⅰ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 10,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "取る［免許を～］",
+    "notes": "辞書形：とる［めんきょを～］／ます形：とります［めんきょを～］；取る［免許を～］／取ります［免許を～］。"
   },
   {
     "id": "y4-l8-v011",
@@ -158,13 +173,15 @@
     "lesson": 8,
     "kana": "たいしょくする",
     "meaningZh": "退休",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 11,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "退職する",
+    "notes": "辞書形：たいしょくする／ます形：たいしょくします；退職する／退職します。"
   },
   {
     "id": "y4-l8-v012",
@@ -172,7 +189,7 @@
     "book": "中級 I",
     "lesson": 8,
     "kana": "もったいない",
-    "meaningZh": "い形",
+    "meaningZh": "可惜、浪費",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
@@ -234,15 +251,16 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 8,
-    "kana": "せんもんてき ［な］ 専門的 ［な］ な形",
-    "meaningZh": "專業性 [的]",
-    "category": "詞彙",
+    "kana": "せんもんてき［な］",
+    "meaningZh": "專業性［的］",
+    "category": "な形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 16,
-    "section": "文法・練習"
+    "section": "文法・練習",
+    "kanji": "専門的［な］"
   },
   {
     "id": "y4-l8-v016",
@@ -281,9 +299,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 8,
-    "kana": "まいご ［になる］",
-    "kanji": "迷子 ［になる］",
-    "meaningZh": "迷路的孩子",
+    "kana": "まいご［になる］",
+    "kanji": "迷子［になる］",
+    "meaningZh": "迷路的孩子（～になる/迷路）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -298,7 +316,7 @@
     "book": "中級 I",
     "lesson": 8,
     "kana": "しま",
-    "meaningZh": "條紋（～黒と白の",
+    "meaningZh": "條紋（～黒と白の「縞」のシャツ/黑白條紋的襯衫）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -376,7 +394,7 @@
     "lesson": 8,
     "kana": "みずたま",
     "kanji": "水玉",
-    "meaningZh": "圓點圖案、水珠花",
+    "meaningZh": "圓點圖案、水珠花樣",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -407,13 +425,15 @@
     "lesson": 8,
     "kana": "せおう",
     "meaningZh": "背、背負",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 27,
-    "section": "話す・聞く"
+    "section": "話す・聞く",
+    "kanji": "背負う",
+    "notes": "辞書形：せおう／ます形：せおいます；背負う／背負います。"
   },
   {
     "id": "y4-l8-v027",
@@ -580,7 +600,7 @@
     "lesson": 8,
     "kana": "あおじ",
     "kanji": "青地",
-    "meaningZh": "藍地",
+    "meaningZh": "藍地 (紡織品)、藍布",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -594,9 +614,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 8,
-    "kana": "～じ ～",
-    "kanji": "地",
-    "meaningZh": "～底色的布 （青地",
+    "kana": "～じ",
+    "kanji": "～地",
+    "meaningZh": "～底色的布（青地に花柄の布/藍底花布）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -641,15 +661,16 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 8,
-    "kana": "確か、～たと思います",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
-    "category": "詞彙",
+    "kana": "確か、～たと思います。",
+    "meaningZh": "我記得(好像) ～。",
+    "category": "フレーズ",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 42,
-    "section": "話す・聞く"
+    "section": "話す・聞く",
+    "notes": "例：持つところは、確か青のプラスチックだったと思います。\n中譯：我記得好像是藍色的塑膠把手。"
   },
   {
     "id": "y4-l8-v041",
@@ -704,7 +725,7 @@
     "book": "中級 I",
     "lesson": 8,
     "kana": "マイナス",
-    "meaningZh": "無益的、有負面影",
+    "meaningZh": "無益的、有負面影響的",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -736,7 +757,7 @@
     "lesson": 8,
     "kana": "かんしん",
     "kanji": "関心",
-    "meaningZh": "感興趣、關心、關",
+    "meaningZh": "感興趣、關心、關懷",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -781,15 +802,16 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 8,
-    "kana": "はんたいに 反対に 接続",
+    "kana": "はんたいに",
     "meaningZh": "反過來",
-    "category": "詞彙",
+    "category": "接続詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 51,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "反対に"
   },
   {
     "id": "y4-l8-v050",
@@ -863,9 +885,9 @@
     "section": "読む・書く",
     "kana": "かがやく",
     "kanji": "輝く",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 自",
     "meaningZh": "閃閃發光、閃耀",
-    "notes": "Ⅰ 自; ます形: かがやきます / 輝きます",
+    "notes": "辞書形：かがやく／ます形：かがやきます；輝く／輝きます。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
@@ -908,9 +930,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 8,
-    "kana": "キノコぐも キノコ",
-    "kanji": "雲",
-    "meaningZh": "蘑菇雲(原子彈爆炸",
+    "kana": "キノコぐも",
+    "kanji": "キノコ雲",
+    "meaningZh": "蘑菇雲(原子彈爆炸時產生巨大的蘑菇狀的雲朶)",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -955,15 +977,17 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 8,
-    "kana": "あたえる",
-    "meaningZh": "給予、予以",
-    "category": "詞彙",
+    "kana": "あたえる［ダメージを～］",
+    "meaningZh": "給予、予以［給予打擊］",
+    "category": "動詞 Ⅱ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 62,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "与える［ダメージを～］",
+    "notes": "辞書形：あたえる［ダメージを～］／ます形：あたえます［ダメージを～］；与える［ダメージを～］／与えます［ダメージを～］。"
   },
   {
     "id": "y4-l8-v060",
@@ -985,30 +1009,34 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 8,
-    "kana": "のびる ［ひげが～〕",
-    "meaningZh": "長長、生長（ひげ",
-    "category": "詞彙",
+    "kana": "のびる［ひげが～］",
+    "meaningZh": "長長、生長（ひげが～/鬍子長長了）",
+    "category": "動詞 Ⅱ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 64,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "伸びる［ひげが～］",
+    "notes": "辞書形：のびる［ひげが～］／ます形：のびます［ひげが～］；伸びる［ひげが～］／伸びます［ひげが～］。"
   },
   {
     "id": "y4-l8-v062",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 8,
-    "kana": "はってんする",
-    "meaningZh": "發展、進步［技術",
-    "category": "詞彙",
+    "kana": "はってんする［ぎじゅつが～］",
+    "meaningZh": "發展、進步［技術が～/技術進步］",
+    "category": "動詞 Ⅲ 自",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 65,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "発展する［技術が～］",
+    "notes": "辞書形：はってんする［ぎじゅつが～］／ます形：はってんします［ぎじゅつが～］；発展する［技術が～］／発展します［技術が～］。"
   },
   {
     "id": "y4-l8-v063",
@@ -1046,30 +1074,33 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 8,
-    "kana": "ゆたか ［な］ 豊か ［な］ な形",
-    "meaningZh": "豐富 [的]、富裕 [的]",
-    "category": "詞彙",
+    "kana": "ゆたか［な］",
+    "meaningZh": "豐富［的］、富裕［的］",
+    "category": "な形容詞",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 68,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "豊か［な］"
   },
   {
     "id": "y4-l8-v066",
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 8,
-    "kana": "うける ［ダメージを～］",
-    "meaningZh": "受到 [受到打擊]",
-    "category": "詞彙",
+    "kana": "うける［ダメージを～］",
+    "meaningZh": "受到［受到打擊］",
+    "category": "動詞 Ⅱ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 69,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "受ける［ダメージを～］",
+    "notes": "辞書形：うける［ダメージを～］／ます形：うけます［ダメージを～］；受ける［ダメージを～］／受けます［ダメージを～］。"
   },
   {
     "id": "y4-l8-v067",
@@ -1093,13 +1124,15 @@
     "lesson": 8,
     "kana": "のべる",
     "meaningZh": "叙述、陳述、闡述",
-    "category": "動詞",
+    "category": "動詞 Ⅱ 他",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch8.pdf.pdf"
     },
     "sourceOrder": 71,
-    "section": "読む・書く"
+    "section": "読む・書く",
+    "kanji": "述べる",
+    "notes": "辞書形：のべる／ます形：のべます；述べる／述べます。"
   },
   {
     "id": "y4-l8-v075",
@@ -1122,7 +1155,7 @@
     "book": "中級 I",
     "lesson": 8,
     "kana": "トリニダードトバゴ",
-    "meaningZh": "固有",
+    "meaningZh": "特立尼達和多巴哥(千里達共和國)",
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
@@ -1137,7 +1170,7 @@
     "book": "中級 I",
     "lesson": 8,
     "kana": "インド",
-    "meaningZh": "固有",
+    "meaningZh": "印度",
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
@@ -1152,7 +1185,7 @@
     "book": "中級 I",
     "lesson": 8,
     "kana": "ウガンダ",
-    "meaningZh": "固有",
+    "meaningZh": "烏干達",
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
