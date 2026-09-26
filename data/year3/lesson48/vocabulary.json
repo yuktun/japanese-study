@@ -4,290 +4,373 @@
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "おろします |ます| / おろす |辞|",
-    "meaningZh": "Ⅰ 他 放下來、卸下來",
+    "kana": "おろす",
+    "meaningZh": "放下來、卸下來",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 1
     },
-    "kanji": "降ろします、下ろします / 降ろす、下ろす"
+    "kanji": "降ろす、下ろす",
+    "sourceOrder": 1,
+    "section": "動詞",
+    "notes": "Ⅰ 他; ます形: おろします / 降ろします、下ろします"
   },
   {
     "id": "y3-l48-v002",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "とどけます |ます| / とどける |辞|",
-    "meaningZh": "Ⅱ 他 遞送、送到",
+    "kana": "とどける",
+    "meaningZh": "遞送、送到",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 1
     },
-    "kanji": "届けます / 届ける"
+    "kanji": "届ける",
+    "sourceOrder": 2,
+    "section": "動詞",
+    "notes": "Ⅱ 他; ます形: とどけます / 届けます"
   },
   {
     "id": "y3-l48-v003",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "せわをします |ます| / せわをする |辞|",
-    "meaningZh": "Ⅲ 他 照顧、照料",
+    "kana": "せわをする",
+    "meaningZh": "照顧、照料",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 1
     },
-    "kanji": "世話をします / 世話をする"
+    "kanji": "世話をする",
+    "sourceOrder": 3,
+    "section": "動詞",
+    "notes": "Ⅲ 他; ます形: せわをします / 世話をします"
   },
   {
     "id": "y3-l48-v004",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "ろくおんします |ます| / ろくおんする |辞|",
-    "meaningZh": "Ⅲ 他 錄音",
+    "kana": "ろくおんする",
+    "meaningZh": "錄音",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 1
     },
-    "kanji": "録音します / 録音する"
+    "kanji": "録音する",
+    "sourceOrder": 4,
+    "section": "動詞",
+    "notes": "Ⅲ 他; ます形: ろくおんします / 録音します"
   },
   {
     "id": "y3-l48-v005",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "たのしみます |ます| / たのしむ |辞|",
-    "meaningZh": "Ⅰ 他 享受、享樂",
+    "kana": "たのしむ",
+    "meaningZh": "享受、享樂",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 1
     },
-    "kanji": "楽しみます / 楽しむ"
+    "kanji": "楽しむ",
+    "sourceOrder": 5,
+    "section": "動詞",
+    "notes": "Ⅰ 他; ます形: たのしみます / 楽しみます"
   },
   {
     "id": "y3-l48-v006",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "じゅく 塾 私塾、補習班",
-    "meaningZh": "7 じゅく 塾 私塾、補習班",
+    "kana": "じゅく",
+    "meaningZh": "私塾、補習班",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 1
+    },
+    "sourceOrder": 7,
+    "section": "名詞",
+    "kanji": "塾"
   },
   {
     "id": "y3-l48-v007",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "せいと 生徒 學生（中小學生）",
-    "meaningZh": "8 せいと 生徒 學生（中小學生）",
+    "kana": "せいと",
+    "meaningZh": "學生（中小學生）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 1
+    },
+    "sourceOrder": 8,
+    "section": "名詞",
+    "kanji": "生徒"
   },
   {
     "id": "y3-l48-v008",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "ファイル - 文件夾",
+    "kana": "ファイル",
     "meaningZh": "文件夾",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 1
+    },
+    "sourceOrder": 9,
+    "section": "名詞"
   },
   {
     "id": "y3-l48-v009",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "じゆうに 自由に 自由地、隨意地",
-    "meaningZh": "10 じゆうに 自由に 自由地、隨意地",
+    "kana": "じゆうに",
+    "meaningZh": "自由地、隨意地",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 1
+    },
+    "sourceOrder": 10,
+    "section": "名詞",
+    "kanji": "自由に"
   },
   {
     "id": "y3-l48-v010",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "～かん ～間 ～期間",
-    "meaningZh": "11 ～かん ～間 ～期間",
+    "kana": "～かん",
+    "meaningZh": "～期間",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 1
+    },
+    "sourceOrder": 11,
+    "section": "名詞",
+    "kanji": "～間"
   },
   {
     "id": "y3-l48-v011",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "えいぎょう 営業 營業",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "kana": "えいぎょう",
+    "meaningZh": "營業",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 1
+    },
+    "sourceOrder": 12,
+    "section": "名詞",
+    "kanji": "営業"
   },
   {
     "id": "y3-l48-v012",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "いや [な] 嫌 [な] 討厭、不喜歡",
-    "meaningZh": "1 / 2平仮名/片仮名 漢字 中譯",
+    "kana": "いや [な]",
+    "meaningZh": "討厭、不喜歡",
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 1
+    },
+    "sourceOrder": 6,
+    "section": "な形容詞",
+    "kanji": "嫌 [な]"
   },
   {
     "id": "y3-l48-v013",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "いいことですね。 - 是件好事啊。",
+    "kana": "いいことですね。",
     "meaningZh": "是件好事啊。",
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 13,
+    "section": "其他"
   },
   {
     "id": "y3-l48-v014",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "おいそがしいですか。 お忙しいですか。 您忙嗎？（用於和上司、長",
-    "meaningZh": "輩打招呼時）",
+    "kana": "おいそがしいですか。",
+    "meaningZh": "您忙嗎？（用於和上司、長輩打招呼時）",
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 14,
+    "section": "其他",
+    "kanji": "お忙しいですか。"
   },
   {
     "id": "y3-l48-v015",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "それまでに - 在那之前",
+    "kana": "それまでに",
     "meaningZh": "在那之前",
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 15,
+    "section": "其他"
   },
   {
     "id": "y3-l48-v016",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "かまいません。 - 沒關係。",
+    "kana": "かまいません。",
     "meaningZh": "沒關係。",
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 16,
+    "section": "其他"
   },
   {
     "id": "y3-l48-v017",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "おや 親 父母",
-    "meaningZh": "17 おや 親 父母",
+    "kana": "おや",
+    "meaningZh": "父母",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 17,
+    "section": "読み物",
+    "kanji": "親"
   },
   {
     "id": "y3-l48-v018",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "しょうがくせい 小学生 小學生",
-    "meaningZh": "18 しょうがくせい 小学生 小學生",
+    "kana": "しょうがくせい",
+    "meaningZh": "小學生",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 18,
+    "section": "読み物",
+    "kanji": "小学生"
   },
   {
     "id": "y3-l48-v019",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "－パーセント - 百分之一",
+    "kana": "－パーセント",
     "meaningZh": "百分之一",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 19,
+    "section": "読み物"
   },
   {
     "id": "y3-l48-v020",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "そのつぎ その次 其次",
-    "meaningZh": "20 そのつぎ その次 其次",
+    "kana": "そのつぎ",
+    "meaningZh": "其次",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 20,
+    "section": "読み物",
+    "kanji": "その次"
   },
   {
     "id": "y3-l48-v021",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "しゅうじ 習字 習字、書法",
-    "meaningZh": "21 しゅうじ 習字 習字、書法",
+    "kana": "しゅうじ",
+    "meaningZh": "習字、書法",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 21,
+    "section": "読み物",
+    "kanji": "習字"
   },
   {
     "id": "y3-l48-v022",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 48,
-    "kana": "ふつうの 普通の 普通的",
-    "meaningZh": "22 ふつうの 普通の 普通的",
+    "kana": "ふつうの",
+    "meaningZh": "普通的",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch48.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch48.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 22,
+    "section": "読み物",
+    "kanji": "普通の"
   }
 ]
