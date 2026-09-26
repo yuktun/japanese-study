@@ -4,105 +4,133 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "かいます |ます| / かう |辞",
-    "meaningZh": "Ⅰ 飼養",
+    "kana": "かう",
+    "meaningZh": "飼養",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 1
     },
     "sourceText": "かいます |ます| / かう |辞 |飼います / 飼う Ⅰ 飼養",
-    "kanji": "|飼います / 飼う"
+    "kanji": "飼う",
+    "notes": "Ⅰ; ます形: かいます / 飼います",
+    "sourceOrder": 1,
+    "section": "動詞"
   },
   {
     "id": "y2-l27-v002",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "はしります [みちを～] |ます| / はしる[みちを～] |辞",
-    "meaningZh": "Ⅰ 跑、奔跑 [在路上]",
+    "kana": "はしる[みちを～]",
+    "meaningZh": "跑、奔跑 [在路上]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 1
     },
     "sourceText": "はしります [みちを～] |ます| / はしる[みちを～] |辞 |走ります [道を～] / 走る[道を～] Ⅰ 跑、奔跑 [在路上]",
-    "kanji": "|走ります [道を～] / 走る[道を～]"
+    "kanji": "走る[道を～]",
+    "notes": "Ⅰ; ます形: はしります [みちを～] / 走ります [道を～]",
+    "sourceOrder": 2,
+    "section": "動詞"
   },
   {
     "id": "y2-l27-v003",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "みえます [やまが～] |ます| / みえる[やまが～] |辞",
-    "meaningZh": "Ⅱ 看見 [山]",
+    "kana": "みえる[やまが～]",
+    "meaningZh": "看見 [山]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 1
     },
     "sourceText": "みえます [やまが～] |ます| / みえる[やまが～] |辞 |見えます [山が～] / 見える[山が～] Ⅱ 看見 [山]",
-    "kanji": "|見えます [山が～] / 見える[山が～]"
+    "kanji": "見える[山が～]",
+    "notes": "Ⅱ; ます形: みえます [やまが～] / 見えます [山が～]",
+    "sourceOrder": 3,
+    "section": "動詞"
   },
   {
     "id": "y2-l27-v004",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "きこえます [おとが～] |ます| / きこえる[おとが～] |辞",
-    "meaningZh": "Ⅱ 聽見 [聲音]",
+    "kana": "きこえる[おとが～]",
+    "meaningZh": "聽見 [聲音]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 1
     },
     "sourceText": "きこえます [おとが～] |ます| / きこえる[おとが～] |辞 |聞こえます [音が～] / 聞こえる[音が～] Ⅱ 聽見 [聲音]",
-    "kanji": "|聞こえます [音が～] / 聞こえる[音が～]"
+    "kanji": "聞こえる[音が～]",
+    "notes": "Ⅱ; ます形: きこえます [おとが～] / 聞こえます [音が～]",
+    "sourceOrder": 4,
+    "section": "動詞"
   },
   {
     "id": "y2-l27-v005",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "できます [みちが～] |ます| / できる[みちが～] |辞",
-    "meaningZh": "Ⅱ 建好 [道路]、交上 [朋友]、做好 [飯菜]",
+    "kana": "できる[みちが～]",
+    "meaningZh": "建好 [道路]、交上 [朋友]、做好 [飯菜]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 1
     },
     "sourceText": "できます [みちが～] |ます| / できる[みちが～] |辞 |できます [道が～] / できる[道が～] Ⅱ 建好 [道路]、交上 [朋友]、做好 [飯菜]",
-    "kanji": "|できます [道が～] / できる[道が～]"
+    "kanji": "できる[道が～]",
+    "notes": "Ⅱ; ます形: できます [みちが～] / できます [道が～]",
+    "sourceOrder": 5,
+    "section": "動詞"
   },
   {
     "id": "y2-l27-v006",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "ひらきます [きょうしつを～] |ます| / ひらく[きょうしつを～] |辞",
-    "meaningZh": "Ⅰ 開 [教室]、舉辦 [奧運會]",
+    "kana": "ひらく[きょうしつを～]",
+    "meaningZh": "開 [教室]、舉辦 [奧運會]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ひらきます [きょうしつを～] |ます| / ひらく[きょうしつを～] |辞 |開きます [教室を～] / 開く[教室を～] Ⅰ 開 [教室]、舉辦 [奧運會]",
-    "kanji": "|開きます [教室を～] / 開く[教室を～]"
+    "kanji": "開く[教室を～]",
+    "notes": "Ⅰ; ます形: ひらきます [きょうしつを～] / 開きます [教室を～]",
+    "sourceOrder": 6,
+    "section": "動詞"
   },
   {
     "id": "y2-l27-v007",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 27,
-    "kana": "たてます |ます| / たてる |辞",
-    "meaningZh": "Ⅱ 建、蓋",
+    "kana": "たてる",
+    "meaningZh": "建、蓋",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 1
     },
     "sourceText": "たてます |ます| / たてる |辞 |建てます / 建てる Ⅱ 建、蓋",
-    "kanji": "|建てます / 建てる"
+    "kanji": "建てる",
+    "notes": "Ⅱ; ます形: たてます / 建てます",
+    "sourceOrder": 7,
+    "section": "動詞"
   },
   {
     "id": "y2-l27-v008",
@@ -114,9 +142,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "ペット 寵物"
+    "sourceText": "ペット 寵物",
+    "sourceOrder": 8,
+    "section": "名詞"
   },
   {
     "id": "y2-l27-v009",
@@ -128,10 +159,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 1
     },
     "sourceText": "とり 鳥 小鳥",
-    "kanji": "鳥"
+    "kanji": "鳥",
+    "sourceOrder": 9,
+    "section": "名詞"
   },
   {
     "id": "y2-l27-v010",
@@ -143,10 +177,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 1
     },
     "sourceText": "こえ 声 （人和動物的）聲音",
-    "kanji": "声"
+    "kanji": "声",
+    "sourceOrder": 10,
+    "section": "名詞"
   },
   {
     "id": "y2-l27-v011",
@@ -158,10 +195,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 1
     },
     "sourceText": "なみ 波 波浪",
-    "kanji": "波"
+    "kanji": "波",
+    "sourceOrder": 11,
+    "section": "名詞"
   },
   {
     "id": "y2-l27-v012",
@@ -173,10 +213,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 1
     },
     "sourceText": "はなび 花火 煙花",
-    "kanji": "花火"
+    "kanji": "花火",
+    "sourceOrder": 12,
+    "section": "名詞"
   },
   {
     "id": "y2-l27-v013",
@@ -188,10 +231,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
     "sourceText": "どうぐ 道具 道具",
-    "kanji": "道具"
+    "kanji": "道具",
+    "sourceOrder": 13,
+    "section": "名詞"
   },
   {
     "id": "y2-l27-v014",
@@ -203,9 +249,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "クリーニング （乾）洗、洗衣"
+    "sourceText": "クリーニング （乾）洗、洗衣",
+    "sourceOrder": 14,
+    "section": "名詞"
   },
   {
     "id": "y2-l27-v015",
@@ -217,10 +266,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
     "sourceText": "いえ 家 家、住宅",
-    "kanji": "家"
+    "kanji": "家",
+    "sourceOrder": 15,
+    "section": "名詞"
   },
   {
     "id": "y2-l27-v016",
@@ -232,9 +284,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "マンション 公寓"
+    "sourceText": "マンション 公寓",
+    "sourceOrder": 16,
+    "section": "名詞"
   },
   {
     "id": "y2-l27-v017",
@@ -246,9 +301,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "キッチン 廚房"
+    "sourceText": "キッチン 廚房",
+    "sourceOrder": 17,
+    "section": "名詞"
   },
   {
     "id": "y2-l27-v018",
@@ -260,10 +318,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
     "sourceText": "～きょうしつ ～教室 ～教室",
-    "kanji": "～教室"
+    "kanji": "～教室",
+    "sourceOrder": 18,
+    "section": "名詞"
   },
   {
     "id": "y2-l27-v019",
@@ -275,9 +336,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "パーティールーム 宴會廳"
+    "sourceText": "パーティールーム 宴會廳",
+    "sourceOrder": 19,
+    "section": "名詞"
   },
   {
     "id": "y2-l27-v020",
@@ -289,10 +353,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
     "sourceText": "かぐ 家具 家具",
-    "kanji": "家具"
+    "kanji": "家具",
+    "sourceOrder": 20,
+    "section": "名詞"
   },
   {
     "id": "y2-l27-v021",
@@ -304,10 +371,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
     "sourceText": "ほんだな 本棚 書櫃",
-    "kanji": "本棚"
+    "kanji": "本棚",
+    "sourceOrder": 21,
+    "section": "名詞"
   },
   {
     "id": "y2-l27-v022",
@@ -319,10 +389,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
     "sourceText": "かた 方 人（尊敬説法）",
-    "kanji": "方"
+    "kanji": "方",
+    "sourceOrder": 22,
+    "section": "名詞"
   },
   {
     "id": "y2-l27-v023",
@@ -334,9 +407,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "すばらしい 很棒、很好"
+    "sourceText": "すばらしい 很棒、很好",
+    "sourceOrder": 23,
+    "section": "い形容詞"
   },
   {
     "id": "y2-l27-v024",
@@ -348,10 +424,13 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
     "sourceText": "しんぱい [な] 心配 [な] 擔心",
-    "kanji": "心配 [な]"
+    "kanji": "心配 [な]",
+    "sourceOrder": 24,
+    "section": "な形容詞"
   },
   {
     "id": "y2-l27-v025",
@@ -363,9 +442,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "はっきり 清楚地"
+    "sourceText": "はっきり 清楚地",
+    "sourceOrder": 25,
+    "section": "副詞"
   },
   {
     "id": "y2-l27-v026",
@@ -377,10 +459,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
     "sourceText": "～ご ～後 ～之後",
-    "kanji": "～後"
+    "kanji": "～後",
+    "sourceOrder": 26,
+    "section": "其他"
   },
   {
     "id": "y2-l27-v027",
@@ -392,9 +477,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "～しか 只～（後接否定）"
+    "sourceText": "～しか 只～（後接否定）",
+    "sourceOrder": 27,
+    "section": "其他"
   },
   {
     "id": "y2-l27-v028",
@@ -406,9 +494,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "ほかの 其他的"
+    "sourceText": "ほかの 其他的",
+    "sourceOrder": 28,
+    "section": "其他"
   },
   {
     "id": "y2-l27-v029",
@@ -420,9 +511,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "いつか 什麽時候、（將來）有一天"
+    "sourceText": "いつか 什麽時候、（將來）有一天",
+    "sourceOrder": 29,
+    "section": "其他"
   },
   {
     "id": "y2-l27-v030",
@@ -434,10 +528,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 3
     },
     "sourceText": "こどもたち 子供たち 孩子們",
-    "kanji": "子供たち"
+    "kanji": "子供たち",
+    "sourceOrder": 30,
+    "section": "読み物"
   },
   {
     "id": "y2-l27-v031",
@@ -449,10 +546,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 3
     },
     "sourceText": "だいすき [な] 大好き [な] 非常喜歡",
-    "kanji": "大好き [な]"
+    "kanji": "大好き [な]",
+    "sourceOrder": 31,
+    "section": "読み物"
   },
   {
     "id": "y2-l27-v032",
@@ -464,10 +564,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 3
     },
     "sourceText": "しゅじんこう 主人公 主人公",
-    "kanji": "主人公"
+    "kanji": "主人公",
+    "sourceOrder": 32,
+    "section": "読み物"
   },
   {
     "id": "y2-l27-v033",
@@ -479,10 +582,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 3
     },
     "sourceText": "かたち 形 形狀、樣子",
-    "kanji": "形"
+    "kanji": "形",
+    "sourceOrder": 33,
+    "section": "読み物"
   },
   {
     "id": "y2-l27-v034",
@@ -494,10 +600,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 3
     },
     "sourceText": "ふしぎ [な] 不思議 [な] 不可思議",
-    "kanji": "不思議 [な]"
+    "kanji": "不思議 [な]",
+    "sourceOrder": 34,
+    "section": "読み物"
   },
   {
     "id": "y2-l27-v035",
@@ -509,9 +618,12 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 3
     },
-    "sourceText": "ポケット 口袋、兜"
+    "sourceText": "ポケット 口袋、兜",
+    "sourceOrder": 35,
+    "section": "読み物"
   },
   {
     "id": "y2-l27-v036",
@@ -523,10 +635,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 3
     },
     "sourceText": "たとえば 例えば 例如",
-    "kanji": "例えば"
+    "kanji": "例えば",
+    "sourceOrder": 36,
+    "section": "読み物"
   },
   {
     "id": "y2-l27-v037",
@@ -538,10 +653,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 3
     },
     "sourceText": "つけます 付けます 裝上、戴上",
-    "kanji": "付けます"
+    "kanji": "付けます",
+    "sourceOrder": 37,
+    "section": "読み物"
   },
   {
     "id": "y2-l27-v038",
@@ -553,10 +671,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 3
     },
     "sourceText": "じゆうに 自由に 自由地、隨意地",
-    "kanji": "自由に"
+    "kanji": "自由に",
+    "sourceOrder": 38,
+    "section": "読み物"
   },
   {
     "id": "y2-l27-v039",
@@ -568,10 +689,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 3
     },
     "sourceText": "そら 空 天空",
-    "kanji": "空"
+    "kanji": "空",
+    "sourceOrder": 39,
+    "section": "読み物"
   },
   {
     "id": "y2-l27-v040",
@@ -583,10 +707,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 3
     },
     "sourceText": "とびます 飛びます 飛翔",
-    "kanji": "飛びます"
+    "kanji": "飛びます",
+    "sourceOrder": 40,
+    "section": "読み物"
   },
   {
     "id": "y2-l27-v041",
@@ -598,10 +725,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 3
     },
     "sourceText": "むかし 昔 過去、以前",
-    "kanji": "昔"
+    "kanji": "昔",
+    "sourceOrder": 41,
+    "section": "読み物"
   },
   {
     "id": "y2-l27-v042",
@@ -613,10 +743,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 3
     },
     "sourceText": "じぶん 自分 自己",
-    "kanji": "自分"
+    "kanji": "自分",
+    "sourceOrder": 42,
+    "section": "読み物"
   },
   {
     "id": "y2-l27-v043",
@@ -628,10 +761,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 3
     },
     "sourceText": "しょうらい 将来 將來",
-    "kanji": "将来"
+    "kanji": "将来",
+    "sourceOrder": 43,
+    "section": "読み物"
   },
   {
     "id": "y2-l27-v044",
@@ -643,8 +779,11 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch27.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch27.pdf.pdf",
+      "page": 3
     },
-    "sourceText": "ドラえもん 多拉A夢"
+    "sourceText": "ドラえもん 多拉A夢",
+    "sourceOrder": 44,
+    "section": "読み物"
   }
 ]
