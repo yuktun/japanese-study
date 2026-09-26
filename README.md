@@ -81,7 +81,7 @@ Japanese Study is an offline-first PWA. Open the site while online and leave it 
 
 While offline, the indicator reads **離線模式**. If preparation did not complete, it reads **離線資料未完成**; reconnect and open the app again to retry. iOS can evict website storage when device space is low, so offline access is not permanent and may need to be downloaded again.
 
-The app checks for updates when it opens, returns to the foreground, and reconnects to the internet. A new release is downloaded in the background while the current version remains usable. When it is ready, choose **立即更新** to reload into it, or **稍後** to keep studying; no active review is interrupted automatically. For a manual check, bring the app to the foreground while online, or reload it.
+The app checks for updates when it opens, returns to the foreground, and reconnects to the internet. Use **🔄 檢查更新** in the sidebar to immediately call the browser's Service Worker update check after a deployment. If a new worker is ready, it is activated and the app reloads once; otherwise it reports **已是最新版本**. Background checks still show **立即更新** / **稍後** so an active review is not interrupted automatically.
 
 Flashcard answer status, bookmarks, and review progress remain in browser-local storage. They are never placed in the Service Worker cache and are retained through app updates, but they do not automatically synchronize between devices or browsers.
 
@@ -101,6 +101,7 @@ Before releasing app changes, update `CACHE_VERSION` in `sw.js` so browsers inst
 
 ```bash
 node scripts/test-offline-inventory.mjs
+node scripts/test-pwa-update.mjs
 ```
 
-The service worker keeps the current and immediately previous completed cache during a transition. It never activates a partially downloaded cache or clears browser-local review records.
+The service worker replaces obsolete versioned caches only after a complete replacement cache is ready. It never activates a partially downloaded cache or clears browser-local review records.

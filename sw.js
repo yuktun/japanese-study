@@ -1,5 +1,5 @@
 /* Japanese Study offline-first service worker. Bump CACHE_VERSION for each release. */
-const CACHE_VERSION='2026-09-21-firebase-sync-1';
+const CACHE_VERSION='2026-09-26-manual-update-1';
 const CACHE_PREFIX='jp-study-offline-';
 const CACHE_NAME=`${CACHE_PREFIX}${CACHE_VERSION}`;
 const READY_MARKER='__jp_study_offline_ready__';
@@ -92,10 +92,9 @@ self.addEventListener('install',event=>{
 
 self.addEventListener('activate',event=>{
   event.waitUntil((async()=>{
-    const cacheNames=(await caches.keys()).filter(name=>name.startsWith(CACHE_PREFIX)).sort();
-    // Keep the current cache and one prior complete cache so older open tabs remain safe offline.
-    const keep=new Set(cacheNames.slice(-2));
-    await Promise.all(cacheNames.filter(name=>!keep.has(name)).map(name=>caches.delete(name)));
+    const cacheNames=(await caches.keys()).filter(name=>name.startsWith(CACHE_PREFIX));
+    await Promise.all(cacheNames.filter(name=>name!==CACHE_NAME).map(name=>caches.delete(name)));
+    await self.clients.claim();
     await notifyClients({type:'UPDATE_ACTIVATED',version:CACHE_VERSION});
   })());
 });
@@ -114,12 +113,17 @@ self.addEventListener('fetch',event=>{
   if(event.request.method!=='GET'||new URL(event.request.url).origin!==self.location.origin)return;
   event.respondWith((async()=>{
     const cache=await caches.open(CACHE_NAME);
+    if(event.request.mode==='navigate'){
+      try{
+        const response=await fetch(new Request(event.request,{cache:'no-store'}));
+        if(response.ok)await cache.put(scopeUrl('./index.html'),response.clone());
+        return response;
+      }catch{
+        return (await cache.match(scopeUrl('./index.html')))||fetch(event.request);
+      }
+    }
     const cached=await cache.match(event.request,{ignoreSearch:true});
     if(cached)return cached;
-    if(event.request.mode==='navigate'){
-      const appShell=await cache.match(scopeUrl('./index.html'));
-      if(appShell)return appShell;
-    }
     return fetch(event.request);
   })());
 });

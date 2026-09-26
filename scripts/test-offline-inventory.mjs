@@ -20,7 +20,10 @@ assert.match(sw,/mapWithConcurrency\(lessonAssets,4/,'lesson downloads use bound
 assert.match(sw,/await caches\.delete\(CACHE_NAME\)/,'partial offline caches are removed after a failed preparation');
 assert.doesNotMatch(sw,/skipWaiting\(\);\s*\}\);/,'the worker does not activate automatically after installation');
 assert.match(sw,/if\(event\.data\?\.type==='SKIP_WAITING'\)/,'immediate activation requires an explicit user message');
-assert.match(sw,/slice\(-2\)/,'cache cleanup preserves the current and previous completed caches');
+assert.match(sw,/name!==CACHE_NAME/,'activation deletes obsolete versioned caches');
+assert.match(sw,/await self\.clients\.claim\(\)/,'the activated worker takes control of open clients');
+assert.match(sw,/event\.request\.mode==='navigate'/,'navigation requests have a dedicated app-shell strategy');
+assert.match(sw,/cache:'no-store'/,'navigation checks the network before using the cached app shell');
 assert.doesNotMatch(sw,/localStorage|indexedDB/,'review progress is not stored in static caches');
 
 console.log(`Offline inventory tests passed: ${coreAssets.length} shell assets and ${lessonAssets.length} lesson assets.`);
