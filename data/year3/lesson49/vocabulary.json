@@ -4,153 +4,194 @@
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "りようします |ます| / りようする |辞|",
-    "meaningZh": "Ⅲ 他 利用、使用",
+    "kana": "りようする",
+    "meaningZh": "利用、使用",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 1
     },
-    "kanji": "利用します / 利用する"
+    "kanji": "利用する",
+    "sourceOrder": 1,
+    "section": "動詞",
+    "notes": "Ⅲ 他; ます形: りようします / 利用します"
   },
   {
     "id": "y3-l49-v002",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "つとめます [かいしゃに～] |ます| / つとめる[かいしゃに～] |辞|",
-    "meaningZh": "Ⅱ 自 [在公司] 上班",
+    "kana": "つとめる[かいしゃに～]",
+    "meaningZh": "[在公司] 上班",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 1
     },
-    "kanji": "勤めます [会社に～] / 勤める[会社に～]"
+    "kanji": "勤める[会社に～]",
+    "sourceOrder": 2,
+    "section": "動詞",
+    "notes": "Ⅱ 自; ます形: つとめます [かいしゃに～] / 勤めます [会社に～]"
   },
   {
     "id": "y3-l49-v003",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "かけます [いすに～] |ます| / かける[いすに～] |辞|",
-    "meaningZh": "Ⅱ 自 坐 [在椅子上]",
+    "kana": "かける[いすに～]",
+    "meaningZh": "坐 [在椅子上]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 1
     },
-    "kanji": "掛けます [いすに～] / 掛ける[いすに～]"
+    "kanji": "掛ける[いすに～]",
+    "sourceOrder": 3,
+    "section": "動詞",
+    "notes": "Ⅱ 自; ます形: かけます [いすに～] / 掛けます [いすに～]"
   },
   {
     "id": "y3-l49-v004",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "すごします |ます| / すごす |辞|",
-    "meaningZh": "Ⅰ 他 過、度過",
+    "kana": "すごす",
+    "meaningZh": "過、度過",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 1
     },
-    "kanji": "過ごします / 過ごす"
+    "kanji": "過ごす",
+    "sourceOrder": 4,
+    "section": "動詞",
+    "notes": "Ⅰ 他; ます形: すごします / 過ごします"
   },
   {
     "id": "y3-l49-v005",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "いらっしゃいます |ます| / いらっしゃる |辞|",
-    "meaningZh": "Ⅰ 自 在、去、來（「います、いきます、きます」的尊敬語）",
+    "kana": "いらっしゃる",
+    "meaningZh": "在、去、來（「います、いきます、きます」的尊敬語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 1
     },
-    "kanji": "-"
+    "sourceOrder": 5,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: いらっしゃいます"
   },
   {
     "id": "y3-l49-v006",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "めしあがります |ます| / めしあがる |辞|",
-    "meaningZh": "Ⅰ 他 吃、喝（「たべます、のみます」的尊敬語）",
+    "kana": "めしあがる",
+    "meaningZh": "吃、喝（「たべます、のみます」的尊敬語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 1
     },
-    "kanji": "召し上がります / 召し上がる"
+    "kanji": "召し上がる",
+    "sourceOrder": 6,
+    "section": "動詞",
+    "notes": "Ⅰ 他; ます形: めしあがります / 召し上がります"
   },
   {
     "id": "y3-l49-v007",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "おっしゃいます |ます| / おっしゃる |辞|",
-    "meaningZh": "Ⅰ 他 說、叫（「いいます」的尊敬語）",
+    "kana": "おっしゃる",
+    "meaningZh": "說、叫（「いいます」的尊敬語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 1
     },
-    "kanji": "-"
+    "sourceOrder": 7,
+    "section": "動詞",
+    "notes": "Ⅰ 他; ます形: おっしゃいます"
   },
   {
     "id": "y3-l49-v008",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "なさいます |ます| / なさる |辞|",
-    "meaningZh": "Ⅰ 他 做（「します」的尊敬語）",
+    "kana": "なさる",
+    "meaningZh": "做（「します」的尊敬語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 1
     },
-    "kanji": "-"
+    "sourceOrder": 8,
+    "section": "動詞",
+    "notes": "Ⅰ 他; ます形: なさいます"
   },
   {
     "id": "y3-l49-v009",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "ごらんになります |ます| / ごらんになる |辞|",
-    "meaningZh": "Ⅰ 他 看（「みます」的尊敬語）",
+    "kana": "ごらんになる",
+    "meaningZh": "看（「みます」的尊敬語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 1
     },
-    "kanji": "ご覧になります / ご覧になる"
+    "kanji": "ご覧になる",
+    "sourceOrder": 9,
+    "section": "動詞",
+    "notes": "Ⅰ 他; ます形: ごらんになります / ご覧になります"
   },
   {
     "id": "y3-l49-v010",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "だします [ねつを～] |ます| / だす[ねつを～] |辞|",
-    "meaningZh": "Ⅰ 他 發 [燒]",
+    "kana": "だす[ねつを～]",
+    "meaningZh": "發 [燒]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 1
     },
-    "kanji": "出します [熱を～] / 出す[熱を～]"
+    "kanji": "出す[熱を～]",
+    "sourceOrder": 10,
+    "section": "動詞",
+    "notes": "Ⅰ 他; ます形: だします [ねつを～] / 出します [熱を～]"
   },
   {
     "id": "y3-l49-v011",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "ごぞんじです ご存じです 知道(「知っています」的尊",
-    "meaningZh": "寒暄、問候、致詞（～をし",
+    "kana": "ごぞんじです",
+    "meaningZh": "知道（「知っています」的尊敬語）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 1
+    },
+    "sourceOrder": 11,
+    "section": "名詞",
+    "kanji": "ご存じです"
   },
   {
     "id": "y3-l49-v033",
@@ -158,221 +199,284 @@
     "book": "初級 II",
     "lesson": 49,
     "kana": "あいさつ",
-    "kanji": "-",
     "meaningZh": "寒暄、問候、致詞（～をします）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 12,
+    "section": "名詞"
   },
   {
     "id": "y3-l49-v012",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "りょかん 旅館 旅館",
-    "meaningZh": "13 りょかん 旅館 旅館",
+    "kana": "りょかん",
+    "meaningZh": "旅館",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 13,
+    "section": "名詞",
+    "kanji": "旅館"
   },
   {
     "id": "y3-l49-v013",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "バスてい バス停 巴士站",
-    "meaningZh": "14 バスてい バス停 巴士站",
+    "kana": "バスてい",
+    "meaningZh": "巴士站",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 14,
+    "section": "名詞",
+    "kanji": "バス停"
   },
   {
     "id": "y3-l49-v014",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "おくさま 奥様 （別人的）夫人（「奥さん",
-    "meaningZh": "」的尊敬語）",
+    "kana": "おくさま",
+    "meaningZh": "（別人的）夫人（「奥さん」的尊敬語）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 15,
+    "section": "名詞",
+    "kanji": "奥様"
   },
   {
     "id": "y3-l49-v015",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "～さま ～様 ～先生、～女士（「～さん",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "kana": "～さま",
+    "meaningZh": "～先生、～女士（「～さん」的尊敬語）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 16,
+    "section": "名詞",
+    "kanji": "～様"
   },
   {
     "id": "y3-l49-v016",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "たまに - 偶爾",
+    "kana": "たまに",
     "meaningZh": "偶爾",
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 17,
+    "section": "副詞"
   },
   {
     "id": "y3-l49-v017",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "どなたでも - 任何一位都（「だれでも」",
-    "meaningZh": "任何一位都（「だれでも」",
+    "kana": "どなたでも",
+    "meaningZh": "任何一位都（「だれでも」的尊敬語）",
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 18,
+    "section": "其他"
   },
   {
     "id": "y3-l49-v018",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "～といいます - 叫～",
+    "kana": "～といいます",
     "meaningZh": "叫～",
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 19,
+    "section": "其他"
   },
   {
     "id": "y3-l49-v019",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "－ねん－くみ －年－組 一年級一班",
-    "meaningZh": "20 －ねん－くみ －年－組 一年級一班",
+    "kana": "－ねん－くみ",
+    "meaningZh": "一年級一班",
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 20,
+    "section": "其他",
+    "kanji": "－年－組"
   },
   {
     "id": "y3-l49-v020",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "よろしくおつたえください",
-    "meaningZh": "よろしくお伝えください。 請代我問好。",
+    "kana": "よろしくおつたえください。",
+    "meaningZh": "請代我問好。",
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 21,
+    "section": "其他",
+    "kanji": "よろしくお伝えください。"
   },
   {
     "id": "y3-l49-v021",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "しつれいいたします。 失礼いたします。 告辭了。（「しつれいしま",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "kana": "しつれいいたします。",
+    "meaningZh": "告辭了。（「しつれいします」的謙遜語）",
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 22,
+    "section": "其他",
+    "kanji": "失礼いたします。"
   },
   {
     "id": "y3-l49-v022",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "けいれき 経歴 經歷",
-    "meaningZh": "23 けいれき 経歴 經歷",
+    "kana": "けいれき",
+    "meaningZh": "經歷",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 23,
+    "section": "読み物",
+    "kanji": "経歴"
   },
   {
     "id": "y3-l49-v023",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "いがくぶ 医学部 醫學系",
-    "meaningZh": "24 いがくぶ 医学部 醫學系",
+    "kana": "いがくぶ",
+    "meaningZh": "醫學系",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 24,
+    "section": "読み物",
+    "kanji": "医学部"
   },
   {
     "id": "y3-l49-v024",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "めざします 目指します 以～爲目標",
-    "meaningZh": "25 めざします 目指します 以～爲目標",
+    "kana": "めざします",
+    "meaningZh": "以～爲目標",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 25,
+    "section": "読み物",
+    "kanji": "目指します"
   },
   {
     "id": "y3-l49-v025",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "すすみます 進みます 升（學）",
-    "meaningZh": "26 すすみます 進みます 升（學）",
+    "kana": "すすみます",
+    "meaningZh": "升（學）",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 26,
+    "section": "読み物",
+    "kanji": "進みます"
   },
   {
     "id": "y3-l49-v026",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "iPSさいぼう iPS細胞 iPS細胞",
-    "meaningZh": "27 iPSさいぼう iPS細胞 iPS細胞",
+    "kana": "iPSさいぼう",
+    "meaningZh": "iPS細胞",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 27,
+    "section": "読み物",
+    "kanji": "iPS細胞"
   },
   {
     "id": "y3-l49-v027",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "かいはつします 開発します 開發研製",
-    "meaningZh": "老鼠",
+    "kana": "かいはつします",
+    "meaningZh": "開發研製",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 28,
+    "section": "読み物",
+    "kanji": "開発します"
   },
   {
     "id": "y3-l49-v034",
@@ -380,77 +484,98 @@
     "book": "初級 II",
     "lesson": 49,
     "kana": "マウス",
-    "kanji": "-",
     "meaningZh": "老鼠",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 29,
+    "section": "読み物"
   },
   {
     "id": "y3-l49-v028",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "ヒト - 人",
+    "kana": "ヒト",
     "meaningZh": "人",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 30,
+    "section": "読み物"
   },
   {
     "id": "y3-l49-v029",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "じゅしょうします 受賞します 獲獎",
-    "meaningZh": "31 じゅしょうします 受賞します 獲獎",
+    "kana": "じゅしょうします",
+    "meaningZh": "獲獎",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 31,
+    "section": "読み物",
+    "kanji": "受賞します"
   },
   {
     "id": "y3-l49-v030",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "こうえんかい 講演会 演講會",
-    "meaningZh": "32 こうえんかい 講演会 演講會",
+    "kana": "こうえんかい",
+    "meaningZh": "演講會",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 32,
+    "section": "読み物",
+    "kanji": "講演会"
   },
   {
     "id": "y3-l49-v031",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "やまなかしんや 山中伸弥 山中伸彌（日本的醫生",
-    "meaningZh": "１９６２－）",
+    "kana": "やまなかしんや",
+    "meaningZh": "山中伸彌（日本的醫生 １９６２－）",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 33,
+    "section": "読み物",
+    "kanji": "山中伸弥"
   },
   {
     "id": "y3-l49-v032",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 49,
-    "kana": "ノーベルしょう ノーベル賞 諾貝爾獎",
-    "meaningZh": "34 ノーベルしょう ノーベル賞 諾貝爾獎",
+    "kana": "ノーベルしょう",
+    "meaningZh": "諾貝爾獎",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch49.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch49.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 34,
+    "section": "読み物",
+    "kanji": "ノーベル賞"
   }
 ]
