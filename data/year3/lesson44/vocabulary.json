@@ -4,177 +4,227 @@
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "なきます |ます| / なく |辞|",
-    "meaningZh": "Ⅰ 自 哭",
+    "kana": "なく",
+    "meaningZh": "哭",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 1
     },
-    "kanji": "泣きます / 泣く"
+    "kanji": "泣く",
+    "sourceOrder": 1,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: なきます / 泣きます"
   },
   {
     "id": "y3-l44-v002",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "わらいます |ます| / わらう |辞|",
-    "meaningZh": "Ⅰ 自 笑",
+    "kana": "わらう",
+    "meaningZh": "笑",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 1
     },
-    "kanji": "笑います / 笑う"
+    "kanji": "笑う",
+    "sourceOrder": 2,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: わらいます / 笑います"
   },
   {
     "id": "y3-l44-v003",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "ねむります |ます| / ねむる |辞|",
-    "meaningZh": "Ⅰ 自 睡、睡着",
+    "kana": "ねむる",
+    "meaningZh": "睡、睡着",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 1
     },
-    "kanji": "眠ります / 眠る"
+    "kanji": "眠る",
+    "sourceOrder": 3,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: ねむります / 眠ります"
   },
   {
     "id": "y3-l44-v004",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "かわきます [シャツが～] |ます| / かわく[シャツが～] |辞|",
-    "meaningZh": "Ⅰ 自 [襯衫] 乾了",
+    "kana": "かわく[シャツが～]",
+    "meaningZh": "[襯衫] 乾了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 1
     },
-    "kanji": "乾きます [シャツが～] / 乾く[シャツが～]"
+    "kanji": "乾く[シャツが～]",
+    "sourceOrder": 4,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: かわきます [シャツが～] / 乾きます [シャツが～]"
   },
   {
     "id": "y3-l44-v005",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "ぬれます [シャツが～] |ます| / ぬれる |辞|",
-    "meaningZh": "Ⅱ 自 [襯衫] 濕了",
+    "kana": "ぬれる",
+    "meaningZh": "[襯衫] 濕了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 1
     },
-    "kanji": "-"
+    "sourceOrder": 5,
+    "section": "動詞",
+    "notes": "Ⅱ 自; ます形: ぬれます [シャツが～]"
   },
   {
     "id": "y3-l44-v006",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "すべります |ます| / すべる |辞|",
-    "meaningZh": "Ⅰ 自 滑",
+    "kana": "すべる",
+    "meaningZh": "滑",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 1
     },
-    "kanji": "滑ります / 滑る"
+    "kanji": "滑る",
+    "sourceOrder": 6,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: すべります / 滑ります"
   },
   {
     "id": "y3-l44-v007",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "おきます [じこが～] |ます| / おきる[じこが～] |辞|",
-    "meaningZh": "Ⅱ 自 發生 [事故]",
+    "kana": "おきる[じこが～]",
+    "meaningZh": "發生 [事故]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 1
     },
-    "kanji": "起きます [事故が～] / 起きる[事故が～]"
+    "kanji": "起きる[事故が～]",
+    "sourceOrder": 7,
+    "section": "動詞",
+    "notes": "Ⅱ 自; ます形: おきます [じこが～] / 起きます [事故が～]"
   },
   {
     "id": "y3-l44-v008",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "ちょうせつします |ます| / ちょうせつする |辞|",
-    "meaningZh": "Ⅲ 他 調節",
+    "kana": "ちょうせつする",
+    "meaningZh": "調節",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 1
     },
-    "kanji": "調節します / 調節する"
+    "kanji": "調節する",
+    "sourceOrder": 8,
+    "section": "動詞",
+    "notes": "Ⅲ 他; ます形: ちょうせつします / 調節します"
   },
   {
     "id": "y3-l44-v009",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "くうき 空気 空氣",
-    "meaningZh": "16 くうき 空気 空氣",
+    "kana": "くうき",
+    "meaningZh": "空氣",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 1
+    },
+    "sourceOrder": 16,
+    "section": "名詞",
+    "kanji": "空気"
   },
   {
     "id": "y3-l44-v010",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "なみだ 涙 眼淚",
-    "meaningZh": "17 なみだ 涙 眼淚",
+    "kana": "なみだ",
+    "meaningZh": "眼淚",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 1
+    },
+    "sourceOrder": 17,
+    "section": "名詞",
+    "kanji": "涙"
   },
   {
     "id": "y3-l44-v011",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "わしょく 和食 日本餐",
-    "meaningZh": "18 わしょく 和食 日本餐",
+    "kana": "わしょく",
+    "meaningZh": "日本餐",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 1
+    },
+    "sourceOrder": 18,
+    "section": "名詞",
+    "kanji": "和食"
   },
   {
     "id": "y3-l44-v012",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "ようしょく 洋食 西餐",
-    "meaningZh": "19 ようしょく 洋食 西餐",
+    "kana": "ようしょく",
+    "meaningZh": "西餐",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 1
+    },
+    "sourceOrder": 19,
+    "section": "名詞",
+    "kanji": "洋食"
   },
   {
     "id": "y3-l44-v013",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "おかず - 菜餚",
+    "kana": "おかず",
     "meaningZh": "菜餚",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 1
+    },
+    "sourceOrder": 20,
+    "section": "名詞"
   },
   {
     "id": "y3-l44-v042",
@@ -187,203 +237,260 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 21,
+    "section": "名詞"
   },
   {
     "id": "y3-l44-v014",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "シングル - 單人間",
+    "kana": "シングル",
     "meaningZh": "單人間",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 22,
+    "section": "名詞"
   },
   {
     "id": "y3-l44-v015",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "ツイン - 雙人間",
+    "kana": "ツイン",
     "meaningZh": "雙人間",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 23,
+    "section": "名詞"
   },
   {
     "id": "y3-l44-v016",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "せんたくもの 洗濯物 洗滌的衣物",
-    "meaningZh": "24 せんたくもの 洗濯物 洗滌的衣物",
+    "kana": "せんたくもの",
+    "meaningZh": "洗滌的衣物",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 24,
+    "section": "名詞",
+    "kanji": "洗濯物"
   },
   {
     "id": "y3-l44-v017",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "カット - 剪髮",
+    "kana": "カット",
     "meaningZh": "剪髮",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 25,
+    "section": "名詞"
   },
   {
     "id": "y3-l44-v018",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "シャンプー - 洗髮",
+    "kana": "シャンプー",
     "meaningZh": "洗髮",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 26,
+    "section": "名詞"
   },
   {
     "id": "y3-l44-v019",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "ショート - 短髮",
+    "kana": "ショート",
     "meaningZh": "短髮",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 27,
+    "section": "名詞"
   },
   {
     "id": "y3-l44-v020",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "こい 濃い （味道）濃、（顔色）深",
-    "meaningZh": "9 こい 濃い （味道）濃、（顔色）深",
+    "kana": "こい",
+    "meaningZh": "（味道）濃、（顔色）深",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 9,
+    "section": "い形容詞",
+    "kanji": "濃い"
   },
   {
     "id": "y3-l44-v021",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "うすい 薄い （味道）淡、（顔色）淺、",
-    "meaningZh": "薄",
+    "kana": "うすい",
+    "meaningZh": "（味道）淡、（顔色）淺、薄",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 10,
+    "section": "い形容詞",
+    "kanji": "薄い"
   },
   {
     "id": "y3-l44-v022",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "あつい 厚い 厚",
-    "meaningZh": "11 あつい 厚い 厚",
+    "kana": "あつい",
+    "meaningZh": "厚",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 11,
+    "section": "い形容詞",
+    "kanji": "厚い"
   },
   {
     "id": "y3-l44-v023",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "ふとい 太い 粗",
-    "meaningZh": "12 ふとい 太い 粗",
+    "kana": "ふとい",
+    "meaningZh": "粗",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 12,
+    "section": "い形容詞",
+    "kanji": "太い"
   },
   {
     "id": "y3-l44-v024",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "ほそい 細い 細",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "kana": "ほそい",
+    "meaningZh": "細",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 13,
+    "section": "い形容詞",
+    "kanji": "細い"
   },
   {
     "id": "y3-l44-v025",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "あんぜん [な] 安全 [な] 安全",
-    "meaningZh": "14 あんぜん [な] 安全 [な] 安全",
+    "kana": "あんぜん [な]",
+    "meaningZh": "安全",
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 14,
+    "section": "な形容詞",
+    "kanji": "安全 [な]"
   },
   {
     "id": "y3-l44-v026",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "きけん [な] 危険 [な] 危險",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "kana": "きけん [な]",
+    "meaningZh": "危險",
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 15,
+    "section": "な形容詞",
+    "kanji": "危険 [な]"
   },
   {
     "id": "y3-l44-v027",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "－ばい －倍 －倍",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
-    "category": "な形容詞",
+    "kana": "－ばい",
+    "meaningZh": "－倍",
+    "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 28,
+    "section": "数量詞",
+    "kanji": "－倍"
   },
   {
     "id": "y3-l44-v028",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "どうなさいますか。 - 您要怎麽弄？",
+    "kana": "どうなさいますか。",
     "meaningZh": "您要怎麽弄？",
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 29,
+    "section": "其他"
   },
   {
     "id": "y3-l44-v043",
@@ -391,181 +498,230 @@
     "book": "初級 II",
     "lesson": 44,
     "kana": "～みたいにしてください。",
-    "kanji": "-",
     "meaningZh": "請做成像～的樣子。",
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 31,
+    "section": "其他"
   },
   {
     "id": "y3-l44-v029",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "どういうふうになさいます",
-    "meaningZh": "請做成像～的樣子。",
+    "kana": "どういうふうになさいますか。",
+    "meaningZh": "（本課）您要剪成什麽樣呢？",
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 2
+    },
+    "sourceOrder": 30,
+    "section": "其他"
   },
   {
     "id": "y3-l44-v030",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "これでよろしいでしょうか",
-    "meaningZh": "- 這樣可以嗎？（禮貌説法）",
+    "kana": "これでよろしいでしょうか。",
+    "meaningZh": "這樣可以嗎？（禮貌説法）",
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 32,
+    "section": "其他"
   },
   {
     "id": "y3-l44-v031",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "[どうも]",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "kana": "[どうも] おつかれさまでした。",
+    "meaningZh": "您辛苦了。（在美容美髮店店員最後對顧客說的客氣話）",
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 33,
+    "section": "其他",
+    "kanji": "[どうも] お疲れさまでした。"
   },
   {
     "id": "y3-l44-v032",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "いやがります 嫌がります 討厭、不喜歡（用於第三人",
-    "meaningZh": "稱）",
+    "kana": "いやがります",
+    "meaningZh": "討厭、不喜歡（用於第三人稱）",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 34,
+    "section": "読み物",
+    "kanji": "嫌がります"
   },
   {
     "id": "y3-l44-v033",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "また - 還、更",
+    "kana": "また",
     "meaningZh": "還、更",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 35,
+    "section": "読み物"
   },
   {
     "id": "y3-l44-v034",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "うまく - ～得好",
+    "kana": "うまく",
     "meaningZh": "～得好",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 36,
+    "section": "読み物"
   },
   {
     "id": "y3-l44-v035",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "じゅんじょ 順序 順序",
-    "meaningZh": "37 じゅんじょ 順序 順序",
+    "kana": "じゅんじょ",
+    "meaningZh": "順序",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 37,
+    "section": "読み物",
+    "kanji": "順序"
   },
   {
     "id": "y3-l44-v036",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "あんしん [な] 安心 [な] 安心、放心",
-    "meaningZh": "38 あんしん [な] 安心 [な] 安心、放心",
+    "kana": "あんしん [な]",
+    "meaningZh": "安心、放心",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 38,
+    "section": "読み物",
+    "kanji": "安心 [な]"
   },
   {
     "id": "y3-l44-v037",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "ひょうげん 表現 表達、措詞",
-    "meaningZh": "39 ひょうげん 表現 表達、措詞",
+    "kana": "ひょうげん",
+    "meaningZh": "表達、措詞",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 39,
+    "section": "読み物",
+    "kanji": "表現"
   },
   {
     "id": "y3-l44-v038",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "たとえば 例えば 例如",
-    "meaningZh": "40 たとえば 例えば 例如",
+    "kana": "たとえば",
+    "meaningZh": "例如",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 40,
+    "section": "読み物",
+    "kanji": "例えば"
   },
   {
     "id": "y3-l44-v039",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "わかれます 別れます 分別、分離",
-    "meaningZh": "41 わかれます 別れます 分別、分離",
+    "kana": "わかれます",
+    "meaningZh": "分別、分離",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 41,
+    "section": "読み物",
+    "kanji": "別れます"
   },
   {
     "id": "y3-l44-v040",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "これら - 這些",
+    "kana": "これら",
     "meaningZh": "這些",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 42,
+    "section": "読み物"
   },
   {
     "id": "y3-l44-v041",
     "schoolYear": 3,
     "book": "初級 II",
     "lesson": 44,
-    "kana": "えんぎがわるい 縁起が悪い 不吉利",
-    "meaningZh": "43 えんぎがわるい 縁起が悪い 不吉利",
+    "kana": "えんぎがわるい",
+    "meaningZh": "不吉利",
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch44.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch44.pdf.pdf",
+      "page": 3
+    },
+    "sourceOrder": 43,
+    "section": "読み物",
+    "kanji": "縁起が悪い"
   }
 ]
