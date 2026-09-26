@@ -6,7 +6,7 @@
     "lesson": 6,
     "kana": "いちごいちえ",
     "kanji": "一期一会",
-    "meaningZh": "力）",
+    "meaningZh": "一期一會（日本茶道用語，提醒人們要珍惜毎個瞬間的機緣，並為人生中可能僅有的一次相會，付出全部的心力）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -36,8 +36,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "まなぶ",
+    "kanji": "学ぶ",
     "meaningZh": "學習",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 他",
+    "notes": "辞書形：まなぶ／ます形：まなびます；学ぶ／学びます。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -83,8 +85,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "しゅうしょくする",
+    "kanji": "就職する",
     "meaningZh": "就職、就業",
     "category": "動詞",
+    "notes": "辞書形：しゅうしょくする／ます形：しゅうしょくします；就職する／就職します。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -99,7 +103,7 @@
     "lesson": 6,
     "kana": "じぶんでは",
     "kanji": "自分では",
-    "meaningZh": "）",
+    "meaningZh": "我自己（認為自己已經盡力了，別人怎麼看是別人的事）",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -161,7 +165,8 @@
     "lesson": 6,
     "kana": "とる［ビタミンを～］",
     "meaningZh": "攝取［攝取維他命］",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 他",
+    "notes": "辞書形：とる［ビタミンを～］／ます形：とります［ビタミンを～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -237,8 +242,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "ちゃくりくする",
+    "kanji": "着陸する",
     "meaningZh": "著陸",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 自",
+    "notes": "辞書形：ちゃくりくする／ます形：ちゃくりくします；着陸する／着陸します。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -252,8 +259,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "ふる［てを～］",
+    "kanji": "振る［手を～］",
     "meaningZh": "揮［揮手］",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 他",
+    "notes": "辞書形：ふる［てを～］／ます形：ふります［てを～］；振る［手を～］／振ります［手を～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -359,8 +368,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "こうしょうする",
+    "kanji": "交渉する",
     "meaningZh": "交涉、談判",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 自",
+    "notes": "辞書形：こうしょうする／ます形：こうしょうします；交渉する／交渉します。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -421,8 +432,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "とりいれる",
+    "kanji": "取り入れる",
     "meaningZh": "採取、引進",
-    "category": "動詞",
+    "category": "動詞 Ⅱ 他",
+    "notes": "辞書形：とりいれる／ます形：とりいれます；取り入れる／取り入れます。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -514,8 +527,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "だす［ひようを～］",
+    "kanji": "出す［費用を～］",
     "meaningZh": "付、支付［支付費用］",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 他",
+    "notes": "辞書形：だす［ひようを～］／ます形：だします［ひようを～］；出す［費用を～］／出します［費用を～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -640,8 +655,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "えんきする",
+    "kanji": "延期する",
     "meaningZh": "延期",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 他",
+    "notes": "辞書形：えんきする／ます形：えんきします；延期する／延期します。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -655,8 +672,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "かいかえる",
-    "meaningZh": "重新購置物品（以",
-    "category": "動詞",
+    "kanji": "買い換える",
+    "meaningZh": "重新購置物品（以替換原有的東西）",
+    "category": "動詞 Ⅱ 他",
+    "notes": "辞書形：かいかえる／ます形：かいかえます；買い換える／買い換えます。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -719,7 +738,8 @@
     "lesson": 6,
     "kana": "つかむ",
     "meaningZh": "抓住",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 他",
+    "notes": "辞書形：つかむ／ます形：つかみます。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -732,9 +752,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 6,
-    "kana": "実は～のことなんです",
-    "meaningZh": "事情，……",
-    "category": "慣用表現",
+    "kana": "実は～のことなんですが、･･･",
+    "meaningZh": "其實是關於～的事情，……",
+    "category": "フレーズ",
+    "notes": "例：実は夏休みのことなんですが、･･･\n中譯：其實是關於暑假的事情，……",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -747,9 +768,10 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 6,
-    "kana": "もし～が無理なら、･･･",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
-    "category": "慣用表現",
+    "kana": "もし～が無理なら、･･･。",
+    "meaningZh": "如果～不行的話，……。",
+    "category": "フレーズ",
+    "notes": "例：もし全額が無理なら、半額でも出していただけないでしょうか。\n中譯：如果不能付全額的話，能不能請你先付半額呢?",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -763,7 +785,7 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "そのような",
-    "meaningZh": "な形",
+    "meaningZh": "像那樣的",
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
@@ -780,7 +802,8 @@
     "kana": "そうぞうする",
     "kanji": "想像する",
     "meaningZh": "想像",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 他",
+    "notes": "辞書形：そうぞうする／ます形：そうぞうします；想像する／想像します。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -794,8 +817,9 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "イメージする",
-    "meaningZh": "種景象、形象化",
+    "meaningZh": "（頭腦中）想像某種景象、形象化",
     "category": "動詞",
+    "notes": "辞書形：イメージする／ます形：イメージします。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -841,8 +865,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "ちかづく",
+    "kanji": "近づく",
     "meaningZh": "臨近、接近",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 自",
+    "notes": "辞書形：ちかづく／ます形：ちかづきます；近づく／近づきます。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -856,7 +882,7 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "こそあど",
-    "meaningZh": "其他 （所謂近稱中稱遠",
+    "meaningZh": "（所謂近稱中稱遠稱不定稱的）指示詞系列的總稱。比如、「これ、それ、あれ、どれ」「ここ、そこ、あそこ、どこ」等",
     "category": "其他",
     "source": {
       "type": "school_pdf",
@@ -871,8 +897,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "さす",
+    "kanji": "指す",
     "meaningZh": "指(某事或某物)",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 他",
+    "notes": "辞書形：さす／ます形：さします；指す／指します。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -887,7 +915,7 @@
     "lesson": 6,
     "kana": "きしゃかいけん",
     "kanji": "記者会見",
-    "meaningZh": "招待會",
+    "meaningZh": "新聞發佈會、記者招待會",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -965,7 +993,7 @@
     "lesson": 6,
     "kana": "くらい［きもちが～］",
     "kanji": "暗い［気持ちが～］",
-    "meaningZh": "［心情憂鬱］",
+    "meaningZh": "陰鬱、憂鬱、陰沈［心情憂鬱］",
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
@@ -1011,8 +1039,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "みえる［アホに～］",
-    "meaningZh": "看上去像",
-    "category": "動詞",
+    "kanji": "見える［アホに～］",
+    "meaningZh": "看上去像［看上去像傻瓜］",
+    "category": "動詞 Ⅱ 自",
+    "notes": "辞書形：みえる［アホに～］／ます形：みえます［アホに～］；見える［アホに～］／見えます［アホに～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -1057,8 +1087,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "とじる",
+    "kanji": "閉じる",
     "meaningZh": "閉上 (眼睛)",
-    "category": "動詞",
+    "category": "動詞 Ⅱ 他",
+    "notes": "辞書形：とじる／ます形：とじます；閉じる／閉じます。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -1118,8 +1150,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "むきあう",
+    "kanji": "向き合う",
     "meaningZh": "面對面",
-    "category": "動詞",
+    "category": "動詞 Ⅰ 自",
+    "notes": "辞書形：むきあう／ます形：むきあいます；向き合う／向き合います。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -1133,7 +1167,7 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "そうすれば",
-    "meaningZh": "接続",
+    "meaningZh": "這樣一來",
     "category": "接続詞",
     "source": {
       "type": "school_pdf",
@@ -1164,7 +1198,7 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "そこから",
-    "meaningZh": "接続",
+    "meaningZh": "從這裡",
     "category": "接続詞",
     "source": {
       "type": "school_pdf",
@@ -1179,8 +1213,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "かいけつする",
+    "kanji": "解決する",
     "meaningZh": "解決",
-    "category": "動詞",
+    "category": "動詞 Ⅲ 他",
+    "notes": "辞書形：かいけつする／ます形：かいけつします；解決する／解決します。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -1209,8 +1245,10 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "たてる［プランを～］",
+    "kanji": "立てる［プランを～］",
     "meaningZh": "制定［制定計劃］",
-    "category": "動詞",
+    "category": "動詞 Ⅱ 他",
+    "notes": "辞書形：たてる［プランを～］／ます形：たてます［プランを～］；立てる［プランを～］／立てます［プランを～］。",
     "source": {
       "type": "school_pdf",
       "filename": "japanese_vocab_lv2_ch6.pdf.pdf"
@@ -1225,7 +1263,7 @@
     "lesson": 6,
     "kana": "じゅんばん",
     "kanji": "順番",
-    "meaningZh": "平仮名/片仮名 漢字 中譯",
+    "meaningZh": "順序、次序",
     "category": "名詞",
     "source": {
       "type": "school_pdf",
@@ -1240,7 +1278,7 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "「ちょうちょ」",
-    "meaningZh": "固有",
+    "meaningZh": "《蝴蝶》:童謠,兒歌",
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
@@ -1255,7 +1293,7 @@
     "book": "中級 I",
     "lesson": 6,
     "kana": "スバル",
-    "meaningZh": "固有",
+    "meaningZh": "六芒星、昴星團:位於金牛座的,憑肉眼可以看得見的六顆星。",
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
@@ -1269,8 +1307,9 @@
     "schoolYear": 4,
     "book": "中級 I",
     "lesson": 6,
-    "kana": "にほんりゅうがくしけ",
-    "meaningZh": "及基本學能。",
+    "kana": "にほんりゅうがくしけん",
+    "kanji": "日本留学試験",
+    "meaningZh": "日本留學考試:希望作為留學生進入日本的大學的人需要參加的考試,以便評估他們的日語能力及基本學能。",
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
@@ -1286,7 +1325,7 @@
     "lesson": 6,
     "kana": "はねだくうこう",
     "kanji": "羽田空港",
-    "meaningZh": "6 / 6",
+    "meaningZh": "羽田機場:位於東京都的機場",
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
