@@ -4,120 +4,151 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 35,
-    "kana": "さきます [はなが～] |ます| / さく[はなが～] |辞|",
-    "meaningZh": "Ⅰ 自 開 [花]",
+    "kana": "さく[はなが～]",
+    "meaningZh": "開 [花]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 1
     },
     "sourceText": "さきます [はなが～] |ます| / さく[はなが～] |辞| 咲きます [花が～] / 咲く[花が～] Ⅰ 自 開 [花]",
-    "kanji": "咲きます [花が～] / 咲く[花が～]"
+    "kanji": "咲く[花が～]",
+    "sourceOrder": 1,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: さきます [はなが～] / 咲きます [花が～]"
   },
   {
     "id": "y2-l35-v002",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 35,
-    "kana": "かわります [いろが～] |ます| / かわる[いろが～] |辞|",
-    "meaningZh": "Ⅰ 自 變 [色]",
+    "kana": "かわる[いろが～]",
+    "meaningZh": "變 [色]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 1
     },
     "sourceText": "かわります [いろが～] |ます| / かわる[いろが～] |辞| 変わります [色が～] / 変わる[色が～] Ⅰ 自 變 [色]",
-    "kanji": "変わります [色が～] / 変わる[色が～]"
+    "kanji": "変わる[色が～]",
+    "sourceOrder": 2,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: かわります [いろが～] / 変わります [色が～]"
   },
   {
     "id": "y2-l35-v003",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 35,
-    "kana": "こまります |ます| / こまる |辞|",
-    "meaningZh": "Ⅰ 自 爲難、困惑",
+    "kana": "こまる",
+    "meaningZh": "爲難、困惑",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 1
     },
     "sourceText": "こまります |ます| / こまる |辞| 困ります / 困る Ⅰ 自 爲難、困惑",
-    "kanji": "困ります / 困る"
+    "kanji": "困る",
+    "sourceOrder": 3,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: こまります / 困ります"
   },
   {
     "id": "y2-l35-v004",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 35,
-    "kana": "つけます [まるを～] |ます| / つける[まるを～] |辞|",
-    "meaningZh": "Ⅱ 他 畫 [圈]",
+    "kana": "つける[まるを～]",
+    "meaningZh": "畫 [圈]",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 1
     },
     "sourceText": "つけます [まるを～] |ます| / つける[まるを～] |辞| 付けます [丸を～] / 付ける[丸を～] Ⅱ 他 畫 [圈]",
-    "kanji": "付けます [丸を～] / 付ける[丸を～]"
+    "kanji": "付ける[丸を～]",
+    "sourceOrder": 4,
+    "section": "動詞",
+    "notes": "Ⅱ 他; ます形: つけます [まるを～] / 付けます [丸を～]"
   },
   {
     "id": "y2-l35-v005",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 35,
-    "kana": "なおります [びょうきが～] |ます| / なおる[びょうきが～] |辞|",
-    "meaningZh": "Ⅰ 自 [病] 治好了",
+    "kana": "なおる[びょうきが～]",
+    "meaningZh": "[病] 治好了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 1
     },
     "sourceText": "なおります [びょうきが～] |ます| / なおる[びょうきが～] |辞| 治ります [病気が～] / 治る[病気が～] Ⅰ 自 [病] 治好了",
-    "kanji": "治ります [病気が～] / 治る[病気が～]"
+    "kanji": "治る[病気が～]",
+    "sourceOrder": 5,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: なおります [びょうきが～] / 治ります [病気が～]"
   },
   {
     "id": "y2-l35-v006",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 35,
-    "kana": "なおります [こしょうが～] |ます| / なおる[こしょうが～] |辞|",
-    "meaningZh": "Ⅰ 自 [故障] 修好了",
+    "kana": "なおる[こしょうが～]",
+    "meaningZh": "[故障] 修好了",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 1
     },
     "sourceText": "なおります [こしょうが～] |ます| / なおる[こしょうが～] |辞| 直ります [故障が～] / 直る[故障が～] Ⅰ 自 [故障] 修好了",
-    "kanji": "直ります [故障が～] / 直る[故障が～]"
+    "kanji": "直る[故障が～]",
+    "sourceOrder": 6,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: なおります [こしょうが～] / 直ります [故障が～]"
   },
   {
     "id": "y2-l35-v007",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 35,
-    "kana": "クリックします |ます| / クリックする |辞|",
-    "meaningZh": "Ⅲ 他 點擊",
+    "kana": "クリックする",
+    "meaningZh": "點擊",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 1
     },
     "sourceText": "クリックします |ます| / クリックする |辞| - Ⅲ 他 點擊",
-    "kanji": "-"
+    "sourceOrder": 7,
+    "section": "動詞",
+    "notes": "Ⅲ 他; ます形: クリックします"
   },
   {
     "id": "y2-l35-v008",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 35,
-    "kana": "にゅうりょくします |ます| / にゅうりょくする |辞|",
-    "meaningZh": "Ⅲ 他 輸入",
+    "kana": "にゅうりょくする",
+    "meaningZh": "輸入",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 1
     },
     "sourceText": "にゅうりょくします |ます| / にゅうりょくする |辞| 入力します / 入力する Ⅲ 他 輸入",
-    "kanji": "入力します / 入力する"
+    "kanji": "入力する",
+    "sourceOrder": 8,
+    "section": "動詞",
+    "notes": "Ⅲ 他; ます形: にゅうりょくします / 入力します"
   },
   {
     "id": "y2-l35-v009",
@@ -129,10 +160,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 1
     },
     "sourceText": "むこう 向こう 對面、那邊",
-    "kanji": "向こう"
+    "kanji": "向こう",
+    "sourceOrder": 9,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v010",
@@ -144,10 +178,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 1
     },
     "sourceText": "しま 島 島、島嶼",
-    "kanji": "島"
+    "kanji": "島",
+    "sourceOrder": 10,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v011",
@@ -159,10 +196,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "みなと 港 港口",
-    "kanji": "港"
+    "kanji": "港",
+    "sourceOrder": 11,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v012",
@@ -174,10 +214,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "きんじょ 近所 附近、近鄰",
-    "kanji": "近所"
+    "kanji": "近所",
+    "sourceOrder": 12,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v013",
@@ -189,10 +232,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "おくじょう 屋上 屋頂上",
-    "kanji": "屋上"
+    "kanji": "屋上",
+    "sourceOrder": 13,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v014",
@@ -204,10 +250,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "かいがい 海外 海外",
-    "kanji": "海外"
+    "kanji": "海外",
+    "sourceOrder": 14,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v015",
@@ -219,10 +268,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "やまのぼり 山登り 登山",
-    "kanji": "山登り"
+    "kanji": "山登り",
+    "sourceOrder": 15,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v016",
@@ -234,10 +286,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "れきし 歴史 歷史",
-    "kanji": "歴史"
+    "kanji": "歴史",
+    "sourceOrder": 16,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v017",
@@ -249,10 +304,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "きかい 機会 機會",
-    "kanji": "機会"
+    "kanji": "機会",
+    "sourceOrder": 17,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v018",
@@ -264,10 +322,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "きょか 許可 許可、批准",
-    "kanji": "許可"
+    "kanji": "許可",
+    "sourceOrder": 18,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v019",
@@ -279,10 +340,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "まる 丸 圈",
-    "kanji": "丸"
+    "kanji": "丸",
+    "sourceOrder": 19,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v020",
@@ -294,10 +358,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "ふりがな - （表示漢字讀法的注音假名）",
-    "kanji": "-"
+    "sourceOrder": 20,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v021",
@@ -309,10 +375,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "せつび 設備 設備",
-    "kanji": "設備"
+    "kanji": "設備",
+    "sourceOrder": 21,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v022",
@@ -324,10 +393,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "レバー - 杆、操縱杆",
-    "kanji": "-"
+    "sourceOrder": 22,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v023",
@@ -339,10 +410,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "キー - 鍵",
-    "kanji": "-"
+    "sourceOrder": 23,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v024",
@@ -354,10 +427,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "カーテン - 窗簾",
-    "kanji": "-"
+    "sourceOrder": 24,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v025",
@@ -369,10 +444,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "ひも - 繩子",
-    "kanji": "-"
+    "sourceOrder": 25,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v026",
@@ -384,10 +461,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "すいはんき 炊飯器 電飯鍋",
-    "kanji": "炊飯器"
+    "kanji": "炊飯器",
+    "sourceOrder": 26,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v027",
@@ -399,10 +479,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "は 葉 葉子",
-    "kanji": "葉"
+    "kanji": "葉",
+    "sourceOrder": 27,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v028",
@@ -414,10 +497,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "むかし 昔 從前、過去",
-    "kanji": "昔"
+    "kanji": "昔",
+    "sourceOrder": 28,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v029",
@@ -429,10 +515,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "やこうバス 夜行バス 夜行巴士",
-    "kanji": "夜行バス"
+    "kanji": "夜行バス",
+    "sourceOrder": 29,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v030",
@@ -444,10 +533,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "りょこうしゃ 旅行社 旅行社",
-    "kanji": "旅行社"
+    "kanji": "旅行社",
+    "sourceOrder": 30,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v031",
@@ -459,10 +551,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "スキーじょう スキー場 滑雪場",
-    "kanji": "スキー場"
+    "kanji": "スキー場",
+    "sourceOrder": 31,
+    "section": "名詞"
   },
   {
     "id": "y2-l35-v032",
@@ -474,10 +569,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "ただしい 正しい 正確的",
-    "kanji": "正しい"
+    "kanji": "正しい",
+    "sourceOrder": 32,
+    "section": "い形容詞"
   },
   {
     "id": "y2-l35-v033",
@@ -489,10 +587,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 2
     },
     "sourceText": "くわしい 詳しい 詳細的",
-    "kanji": "詳しい"
+    "kanji": "詳しい",
+    "sourceOrder": 33,
+    "section": "い形容詞"
   },
   {
     "id": "y2-l35-v034",
@@ -504,10 +605,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "もっと - 更加",
-    "kanji": "-"
+    "sourceOrder": 34,
+    "section": "副詞"
   },
   {
     "id": "y2-l35-v035",
@@ -519,10 +622,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "それなら - 如果那樣的話",
-    "kanji": "-"
+    "sourceOrder": 35,
+    "section": "其他"
   },
   {
     "id": "y2-l35-v036",
@@ -534,10 +639,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "さあ - 這個嘛…（用於對一些情況不太清楚時）",
-    "kanji": "-"
+    "sourceOrder": 36,
+    "section": "其他"
   },
   {
     "id": "y2-l35-v037",
@@ -549,10 +656,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "これでおわりましょう。 これで終わりましょう。 到此結束吧。",
-    "kanji": "これで終わりましょう。"
+    "kanji": "これで終わりましょう。",
+    "sourceOrder": 37,
+    "section": "其他"
   },
   {
     "id": "y2-l35-v038",
@@ -564,10 +674,13 @@
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "はこね 箱根 箱根（位于神奈川縣的療養地，旅遊景點）",
-    "kanji": "箱根"
+    "kanji": "箱根",
+    "sourceOrder": 38,
+    "section": "固有名詞"
   },
   {
     "id": "y2-l35-v039",
@@ -579,10 +692,13 @@
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "にっこう 日光 日光（位于栃木縣的旅遊景點）",
-    "kanji": "日光"
+    "kanji": "日光",
+    "sourceOrder": 39,
+    "section": "固有名詞"
   },
   {
     "id": "y2-l35-v040",
@@ -594,10 +710,12 @@
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "アフリカ - 非洲",
-    "kanji": "-"
+    "sourceOrder": 40,
+    "section": "固有名詞"
   },
   {
     "id": "y2-l35-v041",
@@ -609,10 +727,12 @@
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "マンガミュージアム - 京都國際漫畫博物館",
-    "kanji": "-"
+    "sourceOrder": 41,
+    "section": "固有名詞"
   },
   {
     "id": "y2-l35-v042",
@@ -624,10 +744,13 @@
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "くさつ 草津 草津（位于群馬縣的療養地）",
-    "kanji": "草津"
+    "kanji": "草津",
+    "sourceOrder": 42,
+    "section": "固有名詞"
   },
   {
     "id": "y2-l35-v043",
@@ -639,10 +762,13 @@
     "category": "固有名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "しがこうげん 志賀高原 志賀高原（位于長野縣一個國立公園内的高原）",
-    "kanji": "志賀高原"
+    "kanji": "志賀高原",
+    "sourceOrder": 43,
+    "section": "固有名詞"
   },
   {
     "id": "y2-l35-v044",
@@ -654,10 +780,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "しゅ 朱 紅色",
-    "kanji": "朱"
+    "kanji": "朱",
+    "sourceOrder": 44,
+    "section": "読み物"
   },
   {
     "id": "y2-l35-v045",
@@ -669,10 +798,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "まじわります 交わります 混合、相交、交際",
-    "kanji": "交わります"
+    "kanji": "交わります",
+    "sourceOrder": 45,
+    "section": "読み物"
   },
   {
     "id": "y2-l35-v046",
@@ -684,10 +816,12 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "ことわざ - 諺語",
-    "kanji": "-"
+    "sourceOrder": 46,
+    "section": "読み物"
   },
   {
     "id": "y2-l35-v047",
@@ -699,10 +833,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "かんけい 関係 關係",
-    "kanji": "関係"
+    "kanji": "関係",
+    "sourceOrder": 47,
+    "section": "読み物"
   },
   {
     "id": "y2-l35-v048",
@@ -714,10 +851,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "なかよくします 仲よくします 友好相處",
-    "kanji": "仲よくします"
+    "kanji": "仲よくします",
+    "sourceOrder": 48,
+    "section": "読み物"
   },
   {
     "id": "y2-l35-v049",
@@ -729,9 +869,12 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch35.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch35.pdf.pdf",
+      "page": 3
     },
     "sourceText": "ひつよう [な] 必要 [な] 必要、需要",
-    "kanji": "必要 [な]"
+    "kanji": "必要 [な]",
+    "sourceOrder": 49,
+    "section": "読み物"
   }
 ]
