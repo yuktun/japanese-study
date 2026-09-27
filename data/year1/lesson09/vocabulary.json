@@ -9,8 +9,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "わかります - 了解、明白、懂",
+    "sourceOrder": 1,
+    "section": "動詞"
   },
   {
     "id": "y1-l09-v002",
@@ -22,8 +26,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "あります - 有",
+    "sourceOrder": 2,
+    "section": "動詞"
   },
   {
     "id": "y1-l09-v003",
@@ -36,8 +44,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "のみもの 飲み物 飲料",
+    "sourceOrder": 3,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v004",
@@ -50,8 +62,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "りょうり 料理 料理、菜（～を します︰做菜）",
+    "sourceOrder": 4,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v005",
@@ -63,8 +79,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "スポーツ - 運動（～を します︰做運動）",
+    "sourceOrder": 5,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v006",
@@ -77,8 +97,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "やきゅう 野球 棒球（～を します︰打棒球）",
+    "sourceOrder": 6,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v007",
@@ -90,8 +114,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ダンス - 跳舞、舞蹈（～を します︰跳舞）",
+    "sourceOrder": 7,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v008",
@@ -104,8 +132,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "りょこう 旅行 旅行（～を します︰旅行）",
+    "sourceOrder": 8,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v009",
@@ -118,8 +150,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "おんがく 音楽 音樂",
+    "sourceOrder": 9,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v010",
@@ -132,8 +168,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "うた 歌 歌曲、歌",
+    "sourceOrder": 10,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v011",
@@ -145,8 +185,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "クラシック - 古典音樂",
+    "sourceOrder": 11,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v012",
@@ -158,8 +202,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ジャズ - 爵士樂",
+    "sourceOrder": 12,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v013",
@@ -171,8 +219,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "コンサート - 音樂會、演奏會",
+    "sourceOrder": 13,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v014",
@@ -184,8 +236,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "カラオケ - 卡拉OK",
+    "sourceOrder": 14,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v015",
@@ -198,8 +254,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "かぶき 歌舞伎 歌舞伎〔日本的傳統戲劇〕",
+    "sourceOrder": 15,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v016",
@@ -212,8 +272,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "え 絵 畫",
+    "sourceOrder": 16,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v017",
@@ -226,8 +290,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "じ 字 字",
+    "sourceOrder": 17,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v018",
@@ -240,8 +308,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "かんじ 漢字 漢字",
+    "sourceOrder": 18,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v019",
@@ -253,8 +325,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ひらがな - 平假名",
+    "sourceOrder": 19,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v020",
@@ -266,8 +342,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "かたかな - 片假名",
+    "sourceOrder": 20,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v021",
@@ -280,8 +360,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ローマじ ローマ字 羅馬拼音",
+    "sourceOrder": 21,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v022",
@@ -294,8 +378,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "こまかい おかね 細かい お金 零錢",
+    "sourceOrder": 22,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v023",
@@ -307,8 +395,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "チケット - 票",
+    "sourceOrder": 23,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v024",
@@ -321,8 +413,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "じかん 時間 時間",
+    "sourceOrder": 24,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v025",
@@ -335,8 +431,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ようじ 用事 〔必須辦的〕事情、工作",
+    "sourceOrder": 25,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v026",
@@ -349,8 +449,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "やくそく 約束 約定、承諾（～を します︰約定）",
+    "sourceOrder": 26,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v027",
@@ -362,8 +466,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "アルバイト - 臨時工（～を します︰做臨時工）",
+    "sourceOrder": 27,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v028",
@@ -376,8 +484,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ごしゅじん ご主人 〔別人的〕丈夫",
+    "sourceOrder": 28,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v029",
@@ -390,8 +502,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "おっと 夫 〔自己的〕丈夫",
+    "sourceOrder": 29,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v030",
@@ -404,8 +520,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "しゅじん 主人 〔自己的〕丈夫",
+    "sourceOrder": 30,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v031",
@@ -418,8 +538,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "おくさん 奥さん 〔別人的〕妻子",
+    "sourceOrder": 31,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v032",
@@ -432,8 +556,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "つま 妻 〔自己的〕妻子",
+    "sourceOrder": 32,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v033",
@@ -446,8 +574,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "かない 家内 〔自己的〕妻子",
+    "sourceOrder": 33,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v034",
@@ -460,8 +592,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "こども 子ども 小孩",
+    "sourceOrder": 34,
+    "section": "名詞"
   },
   {
     "id": "y1-l09-v035",
@@ -474,8 +610,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "すき [な] 好き [な] 喜歡〔的〕、愛好〔的〕",
+    "sourceOrder": 35,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l09-v036",
@@ -488,8 +628,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "きらい [な] 嫌い [な] 討厭〔的〕、不喜歡〔的〕",
+    "sourceOrder": 36,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l09-v037",
@@ -502,8 +646,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "じょうず [な] 上手 [な] 好〔的〕、高明〔的〕",
+    "sourceOrder": 37,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l09-v038",
@@ -516,8 +664,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "へた [な] 下手 [な] 不行〔的〕、笨拙〔的〕",
+    "sourceOrder": 38,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l09-v039",
@@ -529,8 +681,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "よく - 很、十分",
+    "sourceOrder": 39,
+    "section": "副詞"
   },
   {
     "id": "y1-l09-v040",
@@ -542,8 +698,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "だいたい - 大致、大概",
+    "sourceOrder": 40,
+    "section": "副詞"
   },
   {
     "id": "y1-l09-v041",
@@ -555,8 +715,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "たくさん - 很多",
+    "sourceOrder": 41,
+    "section": "副詞"
   },
   {
     "id": "y1-l09-v042",
@@ -569,8 +733,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "すこし 少し 少、稍微",
+    "sourceOrder": 42,
+    "section": "副詞"
   },
   {
     "id": "y1-l09-v043",
@@ -583,8 +751,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "ぜんぜん 全然 完全、一點也〔用於否定句〕",
+    "sourceOrder": 43,
+    "section": "副詞"
   },
   {
     "id": "y1-l09-v044",
@@ -597,8 +769,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "はやく 早く、速く 早些、快些",
+    "sourceOrder": 44,
+    "section": "副詞"
   },
   {
     "id": "y1-l09-v045",
@@ -610,8 +786,12 @@
     "category": "疑問詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "どうして - 為什麼",
+    "sourceOrder": 45,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l09-v046",
@@ -624,8 +804,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "かして ください。 貸して ください。 請借給我。",
+    "sourceOrder": 46,
+    "section": "其他"
   },
   {
     "id": "y1-l09-v047",
@@ -637,8 +821,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "いいですよ。 - 可以啊。",
+    "sourceOrder": 47,
+    "section": "其他"
   },
   {
     "id": "y1-l09-v048",
@@ -651,8 +839,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "ざんねんです [が] 残念です [が] 真遺憾,... 。",
+    "sourceOrder": 48,
+    "section": "其他"
   },
   {
     "id": "y1-l09-v049",
@@ -664,8 +856,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "ああ - 啊",
+    "sourceOrder": 49,
+    "section": "其他"
   },
   {
     "id": "y1-l09-v050",
@@ -677,8 +873,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "～から - 因為～",
+    "sourceOrder": 50,
+    "section": "其他"
   },
   {
     "id": "y1-l09-v051",
@@ -690,8 +890,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "いっしょに いかがですか。 - 一起來如何?",
+    "sourceOrder": 51,
+    "section": "其他"
   },
   {
     "id": "y1-l09-v052",
@@ -703,8 +907,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "[あしたは] ちょっと・・・。 - [明天] 稍微有點困難 (拒絕的表達) 。",
+    "sourceOrder": 52,
+    "section": "其他"
   },
   {
     "id": "y1-l09-v053",
@@ -716,8 +924,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "だめですか。 - 不行嗎?",
+    "sourceOrder": 53,
+    "section": "其他"
   },
   {
     "id": "y1-l09-v054",
@@ -730,7 +942,11 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch9.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch9.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "また こんど おねがいします。 また 今度 お願いします。 下次請再叫我。(用於考慮對方處境，婉轉拒絕對方的邀請)",
+    "sourceOrder": 54,
+    "section": "其他"
   }
 ]
