@@ -9,10 +9,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "すわります 座ります Ⅰ 坐",
-    "kanji": "座ります"
+    "kanji": "座ります",
+    "sourceOrder": 1,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l14-v002",
@@ -24,10 +28,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "たちます 立ちます Ⅰ 站、立",
-    "kanji": "立ちます"
+    "kanji": "立ちます",
+    "sourceOrder": 2,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l14-v003",
@@ -39,10 +47,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "でます [きっさてんを～] 出ます [喫茶店を～] Ⅱ 走出 [咖啡館]",
-    "kanji": "出ます [喫茶店を～]"
+    "kanji": "出ます [喫茶店を～]",
+    "sourceOrder": 3,
+    "section": "動詞",
+    "notes": "Ⅱ"
   },
   {
     "id": "y1-l14-v004",
@@ -54,10 +66,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "はいります [きっさてんに～] 入ります [喫茶店に～] Ⅰ 進入 [咖啡館]",
-    "kanji": "入ります [喫茶店に～]"
+    "kanji": "入ります [喫茶店に～]",
+    "sourceOrder": 4,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l14-v005",
@@ -69,10 +85,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "つかいます 使います Ⅰ 使用",
-    "kanji": "使います"
+    "kanji": "使います",
+    "sourceOrder": 5,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l14-v006",
@@ -84,9 +104,13 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "つけます - Ⅱ 打開 (電燈、冷氣等)"
+    "sourceText": "つけます - Ⅱ 打開 (電燈、冷氣等)",
+    "sourceOrder": 6,
+    "section": "動詞",
+    "notes": "Ⅱ"
   },
   {
     "id": "y1-l14-v007",
@@ -98,10 +122,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "けします 消します Ⅰ 關掉 (電燈、冷氣等)",
-    "kanji": "消します"
+    "kanji": "消します",
+    "sourceOrder": 7,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l14-v008",
@@ -113,10 +141,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "あけます 開けます Ⅱ 打開 (門、窗等)",
-    "kanji": "開けます"
+    "kanji": "開けます",
+    "sourceOrder": 8,
+    "section": "動詞",
+    "notes": "Ⅱ"
   },
   {
     "id": "y1-l14-v009",
@@ -128,10 +160,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "しめます 閉めます Ⅱ 關閉 (門、窗等)",
-    "kanji": "閉めます"
+    "kanji": "閉めます",
+    "sourceOrder": 9,
+    "section": "動詞",
+    "notes": "Ⅱ"
   },
   {
     "id": "y1-l14-v010",
@@ -143,10 +179,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "いそぎます 急ぎます Ⅰ 趕快、趕緊",
-    "kanji": "急ぎます"
+    "kanji": "急ぎます",
+    "sourceOrder": 10,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l14-v011",
@@ -158,10 +198,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "まちます 待ちます Ⅰ 等待",
-    "kanji": "待ちます"
+    "kanji": "待ちます",
+    "sourceOrder": 11,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l14-v012",
@@ -173,10 +217,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "とめます 止めます Ⅱ 停止、停車",
-    "kanji": "止めます"
+    "kanji": "止めます",
+    "sourceOrder": 12,
+    "section": "動詞",
+    "notes": "Ⅱ"
   },
   {
     "id": "y1-l14-v013",
@@ -188,10 +236,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "もちます 持ちます Ⅰ 持有、攜帶",
-    "kanji": "持ちます"
+    "kanji": "持ちます",
+    "sourceOrder": 13,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l14-v014",
@@ -203,10 +255,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "とります 取ります Ⅰ 拿、取",
-    "kanji": "取ります"
+    "kanji": "取ります",
+    "sourceOrder": 14,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l14-v015",
@@ -218,10 +274,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "てつだいます 手伝います Ⅰ 幫忙、幫助",
-    "kanji": "手伝います"
+    "kanji": "手伝います",
+    "sourceOrder": 15,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l14-v016",
@@ -233,10 +293,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "よびます 呼びます Ⅰ 呼叫、呼喚",
-    "kanji": "呼びます"
+    "kanji": "呼びます",
+    "sourceOrder": 16,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l14-v017",
@@ -248,10 +312,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "はなします 話します Ⅰ 講、說",
-    "kanji": "話します"
+    "kanji": "話します",
+    "sourceOrder": 17,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l14-v018",
@@ -263,10 +331,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "みせます 見せます Ⅱ 出示、讓人看",
-    "kanji": "見せます"
+    "kanji": "見せます",
+    "sourceOrder": 18,
+    "section": "動詞",
+    "notes": "Ⅱ"
   },
   {
     "id": "y1-l14-v019",
@@ -278,10 +350,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "おしえます [じゅうしょを～] 教えます [住所を～] Ⅱ 告訴 [地址]",
-    "kanji": "教えます [住所を～]"
+    "kanji": "教えます [住所を～]",
+    "sourceOrder": 19,
+    "section": "動詞",
+    "notes": "Ⅱ"
   },
   {
     "id": "y1-l14-v020",
@@ -293,10 +369,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ふります [あめが～] 降ります [雨が～] Ⅰ 下 [雨]",
-    "kanji": "降ります [雨が～]"
+    "kanji": "降ります [雨が～]",
+    "sourceOrder": 20,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l14-v021",
@@ -308,9 +388,13 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "コピーします - Ⅲ 影印"
+    "sourceText": "コピーします - Ⅲ 影印",
+    "sourceOrder": 21,
+    "section": "動詞",
+    "notes": "Ⅲ"
   },
   {
     "id": "y1-l14-v022",
@@ -322,10 +406,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
     "sourceText": "でんき 電気 電燈",
-    "kanji": "電気"
+    "kanji": "電気",
+    "sourceOrder": 22,
+    "section": "名詞"
   },
   {
     "id": "y1-l14-v023",
@@ -337,9 +424,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "エアコン - 冷暖氣機、空調機"
+    "sourceText": "エアコン - 冷暖氣機、空調機",
+    "sourceOrder": 23,
+    "section": "名詞"
   },
   {
     "id": "y1-l14-v024",
@@ -351,9 +441,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "パスポート - 護照"
+    "sourceText": "パスポート - 護照",
+    "sourceOrder": 24,
+    "section": "名詞"
   },
   {
     "id": "y1-l14-v025",
@@ -365,10 +458,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
     "sourceText": "なまえ 名前 名字、姓名",
-    "kanji": "名前"
+    "kanji": "名前",
+    "sourceOrder": 25,
+    "section": "名詞"
   },
   {
     "id": "y1-l14-v026",
@@ -380,10 +476,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
     "sourceText": "じゅうしょ 住所 地址、住址",
-    "kanji": "住所"
+    "kanji": "住所",
+    "sourceOrder": 26,
+    "section": "名詞"
   },
   {
     "id": "y1-l14-v027",
@@ -395,10 +494,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
     "sourceText": "ちず 地図 地圖",
-    "kanji": "地図"
+    "kanji": "地図",
+    "sourceOrder": 27,
+    "section": "名詞"
   },
   {
     "id": "y1-l14-v028",
@@ -410,10 +512,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
     "sourceText": "しお 塩 鹽巴",
-    "kanji": "塩"
+    "kanji": "塩",
+    "sourceOrder": 28,
+    "section": "名詞"
   },
   {
     "id": "y1-l14-v029",
@@ -425,10 +530,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
     "sourceText": "さとう 砂糖 砂糖",
-    "kanji": "砂糖"
+    "kanji": "砂糖",
+    "sourceOrder": 29,
+    "section": "名詞"
   },
   {
     "id": "y1-l14-v030",
@@ -440,10 +548,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
     "sourceText": "よみかた 読み方 唸法、讀法",
-    "kanji": "読み方"
+    "kanji": "読み方",
+    "sourceOrder": 30,
+    "section": "名詞"
   },
   {
     "id": "y1-l14-v031",
@@ -455,10 +566,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
     "sourceText": "～かた ～方 ～方式、～方法",
-    "kanji": "～方"
+    "kanji": "～方",
+    "sourceOrder": 31,
+    "section": "名詞"
   },
   {
     "id": "y1-l14-v032",
@@ -470,10 +584,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
     "sourceText": "もんだい 問題 問題",
-    "kanji": "問題"
+    "kanji": "問題",
+    "sourceOrder": 32,
+    "section": "名詞"
   },
   {
     "id": "y1-l14-v033",
@@ -485,10 +602,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
     "sourceText": "こたえ 答え 答案",
-    "kanji": "答え"
+    "kanji": "答え",
+    "sourceOrder": 33,
+    "section": "名詞"
   },
   {
     "id": "y1-l14-v034",
@@ -500,10 +620,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
     "sourceText": "おつり お釣り 找的錢",
-    "kanji": "お釣り"
+    "kanji": "お釣り",
+    "sourceOrder": 34,
+    "section": "名詞"
   },
   {
     "id": "y1-l14-v035",
@@ -515,9 +638,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "ゆっくり - 慢慢地"
+    "sourceText": "ゆっくり - 慢慢地",
+    "sourceOrder": 35,
+    "section": "副詞"
   },
   {
     "id": "y1-l14-v036",
@@ -529,9 +655,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "すぐ - 馬上、立刻"
+    "sourceText": "すぐ - 馬上、立刻",
+    "sourceOrder": 36,
+    "section": "副詞"
   },
   {
     "id": "y1-l14-v037",
@@ -543,9 +672,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "まっすぐ - 直、筆直"
+    "sourceText": "まっすぐ - 直、筆直",
+    "sourceOrder": 37,
+    "section": "其他"
   },
   {
     "id": "y1-l14-v038",
@@ -557,9 +689,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "また - 再、又"
+    "sourceText": "また - 再、又",
+    "sourceOrder": 38,
+    "section": "其他"
   },
   {
     "id": "y1-l14-v039",
@@ -571,9 +706,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "あとで - 等一下、稍後"
+    "sourceText": "あとで - 等一下、稍後",
+    "sourceOrder": 39,
+    "section": "其他"
   },
   {
     "id": "y1-l14-v040",
@@ -585,10 +723,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 2
     },
     "sourceText": "もう すこし もう 少し 再多一些",
-    "kanji": "もう 少し"
+    "kanji": "もう 少し",
+    "sourceOrder": 40,
+    "section": "其他"
   },
   {
     "id": "y1-l14-v041",
@@ -600,9 +741,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 3
     },
-    "sourceText": "もう～ - 再～、另外的～"
+    "sourceText": "もう～ - 再～、另外的～",
+    "sourceOrder": 41,
+    "section": "其他"
   },
   {
     "id": "y1-l14-v042",
@@ -614,9 +758,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 3
     },
-    "sourceText": "さあ - 好啦 (提議做某事時用)"
+    "sourceText": "さあ - 好啦 (提議做某事時用)",
+    "sourceOrder": 42,
+    "section": "其他"
   },
   {
     "id": "y1-l14-v043",
@@ -628,9 +775,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 3
     },
-    "sourceText": "あれ？ - 什麼﹖ (表示驚訝)"
+    "sourceText": "あれ？ - 什麼﹖ (表示驚訝)",
+    "sourceOrder": 43,
+    "section": "其他"
   },
   {
     "id": "y1-l14-v044",
@@ -642,10 +792,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 3
     },
     "sourceText": "しんごうを みぎへ まがって ください。 信号を 右へ 曲がって ください。 請在紅綠燈處右轉。",
-    "kanji": "信号を 右へ 曲がって ください。"
+    "kanji": "信号を 右へ 曲がって ください。",
+    "sourceOrder": 44,
+    "section": "其他"
   },
   {
     "id": "y1-l14-v045",
@@ -657,9 +810,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch14.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch14.pdf.pdf",
+      "page": 3
     },
     "sourceText": "これで おねがいします。 これで お願いします。 我用這付錢。",
-    "kanji": "これで お願いします。"
+    "kanji": "これで お願いします。",
+    "sourceOrder": 45,
+    "section": "其他"
   }
 ]
