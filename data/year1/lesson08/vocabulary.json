@@ -10,8 +10,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "さくら 桜 櫻花",
+    "sourceOrder": 1,
+    "section": "名詞"
   },
   {
     "id": "y1-l08-v002",
@@ -24,8 +28,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "やま 山 山",
+    "sourceOrder": 2,
+    "section": "名詞"
   },
   {
     "id": "y1-l08-v003",
@@ -38,8 +46,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "まち 町 城市、市鎮",
+    "sourceOrder": 3,
+    "section": "名詞"
   },
   {
     "id": "y1-l08-v004",
@@ -52,8 +64,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "たべもの 食べ物 食物",
+    "sourceOrder": 4,
+    "section": "名詞"
   },
   {
     "id": "y1-l08-v005",
@@ -66,8 +82,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ところ 所 場所、地方",
+    "sourceOrder": 5,
+    "section": "名詞"
   },
   {
     "id": "y1-l08-v006",
@@ -80,8 +100,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "りょう 寮 宿舍",
+    "sourceOrder": 6,
+    "section": "名詞"
   },
   {
     "id": "y1-l08-v007",
@@ -93,8 +117,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "レストラン - 餐廳",
+    "sourceOrder": 7,
+    "section": "名詞"
   },
   {
     "id": "y1-l08-v008",
@@ -107,8 +135,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "せいかつ 生活 生活",
+    "sourceOrder": 8,
+    "section": "名詞"
   },
   {
     "id": "y1-l08-v009",
@@ -121,8 +153,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "[お] しごと [お」仕事 工作、職業（～をします︰工作）",
+    "sourceOrder": 9,
+    "section": "名詞"
   },
   {
     "id": "y1-l08-v010",
@@ -135,8 +171,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "おおきい 大きい 大的",
+    "sourceOrder": 10,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v011",
@@ -149,8 +189,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ちいさい 小さい 小的",
+    "sourceOrder": 11,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v012",
@@ -163,8 +207,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "あたらしい 新しい 新的",
+    "sourceOrder": 12,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v013",
@@ -177,8 +225,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ふるい 古い 舊的",
+    "sourceOrder": 13,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v014",
@@ -190,8 +242,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "いい（よい） - 好的",
+    "sourceOrder": 14,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v015",
@@ -204,8 +260,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "わるい 悪い 壞的",
+    "sourceOrder": 15,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v016",
@@ -218,8 +278,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "あつい 暑い （天氣）酷熱的、熱的",
+    "sourceOrder": 16,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v017",
@@ -232,8 +296,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "さむい 寒い 寒冷的",
+    "sourceOrder": 17,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v018",
@@ -246,8 +314,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "あつい 熱い 燙的、熱的",
+    "sourceOrder": 18,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v019",
@@ -260,8 +332,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "つめたい 冷たい 涼的、冰的",
+    "sourceOrder": 19,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v020",
@@ -274,8 +350,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "むずかしい 難しい 難的",
+    "sourceOrder": 20,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v021",
@@ -288,8 +368,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "やさしい 易しい 容易的、簡單的",
+    "sourceOrder": 21,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v022",
@@ -302,8 +386,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "たかい 高い 高的；貴的",
+    "sourceOrder": 22,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v023",
@@ -316,8 +404,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "やすい 安い 便宜的",
+    "sourceOrder": 23,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v024",
@@ -330,8 +422,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ひくい 低い 低的、矮的",
+    "sourceOrder": 24,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v025",
@@ -343,8 +439,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "おもしろい - 有趣的、有意思的",
+    "sourceOrder": 25,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v026",
@@ -356,8 +456,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "おいしい - 美味的、好吃的",
+    "sourceOrder": 26,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v027",
@@ -370,8 +474,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "いそがしい 忙しい 忙碌的",
+    "sourceOrder": 27,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v028",
@@ -384,8 +492,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "たのしい 楽しい 愉快的、高興的",
+    "sourceOrder": 28,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v029",
@@ -398,8 +510,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "しろい 白い 白色的",
+    "sourceOrder": 29,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v030",
@@ -412,8 +528,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "くろい 黒い 黑色的",
+    "sourceOrder": 30,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v031",
@@ -426,8 +546,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "あかい 赤い 紅色的",
+    "sourceOrder": 31,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v032",
@@ -440,8 +564,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "あおい 青い 藍色的",
+    "sourceOrder": 32,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l08-v033",
@@ -453,8 +581,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ハンサム [な] - 英俊〔的〕",
+    "sourceOrder": 33,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l08-v034",
@@ -466,8 +598,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "きれい [な] - 美麗〔的〕、乾淨〔的〕",
+    "sourceOrder": 34,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l08-v035",
@@ -480,8 +616,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "しずか [な] 静か [な] 安靜〔的〕",
+    "sourceOrder": 35,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l08-v036",
@@ -493,8 +633,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "にぎやか [な] - 熱鬧〔的〕",
+    "sourceOrder": 36,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l08-v037",
@@ -507,8 +651,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ゆうめい [な] 有名 [な] 有名〔的〕",
+    "sourceOrder": 37,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l08-v038",
@@ -521,8 +669,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "しんせつ [な] 親切 [な] 親切〔的〕",
+    "sourceOrder": 38,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l08-v039",
@@ -535,8 +687,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "げんき [な] 元気 [な] 身體好〔的〕、健康〔的〕",
+    "sourceOrder": 39,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l08-v040",
@@ -549,8 +705,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ひま [な] 暇 [な] 空閒〔的〕",
+    "sourceOrder": 40,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l08-v041",
@@ -563,8 +723,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "べんり [な] 便利 [な] 方便〔的〕",
+    "sourceOrder": 41,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l08-v042",
@@ -576,8 +740,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "すてき [な] - 很好〔的〕、很棒〔的〕",
+    "sourceOrder": 42,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l08-v045",
@@ -589,8 +757,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "とても - 很、非常",
+    "sourceOrder": 43,
+    "section": "副詞"
   },
   {
     "id": "y1-l08-v046",
@@ -602,8 +774,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "あまり - 不太〔用於否定句〕",
+    "sourceOrder": 44,
+    "section": "副詞"
   },
   {
     "id": "y1-l08-v043",
@@ -615,8 +791,12 @@
     "category": "疑問詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "どう - 怎麼樣",
+    "sourceOrder": 45,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l08-v044",
@@ -628,8 +808,12 @@
     "category": "疑問詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "どんな～ - 什麼樣的～",
+    "sourceOrder": 46,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l08-v047",
@@ -641,8 +825,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "そして - 而且，還有〔用於接續句子〕",
+    "sourceOrder": 47,
+    "section": "其他"
   },
   {
     "id": "y1-l08-v048",
@@ -654,8 +842,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "～が、～ - ～，但是，～",
+    "sourceOrder": 48,
+    "section": "其他"
   },
   {
     "id": "y1-l08-v049",
@@ -668,8 +860,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "おげんきですか。 お元気ですか。 你好嗎？",
+    "sourceOrder": 49,
+    "section": "其他"
   },
   {
     "id": "y1-l08-v050",
@@ -681,8 +877,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "そうですね。 - 是呀 (用於思考回答時)。",
+    "sourceOrder": 50,
+    "section": "其他"
   },
   {
     "id": "y1-l08-v051",
@@ -695,8 +895,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "[～、] もう いっぱい いかがですか。 [～、] もう 一杯 いかがですか。 再來一杯 [～] 怎麽樣",
+    "sourceOrder": 51,
+    "section": "其他"
   },
   {
     "id": "y1-l08-v052",
@@ -708,8 +912,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "[いいえ、] けっこうです。 - 不用了，夠了。",
+    "sourceOrder": 52,
+    "section": "其他"
   },
   {
     "id": "y1-l08-v053",
@@ -721,8 +929,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "もう ～です[ね]。 - 已經～了吧 [不是嗎]。",
+    "sourceOrder": 53,
+    "section": "其他"
   },
   {
     "id": "y1-l08-v054",
@@ -735,8 +947,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "そろそろ しつれいします。 そろそろ 失礼します。 我該告辭了。",
+    "sourceOrder": 54,
+    "section": "其他"
   },
   {
     "id": "y1-l08-v055",
@@ -748,8 +964,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "いいえ - 不。沒甚麽。",
+    "sourceOrder": 55,
+    "section": "其他"
   },
   {
     "id": "y1-l08-v056",
@@ -761,7 +981,11 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch8.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch8.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "また いらっしゃって ください。 - 歡迎再來。",
+    "sourceOrder": 56,
+    "section": "其他"
   }
 ]
