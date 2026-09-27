@@ -15,7 +15,8 @@
     "sourceText": "みがきます [はを～] |ます| / みがく[はを～] |辞| 磨きます [歯を～] / 磨く[歯を～] Ⅰ 他 刷 [牙]",
     "kanji": "磨く[歯を～]",
     "sourceOrder": 1,
-    "notes": "Ⅰ 他; ます形: みがきます [はを～] / 磨きます [歯を～]"
+    "notes": "Ⅰ 他; ます形: みがきます [はを～] / 磨きます [歯を～]",
+    "section": "動詞"
   },
   {
     "id": "y2-l34-v002",
@@ -33,7 +34,8 @@
     "sourceText": "くみたてます |ます| / くみたてる |辞| 組み立てます / 組み立てる Ⅱ 他 組裝",
     "kanji": "組み立てる",
     "sourceOrder": 2,
-    "notes": "Ⅱ 他; ます形: くみたてます / 組み立てます"
+    "notes": "Ⅱ 他; ます形: くみたてます / 組み立てます",
+    "section": "動詞"
   },
   {
     "id": "y2-l34-v003",
@@ -51,7 +53,8 @@
     "sourceText": "おります |ます| / おる[かみを～] |辞| 折ります [紙を～] / 折る[紙を～] Ⅰ 他 折 [紙]",
     "kanji": "折る[紙を～]",
     "sourceOrder": 3,
-    "notes": "Ⅰ 他; ます形: おります / 折ります [紙を～]"
+    "notes": "Ⅰ 他; ます形: おります / 折ります [紙を～]",
+    "section": "動詞"
   },
   {
     "id": "y2-l34-v004",
@@ -69,7 +72,8 @@
     "sourceText": "きがつきます [わすれものに～] |ます| / きがつく[わすれものに～] |辞| 気がつきます [忘れ物に～] / 気がつく[忘れ物に～] Ⅰ 自 發覺、察覺 [忘了東西]",
     "kanji": "気がつく[忘れ物に～]",
     "sourceOrder": 4,
-    "notes": "Ⅰ 自; ます形: きがつきます [わすれものに～] / 気がつきます [忘れ物に～]"
+    "notes": "Ⅰ 自; ます形: きがつきます [わすれものに～] / 気がつきます [忘れ物に～]",
+    "section": "動詞"
   },
   {
     "id": "y2-l34-v005",
@@ -86,7 +90,8 @@
     },
     "sourceText": "つけます [しょうゆを～] |ます| / つける[しょうゆを～] |辞| - Ⅱ 他 蘸 [醬油]",
     "sourceOrder": 5,
-    "notes": "Ⅱ 他; ます形: つけます [しょうゆを～]"
+    "notes": "Ⅱ 他; ます形: つけます [しょうゆを～]",
+    "section": "動詞"
   },
   {
     "id": "y2-l34-v006",
@@ -104,7 +109,8 @@
     "sourceText": "みつかります [かぎが～] |ます| / みつかる[かぎが～] |辞| 見つかります [かぎが～] / 見つかる[かぎが～] Ⅰ 自 找到 [鑰匙]",
     "kanji": "見つかる[かぎが～]",
     "sourceOrder": 6,
-    "notes": "Ⅰ 自; ます形: みつかります [かぎが～] / 見つかります [かぎが～]"
+    "notes": "Ⅰ 自; ます形: みつかります [かぎが～] / 見つかります [かぎが～]",
+    "section": "動詞"
   },
   {
     "id": "y2-l34-v007",
@@ -122,7 +128,8 @@
     "sourceText": "しつもんします |ます| / しつもんする |辞| 質問します / 質問する Ⅲ 他 提問",
     "kanji": "質問する",
     "sourceOrder": 7,
-    "notes": "Ⅲ 他; ます形: しつもんします / 質問します"
+    "notes": "Ⅲ 他; ます形: しつもんします / 質問します",
+    "section": "動詞"
   },
   {
     "id": "y2-l34-v008",
@@ -140,7 +147,8 @@
     "sourceText": "さします [かさを～] |ます| / さす[かさを～] |辞| さします [傘を～] / さす[傘を～] Ⅰ 他 打 [傘]",
     "kanji": "さす[傘を～]",
     "sourceOrder": 8,
-    "notes": "Ⅰ 他; ます形: さします [かさを～] / さします [傘を～]"
+    "notes": "Ⅰ 他; ます形: さします [かさを～] / さします [傘を～]",
+    "section": "動詞"
   },
   {
     "id": "y2-l34-v009",
@@ -158,7 +166,8 @@
     "sourceText": "おちゃをたてます |ます| / おちゃをたてる |辞| お茶をたてます / お茶をたてる Ⅱ 他 泡茶、沏茶",
     "kanji": "お茶をたてる",
     "sourceOrder": 9,
-    "notes": "Ⅱ 他; ます形: おちゃをたてます / お茶をたてます"
+    "notes": "Ⅱ 他; ます形: おちゃをたてます / お茶をたてます",
+    "section": "動詞"
   },
   {
     "id": "y2-l34-v010",
@@ -176,7 +185,8 @@
     "sourceText": "のせます |ます| / のせる |辞| 載せます / 載せる Ⅱ 他 放、載",
     "kanji": "載せる",
     "sourceOrder": 10,
-    "notes": "Ⅱ 他; ます形: のせます / 載せます"
+    "notes": "Ⅱ 他; ます形: のせます / 載せます",
+    "section": "動詞"
   },
   {
     "id": "y2-l34-v011",
@@ -192,7 +202,8 @@
       "page": 2
     },
     "sourceText": "スポーツクラブ - 運動俱樂部",
-    "sourceOrder": 11
+    "sourceOrder": 11,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v012",
@@ -209,7 +220,8 @@
     },
     "sourceText": "[お」しろ [お] 城 城",
     "kanji": "[お] 城",
-    "sourceOrder": 12
+    "sourceOrder": 12,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v013",
@@ -226,7 +238,8 @@
     },
     "sourceText": "せつめいしょ 説明書 説明書",
     "kanji": "説明書",
-    "sourceOrder": 13
+    "sourceOrder": 13,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v014",
@@ -243,7 +256,8 @@
     },
     "sourceText": "ず 図 圖",
     "kanji": "図",
-    "sourceOrder": 14
+    "sourceOrder": 14,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v015",
@@ -260,7 +274,8 @@
     },
     "sourceText": "せん 線 綫",
     "kanji": "線",
-    "sourceOrder": 15
+    "sourceOrder": 15,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v016",
@@ -277,7 +292,8 @@
     },
     "sourceText": "やじるし 矢印 箭頭（記號）",
     "kanji": "矢印",
-    "sourceOrder": 16
+    "sourceOrder": 16,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v017",
@@ -294,7 +310,8 @@
     },
     "sourceText": "くろ 黒 黑色",
     "kanji": "黒",
-    "sourceOrder": 17
+    "sourceOrder": 17,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v018",
@@ -311,7 +328,8 @@
     },
     "sourceText": "しろ 白 白色",
     "kanji": "白",
-    "sourceOrder": 18
+    "sourceOrder": 18,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v019",
@@ -328,7 +346,8 @@
     },
     "sourceText": "あか 赤 紅色",
     "kanji": "赤",
-    "sourceOrder": 19
+    "sourceOrder": 19,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v020",
@@ -345,7 +364,8 @@
     },
     "sourceText": "あお 青 藍色",
     "kanji": "青",
-    "sourceOrder": 20
+    "sourceOrder": 20,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v021",
@@ -362,7 +382,8 @@
     },
     "sourceText": "こん 紺 深藍色",
     "kanji": "紺",
-    "sourceOrder": 21
+    "sourceOrder": 21,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v022",
@@ -379,7 +400,8 @@
     },
     "sourceText": "きいろ 黄色 黃色",
     "kanji": "黄色",
-    "sourceOrder": 22
+    "sourceOrder": 22,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v023",
@@ -396,7 +418,8 @@
     },
     "sourceText": "ちゃいろ 茶色 棕色",
     "kanji": "茶色",
-    "sourceOrder": 23
+    "sourceOrder": 23,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v024",
@@ -412,7 +435,8 @@
       "page": 2
     },
     "sourceText": "しょうゆ - 醬油",
-    "sourceOrder": 24
+    "sourceOrder": 24,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v025",
@@ -428,7 +452,8 @@
       "page": 2
     },
     "sourceText": "ソース - 甜醬、沙司",
-    "sourceOrder": 25
+    "sourceOrder": 25,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v026",
@@ -445,7 +470,8 @@
     },
     "sourceText": "おきゃく [さん] お客 [さん] 客人、顧客",
     "kanji": "お客 [さん]",
-    "sourceOrder": 26
+    "sourceOrder": 26,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v027",
@@ -462,7 +488,8 @@
     },
     "sourceText": "さどう 茶道 茶道",
     "kanji": "茶道",
-    "sourceOrder": 27
+    "sourceOrder": 27,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v028",
@@ -478,7 +505,8 @@
       "page": 2
     },
     "sourceText": "ゆうべ - 昨天晚上、昨晚",
-    "sourceOrder": 28
+    "sourceOrder": 28,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v029",
@@ -494,7 +522,8 @@
       "page": 2
     },
     "sourceText": "さっき - 剛才",
-    "sourceOrder": 29
+    "sourceOrder": 29,
+    "section": "名詞"
   },
   {
     "id": "y2-l34-v030",
@@ -511,7 +540,8 @@
     },
     "sourceText": "にがい 苦い 苦的",
     "kanji": "苦い",
-    "sourceOrder": 30
+    "sourceOrder": 30,
+    "section": "い形容詞"
   },
   {
     "id": "y2-l34-v031",
@@ -528,7 +558,8 @@
     },
     "sourceText": "さきに 先に 先、首先",
     "kanji": "先に",
-    "sourceOrder": 31
+    "sourceOrder": 31,
+    "section": "副詞"
   },
   {
     "id": "y2-l34-v032",
@@ -544,7 +575,8 @@
       "page": 2
     },
     "sourceText": "～か～ - ～或～",
-    "sourceOrder": 32
+    "sourceOrder": 32,
+    "section": "其他"
   },
   {
     "id": "y2-l34-v033",
@@ -560,7 +592,8 @@
       "page": 2
     },
     "sourceText": "これでいいですか。 - 這樣可以嗎？",
-    "sourceOrder": 33
+    "sourceOrder": 33,
+    "section": "其他"
   },
   {
     "id": "y2-l34-v034",
@@ -576,7 +609,8 @@
       "page": 2
     },
     "sourceText": "いかがですか。 - 怎麽樣？",
-    "sourceOrder": 34
+    "sourceOrder": 34,
+    "section": "其他"
   },
   {
     "id": "y2-l34-v035",
@@ -593,7 +627,8 @@
     },
     "sourceText": "おやこどんぶり 親子どんぶり 雞肉雞蛋飯",
     "kanji": "親子どんぶり",
-    "sourceOrder": 35
+    "sourceOrder": 35,
+    "section": "読み物"
   },
   {
     "id": "y2-l34-v036",
@@ -610,7 +645,8 @@
     },
     "sourceText": "ざいりょう 材料 材料",
     "kanji": "材料",
-    "sourceOrder": 36
+    "sourceOrder": 36,
+    "section": "読み物"
   },
   {
     "id": "y2-l34-v037",
@@ -627,7 +663,8 @@
     },
     "sourceText": "～ぶん ～分 ～分（表示分量）",
     "kanji": "～分",
-    "sourceOrder": 37
+    "sourceOrder": 37,
+    "section": "読み物"
   },
   {
     "id": "y2-l34-v038",
@@ -643,7 +680,8 @@
       "page": 3
     },
     "sourceText": "－グラム - 一克",
-    "sourceOrder": 38
+    "sourceOrder": 38,
+    "section": "読み物"
   },
   {
     "id": "y2-l34-v039",
@@ -660,7 +698,8 @@
     },
     "sourceText": "－こ －個 一個",
     "kanji": "－個",
-    "sourceOrder": 39
+    "sourceOrder": 39,
+    "section": "読み物"
   },
   {
     "id": "y2-l34-v040",
@@ -676,7 +715,8 @@
       "page": 3
     },
     "sourceText": "たまねぎ - 洋蔥",
-    "sourceOrder": 40
+    "sourceOrder": 40,
+    "section": "読み物"
   },
   {
     "id": "y2-l34-v041",
@@ -693,7 +733,8 @@
     },
     "sourceText": "よんぶんのいち ４分の１(１/４) 四分之一",
     "kanji": "４分の１(１/４)",
-    "sourceOrder": 41
+    "sourceOrder": 41,
+    "section": "読み物"
   },
   {
     "id": "y2-l34-v042",
@@ -710,7 +751,8 @@
     },
     "sourceText": "ちょうみりょう 調味料 調料",
     "kanji": "調味料",
-    "sourceOrder": 42
+    "sourceOrder": 42,
+    "section": "読み物"
   },
   {
     "id": "y2-l34-v043",
@@ -727,7 +769,8 @@
     },
     "sourceText": "てきとうなおおきさに 適当な大きさに 適當的大小",
     "kanji": "適当な大きさに",
-    "sourceOrder": 43
+    "sourceOrder": 43,
+    "section": "読み物"
   },
   {
     "id": "y2-l34-v044",
@@ -743,7 +786,8 @@
       "page": 3
     },
     "sourceText": "なべ - 鍋",
-    "sourceOrder": 44
+    "sourceOrder": 44,
+    "section": "読み物"
   },
   {
     "id": "y2-l34-v045",
@@ -760,7 +804,8 @@
     },
     "sourceText": "ひ 火 火",
     "kanji": "火",
-    "sourceOrder": 45
+    "sourceOrder": 45,
+    "section": "読み物"
   },
   {
     "id": "y2-l34-v046",
@@ -777,7 +822,8 @@
     },
     "sourceText": "ひにかけます 火にかけます 放在火上",
     "kanji": "火にかけます",
-    "sourceOrder": 46
+    "sourceOrder": 46,
+    "section": "読み物"
   },
   {
     "id": "y2-l34-v047",
@@ -794,7 +840,8 @@
     },
     "sourceText": "にます 煮ます 煮、燉",
     "kanji": "煮ます",
-    "sourceOrder": 47
+    "sourceOrder": 47,
+    "section": "読み物"
   },
   {
     "id": "y2-l34-v048",
@@ -811,7 +858,8 @@
     },
     "sourceText": "にえます 煮えます 煮熟",
     "kanji": "煮えます",
-    "sourceOrder": 48
+    "sourceOrder": 48,
+    "section": "読み物"
   },
   {
     "id": "y2-l34-v049",
@@ -827,7 +875,8 @@
       "page": 3
     },
     "sourceText": "どんぶり - 大碗",
-    "sourceOrder": 49
+    "sourceOrder": 49,
+    "section": "読み物"
   },
   {
     "id": "y2-l34-v050",
@@ -843,6 +892,7 @@
       "page": 3
     },
     "sourceText": "たちます - 流逝、過去",
-    "sourceOrder": 50
+    "sourceOrder": 50,
+    "section": "読み物"
   }
 ]
