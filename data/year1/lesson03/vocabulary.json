@@ -6,12 +6,15 @@
     "lesson": 3,
     "category": "名詞",
     "kana": "ここ",
-    "kanji": "",
     "meaningZh": "這裡、這個地方（近己方）",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ここ - 這裡、這個地方（近己方）",
+    "sourceOrder": 1,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v002",
@@ -20,12 +23,15 @@
     "lesson": 3,
     "category": "名詞",
     "kana": "そこ",
-    "kanji": "",
     "meaningZh": "那裡、那個地方（近對方）",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "そこ - 那裡、那個地方（近對方）",
+    "sourceOrder": 2,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v003",
@@ -34,12 +40,15 @@
     "lesson": 3,
     "category": "名詞",
     "kana": "あそこ",
-    "kanji": "",
     "meaningZh": "那裡、那個地方（遠方）",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "あそこ - 那裡、那個地方（遠方）",
+    "sourceOrder": 3,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v004",
@@ -48,12 +57,15 @@
     "lesson": 3,
     "category": "名詞",
     "kana": "こちら",
-    "kanji": "",
     "meaningZh": "這邊（“ここ”的禮貌形）",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "こちら - 這邊（“ここ”的禮貌形）",
+    "sourceOrder": 4,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v005",
@@ -62,12 +74,15 @@
     "lesson": 3,
     "category": "名詞",
     "kana": "そちら",
-    "kanji": "",
     "meaningZh": "那邊（“そこ”的禮貌形）",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "そちら - 那邊（“そこ”的禮貌形）",
+    "sourceOrder": 5,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v006",
@@ -76,12 +91,15 @@
     "lesson": 3,
     "category": "名詞",
     "kana": "あちら",
-    "kanji": "",
     "meaningZh": "那邊（“あそこ” 的禮貌形）",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "あちら - 那邊（“あそこ” 的禮貌形）",
+    "sourceOrder": 6,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v007",
@@ -94,8 +112,12 @@
     "meaningZh": "服務台、接待",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "うけつけ 受付 服務台、接待",
+    "sourceOrder": 7,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v008",
@@ -104,12 +126,15 @@
     "lesson": 3,
     "category": "名詞",
     "kana": "うち",
-    "kanji": "",
     "meaningZh": "家、房子",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "うち - 家、房子",
+    "sourceOrder": 8,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v009",
@@ -122,8 +147,12 @@
     "meaningZh": "賣場",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "うりば 売り場 賣場",
+    "sourceOrder": 9,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v010",
@@ -132,12 +161,15 @@
     "lesson": 3,
     "category": "名詞",
     "kana": "エスカレーター",
-    "kanji": "",
     "meaningZh": "扶手電梯",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "エスカレーター - 扶手電梯",
+    "sourceOrder": 10,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v011",
@@ -146,12 +178,15 @@
     "lesson": 3,
     "category": "名詞",
     "kana": "エレベーター",
-    "kanji": "",
     "meaningZh": "電梯（升降機）",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "エレベーター - 電梯（升降機）",
+    "sourceOrder": 11,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v012",
@@ -164,8 +199,12 @@
     "meaningZh": "貴國",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "[お] くに [お] 国 貴國",
+    "sourceOrder": 12,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v013",
@@ -178,8 +217,12 @@
     "meaningZh": "廁所（洗手間）",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "おてあらい お手洗い 廁所（洗手間）",
+    "sourceOrder": 13,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v014",
@@ -192,8 +235,12 @@
     "meaningZh": "會議室",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "かいぎしつ 会議室 會議室",
+    "sourceOrder": 14,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v015",
@@ -206,8 +253,12 @@
     "meaningZh": "公司",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "かいしゃ 会社 公司",
+    "sourceOrder": 15,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v016",
@@ -220,8 +271,12 @@
     "meaningZh": "樓梯",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "かいだん 階段 樓梯",
+    "sourceOrder": 16,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v017",
@@ -234,8 +289,12 @@
     "meaningZh": "教室",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "きょうしつ 教室 教室",
+    "sourceOrder": 17,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v018",
@@ -248,8 +307,12 @@
     "meaningZh": "鞋子",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "くつ 靴 鞋子",
+    "sourceOrder": 18,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v019",
@@ -262,8 +325,12 @@
     "meaningZh": "國家",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "くに 国 國家",
+    "sourceOrder": 19,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v020",
@@ -276,8 +343,12 @@
     "meaningZh": "自動販賣機",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "じどうはんばいき 自動販売機 自動販賣機",
+    "sourceOrder": 20,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v021",
@@ -290,8 +361,12 @@
     "meaningZh": "辦公室",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "じむしょ 事務所 辦公室",
+    "sourceOrder": 21,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v022",
@@ -304,8 +379,12 @@
     "meaningZh": "餐廳、食堂",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "しょくどう 食堂 餐廳、食堂",
+    "sourceOrder": 22,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v023",
@@ -318,8 +397,12 @@
     "meaningZh": "地下",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ちか 地下 地下",
+    "sourceOrder": 23,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v024",
@@ -332,8 +415,12 @@
     "meaningZh": "電話",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "でんわ 電話 電話",
+    "sourceOrder": 24,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v025",
@@ -342,12 +429,15 @@
     "lesson": 3,
     "category": "名詞",
     "kana": "トイレ",
-    "kanji": "",
     "meaningZh": "廁所（洗手間）",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "トイレ - 廁所（洗手間）",
+    "sourceOrder": 25,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v026",
@@ -356,12 +446,15 @@
     "lesson": 3,
     "category": "名詞",
     "kana": "ネクタイ",
-    "kanji": "",
     "meaningZh": "領帶",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ネクタイ - 領帶",
+    "sourceOrder": 26,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v027",
@@ -374,8 +467,12 @@
     "meaningZh": "房間",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "へや 部屋 房間",
+    "sourceOrder": 27,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v028",
@@ -384,12 +481,15 @@
     "lesson": 3,
     "category": "名詞",
     "kana": "ロビー",
-    "kanji": "",
     "meaningZh": "大廳、休息室",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ロビー - 大廳、休息室",
+    "sourceOrder": 28,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v029",
@@ -398,12 +498,15 @@
     "lesson": 3,
     "category": "名詞",
     "kana": "ワイン",
-    "kanji": "",
     "meaningZh": "葡萄酒",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ワイン - 葡萄酒",
+    "sourceOrder": 29,
+    "section": "名詞"
   },
   {
     "id": "y1-l03-v030",
@@ -416,8 +519,12 @@
     "meaningZh": "百",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ひゃく 百 百",
+    "sourceOrder": 30,
+    "section": "数量詞"
   },
   {
     "id": "y1-l03-v031",
@@ -430,8 +537,12 @@
     "meaningZh": "萬",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "まん 万 萬",
+    "sourceOrder": 31,
+    "section": "数量詞"
   },
   {
     "id": "y1-l03-v032",
@@ -444,8 +555,12 @@
     "meaningZh": "～日圓",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "～えん ～円 ～日圓",
+    "sourceOrder": 32,
+    "section": "数量詞"
   },
   {
     "id": "y1-l03-v033",
@@ -458,8 +573,12 @@
     "meaningZh": "～樓",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "～かい（がい） ～階 ～樓",
+    "sourceOrder": 33,
+    "section": "数量詞"
   },
   {
     "id": "y1-l03-v034",
@@ -472,8 +591,12 @@
     "meaningZh": "千",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "せん 千 千",
+    "sourceOrder": 34,
+    "section": "数量詞"
   },
   {
     "id": "y1-l03-v035",
@@ -482,12 +605,15 @@
     "lesson": 3,
     "category": "疑問詞",
     "kana": "いくら",
-    "kanji": "",
     "meaningZh": "多少錢",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "いくら - 多少錢",
+    "sourceOrder": 35,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l03-v036",
@@ -496,12 +622,15 @@
     "lesson": 3,
     "category": "疑問詞",
     "kana": "どこ",
-    "kanji": "",
     "meaningZh": "哪裡、哪個地方",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "どこ - 哪裡、哪個地方",
+    "sourceOrder": 36,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l03-v037",
@@ -510,12 +639,15 @@
     "lesson": 3,
     "category": "疑問詞",
     "kana": "どちら",
-    "kanji": "",
     "meaningZh": "哪邊（“どこ”的禮貌形）",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "どちら - 哪邊（“どこ”的禮貌形）",
+    "sourceOrder": 37,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l03-v038",
@@ -528,8 +660,12 @@
     "meaningZh": "幾樓",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "なんがい 何階 幾樓",
+    "sourceOrder": 38,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l03-v039",
@@ -538,12 +674,15 @@
     "lesson": 3,
     "category": "其他",
     "kana": "じゃ",
-    "kanji": "",
     "meaningZh": "那麽",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "じゃ - 那麽",
+    "sourceOrder": 39,
+    "section": "其他"
   },
   {
     "id": "y1-l03-v040",
@@ -552,12 +691,15 @@
     "lesson": 3,
     "category": "其他",
     "kana": "すみません。",
-    "kanji": "",
     "meaningZh": "對不起，請問…(用於道歉、詢問時）",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "すみません。 - 對不起，請問…(用於道歉、詢問時）",
+    "sourceOrder": 40,
+    "section": "其他"
   },
   {
     "id": "y1-l03-v041",
@@ -566,12 +708,15 @@
     "lesson": 3,
     "category": "其他",
     "kana": "いらっしゃいませ。",
-    "kanji": "",
     "meaningZh": "歡迎光臨(商店、餐館在顧客光臨時用)",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "いらっしゃいませ。 - 歡迎光臨(商店、餐館在顧客光臨時用)",
+    "sourceOrder": 41,
+    "section": "其他"
   },
   {
     "id": "y1-l03-v042",
@@ -580,12 +725,15 @@
     "lesson": 3,
     "category": "其他",
     "kana": "どうも。",
-    "kanji": "",
     "meaningZh": "謝了。",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "どうも。 - 謝了。",
+    "sourceOrder": 42,
+    "section": "其他"
   },
   {
     "id": "y1-l03-v043",
@@ -598,8 +746,12 @@
     "meaningZh": "請讓我看一下 [～]。",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "[～を] みせて ください。 [～を] 見せて ください。 請讓我看一下 [～]。",
+    "sourceOrder": 43,
+    "section": "其他"
   },
   {
     "id": "y1-l03-v044",
@@ -608,11 +760,14 @@
     "lesson": 3,
     "category": "其他",
     "kana": "[～を] ください。",
-    "kanji": "",
     "meaningZh": "請給我[～]。",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch3.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch3.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "[～を] ください。 - 請給我[～]。",
+    "sourceOrder": 44,
+    "section": "其他"
   }
 ]
