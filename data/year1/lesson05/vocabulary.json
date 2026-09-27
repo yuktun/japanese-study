@@ -10,8 +10,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "いきます 行きます 去",
+    "sourceOrder": 1,
+    "section": "動詞"
   },
   {
     "id": "y1-l05-v002",
@@ -24,8 +28,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "かえります 帰ります 回家，回（國）",
+    "sourceOrder": 2,
+    "section": "動詞"
   },
   {
     "id": "y1-l05-v003",
@@ -38,8 +46,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "きます 来ます 來",
+    "sourceOrder": 3,
+    "section": "動詞"
   },
   {
     "id": "y1-l05-v004",
@@ -52,8 +64,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "えき 駅 火車站",
+    "sourceOrder": 4,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v005",
@@ -66,8 +82,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "かぞく 家族 家人、家屬",
+    "sourceOrder": 5,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v006",
@@ -80,8 +100,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "がっこう 学校 學校",
+    "sourceOrder": 6,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v007",
@@ -94,8 +118,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "かのじょ 彼女 她、女朋友",
+    "sourceOrder": 7,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v008",
@@ -108,8 +136,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "かれ 彼 他、男朋友",
+    "sourceOrder": 8,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v009",
@@ -122,8 +154,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "きゅうこう 急行 快車",
+    "sourceOrder": 9,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v010",
@@ -136,8 +172,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "じてんしゃ 自転車 自行車、腳踏車",
+    "sourceOrder": 10,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v011",
@@ -150,8 +190,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "あるいて 歩いて 步行",
+    "sourceOrder": 11,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v012",
@@ -164,8 +208,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "しんかんせん 新幹線 新幹線",
+    "sourceOrder": 12,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v013",
@@ -177,8 +225,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "スーパー - 超級市場",
+    "sourceOrder": 13,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v014",
@@ -190,8 +242,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "タクシー - 計程車",
+    "sourceOrder": 14,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v015",
@@ -204,8 +260,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "たんじょうび 誕生日 生日",
+    "sourceOrder": 15,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v016",
@@ -218,8 +278,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ちかてつ 地下鉄 地下鐵",
+    "sourceOrder": 16,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v017",
@@ -232,8 +296,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "でんしゃ 電車 電車",
+    "sourceOrder": 17,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v018",
@@ -246,8 +314,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "とっきゅう 特急 特快車",
+    "sourceOrder": 18,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v019",
@@ -260,8 +332,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ともだち 友達 朋友",
+    "sourceOrder": 19,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v020",
@@ -274,8 +350,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "バス バス 公車、巴士",
+    "sourceOrder": 20,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v021",
@@ -288,8 +368,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ひこうき 飛行機 飛機",
+    "sourceOrder": 21,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v022",
@@ -302,8 +386,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ひと 人 人",
+    "sourceOrder": 22,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v023",
@@ -316,8 +404,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ひとりで 一人で 一個人、獨自",
+    "sourceOrder": 23,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v024",
@@ -330,8 +422,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ふつう 普通 普通車",
+    "sourceOrder": 24,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v025",
@@ -344,8 +440,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ふね 船 船",
+    "sourceOrder": 25,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v026",
@@ -358,8 +458,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "つぎの 次の 下一個、下一次、下一班",
+    "sourceOrder": 26,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v027",
@@ -372,8 +476,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "きょねん 去年 去年",
+    "sourceOrder": 27,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v028",
@@ -385,8 +493,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ことし - 今年",
+    "sourceOrder": 28,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v029",
@@ -399,8 +511,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "せんげつ 先月 上個月",
+    "sourceOrder": 29,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v030",
@@ -413,8 +529,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "こんげつ 今月 這個月",
+    "sourceOrder": 30,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v031",
@@ -427,8 +547,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "らいげつ 来月 下個月",
+    "sourceOrder": 31,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v032",
@@ -441,8 +565,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "せんしゅう 先週 上週、上星期",
+    "sourceOrder": 32,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v033",
@@ -455,8 +583,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "こんしゅう 今週 本週、這星期",
+    "sourceOrder": 33,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v034",
@@ -469,8 +601,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "らいしゅう 来週 下週、下星期",
+    "sourceOrder": 34,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v035",
@@ -483,8 +619,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "らいねん 来年 明年",
+    "sourceOrder": 35,
+    "section": "名詞"
   },
   {
     "id": "y1-l05-v036",
@@ -497,8 +637,12 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ついたち １日 1日、1號",
+    "sourceOrder": 36,
+    "section": "数量詞"
   },
   {
     "id": "y1-l05-v037",
@@ -511,8 +655,12 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ふつか ２日 2日、2號",
+    "sourceOrder": 37,
+    "section": "数量詞"
   },
   {
     "id": "y1-l05-v038",
@@ -525,8 +673,12 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "みっか ３日 3日、3號",
+    "sourceOrder": 38,
+    "section": "数量詞"
   },
   {
     "id": "y1-l05-v039",
@@ -539,8 +691,12 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "よっか ４日 4日、4號",
+    "sourceOrder": 39,
+    "section": "数量詞"
   },
   {
     "id": "y1-l05-v040",
@@ -553,8 +709,12 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "いつか ５日 5日、5號",
+    "sourceOrder": 40,
+    "section": "数量詞"
   },
   {
     "id": "y1-l05-v041",
@@ -567,8 +727,12 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "むいか ６日 6日、6號",
+    "sourceOrder": 41,
+    "section": "数量詞"
   },
   {
     "id": "y1-l05-v042",
@@ -581,8 +745,12 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "なのか ７日 7日、7號",
+    "sourceOrder": 42,
+    "section": "数量詞"
   },
   {
     "id": "y1-l05-v043",
@@ -595,8 +763,12 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ようか ８日 8日、8號",
+    "sourceOrder": 43,
+    "section": "数量詞"
   },
   {
     "id": "y1-l05-v044",
@@ -609,8 +781,12 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ここのか ９日 9日、9號",
+    "sourceOrder": 44,
+    "section": "数量詞"
   },
   {
     "id": "y1-l05-v045",
@@ -623,8 +799,12 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "とおか １０日 10日、10號",
+    "sourceOrder": 45,
+    "section": "数量詞"
   },
   {
     "id": "y1-l05-v046",
@@ -637,8 +817,12 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "じゅうよっか １４日 14日、14號",
+    "sourceOrder": 46,
+    "section": "数量詞"
   },
   {
     "id": "y1-l05-v047",
@@ -651,8 +835,12 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "はつか ２０日 20日、20號",
+    "sourceOrder": 47,
+    "section": "数量詞"
   },
   {
     "id": "y1-l05-v048",
@@ -665,8 +853,12 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "にじゅうよっか ２４日 24日、24號",
+    "sourceOrder": 48,
+    "section": "数量詞"
   },
   {
     "id": "y1-l05-v052",
@@ -679,8 +871,12 @@
     "category": "疑問詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "なんにち 何日 幾日、幾號",
+    "sourceOrder": 49,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l05-v053",
@@ -693,8 +889,12 @@
     "category": "疑問詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "なんがつ 何月 幾月",
+    "sourceOrder": 50,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l05-v054",
@@ -707,8 +907,12 @@
     "category": "疑問詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "なんねん 何年 哪一年/多少年",
+    "sourceOrder": 51,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l05-v055",
@@ -720,8 +924,12 @@
     "category": "疑問詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "いつ - 什麼時候",
+    "sourceOrder": 52,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l05-v049",
@@ -734,8 +942,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "～がつ ～月 ～月",
+    "sourceOrder": 53,
+    "section": "其他"
   },
   {
     "id": "y1-l05-v050",
@@ -748,8 +960,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "～にち ～日 ～日、～號",
+    "sourceOrder": 54,
+    "section": "其他"
   },
   {
     "id": "y1-l05-v051",
@@ -762,8 +978,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "～ねん ～年 ～年",
+    "sourceOrder": 55,
+    "section": "其他"
   },
   {
     "id": "y1-l05-v056",
@@ -776,8 +996,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "～ばんせん ～番線 第～月台",
+    "sourceOrder": 56,
+    "section": "其他"
   },
   {
     "id": "y1-l05-v057",
@@ -789,8 +1013,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "そうですね。 - 是啊。（表示同意）",
+    "sourceOrder": 57,
+    "section": "其他"
   },
   {
     "id": "y1-l05-v058",
@@ -802,8 +1030,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "ありがとう ございました。 - 謝謝您。",
+    "sourceOrder": 58,
+    "section": "其他"
   },
   {
     "id": "y1-l05-v059",
@@ -815,8 +1047,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "どう いたしまして。 - 不客氣。",
+    "sourceOrder": 59,
+    "section": "其他"
   },
   {
     "id": "y1-l05-v060",
@@ -828,7 +1064,11 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch5.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch5.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "[どうも」ありがとう ございました。 - （非常）謝謝您。",
+    "sourceOrder": 60,
+    "section": "其他"
   }
 ]
