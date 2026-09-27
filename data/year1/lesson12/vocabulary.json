@@ -9,10 +9,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "きせつ 季節 季節",
-    "kanji": "季節"
+    "kanji": "季節",
+    "sourceOrder": 1,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v002",
@@ -24,10 +27,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "はる 春 春",
-    "kanji": "春"
+    "kanji": "春",
+    "sourceOrder": 2,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v003",
@@ -39,10 +45,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "なつ 夏 夏",
-    "kanji": "夏"
+    "kanji": "夏",
+    "sourceOrder": 3,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v004",
@@ -54,10 +63,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "あき 秋 秋",
-    "kanji": "秋"
+    "kanji": "秋",
+    "sourceOrder": 4,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v005",
@@ -69,10 +81,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ふゆ 冬 冬",
-    "kanji": "冬"
+    "kanji": "冬",
+    "sourceOrder": 5,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v006",
@@ -84,10 +99,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "てんき 天気 天氣",
-    "kanji": "天気"
+    "kanji": "天気",
+    "sourceOrder": 6,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v007",
@@ -99,10 +117,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "あめ 雨 雨、下雨",
-    "kanji": "雨"
+    "kanji": "雨",
+    "sourceOrder": 7,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v008",
@@ -114,10 +135,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ゆき 雪 雪、下雪",
-    "kanji": "雪"
+    "kanji": "雪",
+    "sourceOrder": 8,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v009",
@@ -129,10 +153,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "くもり 曇り 陰天、多雲",
-    "kanji": "曇り"
+    "kanji": "曇り",
+    "sourceOrder": 9,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v010",
@@ -144,9 +171,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "ホテル - 飯店、旅館"
+    "sourceText": "ホテル - 飯店、旅館",
+    "sourceOrder": 10,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v011",
@@ -158,10 +188,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "くうこう 空港 機場",
-    "kanji": "空港"
+    "kanji": "空港",
+    "sourceOrder": 11,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v012",
@@ -173,10 +206,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "うみ 海 海",
-    "kanji": "海"
+    "kanji": "海",
+    "sourceOrder": 12,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v013",
@@ -188,10 +224,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "せかい 世界 世界",
-    "kanji": "世界"
+    "kanji": "世界",
+    "sourceOrder": 13,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v014",
@@ -203,9 +242,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "パーティー - 舞會、宴會(～をします﹕辦舞會)"
+    "sourceText": "パーティー - 舞會、宴會(～をします﹕辦舞會)",
+    "sourceOrder": 14,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v015",
@@ -217,10 +259,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "[お] まつり [お] 祭り 節慶、慶典",
-    "kanji": "[お] 祭り"
+    "kanji": "[お] 祭り",
+    "sourceOrder": 15,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v016",
@@ -232,10 +277,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ぎゅうにく 牛肉 牛肉",
-    "kanji": "牛肉"
+    "kanji": "牛肉",
+    "sourceOrder": 16,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v017",
@@ -247,10 +295,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "とりにく とり肉 雞肉",
-    "kanji": "とり肉"
+    "kanji": "とり肉",
+    "sourceOrder": 17,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v018",
@@ -262,10 +313,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ぶたにく 豚肉 豬肉",
-    "kanji": "豚肉"
+    "kanji": "豚肉",
+    "sourceOrder": 18,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v019",
@@ -277,10 +331,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "すきやき すき焼き 壽喜燒 (牛肉和蔬菜的火鍋)",
-    "kanji": "すき焼き"
+    "kanji": "すき焼き",
+    "sourceOrder": 19,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v020",
@@ -292,10 +349,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
     "sourceText": "さしみ 刺身 生魚片",
-    "kanji": "刺身"
+    "kanji": "刺身",
+    "sourceOrder": 20,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v021",
@@ -307,9 +367,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "[お] すし - 壽司"
+    "sourceText": "[お] すし - 壽司",
+    "sourceOrder": 21,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v022",
@@ -321,9 +384,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "レモン - 檸檬"
+    "sourceText": "レモン - 檸檬",
+    "sourceOrder": 22,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v023",
@@ -335,9 +401,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "てんぷら - 天麩羅"
+    "sourceText": "てんぷら - 天麩羅",
+    "sourceOrder": 23,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v024",
@@ -349,10 +418,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "いけばな 生け花 花道、插花 (～をします﹕插花)",
-    "kanji": "生け花"
+    "kanji": "生け花",
+    "sourceOrder": 24,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v025",
@@ -364,10 +436,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "もみじ 紅葉 紅葉 (秋天的各種變色葉)",
-    "kanji": "紅葉"
+    "kanji": "紅葉",
+    "sourceOrder": 25,
+    "section": "名詞"
   },
   {
     "id": "y1-l12-v026",
@@ -379,10 +454,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "ちかい 近い 近的",
-    "kanji": "近い"
+    "kanji": "近い",
+    "sourceOrder": 26,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l12-v027",
@@ -394,10 +472,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "とおい 遠い 遠的",
-    "kanji": "遠い"
+    "kanji": "遠い",
+    "sourceOrder": 27,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l12-v028",
@@ -409,10 +490,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "はやい 速い、早い 快的；早的",
-    "kanji": "速い、早い"
+    "kanji": "速い、早い",
+    "sourceOrder": 28,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l12-v029",
@@ -424,10 +508,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "おそい 遅い 遲的；晚的",
-    "kanji": "遅い"
+    "kanji": "遅い",
+    "sourceOrder": 29,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l12-v030",
@@ -439,10 +526,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "おおい [ひとが～] 多い [人が～] 多的、[人] 多的",
-    "kanji": "多い [人が～]"
+    "kanji": "多い [人が～]",
+    "sourceOrder": 30,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l12-v031",
@@ -454,10 +544,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "すくない [ひとが～] 少ない [人が～] 少的、[人] 少的",
-    "kanji": "少ない [人が～]"
+    "kanji": "少ない [人が～]",
+    "sourceOrder": 31,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l12-v032",
@@ -469,10 +562,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "あたたかい 暖かい 溫暖的、暖和的",
-    "kanji": "暖かい"
+    "kanji": "暖かい",
+    "sourceOrder": 32,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l12-v033",
@@ -484,10 +580,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "あたたかい 温かい 溫熱的",
-    "kanji": "温かい"
+    "kanji": "温かい",
+    "sourceOrder": 33,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l12-v034",
@@ -499,10 +598,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "すずしい 涼しい 涼快的、涼爽的",
-    "kanji": "涼しい"
+    "kanji": "涼しい",
+    "sourceOrder": 34,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l12-v035",
@@ -514,10 +616,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "あまい 甘い 甜的",
-    "kanji": "甘い"
+    "kanji": "甘い",
+    "sourceOrder": 35,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l12-v036",
@@ -529,10 +634,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "からい 辛い 辣的；鹹的",
-    "kanji": "辛い"
+    "kanji": "辛い",
+    "sourceOrder": 36,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l12-v037",
@@ -544,10 +652,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "おもい 重い 重的",
-    "kanji": "重い"
+    "kanji": "重い",
+    "sourceOrder": 37,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l12-v038",
@@ -559,10 +670,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "かるい 軽い 輕的",
-    "kanji": "軽い"
+    "kanji": "軽い",
+    "sourceOrder": 38,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l12-v039",
@@ -574,9 +688,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "いい [コーヒーが～] - 好的、好的 [咖啡]"
+    "sourceText": "いい [コーヒーが～] - 好的、好的 [咖啡]",
+    "sourceOrder": 39,
+    "section": "い形容詞"
   },
   {
     "id": "y1-l12-v040",
@@ -588,10 +705,13 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
     "sourceText": "かんたん [な] 簡単 [な] 簡單 [的]、單純 [的]",
-    "kanji": "簡単 [な]"
+    "kanji": "簡単 [な]",
+    "sourceOrder": 40,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l12-v041",
@@ -603,9 +723,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "ずっと - ～得多、～得很"
+    "sourceText": "ずっと - ～得多、～得很",
+    "sourceOrder": 41,
+    "section": "副詞"
   },
   {
     "id": "y1-l12-v042",
@@ -617,9 +740,12 @@
     "category": "疑問詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 3
     },
-    "sourceText": "どちら - 哪邊 (自二者選一)"
+    "sourceText": "どちら - 哪邊 (自二者選一)",
+    "sourceOrder": 42,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l12-v043",
@@ -631,9 +757,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 3
     },
-    "sourceText": "どちらも - 二者都"
+    "sourceText": "どちらも - 二者都",
+    "sourceOrder": 43,
+    "section": "其他"
   },
   {
     "id": "y1-l12-v044",
@@ -645,10 +774,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 3
     },
     "sourceText": "はじめて 初めて 第一次、初次",
-    "kanji": "初めて"
+    "kanji": "初めて",
+    "sourceOrder": 44,
+    "section": "其他"
   },
   {
     "id": "y1-l12-v045",
@@ -660,9 +792,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 3
     },
-    "sourceText": "いちばん - 最、第一"
+    "sourceText": "いちばん - 最、第一",
+    "sourceOrder": 45,
+    "section": "其他"
   },
   {
     "id": "y1-l12-v046",
@@ -674,9 +809,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 3
     },
-    "sourceText": "ただいま。 - 我回來了。"
+    "sourceText": "ただいま。 - 我回來了。",
+    "sourceOrder": 46,
+    "section": "其他"
   },
   {
     "id": "y1-l12-v047",
@@ -688,10 +826,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 3
     },
     "sourceText": "おかえりなさい。 お帰りなさい。 你回來啦。",
-    "kanji": "お帰りなさい。"
+    "kanji": "お帰りなさい。",
+    "sourceOrder": 47,
+    "section": "其他"
   },
   {
     "id": "y1-l12-v048",
@@ -703,10 +844,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 3
     },
     "sourceText": "わあ すごい ひとですね。 わあ すごい 人ですね。 哇，好多人啊！",
-    "kanji": "わあ すごい 人ですね。"
+    "kanji": "わあ すごい 人ですね。",
+    "sourceOrder": 48,
+    "section": "其他"
   },
   {
     "id": "y1-l12-v049",
@@ -718,9 +862,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch12.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch12.pdf.pdf",
+      "page": 3
     },
     "sourceText": "つかれました。 疲れました。 (我) 累了。",
-    "kanji": "疲れました。"
+    "kanji": "疲れました。",
+    "sourceOrder": 49,
+    "section": "其他"
   }
 ]
