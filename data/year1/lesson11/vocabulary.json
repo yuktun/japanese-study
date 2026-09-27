@@ -9,10 +9,13 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
     "sourceText": "います [こどもが～] います [子どもが～] 有 [小孩]",
-    "kanji": "います [子どもが～]"
+    "kanji": "います [子どもが～]",
+    "sourceOrder": 1,
+    "section": "動詞"
   },
   {
     "id": "y1-l11-v002",
@@ -24,10 +27,13 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
     "sourceText": "います [にほんに～] います [日本に～] 在 [日本]",
-    "kanji": "います [日本に～]"
+    "kanji": "います [日本に～]",
+    "sourceOrder": 2,
+    "section": "動詞"
   },
   {
     "id": "y1-l11-v003",
@@ -39,9 +45,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "かかります [お金／時間が～] - 花費 (金錢或時間)"
+    "sourceText": "かかります [お金／時間が～] - 花費 (金錢或時間)",
+    "sourceOrder": 3,
+    "section": "動詞"
   },
   {
     "id": "y1-l11-v004",
@@ -53,10 +62,13 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
     "sourceText": "やすみます [かいしゃを～] 休みます [会社を～] [向公司] 請假、缺勤",
-    "kanji": "休みます [会社を～]"
+    "kanji": "休みます [会社を～]",
+    "sourceOrder": 4,
+    "section": "動詞"
   },
   {
     "id": "y1-l11-v005",
@@ -68,10 +80,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ひとつ １つ 一個 (用於計算物品)",
-    "kanji": "１つ"
+    "kanji": "１つ",
+    "sourceOrder": 5,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v006",
@@ -83,10 +98,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ふたつ ２つ 二個",
-    "kanji": "２つ"
+    "kanji": "２つ",
+    "sourceOrder": 6,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v007",
@@ -98,10 +116,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
     "sourceText": "みっつ ３つ 三個",
-    "kanji": "３つ"
+    "kanji": "３つ",
+    "sourceOrder": 7,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v008",
@@ -113,10 +134,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
     "sourceText": "よっつ ４つ 四個",
-    "kanji": "４つ"
+    "kanji": "４つ",
+    "sourceOrder": 8,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v009",
@@ -128,10 +152,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
     "sourceText": "いつつ ５つ 五個",
-    "kanji": "５つ"
+    "kanji": "５つ",
+    "sourceOrder": 9,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v010",
@@ -143,10 +170,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
     "sourceText": "むっつ ６つ 六個",
-    "kanji": "６つ"
+    "kanji": "６つ",
+    "sourceOrder": 10,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v011",
@@ -158,10 +188,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ななつ ７つ 七個",
-    "kanji": "７つ"
+    "kanji": "７つ",
+    "sourceOrder": 11,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v012",
@@ -173,10 +206,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
     "sourceText": "やっつ ８つ 八個",
-    "kanji": "８つ"
+    "kanji": "８つ",
+    "sourceOrder": 12,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v013",
@@ -188,10 +224,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ここのつ ９つ 九個",
-    "kanji": "９つ"
+    "kanji": "９つ",
+    "sourceOrder": 13,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v014",
@@ -203,10 +242,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
     "sourceText": "とお １０ 十個",
-    "kanji": "１０"
+    "kanji": "１０",
+    "sourceOrder": 14,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v015",
@@ -218,10 +260,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ひとり １人 一個人",
-    "kanji": "１人"
+    "kanji": "１人",
+    "sourceOrder": 15,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v016",
@@ -233,10 +278,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ふたり ２人 二個人",
-    "kanji": "２人"
+    "kanji": "２人",
+    "sourceOrder": 16,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v017",
@@ -248,9 +296,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "りんご - 蘋果"
+    "sourceText": "りんご - 蘋果",
+    "sourceOrder": 17,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v018",
@@ -262,9 +313,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "みかん - 橘子"
+    "sourceText": "みかん - 橘子",
+    "sourceOrder": 18,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v019",
@@ -276,9 +330,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "サンドイッチ - 三明治"
+    "sourceText": "サンドイッチ - 三明治",
+    "sourceOrder": 19,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v020",
@@ -290,9 +347,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "カレー [ライス] - 咖哩 [飯]"
+    "sourceText": "カレー [ライス] - 咖哩 [飯]",
+    "sourceOrder": 20,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v021",
@@ -304,9 +364,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "アイスクリーム - 冰淇淋"
+    "sourceText": "アイスクリーム - 冰淇淋",
+    "sourceOrder": 21,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v022",
@@ -318,10 +381,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "きって 切手 郵票",
-    "kanji": "切手"
+    "kanji": "切手",
+    "sourceOrder": 22,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v023",
@@ -333,9 +399,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "はがき - 明信片"
+    "sourceText": "はがき - 明信片",
+    "sourceOrder": 23,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v024",
@@ -347,10 +416,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "ふうとう 封筒 信封",
-    "kanji": "封筒"
+    "kanji": "封筒",
+    "sourceOrder": 24,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v025",
@@ -362,9 +434,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "エアメール - 航空郵件、航空信"
+    "sourceText": "エアメール - 航空郵件、航空信",
+    "sourceOrder": 25,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v026",
@@ -376,10 +451,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "こうくうびん 航空便 航空郵件、航空信",
-    "kanji": "航空便"
+    "kanji": "航空便",
+    "sourceOrder": 26,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v027",
@@ -391,10 +469,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "ふなびん 船便 船運",
-    "kanji": "船便"
+    "kanji": "船便",
+    "sourceOrder": 27,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v028",
@@ -406,10 +487,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "りょうしん 両親 雙親",
-    "kanji": "両親"
+    "kanji": "両親",
+    "sourceOrder": 28,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v029",
@@ -421,10 +505,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "きょうだい 兄弟 兄弟姊妹",
-    "kanji": "兄弟"
+    "kanji": "兄弟",
+    "sourceOrder": 29,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v030",
@@ -436,10 +523,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "あに 兄 (我) 哥哥",
-    "kanji": "兄"
+    "kanji": "兄",
+    "sourceOrder": 30,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v031",
@@ -451,10 +541,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "おにいさん お兄さん (別人的) 哥哥",
-    "kanji": "お兄さん"
+    "kanji": "お兄さん",
+    "sourceOrder": 31,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v032",
@@ -466,10 +559,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "あね 姉 (我) 姊姊",
-    "kanji": "姉"
+    "kanji": "姉",
+    "sourceOrder": 32,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v033",
@@ -481,10 +577,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "おねえさん お姉さん (別人的) 姊姊",
-    "kanji": "お姉さん"
+    "kanji": "お姉さん",
+    "sourceOrder": 33,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v034",
@@ -496,10 +595,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "おとうと 弟 (我)弟弟",
-    "kanji": "弟"
+    "kanji": "弟",
+    "sourceOrder": 34,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v035",
@@ -511,10 +613,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "おとうとさん 弟さん (別人的) 弟弟",
-    "kanji": "弟さん"
+    "kanji": "弟さん",
+    "sourceOrder": 35,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v036",
@@ -526,10 +631,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "いもうと 妹 (我) 妹妹",
-    "kanji": "妹"
+    "kanji": "妹",
+    "sourceOrder": 36,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v037",
@@ -541,10 +649,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "いもうとさん 妹さん (別人的) 妹妹",
-    "kanji": "妹さん"
+    "kanji": "妹さん",
+    "sourceOrder": 37,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v038",
@@ -556,10 +667,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "がいこく 外国 外國",
-    "kanji": "外国"
+    "kanji": "外国",
+    "sourceOrder": 38,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v039",
@@ -571,10 +685,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "りゅうがくせい 留学生 留學生",
-    "kanji": "留学生"
+    "kanji": "留学生",
+    "sourceOrder": 39,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v040",
@@ -586,9 +703,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "クラス - 班"
+    "sourceText": "クラス - 班",
+    "sourceOrder": 40,
+    "section": "名詞"
   },
   {
     "id": "y1-l11-v041",
@@ -600,10 +720,13 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "～にん ～人 ～個人",
-    "kanji": "～人"
+    "kanji": "～人",
+    "sourceOrder": 41,
+    "section": "数量詞"
   },
   {
     "id": "y1-l11-v042",
@@ -615,10 +738,13 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 2
     },
     "sourceText": "～だい ～台 (用於計算機械、車輛等機械 類時)",
-    "kanji": "～台"
+    "kanji": "～台",
+    "sourceOrder": 42,
+    "section": "数量詞"
   },
   {
     "id": "y1-l11-v043",
@@ -630,10 +756,13 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
     "sourceText": "～まい ～枚 (用於計算紙張、郵票等薄的 物品時)",
-    "kanji": "～枚"
+    "kanji": "～枚",
+    "sourceOrder": 43,
+    "section": "数量詞"
   },
   {
     "id": "y1-l11-v044",
@@ -645,10 +774,13 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
     "sourceText": "～かい ～回 ～次",
-    "kanji": "～回"
+    "kanji": "～回",
+    "sourceOrder": 44,
+    "section": "数量詞"
   },
   {
     "id": "y1-l11-v045",
@@ -660,10 +792,13 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
     "sourceText": "～ねん ～年 ～年",
-    "kanji": "～年"
+    "kanji": "～年",
+    "sourceOrder": 45,
+    "section": "数量詞"
   },
   {
     "id": "y1-l11-v046",
@@ -675,10 +810,13 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
     "sourceText": "～かげつ ～か月 ～個月",
-    "kanji": "～か月"
+    "kanji": "～か月",
+    "sourceOrder": 46,
+    "section": "数量詞"
   },
   {
     "id": "y1-l11-v047",
@@ -690,10 +828,13 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
     "sourceText": "～しゅうかん ～週間 ～星期",
-    "kanji": "～週間"
+    "kanji": "～週間",
+    "sourceOrder": 47,
+    "section": "数量詞"
   },
   {
     "id": "y1-l11-v048",
@@ -705,10 +846,13 @@
     "category": "数量詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
     "sourceText": "～じかん ～時間 ～小時",
-    "kanji": "～時間"
+    "kanji": "～時間",
+    "sourceOrder": 48,
+    "section": "数量詞"
   },
   {
     "id": "y1-l11-v049",
@@ -720,9 +864,12 @@
     "category": "疑問詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
-    "sourceText": "いくつ - 幾個"
+    "sourceText": "いくつ - 幾個",
+    "sourceOrder": 49,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l11-v050",
@@ -734,9 +881,12 @@
     "category": "疑問詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
-    "sourceText": "どのぐらい - 多久"
+    "sourceText": "どのぐらい - 多久",
+    "sourceOrder": 50,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l11-v051",
@@ -748,10 +898,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
     "sourceText": "ぜんぶで 全部で 一共",
-    "kanji": "全部で"
+    "kanji": "全部で",
+    "sourceOrder": 51,
+    "section": "其他"
   },
   {
     "id": "y1-l11-v052",
@@ -763,9 +916,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
-    "sourceText": "みんな - 全部、全體"
+    "sourceText": "みんな - 全部、全體",
+    "sourceOrder": 52,
+    "section": "其他"
   },
   {
     "id": "y1-l11-v053",
@@ -777,9 +933,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
-    "sourceText": "～ぐらい - ～左右"
+    "sourceText": "～ぐらい - ～左右",
+    "sourceOrder": 53,
+    "section": "其他"
   },
   {
     "id": "y1-l11-v054",
@@ -791,9 +950,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
-    "sourceText": "～だけ - 只～，僅～"
+    "sourceText": "～だけ - 只～，僅～",
+    "sourceOrder": 54,
+    "section": "其他"
   },
   {
     "id": "y1-l11-v055",
@@ -805,10 +967,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
     "sourceText": "いい [お] てんきですね。 いい [お] 天気ですね。 真是好天氣呀。",
-    "kanji": "いい [お] 天気ですね。"
+    "kanji": "いい [お] 天気ですね。",
+    "sourceOrder": 55,
+    "section": "其他"
   },
   {
     "id": "y1-l11-v056",
@@ -820,10 +985,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
     "sourceText": "おでかけですか。 お出かけですか。 您外出呀。",
-    "kanji": "お出かけですか。"
+    "kanji": "お出かけですか。",
+    "sourceOrder": 56,
+    "section": "其他"
   },
   {
     "id": "y1-l11-v057",
@@ -835,10 +1003,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
     "sourceText": "ちょっと [ゆうびんきょく] まで。 ちょっと [郵便局] まで。 我去一下(郵局)。",
-    "kanji": "ちょっと [郵便局] まで。"
+    "kanji": "ちょっと [郵便局] まで。",
+    "sourceOrder": 57,
+    "section": "其他"
   },
   {
     "id": "y1-l11-v058",
@@ -850,10 +1021,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
     "sourceText": "いってらっしゃい。 行ってらっしゃい。 你慢走。 (會再回來)",
-    "kanji": "行ってらっしゃい。"
+    "kanji": "行ってらっしゃい。",
+    "sourceOrder": 58,
+    "section": "其他"
   },
   {
     "id": "y1-l11-v059",
@@ -865,10 +1039,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
     "sourceText": "いって きます。 行って きます。 我走了。 (會再回來)",
-    "kanji": "行って きます。"
+    "kanji": "行って きます。",
+    "sourceOrder": 59,
+    "section": "其他"
   },
   {
     "id": "y1-l11-v060",
@@ -880,10 +1057,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
     "sourceText": "おねがいします。 お願いします。 拜托了。 (請對方幫忙)",
-    "kanji": "お願いします。"
+    "kanji": "お願いします。",
+    "sourceOrder": 60,
+    "section": "其他"
   },
   {
     "id": "y1-l11-v061",
@@ -895,8 +1075,11 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch11.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch11.pdf.pdf",
+      "page": 3
     },
-    "sourceText": "かしこまりました。 - 知道了。 (表示恭謹地接受命令或吩咐 )"
+    "sourceText": "かしこまりました。 - 知道了。 (表示恭謹地接受命令或吩咐 )",
+    "sourceOrder": 61,
+    "section": "其他"
   }
 ]
