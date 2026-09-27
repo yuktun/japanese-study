@@ -9,8 +9,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "あります - 有，在 (表示物件・植物的存在)",
+    "sourceOrder": 1,
+    "section": "動詞"
   },
   {
     "id": "y1-l10-v002",
@@ -22,8 +26,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "います - 有，在 (表示人・動物的存在)",
+    "sourceOrder": 2,
+    "section": "動詞"
   },
   {
     "id": "y1-l10-v003",
@@ -36,8 +44,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "おとこの ひと 男の 人 男子",
+    "sourceOrder": 3,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v004",
@@ -50,8 +62,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "おんなの ひと 女の 人 女子",
+    "sourceOrder": 4,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v005",
@@ -64,8 +80,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "おとこの こ 男の 子 男孩",
+    "sourceOrder": 5,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v006",
@@ -78,8 +98,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "おんなの こ 女の 子 女孩",
+    "sourceOrder": 6,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v007",
@@ -92,8 +116,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "いぬ 犬 狗",
+    "sourceOrder": 7,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v008",
@@ -106,8 +134,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ねこ 猫 貓",
+    "sourceOrder": 8,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v009",
@@ -119,8 +151,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "パンダ - 熊貓",
+    "sourceOrder": 9,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v010",
@@ -133,8 +169,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ぞう 象 大象",
+    "sourceOrder": 10,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v011",
@@ -147,8 +187,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "き 木 樹、木頭",
+    "sourceOrder": 11,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v012",
@@ -161,8 +205,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "もの 物 物品、東西",
+    "sourceOrder": 12,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v013",
@@ -175,8 +223,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "でんち 電池 電池",
+    "sourceOrder": 13,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v014",
@@ -189,8 +241,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "はこ 箱 盒子",
+    "sourceOrder": 14,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v015",
@@ -202,8 +258,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "スイッチ - 開關",
+    "sourceOrder": 15,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v016",
@@ -216,8 +276,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "れいぞうこ 冷蔵庫 冰箱",
+    "sourceOrder": 16,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v017",
@@ -229,8 +293,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ナンプラー - 魚醬",
+    "sourceOrder": 17,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v018",
@@ -242,8 +310,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "テーブル - 餐桌",
+    "sourceOrder": 18,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v019",
@@ -255,8 +327,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ベッド - 床",
+    "sourceOrder": 19,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v020",
@@ -269,8 +345,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "たな 棚 架子",
+    "sourceOrder": 20,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v021",
@@ -282,8 +362,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "コーナー - 櫃檯、（超市的）貨架",
+    "sourceOrder": 21,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v022",
@@ -295,8 +379,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ドア - 門",
+    "sourceOrder": 22,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v023",
@@ -309,8 +397,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "まど 窓 窗戶",
+    "sourceOrder": 23,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v024",
@@ -322,8 +414,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ポスト - 郵筒、信箱",
+    "sourceOrder": 24,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v025",
@@ -335,8 +431,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ビル - 大廈、大樓",
+    "sourceOrder": 25,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v026",
@@ -349,8 +449,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "エーティーエム ATM 自動櫃員機",
+    "sourceOrder": 26,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v027",
@@ -362,8 +466,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "コンビニ - 便利店",
+    "sourceOrder": 27,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v028",
@@ -376,8 +484,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "こうえん 公園 公園",
+    "sourceOrder": 28,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v029",
@@ -390,8 +502,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "きっさてん 喫茶店 咖啡館",
+    "sourceOrder": 29,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v030",
@@ -404,8 +520,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "～や ～屋 ～店",
+    "sourceOrder": 30,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v031",
@@ -418,8 +538,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "のりば 乗り場 搭乘火車、計程車等交通工具的場所",
+    "sourceOrder": 31,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v032",
@@ -432,8 +556,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "けん 県 縣",
+    "sourceOrder": 32,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v033",
@@ -446,8 +574,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "うえ 上 上、上面",
+    "sourceOrder": 33,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v034",
@@ -460,8 +592,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "した 下 下、下面",
+    "sourceOrder": 34,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v035",
@@ -474,8 +610,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "まえ 前 前、前面",
+    "sourceOrder": 35,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v036",
@@ -487,8 +627,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "うしろ - 後、後面",
+    "sourceOrder": 36,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v037",
@@ -501,8 +645,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "みぎ 右 右 (邊)",
+    "sourceOrder": 37,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v038",
@@ -515,8 +663,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ひだり 左 左 (邊)",
+    "sourceOrder": 38,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v039",
@@ -529,8 +681,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "なか 中 裡面",
+    "sourceOrder": 39,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v040",
@@ -543,8 +699,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "そと 外 外面",
+    "sourceOrder": 40,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v041",
@@ -557,8 +717,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "となり 隣 隔壁、旁邊",
+    "sourceOrder": 41,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v042",
@@ -571,8 +735,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ちかく 近く 附近",
+    "sourceOrder": 42,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v043",
@@ -585,8 +753,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "あいだ 間 之間、中間",
+    "sourceOrder": 43,
+    "section": "名詞"
   },
   {
     "id": "y1-l10-v044",
@@ -598,8 +770,12 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "いろいろ [な] - 各式各樣 [的]",
+    "sourceOrder": 44,
+    "section": "な形容詞"
   },
   {
     "id": "y1-l10-v045",
@@ -611,8 +787,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "～や ～ [など] - ～啦 ～ [等]",
+    "sourceOrder": 45,
+    "section": "其他"
   },
   {
     "id": "y1-l10-v046",
@@ -624,8 +804,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "[どうも] すみません。 - 謝謝。",
+    "sourceOrder": 46,
+    "section": "其他"
   },
   {
     "id": "y1-l10-v047",
@@ -638,7 +822,11 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch10.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch10.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "いちばん した いちばん 下 最下面、最低",
+    "sourceOrder": 47,
+    "section": "其他"
   }
 ]
