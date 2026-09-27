@@ -4,195 +4,242 @@
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 39,
-    "kana": "こたえます [しつもんに～] |ます| / こたえる[しつもんに～] |辞|",
-    "meaningZh": "Ⅱ 自／他 答、回答（問題）",
+    "kana": "こたえる[しつもんに～]",
+    "meaningZh": "答、回答（問題）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 1
     },
     "sourceText": "こたえます [しつもんに～] |ます| / こたえる[しつもんに～] |辞| / 答えます [質問に～] / 答える[質問に～] / Ⅱ 自／他 答、回答（問題）",
-    "kanji": "答えます [質問に～] / 答える[質問に～]"
+    "kanji": "答える[質問に～]",
+    "sourceOrder": 1,
+    "section": "動詞",
+    "notes": "Ⅱ 自／他; ます形: こたえます [しつもんに～] / 答えます [質問に～]"
   },
   {
     "id": "y2-l39-v002",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 39,
-    "kana": "たおれます [ビルが～] |ます| / たおれる[ビルが～] |辞|",
-    "meaningZh": "Ⅱ 自 [大廈] 倒塌",
+    "kana": "たおれる[ビルが～]",
+    "meaningZh": "[大廈] 倒塌",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 1
     },
     "sourceText": "たおれます [ビルが～] |ます| / たおれる[ビルが～] |辞| / 倒れます [ビルが～] / 倒れる[ビルが～] / Ⅱ 自 [大廈] 倒塌",
-    "kanji": "倒れます [ビルが～] / 倒れる[ビルが～]"
+    "kanji": "倒れる[ビルが～]",
+    "sourceOrder": 2,
+    "section": "動詞",
+    "notes": "Ⅱ 自; ます形: たおれます [ビルが～] / 倒れます [ビルが～]"
   },
   {
     "id": "y2-l39-v003",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 39,
-    "kana": "とおります [みちを～] |ます| / とおる[みちを～] |辞|",
-    "meaningZh": "Ⅰ 自 過[路] 、通過",
+    "kana": "とおる[みちを～]",
+    "meaningZh": "過[路] 、通過",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 1
     },
     "sourceText": "とおります [みちを～] |ます| / とおる[みちを～] |辞| / 通ります [道を～] / 通る[道を～] / Ⅰ 自 過[路] 、通過",
-    "kanji": "通ります [道を～] / 通る[道を～]"
+    "kanji": "通る[道を～]",
+    "sourceOrder": 3,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: とおります [みちを～] / 通ります [道を～]"
   },
   {
     "id": "y2-l39-v004",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 39,
-    "kana": "しにます |ます| / しぬ |辞|",
-    "meaningZh": "Ⅰ 自 死",
+    "kana": "しぬ",
+    "meaningZh": "死",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 1
     },
     "sourceText": "しにます |ます| / しぬ |辞| / 死にます / 死ぬ / Ⅰ 自 死",
-    "kanji": "死にます / 死ぬ"
+    "kanji": "死ぬ",
+    "sourceOrder": 4,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: しにます / 死にます"
   },
   {
     "id": "y2-l39-v005",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 39,
-    "kana": "びっくりします |ます| / びっくりする |辞|",
-    "meaningZh": "Ⅲ 自 吃驚",
+    "kana": "びっくりする",
+    "meaningZh": "吃驚",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 1
     },
     "sourceText": "びっくりします |ます| / びっくりする |辞| / - / Ⅲ 自 吃驚",
-    "kanji": "-"
+    "sourceOrder": 5,
+    "section": "動詞",
+    "notes": "Ⅲ 自; ます形: びっくりします"
   },
   {
     "id": "y2-l39-v006",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 39,
-    "kana": "がっかりします |ます| / がっかりする |辞|",
-    "meaningZh": "Ⅲ 自 失望、沮喪",
+    "kana": "がっかりする",
+    "meaningZh": "失望、沮喪",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 1
     },
     "sourceText": "がっかりします |ます| / がっかりする |辞| / - / Ⅲ 自 失望、沮喪",
-    "kanji": "-"
+    "sourceOrder": 6,
+    "section": "動詞",
+    "notes": "Ⅲ 自; ます形: がっかりします"
   },
   {
     "id": "y2-l39-v007",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 39,
-    "kana": "あんしんします |ます| / あんしんする |辞|",
-    "meaningZh": "Ⅲ 自 安心、放心",
+    "kana": "あんしんする",
+    "meaningZh": "安心、放心",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 1
     },
     "sourceText": "あんしんします |ます| / あんしんする |辞| / 安心します / 安心する / Ⅲ 自 安心、放心",
-    "kanji": "安心します / 安心する"
+    "kanji": "安心する",
+    "sourceOrder": 7,
+    "section": "動詞",
+    "notes": "Ⅲ 自; ます形: あんしんします / 安心します"
   },
   {
     "id": "y2-l39-v008",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 39,
-    "kana": "けんかします |ます| / けんかする |辞|",
-    "meaningZh": "Ⅲ 自 吵架、打架",
+    "kana": "けんかする",
+    "meaningZh": "吵架、打架",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 1
     },
     "sourceText": "けんかします |ます| / けんかする |辞| / - / Ⅲ 自 吵架、打架",
-    "kanji": "-"
+    "sourceOrder": 8,
+    "section": "動詞",
+    "notes": "Ⅲ 自; ます形: けんかします"
   },
   {
     "id": "y2-l39-v009",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 39,
-    "kana": "りこんします |ます| / りこんする |辞|",
-    "meaningZh": "Ⅲ 自 離婚",
+    "kana": "りこんする",
+    "meaningZh": "離婚",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 1
     },
     "sourceText": "りこんします |ます| / りこんする |辞| / 離婚します / 離婚する / Ⅲ 自 離婚",
-    "kanji": "離婚します / 離婚する"
+    "kanji": "離婚する",
+    "sourceOrder": 9,
+    "section": "動詞",
+    "notes": "Ⅲ 自; ます形: りこんします / 離婚します"
   },
   {
     "id": "y2-l39-v010",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 39,
-    "kana": "ふとります |ます| / ふとる |辞|",
-    "meaningZh": "Ⅰ 自 胖、變胖",
+    "kana": "ふとる",
+    "meaningZh": "胖、變胖",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ふとります |ます| / ふとる |辞| / 太ります / 太る / Ⅰ 自 胖、變胖",
-    "kanji": "太ります / 太る"
+    "kanji": "太る",
+    "sourceOrder": 10,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: ふとります / 太ります"
   },
   {
     "id": "y2-l39-v011",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 39,
-    "kana": "やせます |ます| / やせる |辞|",
-    "meaningZh": "Ⅱ 自 瘦、變瘦",
+    "kana": "やせる",
+    "meaningZh": "瘦、變瘦",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 1
     },
     "sourceText": "やせます |ます| / やせる |辞| / - / Ⅱ 自 瘦、變瘦",
-    "kanji": "-"
+    "sourceOrder": 11,
+    "section": "動詞",
+    "notes": "Ⅱ 自; ます形: やせます"
   },
   {
     "id": "y2-l39-v012",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 39,
-    "kana": "ぶつかります |ます| / ぶつかる |辞|",
-    "meaningZh": "Ⅰ 自 撞、碰撞",
+    "kana": "ぶつかる",
+    "meaningZh": "撞、碰撞",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ぶつかります |ます| / ぶつかる |辞| / - / Ⅰ 自 撞、碰撞",
-    "kanji": "-"
+    "sourceOrder": 12,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: ぶつかります"
   },
   {
     "id": "y2-l39-v013",
     "schoolYear": 2,
     "book": "初級 II",
     "lesson": 39,
-    "kana": "うかがいます |ます| / うかがう |辞|",
-    "meaningZh": "Ⅰ 自 去拜訪。（「いきます」的謙遜語）",
+    "kana": "うかがう",
+    "meaningZh": "去拜訪。（「いきます」的謙遜語）",
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 1
     },
     "sourceText": "うかがいます |ます| / うかがう |辞| / 伺います / 伺う / Ⅰ 自 去拜訪。（「いきます」的謙遜語）",
-    "kanji": "伺います / 伺う"
+    "kanji": "伺う",
+    "sourceOrder": 13,
+    "section": "動詞",
+    "notes": "Ⅰ 自; ます形: うかがいます / 伺います"
   },
   {
     "id": "y2-l39-v014",
@@ -204,10 +251,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "しゅしょう / 首相 / 首相",
-    "kanji": "首相"
+    "kanji": "首相",
+    "sourceOrder": 14,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v015",
@@ -219,10 +269,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "じしん / 地震 / 地震",
-    "kanji": "地震"
+    "kanji": "地震",
+    "sourceOrder": 15,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v016",
@@ -234,10 +287,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "つなみ / 津波 / 海嘯",
-    "kanji": "津波"
+    "kanji": "津波",
+    "sourceOrder": 16,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v017",
@@ -249,10 +305,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "たいふう / 台風 / 颱風",
-    "kanji": "台風"
+    "kanji": "台風",
+    "sourceOrder": 17,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v018",
@@ -264,10 +323,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "かみなり / 雷 / 雷",
-    "kanji": "雷"
+    "kanji": "雷",
+    "sourceOrder": 18,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v019",
@@ -279,10 +341,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "かじ / 火事 / 火災",
-    "kanji": "火事"
+    "kanji": "火事",
+    "sourceOrder": 19,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v020",
@@ -294,10 +359,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "じこ / 事故 / 事故",
-    "kanji": "事故"
+    "kanji": "事故",
+    "sourceOrder": 20,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v021",
@@ -309,10 +377,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "トラック / - / 卡車",
-    "kanji": "-"
+    "sourceOrder": 21,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v022",
@@ -324,10 +394,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "ハイキング / - / 遠足",
-    "kanji": "-"
+    "sourceOrder": 22,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v023",
@@ -339,10 +411,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "[お] みあい / [お] 見合い / 相親",
-    "kanji": "[お] 見合い"
+    "kanji": "[お] 見合い",
+    "sourceOrder": 23,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v024",
@@ -354,10 +429,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "そうさ / 操作 / 操作（～をします：操作）",
-    "kanji": "操作"
+    "kanji": "操作",
+    "sourceOrder": 24,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v025",
@@ -369,10 +447,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "かいじょう / 会場 / 會場",
-    "kanji": "会場"
+    "kanji": "会場",
+    "sourceOrder": 25,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v026",
@@ -384,10 +465,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "～だい / ～代 / ～費",
-    "kanji": "～代"
+    "kanji": "～代",
+    "sourceOrder": 26,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v027",
@@ -399,10 +483,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "～や / ～屋 / ～店",
-    "kanji": "～屋"
+    "kanji": "～屋",
+    "sourceOrder": 27,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v028",
@@ -414,10 +501,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "フロント / - / 前臺",
-    "kanji": "-"
+    "sourceOrder": 28,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v029",
@@ -429,10 +518,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "－ごうしつ / －号室 / 一號房間",
-    "kanji": "－号室"
+    "kanji": "－号室",
+    "sourceOrder": 29,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v030",
@@ -444,10 +536,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "タオル / - / 毛巾",
-    "kanji": "-"
+    "sourceOrder": 30,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v031",
@@ -459,10 +553,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "せっけん / - / 肥皂",
-    "kanji": "-"
+    "sourceOrder": 31,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v032",
@@ -474,10 +570,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "とちゅうで / 途中で / 中途、半路上",
-    "kanji": "途中で"
+    "kanji": "途中で",
+    "sourceOrder": 32,
+    "section": "名詞"
   },
   {
     "id": "y2-l39-v033",
@@ -489,10 +588,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "かたい / 硬い / 硬的、堅硬",
-    "kanji": "硬い"
+    "kanji": "硬い",
+    "sourceOrder": 33,
+    "section": "い形容詞"
   },
   {
     "id": "y2-l39-v034",
@@ -504,10 +606,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "やわらかい / 軟らかい / 軟的、柔軟",
-    "kanji": "軟らかい"
+    "kanji": "軟らかい",
+    "sourceOrder": 34,
+    "section": "い形容詞"
   },
   {
     "id": "y2-l39-v035",
@@ -519,10 +624,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "きたない / 汚い / 髒的、骯髒",
-    "kanji": "汚い"
+    "kanji": "汚い",
+    "sourceOrder": 35,
+    "section": "い形容詞"
   },
   {
     "id": "y2-l39-v036",
@@ -534,10 +642,12 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 2
     },
     "sourceText": "うれしい / - / 高興",
-    "kanji": "-"
+    "sourceOrder": 36,
+    "section": "い形容詞"
   },
   {
     "id": "y2-l39-v037",
@@ -549,10 +659,13 @@
     "category": "い形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 3
     },
     "sourceText": "はずかしい / 恥ずかしい / 害羞、不好意思",
-    "kanji": "恥ずかしい"
+    "kanji": "恥ずかしい",
+    "sourceOrder": 37,
+    "section": "い形容詞"
   },
   {
     "id": "y2-l39-v038",
@@ -564,10 +677,13 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 3
     },
     "sourceText": "ふくざつ [な] / 複雑 [な] / 複雜",
-    "kanji": "複雑 [な]"
+    "kanji": "複雑 [な]",
+    "sourceOrder": 38,
+    "section": "な形容詞"
   },
   {
     "id": "y2-l39-v039",
@@ -579,10 +695,13 @@
     "category": "な形容詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 3
     },
     "sourceText": "じゃま [な] / 邪魔 [な] / 礙事",
-    "kanji": "邪魔 [な]"
+    "kanji": "邪魔 [な]",
+    "sourceOrder": 39,
+    "section": "な形容詞"
   },
   {
     "id": "y2-l39-v040",
@@ -594,10 +713,13 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 3
     },
     "sourceText": "おおぜい / 大勢 / 很多（人）",
-    "kanji": "大勢"
+    "kanji": "大勢",
+    "sourceOrder": 40,
+    "section": "副詞"
   },
   {
     "id": "y2-l39-v041",
@@ -609,10 +731,13 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 3
     },
     "sourceText": "おつかれさまでした / お疲れさまでした / 辛苦了。（用於慰勞同事或下屬時）",
-    "kanji": "お疲れさまでした"
+    "kanji": "お疲れさまでした",
+    "sourceOrder": 41,
+    "section": "其他"
   },
   {
     "id": "y2-l39-v042",
@@ -624,10 +749,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 3
     },
     "sourceText": "おとな / 大人 / 大人、成年人",
-    "kanji": "大人"
+    "kanji": "大人",
+    "sourceOrder": 42,
+    "section": "読み物"
   },
   {
     "id": "y2-l39-v043",
@@ -639,10 +767,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 3
     },
     "sourceText": "ようふく / 洋服 / 西式服裝",
-    "kanji": "洋服"
+    "kanji": "洋服",
+    "sourceOrder": 43,
+    "section": "読み物"
   },
   {
     "id": "y2-l39-v044",
@@ -654,10 +785,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 3
     },
     "sourceText": "せいようかします / 西洋化します / 西化",
-    "kanji": "西洋化します"
+    "kanji": "西洋化します",
+    "sourceOrder": 44,
+    "section": "読み物"
   },
   {
     "id": "y2-l39-v045",
@@ -669,10 +803,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 3
     },
     "sourceText": "あいます / 合います / 合適、適合",
-    "kanji": "合います"
+    "kanji": "合います",
+    "sourceOrder": 45,
+    "section": "読み物"
   },
   {
     "id": "y2-l39-v046",
@@ -684,10 +821,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 3
     },
     "sourceText": "いまでは / 今では / 現在",
-    "kanji": "今では"
+    "kanji": "今では",
+    "sourceOrder": 46,
+    "section": "読み物"
   },
   {
     "id": "y2-l39-v047",
@@ -699,10 +839,13 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 3
     },
     "sourceText": "せいじんしき / 成人式 / 成人儀式",
-    "kanji": "成人式"
+    "kanji": "成人式",
+    "sourceOrder": 47,
+    "section": "読み物"
   },
   {
     "id": "y2-l39-v048",
@@ -714,9 +857,12 @@
     "category": "読み物",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch39.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch39.pdf.pdf",
+      "page": 3
     },
     "sourceText": "でんとうてき [な] / 伝統的 [な] / 傳統的",
-    "kanji": "伝統的 [な]"
+    "kanji": "伝統的 [な]",
+    "sourceOrder": 48,
+    "section": "読み物"
   }
 ]
