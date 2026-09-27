@@ -1,37 +1,638 @@
 [
-  {"id":"y1-l17-v001","schoolYear":1,"book":"初級 I","lesson":17,"kana":"おぼえます","kanji":"覚えます","meaningZh":"記、記住","category":"動詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"おぼえます 覚えます Ⅱ 記、記住"},
-  {"id":"y1-l17-v002","schoolYear":1,"book":"初級 I","lesson":17,"kana":"わすれます","kanji":"忘れます","meaningZh":"忘記","category":"動詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"わすれます 忘れます Ⅱ 忘記"},
-  {"id":"y1-l17-v003","schoolYear":1,"book":"初級 I","lesson":17,"kana":"なくします","meaningZh":"遺失、丟失","category":"動詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"なくします - Ⅰ 遺失、丟失"},
-  {"id":"y1-l17-v004","schoolYear":1,"book":"初級 I","lesson":17,"kana":"はらいます","kanji":"払います","meaningZh":"支付、付款","category":"動詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"はらいます 払います Ⅰ 支付、付款"},
-  {"id":"y1-l17-v005","schoolYear":1,"book":"初級 I","lesson":17,"kana":"かえします","kanji":"返します","meaningZh":"歸還","category":"動詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"かえします 返します Ⅰ 歸還"},
-  {"id":"y1-l17-v006","schoolYear":1,"book":"初級 I","lesson":17,"kana":"でかけます","kanji":"出かけます","meaningZh":"出門、外出","category":"動詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"でかけます 出かけます Ⅱ 出門、外出"},
-  {"id":"y1-l17-v007","schoolYear":1,"book":"初級 I","lesson":17,"kana":"ぬぎます","kanji":"脱ぎます","meaningZh":"脫 (衣服、鞋等)","category":"動詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"ぬぎます 脱ぎます Ⅰ 脫 (衣服、鞋等)"},
-  {"id":"y1-l17-v008","schoolYear":1,"book":"初級 I","lesson":17,"kana":"もって いきます","kanji":"持って 行きます","meaningZh":"帶 (某物) 去","category":"動詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"もって いきます 持って 行きます Ⅰ 帶 (某物) 去"},
-  {"id":"y1-l17-v009","schoolYear":1,"book":"初級 I","lesson":17,"kana":"もって きます","kanji":"持って 来ます","meaningZh":"帶 (某物) 來","category":"動詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"もって きます 持って 来ます Ⅲ 帶 (某物) 來"},
-  {"id":"y1-l17-v010","schoolYear":1,"book":"初級 I","lesson":17,"kana":"しんぱいします","kanji":"心配します","meaningZh":"擔心","category":"動詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"しんぱいします 心配します Ⅲ 擔心"},
-  {"id":"y1-l17-v011","schoolYear":1,"book":"初級 I","lesson":17,"kana":"ざんぎょうします","kanji":"残業します","meaningZh":"（平日下班后留下來）加班","category":"動詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"ざんぎょうします 残業します Ⅲ （平日下班后留下來）加班"},
-  {"id":"y1-l17-v012","schoolYear":1,"book":"初級 I","lesson":17,"kana":"しゅっちょうします","kanji":"出張します","meaningZh":"出差","category":"動詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"しゅっちょうします 出張します Ⅲ 出差"},
-  {"id":"y1-l17-v013","schoolYear":1,"book":"初級 I","lesson":17,"kana":"のみます [くすりを～]","kanji":"飲みます [薬を～]","meaningZh":"吃 [藥]、服 [藥]","category":"動詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"のみます [くすりを～] 飲みます [薬を～] Ⅰ 吃 [藥]、服 [藥]"},
-  {"id":"y1-l17-v014","schoolYear":1,"book":"初級 I","lesson":17,"kana":"はいります [おふろに～]","kanji":"入ります [おふろに～]","meaningZh":"洗澡（浸浴）","category":"動詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"はいります [おふろに～] 入ります [おふろに～] Ⅰ 洗澡（浸浴）"},
-  {"id":"y1-l17-v015","schoolYear":1,"book":"初級 I","lesson":17,"kana":"きんえん","kanji":"禁煙","meaningZh":"禁菸","category":"名詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"きんえん 禁煙 禁菸"},
-  {"id":"y1-l17-v016","schoolYear":1,"book":"初級 I","lesson":17,"kana":"[けんこう] ほけんしょう","kanji":"[健康] 保険証","meaningZh":"醫保卡","category":"名詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"[けんこう] ほけんしょう [健康] 保険証 醫保卡"},
-  {"id":"y1-l17-v017","schoolYear":1,"book":"初級 I","lesson":17,"kana":"かぜ","meaningZh":"感冒","category":"名詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"かぜ - 感冒"},
-  {"id":"y1-l17-v018","schoolYear":1,"book":"初級 I","lesson":17,"kana":"のど","meaningZh":"喉嚨","category":"名詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"のど - 喉嚨"},
-  {"id":"y1-l17-v019","schoolYear":1,"book":"初級 I","lesson":17,"kana":"ねつ","kanji":"熱","meaningZh":"發燒","category":"名詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"ねつ 熱 發燒"},
-  {"id":"y1-l17-v020","schoolYear":1,"book":"初級 I","lesson":17,"kana":"びょうき","kanji":"病気","meaningZh":"病、生病","category":"名詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"びょうき 病気 病、生病"},
-  {"id":"y1-l17-v021","schoolYear":1,"book":"初級 I","lesson":17,"kana":"くすり","kanji":"薬","meaningZh":"藥","category":"名詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"くすり 薬 藥"},
-  {"id":"y1-l17-v022","schoolYear":1,"book":"初級 I","lesson":17,"kana":"[お] ふろ","meaningZh":"洗澡、浴盆","category":"名詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"[お] ふろ - 洗澡、浴盆"},
-  {"id":"y1-l17-v023","schoolYear":1,"book":"初級 I","lesson":17,"kana":"うわぎ","kanji":"上着","meaningZh":"上衣、外衣","category":"名詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"うわぎ 上着 上衣、外衣"},
-  {"id":"y1-l17-v024","schoolYear":1,"book":"初級 I","lesson":17,"kana":"したぎ","kanji":"下着","meaningZh":"內衣褲","category":"名詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"したぎ 下着 內衣褲"},
-  {"id":"y1-l17-v025","schoolYear":1,"book":"初級 I","lesson":17,"kana":"２、３～","meaningZh":"二三～","notes":"(用於不定數量的計算)","category":"名詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"２、３～ - 二三～\n(用於不定數量的計算)"},
-  {"id":"y1-l17-v026","schoolYear":1,"book":"初級 I","lesson":17,"kana":"２、３にち","kanji":"２、３日","meaningZh":"兩三天","category":"名詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"２、３にち ２、３日 兩三天"},
-  {"id":"y1-l17-v027","schoolYear":1,"book":"初級 I","lesson":17,"kana":"あぶない","kanji":"危ない","meaningZh":"危險的","category":"い形容詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"あぶない 危ない 危險的"},
-  {"id":"y1-l17-v028","schoolYear":1,"book":"初級 I","lesson":17,"kana":"たいせつ [な]","kanji":"大切 [な]","meaningZh":"重要 [的]","category":"な形容詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"たいせつ [な] 大切 [な] 重要 [的]"},
-  {"id":"y1-l17-v029","schoolYear":1,"book":"初級 I","lesson":17,"kana":"だいじょうぶ [な]","kanji":"大丈夫 [な]","meaningZh":"放心，沒關係 [的]","category":"な形容詞","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"だいじょうぶ [な] 大丈夫 [な] 放心，沒關係 [的]"},
-  {"id":"y1-l17-v030","schoolYear":1,"book":"初級 I","lesson":17,"kana":"～までに","meaningZh":"在～之前 (表示時間的期限)","category":"其他","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"～までに - 在～之前 (表示時間的期限)"},
-  {"id":"y1-l17-v031","schoolYear":1,"book":"初級 I","lesson":17,"kana":"それから","meaningZh":"還有、另外","category":"其他","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"それから - 還有、另外"},
-  {"id":"y1-l17-v032","schoolYear":1,"book":"初級 I","lesson":17,"kana":"ですから","meaningZh":"所以、因此","category":"其他","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"ですから - 所以、因此"},
-  {"id":"y1-l17-v033","schoolYear":1,"book":"初級 I","lesson":17,"kana":"どう しましたか。","meaningZh":"你怎麼了。","category":"其他","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"どう しましたか。 - 你怎麼了。"},
-  {"id":"y1-l17-v034","schoolYear":1,"book":"初級 I","lesson":17,"kana":"いたいです [おなかが～]","kanji":"痛いです [お腹が～]","meaningZh":"痛、[肚子] 痛","category":"其他","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"いたいです [おなかが～] 痛いです [お腹が～] 痛、[肚子] 痛"},
-  {"id":"y1-l17-v035","schoolYear":1,"book":"初級 I","lesson":17,"kana":"おだいじに。","kanji":"お大事に。","meaningZh":"請多保重。(對生病的人說)","category":"其他","source":{"type":"school_pdf","filename":"japanese_vocab_lv1_ch17.pdf.pdf"},"sourceText":"おだいじに。 お大事に。 請多保重。(對生病的人說)"}
+  {
+    "id": "y1-l17-v001",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "おぼえます",
+    "kanji": "覚えます",
+    "meaningZh": "記、記住",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "おぼえます 覚えます Ⅱ 記、記住",
+    "sourceOrder": 1,
+    "section": "動詞",
+    "notes": "Ⅱ"
+  },
+  {
+    "id": "y1-l17-v002",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "わすれます",
+    "kanji": "忘れます",
+    "meaningZh": "忘記",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "わすれます 忘れます Ⅱ 忘記",
+    "sourceOrder": 2,
+    "section": "動詞",
+    "notes": "Ⅱ"
+  },
+  {
+    "id": "y1-l17-v003",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "なくします",
+    "meaningZh": "遺失、丟失",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "なくします - Ⅰ 遺失、丟失",
+    "sourceOrder": 3,
+    "section": "動詞",
+    "notes": "Ⅰ"
+  },
+  {
+    "id": "y1-l17-v004",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "はらいます",
+    "kanji": "払います",
+    "meaningZh": "支付、付款",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "はらいます 払います Ⅰ 支付、付款",
+    "sourceOrder": 4,
+    "section": "動詞",
+    "notes": "Ⅰ"
+  },
+  {
+    "id": "y1-l17-v005",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "かえします",
+    "kanji": "返します",
+    "meaningZh": "歸還",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "かえします 返します Ⅰ 歸還",
+    "sourceOrder": 5,
+    "section": "動詞",
+    "notes": "Ⅰ"
+  },
+  {
+    "id": "y1-l17-v006",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "でかけます",
+    "kanji": "出かけます",
+    "meaningZh": "出門、外出",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "でかけます 出かけます Ⅱ 出門、外出",
+    "sourceOrder": 6,
+    "section": "動詞",
+    "notes": "Ⅱ"
+  },
+  {
+    "id": "y1-l17-v007",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "ぬぎます",
+    "kanji": "脱ぎます",
+    "meaningZh": "脫 (衣服、鞋等)",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ぬぎます 脱ぎます Ⅰ 脫 (衣服、鞋等)",
+    "sourceOrder": 7,
+    "section": "動詞",
+    "notes": "Ⅰ"
+  },
+  {
+    "id": "y1-l17-v008",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "もって いきます",
+    "kanji": "持って 行きます",
+    "meaningZh": "帶 (某物) 去",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "もって いきます 持って 行きます Ⅰ 帶 (某物) 去",
+    "sourceOrder": 8,
+    "section": "動詞",
+    "notes": "Ⅰ"
+  },
+  {
+    "id": "y1-l17-v009",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "もって きます",
+    "kanji": "持って 来ます",
+    "meaningZh": "帶 (某物) 來",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "もって きます 持って 来ます Ⅲ 帶 (某物) 來",
+    "sourceOrder": 9,
+    "section": "動詞",
+    "notes": "Ⅲ"
+  },
+  {
+    "id": "y1-l17-v010",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "しんぱいします",
+    "kanji": "心配します",
+    "meaningZh": "擔心",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "しんぱいします 心配します Ⅲ 擔心",
+    "sourceOrder": 10,
+    "section": "動詞",
+    "notes": "Ⅲ"
+  },
+  {
+    "id": "y1-l17-v011",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "ざんぎょうします",
+    "kanji": "残業します",
+    "meaningZh": "（平日下班后留下來）加班",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ざんぎょうします 残業します Ⅲ （平日下班后留下來）加班",
+    "sourceOrder": 11,
+    "section": "動詞",
+    "notes": "Ⅲ"
+  },
+  {
+    "id": "y1-l17-v012",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "しゅっちょうします",
+    "kanji": "出張します",
+    "meaningZh": "出差",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "しゅっちょうします 出張します Ⅲ 出差",
+    "sourceOrder": 12,
+    "section": "動詞",
+    "notes": "Ⅲ"
+  },
+  {
+    "id": "y1-l17-v013",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "のみます [くすりを～]",
+    "kanji": "飲みます [薬を～]",
+    "meaningZh": "吃 [藥]、服 [藥]",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "のみます [くすりを～] 飲みます [薬を～] Ⅰ 吃 [藥]、服 [藥]",
+    "sourceOrder": 13,
+    "section": "動詞",
+    "notes": "Ⅰ"
+  },
+  {
+    "id": "y1-l17-v014",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "はいります [おふろに～]",
+    "kanji": "入ります [おふろに～]",
+    "meaningZh": "洗澡（浸浴）",
+    "category": "動詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "はいります [おふろに～] 入ります [おふろに～] Ⅰ 洗澡（浸浴）",
+    "sourceOrder": 14,
+    "section": "動詞",
+    "notes": "Ⅰ"
+  },
+  {
+    "id": "y1-l17-v015",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "きんえん",
+    "kanji": "禁煙",
+    "meaningZh": "禁菸",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "きんえん 禁煙 禁菸",
+    "sourceOrder": 15,
+    "section": "名詞"
+  },
+  {
+    "id": "y1-l17-v016",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "[けんこう] ほけんしょう",
+    "kanji": "[健康] 保険証",
+    "meaningZh": "醫保卡",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "[けんこう] ほけんしょう [健康] 保険証 醫保卡",
+    "sourceOrder": 16,
+    "section": "名詞"
+  },
+  {
+    "id": "y1-l17-v017",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "かぜ",
+    "meaningZh": "感冒",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "かぜ - 感冒",
+    "sourceOrder": 17,
+    "section": "名詞"
+  },
+  {
+    "id": "y1-l17-v018",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "のど",
+    "meaningZh": "喉嚨",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "のど - 喉嚨",
+    "sourceOrder": 18,
+    "section": "名詞"
+  },
+  {
+    "id": "y1-l17-v019",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "ねつ",
+    "kanji": "熱",
+    "meaningZh": "發燒",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ねつ 熱 發燒",
+    "sourceOrder": 19,
+    "section": "名詞"
+  },
+  {
+    "id": "y1-l17-v020",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "びょうき",
+    "kanji": "病気",
+    "meaningZh": "病、生病",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "びょうき 病気 病、生病",
+    "sourceOrder": 20,
+    "section": "名詞"
+  },
+  {
+    "id": "y1-l17-v021",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "くすり",
+    "kanji": "薬",
+    "meaningZh": "藥",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "くすり 薬 藥",
+    "sourceOrder": 21,
+    "section": "名詞"
+  },
+  {
+    "id": "y1-l17-v022",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "[お] ふろ",
+    "meaningZh": "洗澡、浴盆",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "[お] ふろ - 洗澡、浴盆",
+    "sourceOrder": 22,
+    "section": "名詞"
+  },
+  {
+    "id": "y1-l17-v023",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "うわぎ",
+    "kanji": "上着",
+    "meaningZh": "上衣、外衣",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "うわぎ 上着 上衣、外衣",
+    "sourceOrder": 23,
+    "section": "名詞"
+  },
+  {
+    "id": "y1-l17-v024",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "したぎ",
+    "kanji": "下着",
+    "meaningZh": "內衣褲",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "したぎ 下着 內衣褲",
+    "sourceOrder": 24,
+    "section": "名詞"
+  },
+  {
+    "id": "y1-l17-v025",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "２、３～",
+    "meaningZh": "二三～",
+    "notes": "(用於不定數量的計算)",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "２、３～ - 二三～\n(用於不定數量的計算)",
+    "sourceOrder": 25,
+    "section": "名詞"
+  },
+  {
+    "id": "y1-l17-v026",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "２、３にち",
+    "kanji": "２、３日",
+    "meaningZh": "兩三天",
+    "category": "名詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "２、３にち ２、３日 兩三天",
+    "sourceOrder": 26,
+    "section": "名詞"
+  },
+  {
+    "id": "y1-l17-v027",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "あぶない",
+    "kanji": "危ない",
+    "meaningZh": "危險的",
+    "category": "い形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "あぶない 危ない 危險的",
+    "sourceOrder": 27,
+    "section": "い形容詞"
+  },
+  {
+    "id": "y1-l17-v028",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "たいせつ [な]",
+    "kanji": "大切 [な]",
+    "meaningZh": "重要 [的]",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "たいせつ [な] 大切 [な] 重要 [的]",
+    "sourceOrder": 28,
+    "section": "な形容詞"
+  },
+  {
+    "id": "y1-l17-v029",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "だいじょうぶ [な]",
+    "kanji": "大丈夫 [な]",
+    "meaningZh": "放心，沒關係 [的]",
+    "category": "な形容詞",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "だいじょうぶ [な] 大丈夫 [な] 放心，沒關係 [的]",
+    "sourceOrder": 29,
+    "section": "な形容詞"
+  },
+  {
+    "id": "y1-l17-v030",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "～までに",
+    "meaningZh": "在～之前 (表示時間的期限)",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "～までに - 在～之前 (表示時間的期限)",
+    "sourceOrder": 30,
+    "section": "其他"
+  },
+  {
+    "id": "y1-l17-v031",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "それから",
+    "meaningZh": "還有、另外",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "それから - 還有、另外",
+    "sourceOrder": 31,
+    "section": "其他"
+  },
+  {
+    "id": "y1-l17-v032",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "ですから",
+    "meaningZh": "所以、因此",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ですから - 所以、因此",
+    "sourceOrder": 32,
+    "section": "其他"
+  },
+  {
+    "id": "y1-l17-v033",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "どう しましたか。",
+    "meaningZh": "你怎麼了。",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "どう しましたか。 - 你怎麼了。",
+    "sourceOrder": 33,
+    "section": "其他"
+  },
+  {
+    "id": "y1-l17-v034",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "いたいです [おなかが～]",
+    "kanji": "痛いです [お腹が～]",
+    "meaningZh": "痛、[肚子] 痛",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "いたいです [おなかが～] 痛いです [お腹が～] 痛、[肚子] 痛",
+    "sourceOrder": 34,
+    "section": "其他"
+  },
+  {
+    "id": "y1-l17-v035",
+    "schoolYear": 1,
+    "book": "初級 I",
+    "lesson": 17,
+    "kana": "おだいじに。",
+    "kanji": "お大事に。",
+    "meaningZh": "請多保重。(對生病的人說)",
+    "category": "其他",
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch17.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "おだいじに。 お大事に。 請多保重。(對生病的人說)",
+    "sourceOrder": 35,
+    "section": "其他"
+  }
 ]
