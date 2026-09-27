@@ -6,12 +6,15 @@
     "lesson": 1,
     "category": "名詞",
     "kana": "わたし",
-    "kanji": "",
     "meaningZh": "我",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "わたし - 我",
+    "sourceOrder": 1,
+    "section": "名詞"
   },
   {
     "id": "y1-l01-v002",
@@ -20,12 +23,15 @@
     "lesson": 1,
     "category": "名詞",
     "kana": "あなた",
-    "kanji": "",
     "meaningZh": "你、妳",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "あなた - 你、妳",
+    "sourceOrder": 2,
+    "section": "名詞"
   },
   {
     "id": "y1-l01-v003",
@@ -38,8 +44,12 @@
     "meaningZh": "他、她、那個人",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "あの ひと あの 人 他、她、那個人",
+    "sourceOrder": 3,
+    "section": "名詞"
   },
   {
     "id": "y1-l01-v004",
@@ -52,8 +62,12 @@
     "meaningZh": "他、她、那個人（“あのかた”是“あのひと”的禮貌形）",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "あの かた あの 方 他、她、那個人（“あのかた”是“あのひと”的禮貌形）",
+    "sourceOrder": 4,
+    "section": "名詞"
   },
   {
     "id": "y1-l01-v005",
@@ -66,8 +80,12 @@
     "meaningZh": "醫生",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "いしゃ 医者 醫生",
+    "sourceOrder": 5,
+    "section": "名詞"
   },
   {
     "id": "y1-l01-v006",
@@ -80,8 +98,12 @@
     "meaningZh": "公司職員",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "かいしゃいん 会社員 公司職員",
+    "sourceOrder": 6,
+    "section": "名詞"
   },
   {
     "id": "y1-l01-v007",
@@ -94,8 +116,12 @@
     "meaningZh": "～公司的職員（和公司的名稱一起使用，如ＩＭＣのしゃいん）",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "しゃいん 社員 ～公司的職員（和公司的名稱一起使用，如ＩＭＣのしゃいん）",
+    "sourceOrder": 7,
+    "section": "名詞"
   },
   {
     "id": "y1-l01-v008",
@@ -108,8 +134,12 @@
     "meaningZh": "教師",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "きょうし 教師 教師",
+    "sourceOrder": 8,
+    "section": "名詞"
   },
   {
     "id": "y1-l01-v009",
@@ -122,8 +152,12 @@
     "meaningZh": "銀行員",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ぎんこういん 銀行員 銀行員",
+    "sourceOrder": 9,
+    "section": "名詞"
   },
   {
     "id": "y1-l01-v010",
@@ -136,8 +170,12 @@
     "meaningZh": "研究人員",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch1.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "けんきゅうしゃ 研究者 研究人員",
+    "sourceOrder": 10,
+    "section": "名詞"
   },
   {
     "id": "y1-l01-v011",
@@ -148,7 +186,14 @@
     "kana": "せんせい",
     "kanji": "先生",
     "meaningZh": "老師、教導者",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "せんせい 先生 老師、教導者",
+    "sourceOrder": 11,
+    "section": "名詞"
   },
   {
     "id": "y1-l01-v012",
@@ -159,7 +204,14 @@
     "kana": "がくせい",
     "kanji": "学生",
     "meaningZh": "學生",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "がくせい 学生 學生",
+    "sourceOrder": 12,
+    "section": "名詞"
   },
   {
     "id": "y1-l01-v013",
@@ -170,7 +222,14 @@
     "kana": "だいがく",
     "kanji": "大学",
     "meaningZh": "大學",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "だいがく 大学 大學",
+    "sourceOrder": 13,
+    "section": "名詞"
   },
   {
     "id": "y1-l01-v014",
@@ -181,7 +240,14 @@
     "kana": "びょういん",
     "kanji": "病院",
     "meaningZh": "醫院",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "びょういん 病院 醫院",
+    "sourceOrder": 14,
+    "section": "名詞"
   },
   {
     "id": "y1-l01-v019",
@@ -190,9 +256,15 @@
     "lesson": 1,
     "category": "疑問詞",
     "kana": "だれ",
-    "kanji": "",
     "meaningZh": "誰（哪位）",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "だれ - 誰（哪位）",
+    "sourceOrder": 15,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l01-v020",
@@ -201,9 +273,15 @@
     "lesson": 1,
     "category": "疑問詞",
     "kana": "どなた",
-    "kanji": "",
     "meaningZh": "誰（哪位）（“どなた”是“だれ”的禮貌形）",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "どなた - 誰（哪位）（“どなた”是“だれ”的禮貌形）",
+    "sourceOrder": 16,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l01-v021",
@@ -214,7 +292,14 @@
     "kana": "なんさい",
     "kanji": "何歳",
     "meaningZh": "幾歳",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "なんさい 何歳 幾歳",
+    "sourceOrder": 17,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l01-v022",
@@ -223,9 +308,15 @@
     "lesson": 1,
     "category": "疑問詞",
     "kana": "おいくつ",
-    "kanji": "",
     "meaningZh": "幾歳（“おいくつ”是“なんさい” 的禮貌形）",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "おいくつ - 幾歳（“おいくつ”是“なんさい” 的禮貌形）",
+    "sourceOrder": 18,
+    "section": "疑問詞"
   },
   {
     "id": "y1-l01-v015",
@@ -236,7 +327,14 @@
     "kana": "～さい",
     "kanji": "～歳",
     "meaningZh": "～歳",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "～さい ～歳 ～歳",
+    "sourceOrder": 19,
+    "section": "其他"
   },
   {
     "id": "y1-l01-v016",
@@ -245,9 +343,15 @@
     "lesson": 1,
     "category": "其他",
     "kana": "～さん",
-    "kanji": "",
     "meaningZh": "～先生、～小姐、～女士",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "～さん - ～先生、～小姐、～女士",
+    "sourceOrder": 20,
+    "section": "其他"
   },
   {
     "id": "y1-l01-v017",
@@ -256,9 +360,15 @@
     "lesson": 1,
     "category": "其他",
     "kana": "～ちゃん",
-    "kanji": "",
     "meaningZh": "（用於小孩的名字後）",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "～ちゃん - （用於小孩的名字後）",
+    "sourceOrder": 21,
+    "section": "其他"
   },
   {
     "id": "y1-l01-v018",
@@ -269,7 +379,14 @@
     "kana": "～じん",
     "kanji": "～人",
     "meaningZh": "（表國籍，如“アメリカじん”）",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "～じん ～人 （表國籍，如“アメリカじん”）",
+    "sourceOrder": 22,
+    "section": "其他"
   },
   {
     "id": "y1-l01-v023",
@@ -278,9 +395,15 @@
     "lesson": 1,
     "category": "其他",
     "kana": "はい",
-    "kanji": "",
     "meaningZh": "是、對",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "はい - 是、對",
+    "sourceOrder": 23,
+    "section": "其他"
   },
   {
     "id": "y1-l01-v024",
@@ -289,9 +412,15 @@
     "lesson": 1,
     "category": "其他",
     "kana": "いいえ",
-    "kanji": "",
     "meaningZh": "不、不是",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "いいえ - 不、不是",
+    "sourceOrder": 24,
+    "section": "其他"
   },
   {
     "id": "y1-l01-v025",
@@ -302,7 +431,14 @@
     "kana": "しつれいですが",
     "kanji": "失礼ですが",
     "meaningZh": "冒昧請教一下",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "しつれいですが 失礼ですが 冒昧請教一下",
+    "sourceOrder": 25,
+    "section": "其他"
   },
   {
     "id": "y1-l01-v026",
@@ -313,7 +449,14 @@
     "kana": "おなまえは？",
     "kanji": "お名前は?",
     "meaningZh": "您貴姓？",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "おなまえは？ お名前は? 您貴姓？",
+    "sourceOrder": 26,
+    "section": "其他"
   },
   {
     "id": "y1-l01-v027",
@@ -324,7 +467,14 @@
     "kana": "はじめまして。",
     "kanji": "初めまして。",
     "meaningZh": "初次見面。（第一次見面的寒喧）",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "はじめまして。 初めまして。 初次見面。（第一次見面的寒喧）",
+    "sourceOrder": 27,
+    "section": "其他"
   },
   {
     "id": "y1-l01-v028",
@@ -335,7 +485,14 @@
     "kana": "～から きました。",
     "kanji": "～から 来ました。",
     "meaningZh": "我從～來。",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "～から きました。 ～から 来ました。 我從～來。",
+    "sourceOrder": 28,
+    "section": "其他"
   },
   {
     "id": "y1-l01-v029",
@@ -344,9 +501,15 @@
     "lesson": 1,
     "category": "其他",
     "kana": "こちらは ～さんです。",
-    "kanji": "",
     "meaningZh": "這位是～先生/小姐。",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "こちらは ～さんです。 - 這位是～先生/小姐。",
+    "sourceOrder": 29,
+    "section": "其他"
   },
   {
     "id": "y1-l01-v030",
@@ -357,7 +520,14 @@
     "kana": "[どうぞ] よろしく [おねがいします]。",
     "kanji": "[どうぞ] よろしく [お願いします]。",
     "meaningZh": "請多關照。（第一次見面的問候語）",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "[どうぞ] よろしく [おねがいします]。 [どうぞ] よろしく [お願いします]。 請多關照。（第一次見面的問候語）",
+    "sourceOrder": 30,
+    "section": "其他"
   },
   {
     "id": "y1-l01-v031",
@@ -368,6 +538,13 @@
     "kana": "よろしく [おねがいします]。",
     "kanji": "よろしく [お願いします]。",
     "meaningZh": "請多關照。（第一次見面的問候語）",
-    "source": { "type": "school_pdf", "filename": "japanese_vocab_lv1_ch1.pdf.pdf" }
+    "source": {
+      "type": "school_pdf",
+      "filename": "japanese_vocab_lv1_ch1.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "よろしく [おねがいします]。 よろしく [お願いします]。 請多關照。（第一次見面的問候語）",
+    "sourceOrder": 31,
+    "section": "其他"
   }
 ]
