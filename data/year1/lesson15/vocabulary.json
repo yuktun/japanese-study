@@ -9,10 +9,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
     "sourceText": "おきます 置きます Ⅰ 放置、擺放",
-    "kanji": "置きます"
+    "kanji": "置きます",
+    "sourceOrder": 1,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l15-v002",
@@ -24,10 +28,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
     "sourceText": "つくります 作ります、造ります Ⅰ 做、製造",
-    "kanji": "作ります、造ります"
+    "kanji": "作ります、造ります",
+    "sourceOrder": 2,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l15-v003",
@@ -39,10 +47,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
     "sourceText": "うります 売ります Ⅰ 賣、銷售",
-    "kanji": "売ります"
+    "kanji": "売ります",
+    "sourceOrder": 3,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l15-v004",
@@ -54,10 +66,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
     "sourceText": "しります 知ります Ⅰ 知道",
-    "kanji": "知ります"
+    "kanji": "知ります",
+    "sourceOrder": 4,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l15-v005",
@@ -69,10 +85,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
     "sourceText": "すみます 住みます Ⅰ 居住",
-    "kanji": "住みます"
+    "kanji": "住みます",
+    "sourceOrder": 5,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l15-v006",
@@ -84,10 +104,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
     "sourceText": "けんきゅうします 研究します Ⅲ 研究",
-    "kanji": "研究します"
+    "kanji": "研究します",
+    "sourceOrder": 6,
+    "section": "動詞",
+    "notes": "Ⅲ"
   },
   {
     "id": "y1-l15-v007",
@@ -99,10 +123,14 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
     "sourceText": "おもいだします 思い出します Ⅰ 想起來",
-    "kanji": "思い出します"
+    "kanji": "思い出します",
+    "sourceOrder": 7,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l15-v008",
@@ -114,9 +142,13 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "いらっしゃいます - Ⅰ 有，在（「いる」的禮貌形）"
+    "sourceText": "いらっしゃいます - Ⅰ 有，在（「いる」的禮貌形）",
+    "sourceOrder": 8,
+    "section": "動詞",
+    "notes": "Ⅰ"
   },
   {
     "id": "y1-l15-v009",
@@ -128,10 +160,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
     "sourceText": "しりょう 資料 資料",
-    "kanji": "資料"
+    "kanji": "資料",
+    "sourceOrder": 9,
+    "section": "名詞"
   },
   {
     "id": "y1-l15-v010",
@@ -143,10 +178,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
     "sourceText": "でんしじしょ 電子辞書 電子辭典",
-    "kanji": "電子辞書"
+    "kanji": "電子辞書",
+    "sourceOrder": 10,
+    "section": "名詞"
   },
   {
     "id": "y1-l15-v011",
@@ -158,9 +196,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "カタログ - 產品目錄"
+    "sourceText": "カタログ - 產品目錄",
+    "sourceOrder": 11,
+    "section": "名詞"
   },
   {
     "id": "y1-l15-v012",
@@ -172,10 +213,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
     "sourceText": "じこくひょう 時刻表 時刻表",
-    "kanji": "時刻表"
+    "kanji": "時刻表",
+    "sourceOrder": 12,
+    "section": "名詞"
   },
   {
     "id": "y1-l15-v013",
@@ -187,10 +231,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
     "sourceText": "ふく 服 衣服",
-    "kanji": "服"
+    "kanji": "服",
+    "sourceOrder": 13,
+    "section": "名詞"
   },
   {
     "id": "y1-l15-v014",
@@ -202,10 +249,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
     "sourceText": "せいひん 製品 產品、商品",
-    "kanji": "製品"
+    "kanji": "製品",
+    "sourceOrder": 14,
+    "section": "名詞"
   },
   {
     "id": "y1-l15-v015",
@@ -217,9 +267,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
-    "sourceText": "ソフト - 軟體、軟件"
+    "sourceText": "ソフト - 軟體、軟件",
+    "sourceOrder": 15,
+    "section": "名詞"
   },
   {
     "id": "y1-l15-v016",
@@ -231,10 +284,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
     "sourceText": "けいざい 経済 經濟",
-    "kanji": "経済"
+    "kanji": "経済",
+    "sourceOrder": 16,
+    "section": "名詞"
   },
   {
     "id": "y1-l15-v017",
@@ -246,10 +302,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
     "sourceText": "みなさん 皆さん 各位、大家",
-    "kanji": "皆さん"
+    "kanji": "皆さん",
+    "sourceOrder": 17,
+    "section": "名詞"
   },
   {
     "id": "y1-l15-v018",
@@ -261,10 +320,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 1
     },
     "sourceText": "はいしゃ 歯医者 牙科醫生",
-    "kanji": "歯医者"
+    "kanji": "歯医者",
+    "sourceOrder": 18,
+    "section": "名詞"
   },
   {
     "id": "y1-l15-v019",
@@ -276,10 +338,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 2
     },
     "sourceText": "どくしん 独身 單身、未婚",
-    "kanji": "独身"
+    "kanji": "独身",
+    "sourceOrder": 19,
+    "section": "名詞"
   },
   {
     "id": "y1-l15-v020",
@@ -291,10 +356,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 2
     },
     "sourceText": "こうこう 高校 高級中學、高中",
-    "kanji": "高校"
+    "kanji": "高校",
+    "sourceOrder": 20,
+    "section": "名詞"
   },
   {
     "id": "y1-l15-v021",
@@ -306,10 +374,13 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 2
     },
     "sourceText": "しやくしょ 市役所 市政府",
-    "kanji": "市役所"
+    "kanji": "市役所",
+    "sourceOrder": 21,
+    "section": "名詞"
   },
   {
     "id": "y1-l15-v022",
@@ -321,8 +392,11 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch15.pdf.pdf"
+      "filename": "japanese_vocab_lv1_ch15.pdf.pdf",
+      "page": 2
     },
-    "sourceText": "すみません。 - 不好意思、對不起"
+    "sourceText": "すみません。 - 不好意思、對不起",
+    "sourceOrder": 22,
+    "section": "其他"
   }
 ]
