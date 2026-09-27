@@ -10,8 +10,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "きります 切ります 剪、切",
+    "sourceOrder": 1,
+    "section": "動詞"
   },
   {
     "id": "y1-l07-v002",
@@ -24,8 +28,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "おくります 送ります 寄、送",
+    "sourceOrder": 2,
+    "section": "動詞"
   },
   {
     "id": "y1-l07-v003",
@@ -37,8 +45,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "あげます - 給、送給",
+    "sourceOrder": 3,
+    "section": "動詞"
   },
   {
     "id": "y1-l07-v004",
@@ -50,8 +62,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "もらいます - 接受、得到",
+    "sourceOrder": 4,
+    "section": "動詞"
   },
   {
     "id": "y1-l07-v005",
@@ -64,8 +80,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "かします 貸します 借〔出〕",
+    "sourceOrder": 5,
+    "section": "動詞"
   },
   {
     "id": "y1-l07-v006",
@@ -78,8 +98,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "かります 借ります 借〔入〕",
+    "sourceOrder": 6,
+    "section": "動詞"
   },
   {
     "id": "y1-l07-v007",
@@ -92,8 +116,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "おしえます 教えます 教",
+    "sourceOrder": 7,
+    "section": "動詞"
   },
   {
     "id": "y1-l07-v008",
@@ -106,8 +134,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ならいます 習います (跟某人)學習",
+    "sourceOrder": 8,
+    "section": "動詞"
   },
   {
     "id": "y1-l07-v009",
@@ -120,8 +152,12 @@
     "category": "動詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "かけます [でんわを～] かけます [電話を～] 打〔打電話〕",
+    "sourceOrder": 9,
+    "section": "動詞"
   },
   {
     "id": "y1-l07-v010",
@@ -134,8 +170,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "て 手 手",
+    "sourceOrder": 10,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v011",
@@ -147,8 +187,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "はし - 筷子",
+    "sourceOrder": 11,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v012",
@@ -160,8 +204,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "スプーン - 湯匙",
+    "sourceOrder": 12,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v013",
@@ -173,8 +221,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ナイフ - 小刀",
+    "sourceOrder": 13,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v014",
@@ -186,8 +238,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "フォーク - 叉子",
+    "sourceOrder": 14,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v015",
@@ -199,8 +255,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "はさみ - 剪刀",
+    "sourceOrder": 15,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v016",
@@ -212,8 +272,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "パソコン - 個人電腦、PC",
+    "sourceOrder": 16,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v017",
@@ -225,8 +289,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ケータイ - 手提電話",
+    "sourceOrder": 17,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v018",
@@ -238,8 +306,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "メール - 電子郵件",
+    "sourceOrder": 18,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v019",
@@ -252,8 +324,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 1
+    },
+    "sourceText": "ねんがじょう 年賀状 賀年卡",
+    "sourceOrder": 19,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v020",
@@ -265,8 +341,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "パンチ - 打孔機",
+    "sourceOrder": 20,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v021",
@@ -278,8 +358,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ホッチキス - 釘書機",
+    "sourceOrder": 21,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v022",
@@ -291,8 +375,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "セロテープ - 透明膠帶",
+    "sourceOrder": 22,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v023",
@@ -305,8 +393,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "けしゴム 消しゴム 橡皮擦",
+    "sourceOrder": 23,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v024",
@@ -319,8 +411,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "かみ 紙 紙",
+    "sourceOrder": 24,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v025",
@@ -333,8 +429,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "はな 花 花",
+    "sourceOrder": 25,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v026",
@@ -346,8 +446,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "シャツ - 襯衫",
+    "sourceOrder": 26,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v027",
@@ -359,8 +463,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "プレゼント - 禮物",
+    "sourceOrder": 27,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v028",
@@ -373,8 +481,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "にもつ 荷物 行李、包裹",
+    "sourceOrder": 28,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v029",
@@ -387,8 +499,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "おかね お金 錢",
+    "sourceOrder": 29,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v030",
@@ -401,8 +517,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "きっぷ 切符 票",
+    "sourceOrder": 30,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v031",
@@ -414,8 +534,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "クリスマス - 聖誕節",
+    "sourceOrder": 31,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v032",
@@ -428,8 +552,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "ちち 父 家父",
+    "sourceOrder": 32,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v033",
@@ -442,8 +570,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "はは 母 家母",
+    "sourceOrder": 33,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v034",
@@ -456,8 +588,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "おとうさん お父さん 〔別人的〕父親、令尊",
+    "sourceOrder": 34,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v035",
@@ -470,8 +606,12 @@
     "category": "名詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "おかあさん お母さん 〔別人的〕母親、令堂",
+    "sourceOrder": 35,
+    "section": "名詞"
   },
   {
     "id": "y1-l07-v036",
@@ -483,8 +623,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "もう - 已經",
+    "sourceOrder": 36,
+    "section": "副詞"
   },
   {
     "id": "y1-l07-v037",
@@ -496,8 +640,12 @@
     "category": "副詞",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "まだ - 尚未、還沒有",
+    "sourceOrder": 37,
+    "section": "副詞"
   },
   {
     "id": "y1-l07-v038",
@@ -509,8 +657,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "これから - 從現在起，這就",
+    "sourceOrder": 38,
+    "section": "其他"
   },
   {
     "id": "y1-l07-v039",
@@ -522,8 +674,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "[～、] すてきですね。 - 〔～〕，好棒喲！好漂亮啊！",
+    "sourceOrder": 39,
+    "section": "其他"
   },
   {
     "id": "y1-l07-v040",
@@ -535,8 +691,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "いらっしゃい。 - 歡迎。(歡迎訪客的寒喧)",
+    "sourceOrder": 40,
+    "section": "其他"
   },
   {
     "id": "y1-l07-v041",
@@ -549,8 +709,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 2
+    },
+    "sourceText": "どうぞ おあがり ください。 どうぞ お上がり ください。 請進。請上來。",
+    "sourceOrder": 41,
+    "section": "其他"
   },
   {
     "id": "y1-l07-v042",
@@ -563,8 +727,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "しつれいします。 失礼します。 對不起。/ 打擾了。",
+    "sourceOrder": 42,
+    "section": "其他"
   },
   {
     "id": "y1-l07-v043",
@@ -576,8 +744,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "[コーヒーは] いかがですか。 - [咖啡]怎麽樣？（你喝咖啡嗎？）(推薦某物給他人時用)",
+    "sourceOrder": 43,
+    "section": "其他"
   },
   {
     "id": "y1-l07-v044",
@@ -589,8 +761,12 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "いただきます。 - 謝謝。/ 我不客氣了。(用在吃、喝之前)",
+    "sourceOrder": 44,
+    "section": "其他"
   },
   {
     "id": "y1-l07-v045",
@@ -602,7 +778,11 @@
     "category": "其他",
     "source": {
       "type": "school_pdf",
-      "filename": "japanese_vocab_lv1_ch7.pdf.pdf"
-    }
+      "filename": "japanese_vocab_lv1_ch7.pdf.pdf",
+      "page": 3
+    },
+    "sourceText": "ごちそうさま [でした]。 - 多謝款待。",
+    "sourceOrder": 45,
+    "section": "其他"
   }
 ]
