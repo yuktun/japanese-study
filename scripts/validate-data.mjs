@@ -20,9 +20,12 @@ const validateOptionalNotes=(value,label)=>{
   if(typeof value==='string'){validateOptionalText(value,label);return;}
   if(!Array.isArray(value)||value.some(note=>!nonEmptyText(note)))fail(`${label} must be a non-empty string or an array of non-empty strings when present.`);
 };
-const validateGrammarSourceText=(value,label)=>{
+const validateGrammarSourceText=(value,label,item)=>{
   if(!nonEmptyText(value))return;
-  const headings=value.match(/(?:^|\n)\s*\d+[．.]\s*/g)||[];
+  let structuralText=String(value);
+  const ignoredParts=[item.meaningZh,item.explanationZh,...(Array.isArray(item.notes)?item.notes:[item.notes])];
+  for(const part of ignoredParts)if(nonEmptyText(part))structuralText=structuralText.replace(part,'');
+  const headings=structuralText.match(/(?:^|\n)\s*\d+[．.]\s*/g)||[];
   if(headings.length>1)fail(`${label} sourceText contains more than one numbered grammar heading.`);
 };
 const validateGrammarNotes=(value,label)=>{
@@ -123,7 +126,7 @@ for(const [lessonIndex,lesson] of manifest.lessons.entries()){
       if(type==='grammar'&&item.sourceOrder!==itemIndex+1)fail(`${itemLabel} sourceOrder must be ${itemIndex+1} to match its PDF order.`);
       if(type==='grammar'){
         for(const field of ['meaningZh','explanationZh'])if(field in item)validateOptionalText(item[field],`${itemLabel} ${field}`);
-        validateGrammarSourceText(item.sourceText,`${itemLabel}`);
+        validateGrammarSourceText(item.sourceText,`${itemLabel}`,item);
         validateGrammarNotes(item.notes,`${itemLabel} notes`);
         let nestedExampleCount=0;
         if('subpatterns' in item){
