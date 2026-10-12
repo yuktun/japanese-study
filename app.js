@@ -8,7 +8,7 @@ import {REVIEW_STORAGE_KEY} from './src/progress-storage.mjs?v=firebase-sync-1';
 
 import {studyDetailsHtml,studySearchText} from './src/study-content.mjs';
 
-const state={all:[],references:[],lessons:[],scopeDeck:[],deck:[],index:0,revealed:false,quickSeen:0,seenKeys:new Set(),type:'all',direction:'ja-zh',year:null,lesson:null,orderMode:readStorage('jp-study-card-order-mode')==='random'?'random':'sequential',reviewFilter:'all',reviewProgress:normalizeReviewProgress(readJsonStorage(REVIEW_STORAGE_KEY,{})),view:'review',library:{query:'',years:[],lessons:[],types:[]}};
+const state={all:[],references:[],lessons:[],scopeDeck:[],deck:[],index:0,revealed:false,quickSeen:0,seenKeys:new Set(),type:['all','vocabulary','grammar'].includes(readStorage('jp-study-deck-type'))?readStorage('jp-study-deck-type'):'all',direction:readStorage('jp-study-card-direction')==='zh-ja'?'zh-ja':'ja-zh',year:null,lesson:null,orderMode:readStorage('jp-study-card-order-mode')==='random'?'random':'sequential',reviewFilter:'all',reviewProgress:normalizeReviewProgress(readJsonStorage(REVIEW_STORAGE_KEY,{})),view:'review',library:{query:'',years:[],lessons:[],types:[]}};
 const $=selector=>document.querySelector(selector);
 const $$=selector=>[...document.querySelectorAll(selector)];
 const escapeHtml=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
@@ -39,7 +39,7 @@ async function loadData(){
     }));
     state.all=groups.flat();
     state.references=referenceGroups.flat();
-    initialiseFilters();resetDeck();renderLibrary();
+    initialiseFilters();resetDeck();renderLibrary();$('#edit-deck').disabled=false;
   }catch(error){
     console.error(error);
     $('#card-content').innerHTML='<p class="card-prompt">資料暫時載入唔到</p><h2 style="font-size:1.5rem">請重新整理頁面</h2>';
@@ -56,12 +56,15 @@ function updateCourseDetails(){
   const meta=selectedLessonMeta(),lessonItems=state.all.filter(item=>item.schoolYear===state.year&&item.lesson===state.lesson);
   const vocabularyCount=lessonItems.filter(item=>item.type==='vocabulary').length,grammarCount=lessonItems.filter(item=>item.type==='grammar').length;
   updateLessonBookContext();
-  $('#course-year').textContent=`Year ${state.year}`;$('#course-book').textContent=`大家的日本語 · ${meta?.book||''}`;$('#course-lesson').textContent=`Lesson ${state.lesson} 已加入`;
+  $('#course-inventory').textContent=`${vocabularyCount} 個生字 · ${grammarCount} 項文法`;
+  $('#deck-summary').textContent=`第 ${state.year} 學年 · ${meta?.book||''} 第 ${state.lesson} 課 · ${{all:'生字＋文法',vocabulary:'生字',grammar:'文法'}[state.type]} · ${state.direction==='ja-zh'?'日→中':'中→日'}`;
+  $('#course-year').textContent=`第 ${state.year} 學年`;$('#course-book').textContent=`大家的日本語 · ${meta?.book||''}`;$('#course-lesson').textContent=`已收錄第 ${state.lesson} 課`;
   const deckBook=$('.deck-info span'),deckSummary=$('.deck-info p');
   if(deckBook)deckBook.textContent=meta?.book||'';
   if(deckSummary)deckSummary.textContent=`現有 Lesson ${state.lesson}：${vocabularyCount} 個生字、${grammarCount} 項文法。`;
   const omitted=state.direction==='zh-ja'?lessonItems.filter(item=>(state.type==='all'||item.type===state.type)&&!item.meaningZh?.trim()).length:0;
   $('#direction-note').hidden=!omitted;$('#direction-note').textContent=omitted?`${omitted} 項教材未提供中文意思，今次中文 → 日文模式暫不顯示。`:'';
+  $('#mobile-direction-note').hidden=!omitted;$('#mobile-direction-note').textContent=$('#direction-note').textContent;
 }
 
 let progressSync;
@@ -86,7 +89,7 @@ function resetDeck(){
   state.scopeDeck=sequenceForReviewMode(currentPool(),state.orderMode);
   applyReviewFilter();
   state.index=0;state.revealed=false;state.quickSeen=0;state.seenKeys.clear();
-  $('.crumb span').textContent=`Year ${state.year}`;$('.crumb b').textContent=`Lesson ${String(state.lesson).padStart(2,'0')}`;
+  updateViewHeading();
   updateCourseDetails();
   renderCard();
 }
@@ -96,8 +99,8 @@ function renderCard(){
   const counts=reviewCounts(state.scopeDeck,state.reviewProgress);
   renderReviewFilters(counts);
   $('#deck-total').textContent=`${total} 張`;
-  $('#card-position').textContent=total?(state.index>=total?`已到本輪最後 · ${total} 張`:`Card ${state.index+1} of ${total}`):'目前沒有卡片';
-  $('#session-type').textContent=state.orderMode==='random'?'Random review':'Sequential review';
+  $('#card-position').textContent=total?(state.index>=total?`已到本輪最後 · ${total} 張`:`第 ${state.index+1}／${total} 張`):'目前沒有卡片';
+  $('#session-type').textContent=state.orderMode==='random'?'隨機溫習':'循序溫習';
   $('#progress-fill').style.width=`${total?Math.min(state.index/total*100,100):0}%`;
   $('#session-numbers').innerHTML=`<span><i class="number-dot good"></i><b>${state.quickSeen}</b> 已瀏覽</span><span>可直接按 → 換下一張</span>`;
   renderOrderModeToggle();
@@ -121,12 +124,13 @@ function renderCard(){
   $('#flashcard').setAttribute('aria-label',state.revealed?'答案已顯示':'溫習卡，按下顯示答案');
   $('#flashcard').innerHTML=`<div class="card-inner"><section class="card-face card-front" aria-hidden="${state.revealed}" ${state.revealed?'inert':''}><div class="card-topline"><span class="type-badge">${escapeHtml(labelFor(item))}</span><span>${state.index+1} / ${total}</span></div>${speakerButton()}<div class="card-content"><p class="face-label">${frontLabel}</p><h2 lang="${reverse?'zh-HK':'ja'}">${escapeHtml(frontText)}</h2>${frontReading}<p class="flip-hint">↻ 點擊翻面查看答案</p></div></section><section class="card-face card-back" aria-hidden="${!state.revealed}" ${!state.revealed?'inert':''}><div class="card-topline"><span class="back-badge">答案與內容</span><span>${state.index+1} / ${total}</span></div>${speakerButton()}<div class="card-content">${answerBackHtml(item,japanese,reverse)}<p class="flip-hint">↻ 點擊返回題目</p></div></section></div>`;
   bindSpeakButtons(japanese);
+  $('#view-study')?.addEventListener('click',event=>{event.stopPropagation();openStudyDetails(item);});
   renderAnswerActions(total);
 }
 
 function renderAnswerActions(total=state.deck.length){
   const item=state.deck[state.index],record=reviewRecordFor(state.reviewProgress,item);
-  $('#answer-actions').innerHTML=`<button class="card-nav-button" id="previous-button" ${state.index===0?'disabled':''} aria-label="上一張" title="上一張">←</button><button class="review-mark-button incorrect ${record.status==='incorrect'?'selected':''}" id="mark-incorrect-button" aria-pressed="${record.status==='incorrect'}" aria-label="標記答錯" title="答錯（X）">✕</button><button class="review-mark-button bookmark ${record.bookmarked?'selected':''}" id="bookmark-button" aria-pressed="${Boolean(record.bookmarked)}" aria-label="${record.bookmarked?'取消收藏':'收藏'}" title="收藏（S）">${record.bookmarked?'★':'☆'}</button><button class="review-mark-button correct ${record.status==='correct'?'selected':''}" id="mark-correct-button" aria-pressed="${record.status==='correct'}" aria-label="標記答對" title="答對（C）">✓</button><button class="card-nav-button" id="next-button" aria-label="${state.index===total-1?'完成今次溫習':'下一張'}" title="${state.index===total-1?'完成今次溫習':'下一張'}">→</button>`;
+  $('#answer-actions').innerHTML=`<button class="card-nav-button" id="previous-button" ${state.index===0?'disabled':''} aria-label="上一張" title="上一張">←<small>上一張</small></button><button class="review-mark-button incorrect ${record.status==='incorrect'?'selected':''}" id="mark-incorrect-button" aria-pressed="${record.status==='incorrect'}" aria-label="標記答錯" title="答錯（X）">✕<small>答錯</small></button><button class="review-mark-button bookmark ${record.bookmarked?'selected':''}" id="bookmark-button" aria-pressed="${Boolean(record.bookmarked)}" aria-label="${record.bookmarked?'取消收藏':'收藏'}" title="收藏（S）">${record.bookmarked?'★':'☆'}<small>收藏</small></button><button class="review-mark-button correct ${record.status==='correct'?'selected':''}" id="mark-correct-button" aria-pressed="${record.status==='correct'}" aria-label="標記答對" title="答對（C）">✓<small>答對</small></button><button class="card-nav-button" id="next-button" aria-label="${state.index===total-1?'完成今次溫習':'下一張'}" title="${state.index===total-1?'完成今次溫習':'下一張'}">→<small>${state.index===total-1?'完成':'下一張'}</small></button>`;
   $('#previous-button').addEventListener('click',previousQuickCard);
   $('#next-button').addEventListener('click',nextQuickCard);
   $('#mark-incorrect-button').addEventListener('click',()=>markCurrentCard('incorrect'));
@@ -216,7 +220,7 @@ function answerBackHtml(item,japanese,reverse){
   const main=reverse
     ?`<p class="face-label">${answerLabel}</p><h2 lang="ja" class="back-main">${escapeHtml(japanese)}</h2>${reading}`
     :`<p class="face-label">${answerLabel}</p><h2 class="back-main" lang="zh-HK">${escapeHtml(schoolMeaning)}</h2><div class="back-term"><b lang="ja">${escapeHtml(japanese)}</b>${reading}</div>`;
-  return `<div class="card-retained-block"><small>題目</small><h3 class="retained-main" lang="${questionLanguage}">${escapeHtml(questionText)}</h3>${questionReading}</div><div class="card-revealed-details"><small>答案與內容</small>${main}<span class="back-category">${escapeHtml(category)}</span>${explanation?`<p class="answer-explain">${escapeHtml(explanation)}</p>`:''}${summary?`<div class="answer-supplementary"><b>AI 補充摘要</b><p>${escapeHtml(summary)}</p></div>`:''}${firstExample?`<div class="answer-example"><span lang="ja">${escapeHtml(firstExample.ja)}</span><small>${escapeHtml(firstExample.zh)}</small></div>`:''}</div>`;
+  return `<div class="card-retained-block"><small>題目</small><h3 class="retained-main" lang="${questionLanguage}">${escapeHtml(questionText)}</h3>${questionReading}</div><div class="card-revealed-details"><small>答案與內容</small>${main}<span class="back-category">${escapeHtml(category)}</span>${explanation?`<p class="answer-explain">${escapeHtml(explanation)}</p>`:''}${summary?`<div class="answer-supplementary"><b>AI 補充摘要</b><p>${escapeHtml(summary)}</p></div>`:''}${firstExample?`<div class="answer-example"><span lang="ja">${escapeHtml(firstExample.ja)}</span><small>${escapeHtml(firstExample.zh)}</small></div>`:''}<button type="button" id="view-study" class="study-detail-button">查看完整教材</button></div>`;
 }
 
 function speakerButton(){return '<button class="speak-button" data-speak type="button" aria-label="播放日文發音" title="播放日文發音"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4.03v8.05A4.5 4.5 0 0 0 16.5 12zm-2.5-8.7v2.06a7 7 0 0 1 0 13.28v2.06a9 9 0 0 0 0-17.4z"/></svg></button>';}
@@ -261,6 +265,7 @@ function readStorage(key){try{return localStorage.getItem(key);}catch{return nul
 function writeStorage(key,value){try{localStorage.setItem(key,value);return true;}catch{showToast('無法保存本機紀錄，請檢查瀏覽器儲存空間或私隱設定。');return false;}}
 function readJsonStorage(key,fallback){try{return JSON.parse(readStorage(key)||'null')??fallback;}catch{return fallback;}}
 function initialiseFilters(){
+  $('#deck-type').value=state.type;$('#card-direction').value=state.direction;
   const years=sortedUnique(state.all.map(item=>item.schoolYear));
   const savedYear=Number(readStorage('jp-study-deck-year'));
   state.year=years.includes(savedYear)?savedYear:years[0];
@@ -271,13 +276,13 @@ function initialiseFilters(){
   state.library.query=typeof saved.query==='string'?saved.query:'';
   for(const key of ['years','lessons','types'])state.library[key]=Array.isArray(saved[key])?saved[key].map(String).filter(value=>valid[key].has(value)):[];
   $('#search-input').value=state.library.query;
-  populateLibraryFilter('years',years.map(value=>({value:String(value),label:`Year ${value}`})));
+  populateLibraryFilter('years',years.map(value=>({value:String(value),label:`第 ${value} 學年`})));
   refreshLibraryLessonFilter();
   populateLibraryFilter('types',[{value:'vocabulary',label:'生字 Vocabulary'},{value:'grammar',label:'文法 Grammar'},{value:'reference',label:'學校補充資料'}].filter(option=>valid.types.has(option.value)));
   updateLibraryFilterControls();
   saveLibraryFilters();
 }
-function populateYearSelect(years){$('#year-select').innerHTML=years.map(year=>`<option value="${year}">Year ${year}</option>`).join('');$('#year-select').value=String(state.year);}
+function populateYearSelect(years){$('#year-select').innerHTML=years.map(year=>`<option value="${year}">第 ${year} 學年</option>`).join('');$('#year-select').value=String(state.year);}
 function populateLessonSelect(preferred){
   const entries=orderCurriculumLessons(state.lessons.filter(item=>item.schoolYear===state.year),state.year)
     .filter(meta=>state.all.some(item=>item.schoolYear===meta.schoolYear&&item.book===meta.book&&item.lesson===meta.lesson))
@@ -285,7 +290,7 @@ function populateLessonSelect(preferred){
   const lessons=entries.map(entry=>entry.lesson);
   state.lesson=lessons.includes(preferred)?preferred:lessons[0];
   const groups=entries.reduce((result,entry)=>{const book=entry.meta?.book||'教材';if(!result.has(book))result.set(book,[]);result.get(book).push(entry);return result;},new Map());
-  const option=entry=>`<option value="${entry.lesson}">${compactLessonLayout.matches?`Lesson ${String(entry.lesson).padStart(2,'0')}`:`${escapeHtml(entry.meta?.book||'')} · Lesson ${String(entry.lesson).padStart(2,'0')}`}</option>`;
+  const option=entry=>`<option value="${entry.lesson}">${compactLessonLayout.matches?`第 ${entry.lesson} 課`:`${escapeHtml(entry.meta?.book||'')} · 第 ${entry.lesson} 課`}</option>`;
   $('#lesson-select').innerHTML=groups.size>1?[...groups].map(([book,items])=>`<optgroup label="${escapeHtml(book)}">${items.map(option).join('')}</optgroup>`).join(''):entries.map(option).join('');
   $('#lesson-select').value=String(state.lesson);
   updateLessonBookContext();
@@ -305,7 +310,7 @@ function refreshLibraryLessonFilter(){
   const available=sortedUnique(state.all.filter(item=>!state.library.years.length||state.library.years.includes(String(item.schoolYear))).map(item=>item.lesson));
   const valid=new Set(available.map(String));
   state.library.lessons=state.library.lessons.filter(value=>valid.has(value));
-  populateLibraryFilter('lessons',available.map(value=>({value:String(value),label:`Lesson ${String(value).padStart(2,'0')}`})));
+  populateLibraryFilter('lessons',available.map(value=>({value:String(value),label:`第 ${value} 課`})));
 }
 function saveLibraryFilters(){writeStorage('jp-study-library-filters',JSON.stringify(state.library));}
 function updateLibraryFilterControls(){
@@ -340,6 +345,7 @@ function setDrawerOpen(open){
 
 let libraryLimit=60;
 function renderLibrary(more=false){
+  renderActiveFilters();
   libraryLimit=more?libraryLimit+60:60;
   const query=normalizeSearch(state.library.query.trim());
   const archive=[...state.all,...state.references];
@@ -351,9 +357,20 @@ function renderLibrary(more=false){
   $$('[data-library-speak]').forEach(button=>button.addEventListener('click',()=>{const item=archive.find(entry=>entry.id===button.dataset.librarySpeak);if(item)speakJapanese(japaneseFor(item));}));
 }
 
-function switchView(view){
-  state.view=view;$$('.view').forEach(panel=>panel.classList.toggle('active',panel.id===`${view}-view`));$$('.nav-item').forEach(item=>item.classList.toggle('active',item.dataset.view===view));
-  setDrawerOpen(false);if(view==='library')renderLibrary();if(view==='conjugation')loadConjugation();
+const viewScroll={review:0,library:0,conjugation:0};
+function updateViewHeading(){
+  $('.crumb span').textContent=state.view==='review'?`第 ${state.year} 學年`:'教材';
+  $('.crumb b').textContent=state.view==='review'?`第 ${state.lesson} 課`:state.view==='library'?'資料庫':'詞形';
+}
+async function switchView(view){
+  if(!['review','library','conjugation'].includes(view))return;
+  viewScroll[state.view]=window.scrollY;
+  state.view=view;$$('.view').forEach(panel=>panel.classList.toggle('active',panel.id===`${view}-view`));
+  $$('.nav-item').forEach(item=>item.classList.toggle('active',item.dataset.view===view));
+  $$('[data-mobile-view]').forEach(button=>{if(button.dataset.mobileView===view)button.setAttribute('aria-current','page');else button.removeAttribute('aria-current');});
+  setDrawerOpen(false);updateViewHeading();
+  if(view==='conjugation')await loadConjugation();
+  if(state.view===view)requestAnimationFrame(()=>{if(state.view===view){window.scrollTo(0,viewScroll[view]);if(view==='conjugation')revealSelectedForm();}});
 }
 
 const conjugationState={forms:[],verbs:[],keigo:null,quick:null,plain:null,derived:null,quickVerb:'待ちます',plainType:'verb',formId:'dictionary',section:'basic',group:'ALL',query:'',revealed:false,loaded:false};
@@ -377,6 +394,7 @@ function renderConjugation(){
   $('#conjugation-summary').textContent=`${verbs.length} 個例子 · ${conjugationState.revealed?'答案已顯示':'先諗答案，再揭曉'}`;
   $('#conjugation-list').innerHTML=verbs.length?verbs.map(verb=>{const answer=verb.forms[form.id],negative=verb.forms.conditionalNegative;const result=form.id==='conditional'?`<div class="conjugation-answer ${conjugationState.revealed?'revealed':''}"><small>肯定</small><h2 lang="ja">${conjugationState.revealed?answer[0]:'？'}</h2><p lang="ja">${conjugationState.revealed?answer[1]:'答えを隠しています'}</p></div><div class="conjugation-answer ${conjugationState.revealed?'revealed':''}"><small>否定</small><h2 lang="ja">${conjugationState.revealed?negative[0]:'？'}</h2><p lang="ja">${conjugationState.revealed?negative[1]:'答えを隠しています'}</p></div>`:`<div class="conjugation-answer ${conjugationState.revealed?'revealed':''}"><h2 lang="ja">${conjugationState.revealed?answer[0]:'？'}</h2><p lang="ja">${conjugationState.revealed?answer[1]:'答えを隠しています'}</p></div>`;return `<article class="conjugation-verb ${form.id==='conditional'?'conditional-verb':''}"><div><span class="type-badge">${verb.group}組</span><h2 lang="ja">${verb.masu[0]}</h2><p lang="ja">${verb.masu[1]}</p><small>${verb.meaning}</small></div><div class="conjugation-arrow">→</div><div class="conjugation-results">${result}</div></article>`;}).join(''):'<div class="empty-state"><b>搵唔到相符動詞</b><br>試吓日文、假名、ます形、辭書形或英文意思。</div>';
   renderDerivedForms();
+  requestAnimationFrame(revealSelectedForm);
   $$('[data-conjugation-form]').forEach(button=>button.addEventListener('click',()=>{conjugationState.formId=button.dataset.conjugationForm;renderConjugation();}));
 }
 function politeForms(verb){const [kanji,kana]=verb.masu;return {present:[kanji,kana],past:[kanji.replace('ます','ました'),kana.replace('ます','ました')],negative:[kanji.replace('ます','ません'),kana.replace('ます','ません')],negativePast:[kanji.replace('ます','ませんでした'),kana.replace('ます','ませんでした')]};}
@@ -428,11 +446,11 @@ $('#google-login-button').addEventListener('click',async()=>{
 });
 $('#sync-now-button').addEventListener('click',async()=>{try{await progressSync?.retry();await progressSync?.flush();}catch(error){showToast('同步失敗，請重試。');}});
 $('#logout-button').addEventListener('click',async()=>{try{await progressSync?.logout();}catch(error){showToast('尚有未同步進度，請連線後重試。');}});
-$('#deck-type').addEventListener('change',event=>{state.type=event.target.value;resetDeck();});
+$('#deck-type').addEventListener('change',event=>{state.type=event.target.value;writeStorage('jp-study-deck-type',state.type);resetDeck();});
 $('#year-select').addEventListener('change',event=>{state.year=Number(event.target.value);populateLessonSelect(null);resetDeck();});
 $('#lesson-select').addEventListener('change',event=>{state.lesson=Number(event.target.value);writeStorage('jp-study-deck-lesson',String(state.lesson));resetDeck();});
 compactLessonLayout.addEventListener('change',()=>populateLessonSelect(state.lesson));
-$('#card-direction').addEventListener('change',event=>{state.direction=event.target.value;resetDeck();});
+$('#card-direction').addEventListener('change',event=>{state.direction=event.target.value;writeStorage('jp-study-card-direction',state.direction);resetDeck();});
 $$('[data-order-mode]').forEach(button=>button.addEventListener('click',()=>setOrderMode(button.dataset.orderMode)));
 $('#reset-review-progress').addEventListener('click',()=>{
   if(!state.scopeDeck.length)return;
@@ -472,7 +490,7 @@ $$('.library-filter').forEach(root=>{
 });
 $('#clear-filters').addEventListener('click',()=>{state.library={query:'',years:[],lessons:[],types:[]};$('#search-input').value='';$$('.library-filter input').forEach(input=>input.checked=false);refreshLibraryLessonFilter();updateLibraryFilterControls();saveLibraryFilters();renderLibrary();});
 document.addEventListener('click',event=>{if(!event.target.closest('.library-filter'))closeFilterMenus();});
-document.addEventListener('dblclick',event=>event.preventDefault(),{passive:false});
+
 document.addEventListener('keydown',event=>{if(event.key==='Escape'){if($('#menu-button').getAttribute('aria-expanded')==='true'){setDrawerOpen(false);$('#menu-button').focus();return;}const open=$('.library-filter .filter-menu:not([hidden])');if(open){const root=open.closest('.library-filter');closeFilterMenus();root.querySelector('.filter-trigger').focus();}}});
 document.addEventListener('keydown',event=>{
   if(state.view!=='review'||event.ctrlKey||event.metaKey||event.altKey||event.repeat||document.querySelector('dialog[open]')||!$('#install-modal').hidden||$('#menu-button').getAttribute('aria-expanded')==='true'&&compactSidebarQuery.matches||document.activeElement.isContentEditable||/INPUT|SELECT|TEXTAREA|BUTTON|A/.test(document.activeElement.tagName))return;
@@ -483,6 +501,77 @@ document.addEventListener('keydown',event=>{
   if(event.key.toLowerCase()==='s'){event.preventDefault();toggleCurrentBookmark();return;}
   if(event.code==='Space'){event.preventDefault();state.revealed?hideAnswer():revealCard();}
 });
+// Mobile controls share the same review state; draft selections never mutate a session.
+const deckDialog=$('#deck-dialog'),studyDialog=$('#study-dialog');
+function draftLessons(preferred){
+  const year=Number($('#draft-year').value);
+  const lessons=orderCurriculumLessons(state.lessons.filter(item=>item.schoolYear===year),year);
+  $('#draft-lesson').innerHTML=lessons.map(item=>`<option value="${item.lesson}">${escapeHtml(item.book)} · 第 ${item.lesson} 課</option>`).join('');
+  if(lessons.some(item=>item.lesson===preferred))$('#draft-lesson').value=String(preferred);
+}
+$('#edit-deck').addEventListener('click',()=>{
+  $('#deck-draft').innerHTML=[['year','學年','#year-select'],['lesson','課堂','#lesson-select'],['type','內容','#deck-type'],['direction','卡片方向','#card-direction']].map(([key,label,source])=>`<label for="draft-${key}">${label}<select id="draft-${key}">${$(source).innerHTML}</select></label>`).join('');
+  $('#draft-year').value=String(state.year);draftLessons(state.lesson);
+  $('#draft-type').value=state.type;$('#draft-direction').value=state.direction;
+  $('#draft-year').addEventListener('change',()=>draftLessons(null));
+  deckDialog.returnValue='cancel';deckDialog.showModal();
+});
+deckDialog.addEventListener('close',()=>{
+  if(deckDialog.returnValue!=='apply')return;
+  state.year=Number($('#draft-year').value);state.lesson=Number($('#draft-lesson').value);
+  state.type=$('#draft-type').value;state.direction=$('#draft-direction').value;
+  $('#year-select').value=String(state.year);populateLessonSelect(state.lesson);
+  $('#deck-type').value=state.type;$('#card-direction').value=state.direction;
+  writeStorage('jp-study-deck-type',state.type);writeStorage('jp-study-card-direction',state.direction);
+  resetDeck();
+});
+function openStudyDetails(item){
+  $('#study-dialog-content').innerHTML=`<h3 lang="ja">${escapeHtml(japaneseFor(item))}</h3>${item.kana?`<p lang="ja">${escapeHtml(item.kana)}</p>`:''}${item.meaningZh?`<p>${escapeHtml(item.meaningZh)}</p>`:''}${item.explanationZh?`<p>${escapeHtml(item.explanationZh)}</p>`:''}${studyDetailsHtml(item)}`;
+  const details=$('#study-dialog-content .library-details');if(details)details.open=true;
+  studyDialog.showModal();studyDialog.scrollTop=0;
+}
+$('#close-study').addEventListener('click',()=>studyDialog.close());
+$$('[data-mobile-view]').forEach(button=>button.addEventListener('click',()=>switchView(button.dataset.mobileView)));
+function renderActiveFilters(){
+  const chips=[];
+  if(state.library.query)chips.push({key:'query',value:state.library.query,label:`搜尋：${state.library.query}`});
+  for(const key of ['years','lessons','types'])for(const value of state.library[key]){
+    const label=key==='years'?`第 ${value} 學年`:key==='lessons'?`第 ${value} 課`:({vocabulary:'生字',grammar:'文法',reference:'學校補充資料'})[value];
+    chips.push({key,value,label});
+  }
+  $('#active-library-filters').innerHTML=chips.map((chip,index)=>`<button type="button" data-chip="${index}" aria-label="移除${escapeHtml(chip.label)}">${escapeHtml(chip.label)} <span aria-hidden="true">×</span></button>`).join('');
+  $$('[data-chip]').forEach(button=>button.addEventListener('click',()=>{
+    const {key,value}=chips[Number(button.dataset.chip)];
+    if(key==='query'){state.library.query='';$('#search-input').value='';}
+    else{state.library[key]=state.library[key].filter(item=>item!==value);$(`[data-library-filter="${key}"]`).querySelectorAll('input').forEach(input=>input.checked=state.library[key].includes(input.value));if(key==='years')refreshLibraryLessonFilter();}
+    updateLibraryFilterControls();saveLibraryFilters();renderLibrary();$('#search-input').focus({preventScroll:true});
+  }));
+}
+function revealSelectedForm(){
+  const selector=$('#conjugation-selector'),active=selector.querySelector('.active');
+  if(!active||state.view!=='conjugation'||conjugationState.section!=='basic')return;
+  const box=selector.getBoundingClientRect(),selected=active.getBoundingClientRect();
+  if(selected.left<box.left||selected.right>box.right)selector.scrollLeft+=selected.left-box.left-(box.width-selected.width)/2;
+}
+window.addEventListener('resize',revealSelectedForm);
+function updateKeyboardState(){
+  const editable=document.activeElement?.matches('input,textarea,select,[contenteditable="true"]');
+  document.body.classList.toggle('mobile-editing',Boolean(editable));
+}
+document.addEventListener('focusin',updateKeyboardState);
+document.addEventListener('focusout',()=>requestAnimationFrame(updateKeyboardState));
+window.visualViewport?.addEventListener('resize',updateKeyboardState);
+// Fixed bars grow with text size; reserve their measured height in the reading area.
+const mobileBarObserver=new ResizeObserver(entries=>{
+  if(!compactLessonLayout.matches)return;
+  for(const {target} of entries){
+    const height=target.getBoundingClientRect().height;
+    if(height>0)document.documentElement.style.setProperty(target.id==='answer-actions'?'--mobile-controls-height':'--mobile-nav-height',`${height}px`);
+  }
+});
+mobileBarObserver.observe($('.mobile-nav'));mobileBarObserver.observe($('#answer-actions'));
+
+
 progressSync=createProgressSync({
   getProgress:()=>state.reviewProgress,
   setProgress:setSyncedProgress,

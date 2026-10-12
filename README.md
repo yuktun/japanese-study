@@ -97,6 +97,11 @@ Pending writes and progress snapshots are saved separately for each account and 
 
 ## Browsing and review checks
 
+On screens up to 780px wide, **溫習 / 資料庫 / 詞形** are available in the bottom navigation. Review settings open from **更改**: changes take effect only after **套用**, while Cancel/Escape preserve the current card. Content type and card direction are remembered locally alongside the selected year and lesson. Each view retains its scroll position during navigation.
+
+Review actions remain above the bottom navigation and reserve space according to their rendered height, including enlarged text. They hide while editing an input or using a dialog/drawer. Long grammar explanations scroll with the page; **查看完整教材** opens all available notes, examples, tables, source text, and separately labelled AI supplements. Library filter chips can be removed individually. The course sidebar reports actual vocabulary/grammar counts rather than a decorative progress percentage.
+
+
 The Library includes vocabulary, grammar, and school reference material. Expand **查看完整內容** to read notes, all examples, tables, and available source text. Results load 60 at a time; search still covers the entire archive. Chinese-to-Japanese flashcards exclude records without a school-provided Chinese meaning and disclose the omitted count.
 
 Regression checks for account synchronization run without any production Firebase access:

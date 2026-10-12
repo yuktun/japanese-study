@@ -2,7 +2,7 @@
 <html lang="zh-HK">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="theme-color" content="#102b69">
   <meta name="description" content="日本語生字與文法溫習工具">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -27,20 +27,20 @@
 
       <nav class="side-nav" aria-label="主要功能">
         <button class="nav-item active" data-view="review">
-          <span class="nav-icon">▱</span><span>Flashcards</span><small>溫習卡</small>
+          <span class="nav-icon">▱</span><span>溫習</span><small>溫習卡</small>
         </button>
         <button class="nav-item" data-view="library">
-          <span class="nav-icon">⌕</span><span>Library</span><small>資料庫</small>
+          <span class="nav-icon">⌕</span><span>資料庫</span><small>資料庫</small>
         </button>
         <button class="nav-item" data-view="conjugation">
-          <span class="nav-icon">あ</span><span>Conjugation</span><small>詞形</small>
+          <span class="nav-icon">あ</span><span>詞形</span><small>詞形</small>
         </button>
       </nav>
 
       <div class="course-block">
-        <p class="side-label">CURRENT COURSE</p>
+        <p class="side-label">目前課程</p>
         <div class="course-row"><span class="course-dot"></span><div><b id="course-year">Year 1</b><small id="course-book">大家的日本語 · 初級 I</small></div></div>
-        <div class="course-progress"><span></span></div>
+        <p class="course-inventory" id="course-inventory"></p>
         <p class="course-caption" id="course-lesson">Lesson 1 已加入</p>
       </div>
       <section class="account-sync" aria-labelledby="account-sync-title">
@@ -52,7 +52,7 @@
       <div class="sidebar-footer">
         <div class="sidebar-note">
           <span>教材狀態</span>
-          <b><i></i> 學校 PDF 樣本</b>
+          <b><i></i> 學校 PDF 教材</b>
         </div>
         <div class="offline-status" id="offline-status" role="status" aria-live="polite" hidden></div>
         <div class="pwa-update-control">
@@ -76,13 +76,15 @@
 
       <section id="review-view" class="view active" aria-labelledby="review-title">
         <div class="review-heading">
-          <div><p class="eyebrow">DAILY REVIEW</p><h1 id="review-title">溫故知新。</h1><p>睇一眼題目，先喺心入面答，再揭曉答案。</p></div>
+          <div><p class="eyebrow">每日溫習</p><h1 id="review-title">溫故知新。</h1><p>睇一眼題目，先喺心入面答，再揭曉答案。</p></div>
           <div class="study-mode-toggle" role="group" aria-label="卡片次序">
             <button type="button" data-order-mode="sequential" aria-pressed="true"><span aria-hidden="true">≡</span> 循序模式</button>
             <button type="button" data-order-mode="random" aria-pressed="false"><span aria-hidden="true">↝</span> 隨機模式</button>
           </div>
         </div>
 
+        <div class="mobile-deck-summary"><span id="deck-summary">正在載入教材…</span><button id="edit-deck" type="button" disabled>更改</button></div>
+        <p id="mobile-direction-note" class="mobile-direction-note" role="status" hidden></p>
         <div class="review-layout">
           <aside class="deck-settings" aria-label="卡組設定">
             <div class="setting-heading"><span>今次溫習</span><b id="deck-total">17 張</b></div>
@@ -150,7 +152,7 @@
       </section>
 
       <section id="library-view" class="view" aria-labelledby="library-title">
-        <div class="library-heading"><div><p class="eyebrow">STUDY ARCHIVE</p><h1 id="library-title">以前學過，隨時搵得返。</h1><p>用日文、假名或中文搜尋。</p></div></div>
+        <div class="library-heading"><div><p class="eyebrow">教材資料庫</p><h1 id="library-title">以前學過，隨時搵得返。</h1><p>用日文、假名或中文搜尋。</p></div></div>
         <div class="library-toolbar">
           <label class="search-box"><span>⌕</span><input id="search-input" type="search" placeholder="例如：醫生、会社員、N1 は…" aria-label="搜尋教材"></label>
           <div class="library-filters" aria-label="資料庫篩選">
@@ -169,11 +171,12 @@
             <button class="clear-filters" id="clear-filters" type="button" hidden>清除全部</button>
           </div>
         </div>
+        <div id="active-library-filters" class="active-filter-chips" aria-label="已選條件"></div>
         <div class="result-summary"><b id="result-count">17 項內容</b><span>Year 1 · Lesson 1</span></div>
         <div class="library-grid" id="library-grid" aria-live="polite"></div>
       </section>
       <section id="conjugation-view" class="view" aria-labelledby="conjugation-title">
-        <div class="library-heading"><div><p class="eyebrow">CONJUGATION REFERENCE</p><h1 id="conjugation-title">詞形，逐個拆清楚。</h1><p>大家的日本語 · 按原本學習課次整理。</p></div></div>
+        <div class="library-heading"><div><p class="eyebrow">詞形參考</p><h1 id="conjugation-title">詞形，逐個拆清楚。</h1><p>大家的日本語 · 按原本學習課次整理。</p></div></div>
         <div class="conjugation-sections" role="tablist" aria-label="詞形分類"><button class="active" data-conjugation-section="basic">基本詞形</button><button data-conjugation-section="plain">普通形整理</button><button data-conjugation-section="quick">速查表</button><button data-conjugation-section="keigo">敬語</button></div>
         <div class="conjugation-basic" id="conjugation-basic">
         <div class="conjugation-selector" id="conjugation-selector" aria-label="選擇詞形"></div>
@@ -192,6 +195,21 @@
     </main>
   </div>
 
+  <nav class="mobile-nav" aria-label="手機主要功能">
+    <button type="button" data-mobile-view="review" aria-current="page">溫習</button>
+    <button type="button" data-mobile-view="library">資料庫</button>
+    <button type="button" data-mobile-view="conjugation">詞形</button>
+  </nav>
+  <dialog id="deck-dialog" class="study-dialog" aria-labelledby="deck-dialog-title">
+    <form method="dialog"><header><h2 id="deck-dialog-title">今次溫習</h2><button value="cancel">取消</button></header>
+      <div id="deck-draft" class="draft-fields"></div>
+      <footer><button value="apply" class="primary">套用</button></footer>
+    </form>
+  </dialog>
+  <dialog id="study-dialog" class="study-dialog" aria-labelledby="study-dialog-title">
+    <header><h2 id="study-dialog-title">完整教材</h2><button id="close-study" type="button" autofocus>關閉</button></header>
+    <div id="study-dialog-content"></div>
+  </dialog>
   <div class="toast" id="toast" role="status" aria-live="polite"></div>
   <dialog class="migration-dialog" id="migration-dialog" aria-labelledby="migration-title"><form method="dialog"><h2 id="migration-title">選擇進度處理方式</h2><p>偵測到此裝置及雲端都有學習進度。兩者都會先保留備份。</p><p class="migration-conflict" id="migration-conflict" hidden></p><button value="merge" class="migration-choice"><b>合併本機與雲端進度</b><small>保留兩邊的卡片記錄；較新的答題狀態優先。</small></button><button value="cloud" class="migration-choice"><b>使用雲端進度</b><small>以此帳戶的已同步進度取代目前畫面。</small></button><button value="later" class="migration-choice"><b>暫時保留本機進度</b><small>現在不會上傳或覆蓋任何雲端資料。</small></button></form></dialog>
   <section class="pwa-update" id="pwa-update" role="dialog" aria-labelledby="pwa-update-title" hidden>

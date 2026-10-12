@@ -85,7 +85,7 @@ try{
     await page.locator('#conjugation-answer-toggle').click();
     assert.ok(await page.locator('.conjugation-verb').count()>0);
   }
-  for(const width of [320,390,768,1440]){
+  for(const width of [320,390,430,768,1440]){
     await page.setViewportSize({width,height:900});
     await page.evaluate(()=>new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve))));
     for(const view of ['review','library','conjugation']){
@@ -119,6 +119,79 @@ try{
   await page.locator('#flashcard').focus();
   await page.keyboard.press('Enter');
   assert.ok((await page.locator('.answer-supplementary').textContent()).includes('AI 補充摘要'),'derived explanations are labelled on review cards');
+  // Exercise real mobile actions, including cancel safety and reading long content.
+  await page.setViewportSize({width:390,height:844});
+  await page.evaluate(()=>window.scrollTo(0,0));
+  const beforeDraft=await page.locator('#deck-summary').textContent();
+  const beforeCard=await page.locator('#card-position').textContent();
+  await page.locator('#edit-deck').click();
+  await page.locator('#draft-year').selectOption('2');
+  await page.locator('#deck-dialog button[value="cancel"]').click();
+  assert.equal(await page.locator('#deck-summary').textContent(),beforeDraft,'cancel preserves the active course');
+  assert.equal(await page.locator('#card-position').textContent(),beforeCard,'cancel preserves current card');
+  assert.equal(await page.locator('#edit-deck').evaluate(node=>node===document.activeElement),true,'dialog restores focus');
+  await page.locator('#edit-deck').click();
+  await page.locator('#draft-year').selectOption('1');
+  await page.locator('#draft-lesson').selectOption('13');
+  await page.locator('#draft-type').selectOption('grammar');
+  await page.locator('#draft-direction').selectOption('zh-ja');
+  await page.locator('#deck-dialog button[value="apply"]').click();
+  await page.waitForFunction(()=>document.querySelector('#card-direction').value==='zh-ja'&&!document.querySelector('#mobile-direction-note').hidden);
+  assert.equal(await page.locator('#mobile-direction-note').isVisible(),true,'reverse omissions remain visible on mobile');
+  await page.reload();
+  await page.waitForFunction(()=>document.querySelector('#edit-deck').disabled===false);
+  assert.equal(await page.locator('#deck-type').inputValue(),'grammar','content preference survives reload');
+  assert.equal(await page.locator('#card-direction').inputValue(),'zh-ja','direction preference survives reload');
+  await page.locator('#edit-deck').click();
+  await page.locator('#draft-direction').selectOption('ja-zh');
+  if(process.env.AUDIT_SCREENSHOT_DIR)await page.screenshot({path:resolve(process.env.AUDIT_SCREENSHOT_DIR,'settings-mobile.png')});
+  await page.locator('#deck-dialog button[value="apply"]').click();
+  await page.waitForFunction(()=>document.querySelector('#card-direction').value==='ja-zh');
+  await page.locator('#card-jump').fill('2');
+  await page.locator('#card-jump').press('Tab');
+  await page.locator('#flashcard').focus();await page.keyboard.press('Enter');
+  assert.equal(await page.locator('.answer-explain').evaluate(node=>getComputedStyle(node).maxHeight),'none','grammar explanation has no nested height limit');
+  await page.locator('#view-study').click();
+  assert.ok((await page.locator('#study-dialog-content').textContent()).includes('AI 補充說明'),'detail panel preserves source labels');
+  assert.equal(await page.locator('#study-dialog .library-details').getAttribute('open'),'','all notes expanded in detail panel');
+  await page.keyboard.press('Escape');
+  assert.equal(await page.locator('#view-study').evaluate(node=>node===document.activeElement),true,'detail closes to its original card control');
+  const scrollBeforeNav=await page.evaluate(()=>window.scrollY);
+  await page.locator('[data-mobile-view="library"]').click();
+  await page.locator('#clear-filters').click();
+  await page.locator('#search-input').fill('会社');
+  assert.equal(await page.locator('.mobile-nav').isVisible(),false,'keyboard editing hides fixed bars');
+  await page.locator('#search-input').press('Tab');
+  await page.locator('[data-chip]').click();
+  assert.equal(await page.locator('#search-input').inputValue(),'','search chip can be removed independently');
+  await page.locator('#search-input').press('Tab');
+  await page.evaluate(()=>window.scrollTo(0,550));
+  const libraryScroll=await page.evaluate(()=>window.scrollY);
+  await page.locator('[data-mobile-view="review"]').click();
+  await page.waitForFunction(y=>Math.abs(window.scrollY-y)<2,scrollBeforeNav);
+  await page.locator('[data-mobile-view="library"]').click();
+  await page.waitForFunction(y=>Math.abs(window.scrollY-y)<2,libraryScroll);
+  await page.locator('[data-mobile-view="conjugation"]').click();
+  await page.waitForSelector('[data-conjugation-form]');
+  await page.locator('[data-conjugation-form]').last().click();
+  await page.waitForFunction(()=>{const parent=document.querySelector('#conjugation-selector').getBoundingClientRect(),active=document.querySelector('#conjugation-selector .active').getBoundingClientRect();return active.left>=parent.left-1&&active.right<=parent.right+1;});
+  await page.locator('[data-mobile-view="review"]').click();
+  await page.evaluate(()=>window.scrollTo(0,0));
+  await page.locator('#theme-toggle').click();
+  for(const width of [320,390,430,768]){
+    await page.setViewportSize({width,height:844});
+    assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),`long grammar fits ${width}`);
+    assert.ok(await page.locator('#next-button').evaluate(node=>{const b=node.getBoundingClientRect();return b.height>=44&&b.width>=44&&b.bottom<=innerHeight;}),'fixed actions are reachable');
+  }
+  await page.setViewportSize({width:390,height:844});
+  await page.evaluate(()=>document.documentElement.style.fontSize='200%');
+  await page.evaluate(()=>new Promise(resolve=>requestAnimationFrame(()=>requestAnimationFrame(resolve))));
+  if(process.env.AUDIT_SCREENSHOT_DIR)await page.screenshot({path:resolve(process.env.AUDIT_SCREENSHOT_DIR,'large-text-mobile.png')});
+  assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),'enlarged text does not cause page overflow');
+  await page.evaluate(()=>document.documentElement.style.fontSize='');
+  await page.waitForFunction(()=>Math.abs(parseFloat(getComputedStyle(document.querySelector('#menu-button')).fontSize)-20.8)<1);
+  if(process.env.AUDIT_SCREENSHOT_DIR)await page.screenshot({path:resolve(process.env.AUDIT_SCREENSHOT_DIR,'grammar-dark-mobile.png')});
+  await page.setViewportSize({width:1440,height:1000});
   await page.waitForFunction(()=>document.querySelector('#offline-status').dataset.state==='ready');
   await context.setOffline(true);
   await page.reload();
@@ -128,6 +201,16 @@ try{
   await page.locator('[data-view="conjugation"]').click();
   await page.waitForSelector('[data-conjugation-form]');
   assert.equal(await page.locator('[data-conjugation-form]').count(),12,'all conjugation references load offline');
+  await page.setViewportSize({width:390,height:844});
+  await page.locator('[data-mobile-view="review"]').click();
+  await page.locator('#edit-deck').click();
+  assert.equal(await page.locator('#draft-type').inputValue(),'grammar','mobile settings work offline');
+  await page.keyboard.press('Escape');
+  await page.locator('#flashcard').focus();await page.keyboard.press('Enter');
+  await page.locator('#view-study').click();
+  assert.ok((await page.locator('#study-dialog-content').textContent()).length>50,'full lesson detail works offline');
+  await page.locator('#close-study').click();
+
   const blocked=await browser.newContext();
   await blocked.route('https://**/*',route=>route.abort());
   await blocked.addInitScript(()=>Object.defineProperty(window,'localStorage',{get(){throw new DOMException('Storage blocked','SecurityError');}}));
@@ -140,5 +223,5 @@ try{
   await blocked.close();
   assert.deepEqual(errors,[],'all views and startup run without uncaught errors');
   await context.close();
-  console.log(`App browser tests passed: 62 lessons, review, library pagination/content, 12 conjugation forms, four viewport sizes, reverse prompts, corrupt storage, and offline reload.`);
+  console.log(`App browser tests passed: 62 lessons, review, library pagination/content, 12 conjugation forms, five viewport sizes and mobile settings/navigation/details, reverse prompts, corrupt storage, and offline reload.`);
 }finally{await browser.close();await new Promise(resolve=>server.close(resolve));}
