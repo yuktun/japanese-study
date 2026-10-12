@@ -15,19 +15,81 @@
     "notes": [
       "助數詞一般放在｢名詞＋助詞｣(｢Ｎが/を｣)之後，動詞之前，但是表示時間長度的助數詞不在此限。"
     ],
-    "meaningZh": "用合適的助數詞表示物件、人數、次數或時間等的數量。",
     "table": [
-      {"counter": "～つ", "question": "いくつ", "explanation": "計算一般的小物品", "notes": "一件至十件分別是｢ひとつ、ふたつ、みっつ、よっつ、いつつ、むっつ、ななつ、やっつ、ここのつ、とお｣\n十一以上直接用數字來數"},
-      {"counter": "～人", "question": "何人", "reading": "なんにん", "explanation": "計算人數", "notes": "一個人是｢ひとり｣\n兩個人是｢ふたり｣\n四個人唸｢よにん｣"},
-      {"counter": "～台", "question": "何台", "reading": "なんだい", "explanation": "計算機械/電器/交通工具"},
-      {"counter": "～枚", "question": "何枚", "reading": "なんまい", "explanation": "計算薄或扁平的物品"},
-      {"counter": "～回", "question": "何回", "reading": "なんかい", "explanation": "計算次數", "notes": "1、6、8、10 次分別唸「いっかい、ろっかい、はっかい、じゅっかい」"},
-      {"counter": "～分", "question": "何分", "reading": "なんぷん", "explanation": "分鐘", "notes": "1、3、4、6、8、10 分鐘分別唸「いっぷん、さんぷん、よんぷん、ろっぷん、はっぷん、じゅっぷん」\n2、5、7、9 分鐘分別唸「にふん、ごふん、ななふん／しちふん、きゅうふん」"},
-      {"counter": "～時間", "question": "何時間", "reading": "なんじかん", "explanation": "小時", "notes": "四小時唸「よじかん」"},
-      {"counter": "～日", "question": "何日", "reading": "なんにち", "explanation": "日數", "notes": "一天是｢いちにち｣\n一號是｢ついたち｣"},
-      {"counter": "～週間", "question": "何週間", "reading": "なんしゅうかん", "explanation": "星期", "notes": "一星期唸「いっしゅうかん」"},
-      {"counter": "～か月", "question": "何か月", "reading": "なんかげつ", "explanation": "月數", "notes": "六個月(｢6 か月｣)也可説成半年，半年唸｢はんとし｣"},
-      {"counter": "～年", "question": "何年", "reading": "なんねん", "explanation": "年數", "notes": "四年唸｢よねん｣"}
+      {
+        "counter": "～つ",
+        "question": "いくつ",
+        "explanation": "計算一般的小物品",
+        "notes": "一件至十件分別是｢ひとつ、ふたつ、みっつ、よっつ、いつつ、むっつ、ななつ、やっつ、ここのつ、とお｣\n十一以上直接用數字來數"
+      },
+      {
+        "counter": "～人",
+        "question": "何人",
+        "reading": "なんにん",
+        "explanation": "計算人數",
+        "notes": "一個人是｢ひとり｣\n兩個人是｢ふたり｣\n四個人唸｢よにん｣"
+      },
+      {
+        "counter": "～台",
+        "question": "何台",
+        "reading": "なんだい",
+        "explanation": "計算機械/電器/交通工具"
+      },
+      {
+        "counter": "～枚",
+        "question": "何枚",
+        "reading": "なんまい",
+        "explanation": "計算薄或扁平的物品"
+      },
+      {
+        "counter": "～回",
+        "question": "何回",
+        "reading": "なんかい",
+        "explanation": "計算次數",
+        "notes": "1、6、8、10 次分別唸「いっかい、ろっかい、はっかい、じゅっかい」"
+      },
+      {
+        "counter": "～分",
+        "question": "何分",
+        "reading": "なんぷん",
+        "explanation": "分鐘",
+        "notes": "1、3、4、6、8、10 分鐘分別唸「いっぷん、さんぷん、よんぷん、ろっぷん、はっぷん、じゅっぷん」\n2、5、7、9 分鐘分別唸「にふん、ごふん、ななふん／しちふん、きゅうふん」"
+      },
+      {
+        "counter": "～時間",
+        "question": "何時間",
+        "reading": "なんじかん",
+        "explanation": "小時",
+        "notes": "四小時唸「よじかん」"
+      },
+      {
+        "counter": "～日",
+        "question": "何日",
+        "reading": "なんにち",
+        "explanation": "日數",
+        "notes": "一天是｢いちにち｣\n一號是｢ついたち｣"
+      },
+      {
+        "counter": "～週間",
+        "question": "何週間",
+        "reading": "なんしゅうかん",
+        "explanation": "星期",
+        "notes": "一星期唸「いっしゅうかん」"
+      },
+      {
+        "counter": "～か月",
+        "question": "何か月",
+        "reading": "なんかげつ",
+        "explanation": "月數",
+        "notes": "六個月(｢6 か月｣)也可説成半年，半年唸｢はんとし｣"
+      },
+      {
+        "counter": "～年",
+        "question": "何年",
+        "reading": "なんねん",
+        "explanation": "年數",
+        "notes": "四年唸｢よねん｣"
+      }
     ],
     "examples": [
       {
@@ -62,7 +124,11 @@
         "ja": "何日会社を休みましたか。\n…1週間休みました。",
         "zh": "你放了幾天假？\n放了一個星期。"
       }
-    ]
+    ],
+    "supplementary": {
+      "contentSource": "ai_derived",
+      "meaningZh": "用合適的助數詞表示物件、人數、次數或時間等的數量。"
+    }
   },
   {
     "id": "y1-l11-g002",
@@ -71,7 +137,6 @@
     "lesson": 11,
     "sourceOrder": 2,
     "pattern": "だけ",
-    "meaningZh": "只～，僅～。",
     "source": {
       "type": "school_pdf",
       "filename": "g_1_11.pdf"
@@ -91,7 +156,11 @@
         "ja": "休みは日曜日だけです。",
         "zh": "休息日只有星期天。"
       }
-    ]
+    ],
+    "supplementary": {
+      "contentSource": "ai_derived",
+      "meaningZh": "只～，僅～。"
+    }
   },
   {
     "id": "y1-l11-g003",
@@ -150,7 +219,6 @@
     "lesson": 11,
     "sourceOrder": 5,
     "pattern": "[期間助数詞]に[回数]Ｖ。",
-    "meaningZh": "在一段期間內進行[回数]次～。",
     "source": {
       "type": "school_pdf",
       "filename": "g_1_11.pdf"
@@ -166,6 +234,10 @@
         "ja": "1か月に何回映画を見ますか。\n…5回ぐらい見ます。",
         "zh": "1 個月看多少次電影？\n看大約 5 次。"
       }
-    ]
+    ],
+    "supplementary": {
+      "contentSource": "ai_derived",
+      "meaningZh": "在一段期間內進行[回数]次～。"
+    }
   }
 ]

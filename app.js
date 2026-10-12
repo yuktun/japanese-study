@@ -205,6 +205,7 @@ function nextQuickCard(){
 function answerBackHtml(item,japanese,reverse){
   const reading=item.type==='vocabulary'&&item.kanji?`<p class="answer-reading" lang="ja">${escapeHtml(item.kana)}</p>`:'';
   const explanation=item.explanationZh||item.notes||'';
+  const summary=item.supplementary?.contentSource==='ai_derived'?item.supplementary.meaningZh:'';
   const firstExample=item.examples?.[0];
   const category=item.type==='grammar'?'文法':item.category||'生字';
   const answerLabel=reverse?'日文答案':'中文意思';
@@ -215,7 +216,7 @@ function answerBackHtml(item,japanese,reverse){
   const main=reverse
     ?`<p class="face-label">${answerLabel}</p><h2 lang="ja" class="back-main">${escapeHtml(japanese)}</h2>${reading}`
     :`<p class="face-label">${answerLabel}</p><h2 class="back-main" lang="zh-HK">${escapeHtml(schoolMeaning)}</h2><div class="back-term"><b lang="ja">${escapeHtml(japanese)}</b>${reading}</div>`;
-  return `<div class="card-retained-block"><small>題目</small><h3 class="retained-main" lang="${questionLanguage}">${escapeHtml(questionText)}</h3>${questionReading}</div><div class="card-revealed-details"><small>答案與內容</small>${main}<span class="back-category">${escapeHtml(category)}</span>${explanation?`<p class="answer-explain">${escapeHtml(explanation)}</p>`:''}${firstExample?`<div class="answer-example"><span lang="ja">${escapeHtml(firstExample.ja)}</span><small>${escapeHtml(firstExample.zh)}</small></div>`:''}</div>`;
+  return `<div class="card-retained-block"><small>題目</small><h3 class="retained-main" lang="${questionLanguage}">${escapeHtml(questionText)}</h3>${questionReading}</div><div class="card-revealed-details"><small>答案與內容</small>${main}<span class="back-category">${escapeHtml(category)}</span>${explanation?`<p class="answer-explain">${escapeHtml(explanation)}</p>`:''}${summary?`<div class="answer-supplementary"><b>AI 補充摘要</b><p>${escapeHtml(summary)}</p></div>`:''}${firstExample?`<div class="answer-example"><span lang="ja">${escapeHtml(firstExample.ja)}</span><small>${escapeHtml(firstExample.zh)}</small></div>`:''}</div>`;
 }
 
 function speakerButton(){return '<button class="speak-button" data-speak type="button" aria-label="播放日文發音" title="播放日文發音"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4.03v8.05A4.5 4.5 0 0 0 16.5 12zm-2.5-8.7v2.06a7 7 0 0 1 0 13.28v2.06a9 9 0 0 0 0-17.4z"/></svg></button>';}

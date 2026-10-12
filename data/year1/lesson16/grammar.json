@@ -29,7 +29,10 @@
         "zh": "請先乘地鐵到大阪，之後再轉乘ＪＲ[火車]。"
       }
     ],
-    "meaningZh": "按先後次序連接兩個以上的動作。"
+    "supplementary": {
+      "contentSource": "ai_derived",
+      "meaningZh": "按先後次序連接兩個以上的動作。"
+    }
   },
   {
     "id": "y1-l16-g002",
@@ -65,7 +68,10 @@
         "zh": "工作結束之後，一起去飲啤酒吧。"
       }
     ],
-    "meaningZh": "先做Ｖ1，然後才進行Ｖ2。"
+    "supplementary": {
+      "contentSource": "ai_derived",
+      "meaningZh": "先做Ｖ1，然後才進行Ｖ2。"
+    }
   },
   {
     "id": "y1-l16-g003",
@@ -123,7 +129,10 @@
         "zh": "這道菜的製作方法很簡單。"
       }
     ],
-    "meaningZh": "描述主題(Ｎ)所具有的某個部分或特徵。"
+    "supplementary": {
+      "contentSource": "ai_derived",
+      "meaningZh": "描述主題(Ｎ)所具有的某個部分或特徵。"
+    }
   },
   {
     "id": "y1-l16-g005",
@@ -171,7 +180,10 @@
         "zh": "這個酒店很便宜，但是服務不太好。"
       }
     ],
-    "meaningZh": "用｢くて／で／て形｣把句子連接起來。"
+    "supplementary": {
+      "contentSource": "ai_derived",
+      "meaningZh": "用｢くて／で／て形｣把句子連接起來。"
+    }
   },
   {
     "id": "y1-l16-g006",

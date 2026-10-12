@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-12",
+  "scope": {
+    "lessons": 62,
+    "vocabularyRecords": 3122,
+    "grammarRecords": 319,
+    "schoolReferenceRecords": 8,
+    "sourceTextPdfsReviewed": 124,
+    "pdfFilesVisuallyInspected": 6,
+    "pdfPagesVisuallyInspected": 7,
+    "conjugationSpellingsAndReadingsChecked": 224
+  },
+  "method": "Normalized text comparison and anomaly review against all lesson PDFs, with targeted PDF page inspection for deletion marks. A text match confirms presence in the source, not every semantic association or every page layout.",
+  "layoutCorrections": [
+    {
+      "id": "y1-l08-g004",
+      "file": "data/year1/lesson08/grammar.json",
+      "reason": "Restore PDF strike-through on adjective endings."
+    },
+    {
+      "id": "y1-l12-g001",
+      "file": "data/year1/lesson12/grammar.json",
+      "reason": "Restore PDF strike-through on adjective endings."
+    },
+    {
+      "id": "y1-l20-g001",
+      "file": "data/year1/lesson20/grammar.json",
+      "reason": "Restore PDF strike-through on adjective endings."
+    },
+    {
+      "id": "y1-l20-r001",
+      "file": "data/year1/lesson20/reference.json",
+      "reason": "Restore PDF strike-through on adjective endings."
+    },
+    {
+      "id": "y1-l13-g002",
+      "file": "data/year1/lesson13/grammar.json",
+      "reason": "Restore deleted ます in the stem heading."
+    },
+    {
+      "id": "y4-l9-g001",
+      "file": "data/year4/lesson9/grammar.json",
+      "reason": "Restore deleted ます in the honorific heading."
+    },
+    {
+      "file": "data/conjugation/keigo.json",
+      "reason": "Restore the same honorific deletion mark in the reference card."
+    }
+  ],
+  "conjugationCorrection": {
+    "file": "data/conjugation/quick-reference.json",
+    "verb": "死ぬ",
+    "form": "nakatta",
+    "before": "死なかった",
+    "after": "死ななかった",
+    "reason": "The negative 死なない becomes 死ななかった in the past, retaining the stem-final な.",
+    "verification": "Tokyo University of Foreign Studies plain-form table explicitly lists しぬ → しななかった; independently verified with I-group inflection."
+  },
+  "existingSummariesRelabelledAsAi": [
+    "y1-l11-g001",
+    "y1-l11-g002",
+    "y1-l11-g005",
+    "y1-l12-g001",
+    "y1-l13-g002",
+    "y1-l13-g003",
+    "y1-l14-g001",
+    "y1-l14-g002",
+    "y1-l14-g003",
+    "y1-l16-g001",
+    "y1-l16-g002",
+    "y1-l16-g004",
+    "y1-l16-g005",
+    "y1-l17-g001",
+    "y1-l17-g005",
+    "y1-l18-g001",
+    "y1-l18-g006"
+  ],
+  "completeElementarySourceSectionsRestored": [
+    "y1-l14-g001",
+    "y1-l14-g005",
+    "y1-l18-g005",
+    "y1-l18-g006",
+    "y1-l19-g001",
+    "y1-l19-g002",
+    "y1-l19-g003",
+    "y1-l19-g004",
+    "y1-l20-g001",
+    "y2-l22-g002",
+    "y2-l22-g004",
+    "y2-l24-g001",
+    "y2-l24-g002",
+    "y2-l25-g001",
+    "y2-l25-g002",
+    "y2-l25-g003",
+    "y2-l26-g001",
+    "y2-l26-g002",
+    "y2-l26-g003",
+    "y2-l27-g001",
+    "y2-l27-g002",
+    "y2-l27-g003",
+    "y2-l27-g004",
+    "y2-l27-g005",
+    "y2-l27-g006",
+    "y2-l28-g001",
+    "y2-l28-g002",
+    "y2-l28-g003",
+    "y2-l29-g001",
+    "y2-l29-g002",
+    "y2-l29-g003",
+    "y2-l29-g004",
+    "y2-l29-g005",
+    "y2-l30-g001",
+    "y2-l30-g002",
+    "y2-l30-g003",
+    "y2-l30-g004",
+    "y2-l31-g001",
+    "y2-l31-g002",
+    "y2-l31-g003",
+    "y2-l31-g004",
+    "y2-l31-g005",
+    "y2-l31-g006",
+    "y2-l32-g001",
+    "y2-l32-g002",
+    "y2-l32-g003",
+    "y2-l32-g004",
+    "y2-l32-g005",
+    "y2-l32-g006",
+    "y3-l41-g001",
+    "y3-l41-g003",
+    "y3-l41-g004",
+    "y3-l42-g001",
+    "y3-l42-g003",
+    "y3-l43-g001",
+    "y3-l43-g002",
+    "y3-l43-g003",
+    "y3-l44-g004",
+    "y3-l46-g001",
+    "y3-l46-g002",
+    "y3-l46-g003",
+    "y3-l47-g001",
+    "y3-l47-g002",
+    "y3-l47-g003",
+    "y3-l48-g001",
+    "y3-l48-g002",
+    "y3-l48-g003",
+    "y3-l48-g004",
+    "y3-l49-g001",
+    "y3-l49-g002",
+    "y3-l49-g003",
+    "y3-l49-g004",
+    "y3-l49-g005",
+    "y3-l50-g001",
+    "y3-l50-g002"
+  ],
+  "vocabularyTextDifferences": {
+    "flagCount": 10,
+    "reviewed": "Page-break counters, table/form labels, brackets, attached usage cues, 鐘/鍾 normalization, and ニ/二 glyph extraction. No additional translation correction was justified by these flags.",
+    "sourceGlyphNoteAdded": "y4-l5-v007"
+  },
+  "retainedSchoolAnomalies": [
+    "y3-l41-g003",
+    "y4-l10-g005",
+    "y4-l10-g006",
+    "y4-l12-g008"
+  ],
+  "limitations": [
+    "The audit used source text for all 124 lesson PDFs and visually inspected seven targeted pages; it is not a certification of every printed page.",
+    "The remaining grammar summaries need field-by-field provenance review before treating every meaningZh as a separately printed school translation. Existing school explanations and source wording were not guessed or silently rewritten."
+  ],
+  "publicLanguageReference": "https://www.coelang.tufs.ac.jp/mt/ja/gmod/courses/c02/lesson21/step1/card/038.html"
+}

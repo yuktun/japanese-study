@@ -110,6 +110,15 @@ try{
   await page.locator('#card-direction').selectOption('zh-ja');
   assert.ok(Number((await page.locator('#deck-total').textContent()).split(' ')[0])<total,'reverse mode excludes cards without a translated prompt');
   assert.equal(await page.locator('#direction-note').isVisible(),true);
+  await page.locator('#card-direction').selectOption('ja-zh');
+  await page.locator('#year-select').selectOption('1');
+  await page.locator('#lesson-select').selectOption('13');
+  await page.locator('#deck-type').selectOption('grammar');
+  await page.locator('#card-jump').fill('2');
+  await page.locator('#card-jump').press('Tab');
+  await page.locator('#flashcard').focus();
+  await page.keyboard.press('Enter');
+  assert.ok((await page.locator('.answer-supplementary').textContent()).includes('AI 補充摘要'),'derived explanations are labelled on review cards');
   await page.waitForFunction(()=>document.querySelector('#offline-status').dataset.state==='ready');
   await context.setOffline(true);
   await page.reload();

@@ -75,6 +75,8 @@ node scripts/validate-data.mjs
 
 It checks the manifest, referenced files, required fields, lesson metadata, and globally unique item IDs.
 
+The 2026-10-12 content audit is recorded in `docs/content-audit-2026-10-12.json`, including its source-review scope and limitations. PDF deletion marks are normalized into explicit deletion instructions or the resulting forms. Existing generated summaries are retained separately as `supplementary.contentSource: "ai_derived"`; they are not used as school translations for reverse cards. Run `node scripts/test-conjugation-data.mjs` to verify the reference spellings, readings, quick-table forms, and corrected deletion marks.
+
 ## Offline use and updates
 
 Japanese Study is an offline-first PWA. Open the site while online and leave it open until the small status indicator says **已可離線使用**. At that point the app shell, every lesson listed in `data/manifest.json`, lesson reference files, and all conjugation reference data have been verified in the browser cache. You can then add the site to an iPhone Home Screen or use it in a desktop browser and continue studying without a connection.

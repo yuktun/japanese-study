@@ -105,7 +105,10 @@
         "勉強しない\n出張しない"
       ]
     ],
-    "meaningZh": "將動詞轉為｢ない形｣的方法。"
+    "supplementary": {
+      "contentSource": "ai_derived",
+      "meaningZh": "將動詞轉為｢ない形｣的方法。"
+    }
   },
   {
     "id": "y1-l17-g002",
@@ -225,6 +228,9 @@
         "zh": "今天晩上寫報告書嗎？\n不。報告書明天才寫。今天晩上會複習日語。"
       }
     ],
-    "meaningZh": "把直接受詞改為句子的主題時，用｢は｣取代｢を｣來強調該主題。"
+    "supplementary": {
+      "contentSource": "ai_derived",
+      "meaningZh": "把直接受詞改為句子的主題時，用｢は｣取代｢を｣來強調該主題。"
+    }
   }
 ]
