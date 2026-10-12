@@ -4,13 +4,13 @@ export const REVIEW_STORAGE_KEY='jp-study-flashcard-review-progress';
 export const GUEST_PROGRESS_KEY='jp-study-guest-review-progress';
 export const PROGRESS_SCHEMA_VERSION=1;
 
-export function hasProgress(progress){return Object.keys(normalizeReviewProgress(progress).cards).length>0;}
+export function hasProgress(progress){return Object.values(normalizeReviewProgress(progress).cards).some(card=>card.status||card.bookmarked);}
 export function cloneProgress(progress){return normalizeReviewProgress(JSON.parse(JSON.stringify(normalizeReviewProgress(progress))));}
 export function timestamp(value){const time=Date.parse(value);return Number.isFinite(time)?time:null;}
 
 // Status is last-write-wins only when both records have trustworthy timestamps.
 // A bookmark is additive so a bookmark made on either device is never lost.
-export function mergeProgress(localValue,cloudValue){
+export function mergeProgress(localValue,cloudValue,{preserveBookmarks=true}={}){
   const local=normalizeReviewProgress(localValue),cloud=normalizeReviewProgress(cloudValue);
   const cards={},conflicts=[];
   for(const key of new Set([...Object.keys(local.cards),...Object.keys(cloud.cards)])){
@@ -23,8 +23,13 @@ export function mergeProgress(localValue,cloudValue){
       if(leftTime!==null&&rightTime!==null&&leftTime!==rightTime)chosen=leftTime>rightTime?left:right;
       else conflicts.push(key); // caller must ask before accepting the local default.
     }else if(rightTime!==null&&(leftTime===null||rightTime>leftTime))chosen=right;
-    const lastReviewed=chosen.lastReviewed||(leftTime!==null&&rightTime!==null?(leftTime>rightTime?left.lastReviewed:right.lastReviewed):left.lastReviewed||right.lastReviewed);
-    cards[key]={...(chosen.status?{status:chosen.status}:{}),...(left.bookmarked||right.bookmarked?{bookmarked:true}:{}),...(lastReviewed?{lastReviewed}:{})};
+    if(!preserveBookmarks){
+      // Routine synchronization uses the complete newest record, including removals.
+      chosen=rightTime!==null&&(leftTime===null||rightTime>leftTime)?right:left;
+    }
+    const lastReviewed=chosen.lastReviewed;
+    const bookmarked=preserveBookmarks?left.bookmarked||right.bookmarked:chosen.bookmarked;
+    cards[key]={...(chosen.status?{status:chosen.status}:{}),...(bookmarked?{bookmarked:true}:{}),...(lastReviewed?{lastReviewed}:{})};
   }
   return {progress:{version:REVIEW_STORAGE_VERSION,cards},conflicts};
 }
@@ -41,7 +46,7 @@ export function progressFromFirestore(records){
     if(['correct','incorrect'].includes(record.status))card.status=record.status;
     if(record.bookmarked===true)card.bookmarked=true;
     if(typeof record.lastReviewed==='string')card.lastReviewed=record.lastReviewed;
-    if(card.status||card.bookmarked)cards[record.cardId]=card;
+    if(card.status||card.bookmarked||card.lastReviewed)cards[record.cardId]=card;
   }
   return {version:REVIEW_STORAGE_VERSION,cards};
 }

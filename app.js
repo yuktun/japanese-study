@@ -4,9 +4,11 @@ import {initialisePwa} from './src/pwa-client.mjs?v=pwa-1';
 import {configureJapanesePlaybackAudioSession} from './src/japanese-speech.mjs?v=ios-audio-session-1';
 import {initialiseInstallApp} from './src/install-app.mjs?v=install-app-1';
 import {createProgressSync} from './src/progress-sync.mjs?v=firebase-sync-1';
-import {GUEST_PROGRESS_KEY,REVIEW_STORAGE_KEY,cloneProgress} from './src/progress-storage.mjs?v=firebase-sync-1';
+import {REVIEW_STORAGE_KEY} from './src/progress-storage.mjs?v=firebase-sync-1';
 
-const state={all:[],references:[],lessons:[],scopeDeck:[],deck:[],index:0,revealed:false,quickSeen:0,type:'all',direction:'ja-zh',year:null,lesson:null,orderMode:localStorage.getItem('jp-study-card-order-mode')==='random'?'random':'sequential',reviewFilter:'all',reviewProgress:normalizeReviewProgress(readJsonStorage(REVIEW_STORAGE_KEY,{})),view:'review',library:{query:'',years:[],lessons:[],types:[]}};
+import {studyDetailsHtml,studySearchText} from './src/study-content.mjs';
+
+const state={all:[],references:[],lessons:[],scopeDeck:[],deck:[],index:0,revealed:false,quickSeen:0,seenKeys:new Set(),type:'all',direction:'ja-zh',year:null,lesson:null,orderMode:readStorage('jp-study-card-order-mode')==='random'?'random':'sequential',reviewFilter:'all',reviewProgress:normalizeReviewProgress(readJsonStorage(REVIEW_STORAGE_KEY,{})),view:'review',library:{query:'',years:[],lessons:[],types:[]}};
 const $=selector=>document.querySelector(selector);
 const $$=selector=>[...document.querySelectorAll(selector)];
 const escapeHtml=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
@@ -46,9 +48,9 @@ async function loadData(){
   }
 }
 
-function currentPool(){return state.all.filter(item=>(state.type==='all'||item.type===state.type)&&item.schoolYear===state.year&&item.lesson===state.lesson);}
-function labelFor(item){return item.type==='grammar'?'文法 Grammar':`生字 · ${item.category||'Vocabulary'}`;}
-function japaneseFor(item){return item.pattern||item.kanji||item.kana;}
+function currentPool(){return state.all.filter(item=>(state.type==='all'||item.type===state.type)&&item.schoolYear===state.year&&item.lesson===state.lesson&&(state.direction!=='zh-ja'||item.meaningZh?.trim()));}
+function labelFor(item){if(item.type==='reference')return '學校補充資料';return item.type==='grammar'?'文法 Grammar':`生字 · ${item.category||'Vocabulary'}`;}
+function japaneseFor(item){return item.title||item.pattern||item.kanji||item.kana;}
 function selectedLessonMeta(){return state.lessons.find(item=>item.schoolYear===state.year&&item.lesson===state.lesson)||state.all.find(item=>item.schoolYear===state.year&&item.lesson===state.lesson);}
 function updateCourseDetails(){
   const meta=selectedLessonMeta(),lessonItems=state.all.filter(item=>item.schoolYear===state.year&&item.lesson===state.lesson);
@@ -58,12 +60,13 @@ function updateCourseDetails(){
   const deckBook=$('.deck-info span'),deckSummary=$('.deck-info p');
   if(deckBook)deckBook.textContent=meta?.book||'';
   if(deckSummary)deckSummary.textContent=`現有 Lesson ${state.lesson}：${vocabularyCount} 個生字、${grammarCount} 項文法。`;
+  const omitted=state.direction==='zh-ja'?lessonItems.filter(item=>(state.type==='all'||item.type===state.type)&&!item.meaningZh?.trim()).length:0;
+  $('#direction-note').hidden=!omitted;$('#direction-note').textContent=omitted?`${omitted} 項教材未提供中文意思，今次中文 → 日文模式暫不顯示。`:'';
 }
 
-let accountSessionActive=false;
 let progressSync;
-function saveReviewProgress(keys){localStorage.setItem(REVIEW_STORAGE_KEY,JSON.stringify(state.reviewProgress));progressSync?.queue(state.reviewProgress,keys);}
-function setSyncedProgress(progress){state.reviewProgress=normalizeReviewProgress(progress);localStorage.setItem(REVIEW_STORAGE_KEY,JSON.stringify(state.reviewProgress));if(state.scopeDeck.length)renderCard();}
+function saveReviewProgress(keys){writeStorage(REVIEW_STORAGE_KEY,JSON.stringify(state.reviewProgress));progressSync?.queue(state.reviewProgress,keys);}
+function setSyncedProgress(progress){const current=state.deck[state.index];state.reviewProgress=normalizeReviewProgress(progress);writeStorage(REVIEW_STORAGE_KEY,JSON.stringify(state.reviewProgress));if(state.scopeDeck.length){applyReviewFilter(current?reviewKeyFor(current):null);state.revealed=false;renderCard();}}
 function renderAccount(user=null,status={state:'guest',message:'進度保存在此裝置'}){
   const guest=$('#account-guest-state'),signedIn=$('#account-user-state');
   guest.hidden=Boolean(user);signedIn.hidden=!user;
@@ -82,7 +85,7 @@ function applyReviewFilter(currentId=null){
 function resetDeck(){
   state.scopeDeck=sequenceForReviewMode(currentPool(),state.orderMode);
   applyReviewFilter();
-  state.index=0;state.revealed=false;state.quickSeen=0;
+  state.index=0;state.revealed=false;state.quickSeen=0;state.seenKeys.clear();
   $('.crumb span').textContent=`Year ${state.year}`;$('.crumb b').textContent=`Lesson ${String(state.lesson).padStart(2,'0')}`;
   updateCourseDetails();
   renderCard();
@@ -93,14 +96,14 @@ function renderCard(){
   const counts=reviewCounts(state.scopeDeck,state.reviewProgress);
   renderReviewFilters(counts);
   $('#deck-total').textContent=`${total} 張`;
-  $('#card-position').textContent=total?`Card ${state.index+1} of ${total}`:'目前沒有卡片';
+  $('#card-position').textContent=total?(state.index>=total?`已到本輪最後 · ${total} 張`:`Card ${state.index+1} of ${total}`):'目前沒有卡片';
   $('#session-type').textContent=state.orderMode==='random'?'Random review':'Sequential review';
   $('#progress-fill').style.width=`${total?Math.min(state.index/total*100,100):0}%`;
-  $('#session-numbers').innerHTML=`<span><i class="number-dot good"></i><b>${Math.min(state.quickSeen,total)}</b> 已瀏覽</span><span>可直接按 → 換下一張</span>`;
+  $('#session-numbers').innerHTML=`<span><i class="number-dot good"></i><b>${state.quickSeen}</b> 已瀏覽</span><span>可直接按 → 換下一張</span>`;
   renderOrderModeToggle();
   $('#card-jump-row').hidden=!total;
   if(!total){
-    const emptyMessage={incorrect:'目前沒有答錯的單字。',correct:'目前沒有答對的單字。',bookmarked:'目前沒有收藏的單字。'}[state.reviewFilter]||'呢個卡組未有內容';
+    const emptyMessage={incorrect:'目前沒有答錯的卡片。',correct:'目前沒有答對的卡片。',bookmarked:'目前沒有收藏的卡片。'}[state.reviewFilter]||'呢個卡組未有內容';
     $('#flashcard').className='flashcard finished';$('#flashcard').innerHTML=`<h2>${emptyMessage}</h2>${state.reviewFilter!=='all'?'<p>可返回全部卡片繼續溫習。</p>':''}`;
     $('#answer-actions').innerHTML=state.reviewFilter==='all'?'': '<button class="reveal-button" id="show-all-review-button">返回全部</button>';
     $('#show-all-review-button')?.addEventListener('click',()=>setReviewFilter('all'));
@@ -116,14 +119,14 @@ function renderCard(){
   const frontLabel=reverse?'中文意思':item.type==='grammar'?'文法句型':item.kanji?'漢字表記':'平假名／片假名';
   $('#flashcard').className=`flashcard${item.type==='grammar'?' grammar-card':''}${state.revealed?' is-flipped':''}`;
   $('#flashcard').setAttribute('aria-label',state.revealed?'答案已顯示':'溫習卡，按下顯示答案');
-  $('#flashcard').innerHTML=`<div class="card-inner"><section class="card-face card-front"><div class="card-topline"><span class="type-badge">${escapeHtml(labelFor(item))}</span><span>${state.index+1} / ${total}</span></div>${speakerButton()}<div class="card-content"><p class="face-label">${frontLabel}</p><h2 lang="${reverse?'zh-HK':'ja'}">${escapeHtml(frontText)}</h2>${frontReading}<p class="flip-hint">↻ 點擊翻面查看答案</p></div></section><section class="card-face card-back"><div class="card-topline"><span class="back-badge">答案與內容</span><span>${state.index+1} / ${total}</span></div>${speakerButton()}<div class="card-content">${answerBackHtml(item,japanese,reverse)}<p class="flip-hint">↻ 點擊返回題目</p></div></section></div>`;
+  $('#flashcard').innerHTML=`<div class="card-inner"><section class="card-face card-front" aria-hidden="${state.revealed}" ${state.revealed?'inert':''}><div class="card-topline"><span class="type-badge">${escapeHtml(labelFor(item))}</span><span>${state.index+1} / ${total}</span></div>${speakerButton()}<div class="card-content"><p class="face-label">${frontLabel}</p><h2 lang="${reverse?'zh-HK':'ja'}">${escapeHtml(frontText)}</h2>${frontReading}<p class="flip-hint">↻ 點擊翻面查看答案</p></div></section><section class="card-face card-back" aria-hidden="${!state.revealed}" ${!state.revealed?'inert':''}><div class="card-topline"><span class="back-badge">答案與內容</span><span>${state.index+1} / ${total}</span></div>${speakerButton()}<div class="card-content">${answerBackHtml(item,japanese,reverse)}<p class="flip-hint">↻ 點擊返回題目</p></div></section></div>`;
   bindSpeakButtons(japanese);
   renderAnswerActions(total);
 }
 
 function renderAnswerActions(total=state.deck.length){
   const item=state.deck[state.index],record=reviewRecordFor(state.reviewProgress,item);
-  $('#answer-actions').innerHTML=`<button class="card-nav-button" id="previous-button" ${state.index===0?'disabled':''} aria-label="上一張" title="上一張">←</button><button class="review-mark-button incorrect ${record.status==='incorrect'?'selected':''}" id="mark-incorrect-button" aria-pressed="${record.status==='incorrect'}" aria-label="標記答錯" title="答錯（X）">✕</button><button class="review-mark-button bookmark ${record.bookmarked?'selected':''}" id="bookmark-button" aria-pressed="${Boolean(record.bookmarked)}" aria-label="${record.bookmarked?'取消收藏':'收藏'}" title="收藏（S）">${record.bookmarked?'★':'☆'}</button><button class="review-mark-button correct ${record.status==='correct'?'selected':''}" id="mark-correct-button" aria-pressed="${record.status==='correct'}" aria-label="標記答對" title="答對（C）">✓</button><button class="card-nav-button" id="next-button" aria-label="${state.index===total-1?'下一張':'下一張'}" title="下一張">→</button>`;
+  $('#answer-actions').innerHTML=`<button class="card-nav-button" id="previous-button" ${state.index===0?'disabled':''} aria-label="上一張" title="上一張">←</button><button class="review-mark-button incorrect ${record.status==='incorrect'?'selected':''}" id="mark-incorrect-button" aria-pressed="${record.status==='incorrect'}" aria-label="標記答錯" title="答錯（X）">✕</button><button class="review-mark-button bookmark ${record.bookmarked?'selected':''}" id="bookmark-button" aria-pressed="${Boolean(record.bookmarked)}" aria-label="${record.bookmarked?'取消收藏':'收藏'}" title="收藏（S）">${record.bookmarked?'★':'☆'}</button><button class="review-mark-button correct ${record.status==='correct'?'selected':''}" id="mark-correct-button" aria-pressed="${record.status==='correct'}" aria-label="標記答對" title="答對（C）">✓</button><button class="card-nav-button" id="next-button" aria-label="${state.index===total-1?'完成今次溫習':'下一張'}" title="${state.index===total-1?'完成今次溫習':'下一張'}">→</button>`;
   $('#previous-button').addEventListener('click',previousQuickCard);
   $('#next-button').addEventListener('click',nextQuickCard);
   $('#mark-incorrect-button').addEventListener('click',()=>markCurrentCard('incorrect'));
@@ -153,10 +156,10 @@ function renderOrderModeToggle(){
 }
 function setOrderMode(mode){
   if(!['sequential','random'].includes(mode)||mode===state.orderMode)return;
-  state.orderMode=mode;localStorage.setItem('jp-study-card-order-mode',mode);
+  state.orderMode=mode;writeStorage('jp-study-card-order-mode',mode);
   state.scopeDeck=sequenceForReviewMode(currentPool(),mode);
   applyReviewFilter();
-  state.index=0;state.revealed=false;state.quickSeen=0;
+  state.index=0;state.revealed=false;state.quickSeen=0;state.seenKeys.clear();
   renderCard();
 }
 function markCurrentCard(status){
@@ -180,7 +183,7 @@ function reconcileDeckForNavigation(direction){
   state.deck=filtered;
   if(target<0){
     if(direction<0&&filtered.length){state.index=0;return true;}
-    state.index=Math.max(0,filtered.length-1);return false;
+    state.index=filtered.length;return false;
   }
   state.index=direction>0?target:filtered.length-1-target;
   return true;
@@ -191,8 +194,10 @@ function previousQuickCard(){
   state.revealed=false;renderCard();
 }
 function nextQuickCard(){
-  if(!state.deck.length)return;
-  state.quickSeen=Math.max(state.quickSeen,state.index+1);incrementToday();
+  if(!state.deck.length||state.index>=state.deck.length)return;
+  const key=reviewKeyFor(state.deck[state.index]);
+  if(!state.seenKeys.has(key)){state.seenKeys.add(key);incrementToday();}
+  state.quickSeen=state.seenKeys.size;
   const moved=reconcileDeckForNavigation(1);if(!moved){renderCard();return;}
   state.revealed=false;renderCard();
 }
@@ -230,44 +235,44 @@ function speakJapanese(text){
   if(voice)utterance.voice=voice;
   window.speechSynthesis.speak(utterance);
 }
-function revealCard(){if(state.revealed||state.index>=state.deck.length)return;state.revealed=true;$('#flashcard').classList.add('is-flipped');$('#flashcard').setAttribute('aria-label','答案已顯示');renderAnswerActions();}
-function hideAnswer(){if(!state.revealed)return;state.revealed=false;$('#flashcard').classList.remove('is-flipped');$('#flashcard').setAttribute('aria-label','溫習卡，按下顯示答案');renderAnswerActions();}
+function updateCardFaces(){for(const face of $$('.card-face')){const hidden=face.classList.contains('card-front')?state.revealed:!state.revealed;face.inert=hidden;face.setAttribute('aria-hidden',String(hidden));}}
+function revealCard(){if(state.revealed||state.index>=state.deck.length)return;state.revealed=true;$('#flashcard').classList.add('is-flipped');$('#flashcard').setAttribute('aria-label','答案已顯示');updateCardFaces();renderAnswerActions();}
+function hideAnswer(){if(!state.revealed)return;state.revealed=false;$('#flashcard').classList.remove('is-flipped');$('#flashcard').setAttribute('aria-label','溫習卡，按下顯示答案');updateCardFaces();renderAnswerActions();}
 function renderFinished(){
   $('#progress-fill').style.width='100%';$('#flashcard').className='flashcard finished';
   $('#card-jump-row').hidden=true;
-  $('#flashcard').innerHTML=`<div class="finished-mark">✓</div><p class="eyebrow">SESSION COMPLETE</p><h2>今次溫習完成。</h2><p>已完成呢一輪 ${state.deck.length} 張卡片。</p>`;
+  $('#flashcard').innerHTML=`<div class="finished-mark">✓</div><p class="eyebrow">SESSION COMPLETE</p><h2>已到本輪最後。</h2><p>今次已瀏覽 ${state.quickSeen} 張卡片。</p>`;
+  $('#flashcard').setAttribute('aria-label','已到本輪最後');
   $('#answer-actions').innerHTML='<button class="reveal-button" id="restart-button">再溫一次</button>';
   $('#restart-button').addEventListener('click',()=>resetDeck());
 }
 
-function masteredIds(){try{return new Set(JSON.parse(localStorage.getItem('jp-study-mastered')||'[]'));}catch{return new Set();}}
 function localDateKey(date=new Date()){return `${date.getFullYear()}-${String(date.getMonth()+1).padStart(2,'0')}-${String(date.getDate()).padStart(2,'0')}`;}
-function incrementToday(){const key=localDateKey(),saved=JSON.parse(localStorage.getItem('jp-study-today')||'{}');saved[key]=(saved[key]||0)+1;localStorage.setItem('jp-study-today',JSON.stringify(saved));updateToday();}
-function updateToday(){const key=localDateKey(),saved=JSON.parse(localStorage.getItem('jp-study-today')||'{}');$('#today-count').textContent=`${saved[key]||0} 張`;}
+function todayCounts(){const saved=readJsonStorage('jp-study-today',{});return saved&&typeof saved==='object'&&!Array.isArray(saved)?saved:{};}
+function todayCount(saved,key){return Number.isSafeInteger(saved[key])&&saved[key]>=0?saved[key]:0;}
+function incrementToday(){const key=localDateKey(),saved=todayCounts();saved[key]=todayCount(saved,key)+1;writeStorage('jp-study-today',JSON.stringify(saved));updateToday();}
+function updateToday(){$('#today-count').textContent=`${todayCount(todayCounts(),localDateKey())} 張`;}
 function normalizeSearch(value){return String(value??'').normalize('NFKC').toLocaleLowerCase();}
-function searchableText(item){
-  const examples=Array.isArray(item.examples)?item.examples.flatMap(example=>[example?.ja,example?.zh]):[];
-  const notes=Array.isArray(item.notes)?item.notes:[item.notes];
-  const supplementary=item.supplementary&&typeof item.supplementary==='object'?Object.values(item.supplementary):[];
-  return normalizeSearch([item.kana,item.kanji,item.meaningZh,item.pattern,item.explanationZh,item.sourceText,...notes,...supplementary,item.category,...examples,item.book,item.schoolYear,item.lesson].filter(value=>value!==undefined&&value!==null).join(' '));
-}
+function searchableText(item){return normalizeSearch(studySearchText(item));}
 
 function sortedUnique(values){return [...new Set(values)].sort((a,b)=>String(a).localeCompare(String(b),undefined,{numeric:true}));}
-function readJsonStorage(key,fallback){try{return JSON.parse(localStorage.getItem(key)||'null')??fallback;}catch{return fallback;}}
+function readStorage(key){try{return localStorage.getItem(key);}catch{return null;}}
+function writeStorage(key,value){try{localStorage.setItem(key,value);return true;}catch{showToast('無法保存本機紀錄，請檢查瀏覽器儲存空間或私隱設定。');return false;}}
+function readJsonStorage(key,fallback){try{return JSON.parse(readStorage(key)||'null')??fallback;}catch{return fallback;}}
 function initialiseFilters(){
   const years=sortedUnique(state.all.map(item=>item.schoolYear));
-  const savedYear=Number(localStorage.getItem('jp-study-deck-year'));
+  const savedYear=Number(readStorage('jp-study-deck-year'));
   state.year=years.includes(savedYear)?savedYear:years[0];
   populateYearSelect(years);
-  populateLessonSelect(Number(localStorage.getItem('jp-study-deck-lesson')));
-  const saved=readJsonStorage('jp-study-library-filters',{});
-  const valid={years:new Set(years.map(String)),lessons:new Set(sortedUnique(state.all.map(item=>item.lesson)).map(String)),types:new Set(sortedUnique(state.all.map(item=>item.type)))};
+  populateLessonSelect(Number(readStorage('jp-study-deck-lesson')));
+  const stored=readJsonStorage('jp-study-library-filters',{}),saved=stored&&typeof stored==='object'?stored:{};
+  const valid={years:new Set(years.map(String)),lessons:new Set(sortedUnique(state.all.map(item=>item.lesson)).map(String)),types:new Set(['vocabulary','grammar','reference'])};
   state.library.query=typeof saved.query==='string'?saved.query:'';
   for(const key of ['years','lessons','types'])state.library[key]=Array.isArray(saved[key])?saved[key].map(String).filter(value=>valid[key].has(value)):[];
   $('#search-input').value=state.library.query;
   populateLibraryFilter('years',years.map(value=>({value:String(value),label:`Year ${value}`})));
   refreshLibraryLessonFilter();
-  populateLibraryFilter('types',[{value:'vocabulary',label:'生字 Vocabulary'},{value:'grammar',label:'文法 Grammar'}].filter(option=>valid.types.has(option.value)));
+  populateLibraryFilter('types',[{value:'vocabulary',label:'生字 Vocabulary'},{value:'grammar',label:'文法 Grammar'},{value:'reference',label:'學校補充資料'}].filter(option=>valid.types.has(option.value)));
   updateLibraryFilterControls();
   saveLibraryFilters();
 }
@@ -283,7 +288,7 @@ function populateLessonSelect(preferred){
   $('#lesson-select').innerHTML=groups.size>1?[...groups].map(([book,items])=>`<optgroup label="${escapeHtml(book)}">${items.map(option).join('')}</optgroup>`).join(''):entries.map(option).join('');
   $('#lesson-select').value=String(state.lesson);
   updateLessonBookContext();
-  localStorage.setItem('jp-study-deck-year',String(state.year));localStorage.setItem('jp-study-deck-lesson',String(state.lesson));
+  writeStorage('jp-study-deck-year',String(state.year));writeStorage('jp-study-deck-lesson',String(state.lesson));
 }
 function updateLessonBookContext(){
   const meta=selectedLessonMeta(),book=meta?.book||'';
@@ -301,7 +306,7 @@ function refreshLibraryLessonFilter(){
   state.library.lessons=state.library.lessons.filter(value=>valid.has(value));
   populateLibraryFilter('lessons',available.map(value=>({value:String(value),label:`Lesson ${String(value).padStart(2,'0')}`})));
 }
-function saveLibraryFilters(){localStorage.setItem('jp-study-library-filters',JSON.stringify(state.library));}
+function saveLibraryFilters(){writeStorage('jp-study-library-filters',JSON.stringify(state.library));}
 function updateLibraryFilterControls(){
   for(const key of ['years','lessons','types']){
     const root=$(`[data-library-filter="${key}"]`),count=state.library[key].length,badge=root.querySelector('b');
@@ -332,13 +337,17 @@ function setDrawerOpen(open){
   drawerHideTimer=setTimeout(()=>{if(!sidebar.classList.contains('open'))drawerBackdrop.hidden=true;},200);
 }
 
-function renderLibrary(){
-  const query=normalizeSearch(state.library.query.trim()),mastered=masteredIds();
-  const items=state.all.filter(item=>(!state.library.years.length||state.library.years.includes(String(item.schoolYear)))&&(!state.library.lessons.length||state.library.lessons.includes(String(item.lesson)))&&(!state.library.types.length||state.library.types.includes(item.type))&&(!query||searchableText(item).includes(query)));
+let libraryLimit=60;
+function renderLibrary(more=false){
+  libraryLimit=more?libraryLimit+60:60;
+  const query=normalizeSearch(state.library.query.trim());
+  const archive=[...state.all,...state.references];
+  const items=archive.filter(item=>(!state.library.years.length||state.library.years.includes(String(item.schoolYear)))&&(!state.library.lessons.length||state.library.lessons.includes(String(item.lesson)))&&(!state.library.types.length||state.library.types.includes(item.type))&&(!query||searchableText(item).includes(query)));
   $('#result-count').textContent=`${items.length} 項內容`;
-  const activeCount=['years','lessons','types'].filter(key=>state.library[key].length).length+(query?1:0);$('.result-summary span').textContent=activeCount?`已套用 ${activeCount} 組條件`:`全部 ${state.all.length} 項內容`;
-  $('#library-grid').innerHTML=items.length?items.map(item=>{const japanese=japaneseFor(item);return `<article class="library-card"><div class="library-card-top"><span class="type-badge">${escapeHtml(labelFor(item))}</span><button class="library-speak" data-library-speak="${escapeHtml(item.id)}" aria-label="播放 ${escapeHtml(japanese)}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4.03v8.05A4.5 4.5 0 0 0 16.5 12zm-2.5-8.7v2.06a7 7 0 0 1 0 13.28v2.06a9 9 0 0 0 0-17.4z"/></svg></button><span class="${mastered.has(item.id)?'mastered-chip':''}">${mastered.has(item.id)?'✓ 已記起':`Year ${item.schoolYear} · Lesson ${String(item.lesson).padStart(2,'0')}`}</span></div><h2 lang="ja">${escapeHtml(japanese)}</h2>${item.kanji?`<div class="library-reading" lang="ja">${escapeHtml(item.kana)}</div>`:''}${item.meaningZh?`<div class="library-meaning">${escapeHtml(item.meaningZh)}</div>`:''}${item.explanationZh?`<p class="library-explain">${escapeHtml(item.explanationZh)}</p>`:''}</article>`;}).join(''):'<div class="empty-state"><b>搵唔到相符內容</b><br>試吓其他日文、假名、中文關鍵字或者篩選條件。</div>';
-  $$('[data-library-speak]').forEach(button=>button.addEventListener('click',()=>{const item=state.all.find(entry=>entry.id===button.dataset.librarySpeak);if(item)speakJapanese(japaneseFor(item));}));
+  const activeCount=['years','lessons','types'].filter(key=>state.library[key].length).length+(query?1:0);$('.result-summary span').textContent=activeCount?`已套用 ${activeCount} 組條件`:`全部 ${archive.length} 項內容`;
+  $('#library-grid').innerHTML=items.length?items.slice(0,libraryLimit).map(item=>{const japanese=japaneseFor(item);return `<article class="library-card"><div class="library-card-top"><span class="type-badge">${escapeHtml(labelFor(item))}</span><button class="library-speak" data-library-speak="${escapeHtml(item.id)}" aria-label="播放 ${escapeHtml(japanese)}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4.03v8.05A4.5 4.5 0 0 0 16.5 12zm-2.5-8.7v2.06a7 7 0 0 1 0 13.28v2.06a9 9 0 0 0 0-17.4z"/></svg></button><span>${escapeHtml(item.book)} · Year ${item.schoolYear} · Lesson ${String(item.lesson).padStart(2,'0')}</span></div><h2 lang="ja">${escapeHtml(japanese)}</h2>${item.kanji?`<div class="library-reading" lang="ja">${escapeHtml(item.kana)}</div>`:''}${item.meaningZh?`<div class="library-meaning">${escapeHtml(item.meaningZh)}</div>`:''}${item.explanationZh?`<p class="library-explain">${escapeHtml(item.explanationZh)}</p>`:''}${studyDetailsHtml(item)}</article>`;}).join(''):'<div class="empty-state"><b>搵唔到相符內容</b><br>試吓其他日文、假名、中文關鍵字或者篩選條件。</div>';
+  if(items.length>libraryLimit){$('#library-grid').insertAdjacentHTML('beforeend',`<button type="button" class="library-more" id="library-more">顯示更多（已顯示 ${Math.min(libraryLimit,items.length)} / ${items.length}）</button>`);$('#library-more').addEventListener('click',()=>renderLibrary(true));}
+  $$('[data-library-speak]').forEach(button=>button.addEventListener('click',()=>{const item=archive.find(entry=>entry.id===button.dataset.librarySpeak);if(item)speakJapanese(japaneseFor(item));}));
 }
 
 function switchView(view){
@@ -365,7 +374,6 @@ function renderConjugation(){
   const query=normalizeSearch(conjugationState.query);
   const verbs=conjugationState.verbs.filter(verb=>{const values=[...verb.masu,...Object.values(verb.forms).flat(),verb.meaning,verb.group].join(' ');return (conjugationState.group==='ALL'||verb.group===conjugationState.group)&&(!query||normalizeSearch(values).includes(query));});
   $('#conjugation-summary').textContent=`${verbs.length} 個例子 · ${conjugationState.revealed?'答案已顯示':'先諗答案，再揭曉'}`;
-  $('#conjugation-list').innerHTML=verbs.length?verbs.map(verb=>{const answer=verb.forms[form.id],negative=verb.forms.conditionalNegative;const result=form.id==='conditional'?`<div class="conjugation-answer ${conjugationState.revealed?'revealed':''}"><small>肯定</small><h2 lang="ja">${conjugationState.revealed?answer[0]:'？'}</h2><p lang="ja">${conjugationState.revealed?answer[1]:'答えを隠しています'}</p></div><div class="conjugation-answer ${conjugationState.revealed?'revealed':''}"><small>否定</small><h2 lang="ja">${conjugationState.revealed?negative[0]:'？'}</h2><p lang="ja">${conjugationState.revealed?negative[1]:'答えを隠しています'}</p></div>`:`<div class="conjugation-answer ${conjugationState.revealed?'revealed':''}"><h2 lang="ja">${conjugationState.revealed?answer[0]:'？'}</h2><p lang="ja">${conjugationState.revealed?answer[1]:'答えを隠しています'}</p></div>`;return `<article class="conjugation-verb ${form.id==='conditional'?'conditional-verb':''}"><div><span class="type-badge">${verb.group}組</span><h2 lang="ja">${verb.masu[0]}</h2><p lang="ja">${verb.masu[1]}</p><small>${verb.meaning}</small></div><div class="conjugation-arrow">→</div><div class="conjugation-results">${result}</div></article>`;}).join(''):'<div class="empty-state"><b>搵唔到相符動詞</b><br>試吓日文、假名、ます形、辭書形或英文意思。</div>';
   $('#conjugation-list').innerHTML=verbs.length?verbs.map(verb=>{const answer=verb.forms[form.id],negative=verb.forms.conditionalNegative;const result=form.id==='conditional'?`<div class="conjugation-answer ${conjugationState.revealed?'revealed':''}"><small>肯定</small><h2 lang="ja">${conjugationState.revealed?answer[0]:'？'}</h2><p lang="ja">${conjugationState.revealed?answer[1]:'答えを隠しています'}</p></div><div class="conjugation-answer ${conjugationState.revealed?'revealed':''}"><small>否定</small><h2 lang="ja">${conjugationState.revealed?negative[0]:'？'}</h2><p lang="ja">${conjugationState.revealed?negative[1]:'答えを隠しています'}</p></div>`:`<div class="conjugation-answer ${conjugationState.revealed?'revealed':''}"><h2 lang="ja">${conjugationState.revealed?answer[0]:'？'}</h2><p lang="ja">${conjugationState.revealed?answer[1]:'答えを隠しています'}</p></div>`;return `<article class="conjugation-verb ${form.id==='conditional'?'conditional-verb':''}"><div><span class="type-badge">${verb.group}組</span><h2 lang="ja">${verb.masu[0]}</h2><p lang="ja">${verb.masu[1]}</p><small>${verb.meaning}</small></div><div class="conjugation-arrow">→</div><div class="conjugation-results">${result}</div></article>`;}).join(''):'<div class="empty-state"><b>搵唔到相符動詞</b><br>試吓日文、假名、ます形、辭書形或英文意思。</div>';
   renderDerivedForms();
   $$('[data-conjugation-form]').forEach(button=>button.addEventListener('click',()=>{conjugationState.formId=button.dataset.conjugationForm;renderConjugation();}));
@@ -405,7 +413,7 @@ $$('[data-conjugation-group]').forEach(button=>button.addEventListener('click',(
 $('#conjugation-answer-toggle').addEventListener('click',()=>{conjugationState.revealed=!conjugationState.revealed;renderConjugation();});
 $$('[data-conjugation-section]').forEach(button=>button.addEventListener('click',()=>{conjugationState.section=button.dataset.conjugationSection;renderConjugation();}));
 function showToast(message){const toast=$('#toast');toast.textContent=message;toast.classList.add('show');clearTimeout(showToast.timer);showToast.timer=setTimeout(()=>toast.classList.remove('show'),1800);}
-function applyTheme(theme){document.documentElement.dataset.theme=theme;localStorage.setItem('jp-study-theme',theme);const dark=theme==='dark';$('#theme-icon').textContent=dark?'☀':'☾';$('#theme-toggle').setAttribute('aria-label',dark?'切換至日間模式':'切換至夜間模式');document.querySelector('meta[name="theme-color"]').content=dark?'#030712':'#f8fafc';}
+function applyTheme(theme){document.documentElement.dataset.theme=theme;writeStorage('jp-study-theme',theme);const dark=theme==='dark';$('#theme-icon').textContent=dark?'☀':'☾';$('#theme-toggle').setAttribute('aria-label',dark?'切換至日間模式':'切換至夜間模式');document.querySelector('meta[name="theme-color"]').content=dark?'#030712':'#f8fafc';}
 
 $$('.nav-item').forEach(item=>item.addEventListener('click',()=>switchView(item.dataset.view)));
 setDrawerOpen(!compactSidebarQuery.matches);
@@ -421,7 +429,7 @@ $('#sync-now-button').addEventListener('click',async()=>{try{await progressSync?
 $('#logout-button').addEventListener('click',async()=>{try{await progressSync?.logout();}catch(error){showToast('尚有未同步進度，請連線後重試。');}});
 $('#deck-type').addEventListener('change',event=>{state.type=event.target.value;resetDeck();});
 $('#year-select').addEventListener('change',event=>{state.year=Number(event.target.value);populateLessonSelect(null);resetDeck();});
-$('#lesson-select').addEventListener('change',event=>{state.lesson=Number(event.target.value);localStorage.setItem('jp-study-deck-lesson',String(state.lesson));resetDeck();});
+$('#lesson-select').addEventListener('change',event=>{state.lesson=Number(event.target.value);writeStorage('jp-study-deck-lesson',String(state.lesson));resetDeck();});
 compactLessonLayout.addEventListener('change',()=>populateLessonSelect(state.lesson));
 $('#card-direction').addEventListener('change',event=>{state.direction=event.target.value;resetDeck();});
 $$('[data-order-mode]').forEach(button=>button.addEventListener('click',()=>setOrderMode(button.dataset.orderMode)));
@@ -447,12 +455,12 @@ flashcard.addEventListener('pointerup',event=>{
   if(Math.abs(vertical)>10&&Math.abs(vertical)>Math.abs(horizontal)){flashcardSwipe.ignoreClick=true;return;}
   if(Math.abs(horizontal)<50||Math.abs(horizontal)<=Math.abs(vertical))return;
   flashcardSwipe.ignoreClick=true;
-  if(horizontal<0){if(state.index<state.deck.length-1)nextQuickCard();}
+  if(horizontal<0){nextQuickCard();}
   else previousQuickCard();
 });
 flashcard.addEventListener('pointercancel',()=>{flashcardSwipe.pointerId=null;});
 flashcard.addEventListener('click',()=>{if(flashcardSwipe.ignoreClick){flashcardSwipe.ignoreClick=false;return;}state.revealed?hideAnswer():revealCard();});
-$('#flashcard').addEventListener('keydown',event=>{if(event.key==='Enter'){event.preventDefault();state.revealed?hideAnswer():revealCard();}});
+$('#flashcard').addEventListener('keydown',event=>{if(event.key==='Enter'&&event.target===flashcard){event.preventDefault();state.revealed?hideAnswer():revealCard();}});
 $('#card-jump').addEventListener('change',event=>{const target=Math.max(1,Math.min(state.deck.length,Number(event.target.value)||1));state.index=target-1;state.revealed=false;renderCard();});
 $('#search-input').addEventListener('input',event=>{state.library.query=event.target.value;updateLibraryFilterControls();saveLibraryFilters();renderLibrary();});
 $$('.library-filter').forEach(root=>{
@@ -466,7 +474,7 @@ document.addEventListener('click',event=>{if(!event.target.closest('.library-fil
 document.addEventListener('dblclick',event=>event.preventDefault(),{passive:false});
 document.addEventListener('keydown',event=>{if(event.key==='Escape'){if($('#menu-button').getAttribute('aria-expanded')==='true'){setDrawerOpen(false);$('#menu-button').focus();return;}const open=$('.library-filter .filter-menu:not([hidden])');if(open){const root=open.closest('.library-filter');closeFilterMenus();root.querySelector('.filter-trigger').focus();}}});
 document.addEventListener('keydown',event=>{
-  if(state.view!=='review'||/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName))return;
+  if(state.view!=='review'||event.ctrlKey||event.metaKey||event.altKey||event.repeat||document.querySelector('dialog[open]')||!$('#install-modal').hidden||$('#menu-button').getAttribute('aria-expanded')==='true'&&compactSidebarQuery.matches||document.activeElement.isContentEditable||/INPUT|SELECT|TEXTAREA|BUTTON|A/.test(document.activeElement.tagName))return;
   if(event.key==='ArrowRight'){event.preventDefault();nextQuickCard();return;}
   if(event.key==='ArrowLeft'){event.preventDefault();previousQuickCard();return;}
   if(event.key.toLowerCase()==='x'){event.preventDefault();markCurrentCard('incorrect');return;}
@@ -478,17 +486,9 @@ progressSync=createProgressSync({
   getProgress:()=>state.reviewProgress,
   setProgress:setSyncedProgress,
   onStatus:status=>renderAccount(progressSync?.user,status),
-  onUser:user=>{
-    if(user){
-      if(!accountSessionActive&&!localStorage.getItem(GUEST_PROGRESS_KEY))localStorage.setItem(GUEST_PROGRESS_KEY,JSON.stringify(cloneProgress(state.reviewProgress)));
-      accountSessionActive=true;renderAccount(user,{state:'syncing',message:'正在讀取雲端進度…'});
-    }else{
-      if(accountSessionActive){state.reviewProgress=normalizeReviewProgress(readJsonStorage(GUEST_PROGRESS_KEY,{}));localStorage.setItem(REVIEW_STORAGE_KEY,JSON.stringify(state.reviewProgress));if(state.scopeDeck.length)renderCard();}
-      accountSessionActive=false;renderAccount();
-    }
-  },
+  onUser:user=>renderAccount(user,user?{state:'syncing',message:'正在讀取雲端進度…'}:undefined),
   onMigration:requestMigration,
   onError:error=>console.warn('Progress sync:',error)
 });
-window.addEventListener('online',()=>progressSync?.flush());
+window.addEventListener('online',async()=>{try{await progressSync?.retry();await progressSync?.flush();}catch(error){console.warn('Progress sync:',error);}});
 renderAccount();applyTheme(document.documentElement.dataset.theme||'light');updateToday();initialisePwa();initialiseInstallApp();progressSync.initialise();loadData();

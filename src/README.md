@@ -1,3 +1,3 @@
 # Front-end
 
-Reserved for the static study app. Data ingestion is being validated first before UI work expands.
+Browser modules for review progress, account synchronization, study content rendering, curriculum order, Japanese speech, installation, and offline updates. The main UI controller remains in the root `app.js`.

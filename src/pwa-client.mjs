@@ -17,6 +17,7 @@ export function initialisePwa(){
   let manualCheckInProgress=false;
 
   const setStatus=(text,state)=>{
+    if(!navigator.onLine&&state==='ready'){text='離線模式';state='offline';}
     status.textContent=text;
     status.dataset.state=state;
     status.hidden=false;

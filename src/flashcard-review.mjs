@@ -13,7 +13,8 @@ export function normalizeReviewProgress(value){
     if(!record||typeof record!=='object'||Array.isArray(record))continue;
     const status=['correct','incorrect'].includes(record.status)?record.status:null;
     const bookmarked=record.bookmarked===true;
-    if(status||bookmarked)normalized[key]={...(status?{status}:{}),...(bookmarked?{bookmarked:true}:{}),...(typeof record.lastReviewed==='string'?{lastReviewed:record.lastReviewed}:{})};
+    // Timestamp-only records remember an explicit reset or removed bookmark.
+    if(status||bookmarked||typeof record.lastReviewed==='string')normalized[key]={...(status?{status}:{}),...(bookmarked?{bookmarked:true}:{}),...(typeof record.lastReviewed==='string'?{lastReviewed:record.lastReviewed}:{})};
   }
   return {version:REVIEW_STORAGE_VERSION,cards:normalized};
 }
@@ -54,11 +55,11 @@ export function reviewCounts(items,progress){
   },{all:0,incorrect:0,correct:0,bookmarked:0});
 }
 
-export function resetReviewStatuses(progress,items){
+export function resetReviewStatuses(progress,items,timestamp=new Date().toISOString()){
   const keys=new Set(items.map(reviewKeyFor)),cards={};
   for(const [key,record] of Object.entries(progress.cards)){
     if(!keys.has(key)){cards[key]=record;continue;}
-    if(record.bookmarked)cards[key]={bookmarked:true,...(record.lastReviewed?{lastReviewed:record.lastReviewed}:{})};
+    cards[key]={...(record.bookmarked?{bookmarked:true}:{}),lastReviewed:timestamp};
   }
   return {version:REVIEW_STORAGE_VERSION,cards};
 }

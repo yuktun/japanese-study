@@ -12,7 +12,8 @@
     "title": {"type": "string"},
     "type": {"const": "reference"},
     "content": {"type": "string"},
-    "table": {"type": "array", "items": {"type": "object"}},
+    "table": {"type": "array", "items": {"type": ["object", "array"]}},
+    "sections": {"type": "array", "items": {"type": "object", "required": ["title", "table"], "properties": {"title": {"type": "string"}, "table": {"type": "array", "items": {"type": ["object", "array"]}}}}},
     "source": {"type": "object"}
   }
 }

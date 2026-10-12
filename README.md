@@ -83,13 +83,33 @@ While offline, the indicator reads **離線模式**. If preparation did not comp
 
 The app checks for updates when it opens, returns to the foreground, and reconnects to the internet. Use **🔄 檢查更新** in the sidebar to immediately call the browser's Service Worker update check after a deployment. If a new worker is ready, it is activated and the app reloads once; otherwise it reports **已是最新版本**. Background checks still show **立即更新** / **稍後** so an active review is not interrupted automatically.
 
-Flashcard answer status, bookmarks, and review progress remain in browser-local storage. They are never placed in the Service Worker cache and are retained through app updates, but they do not automatically synchronize between devices or browsers.
+Flashcard answer status, bookmarks, and review progress remain in browser-local storage. They are never placed in the Service Worker cache and are retained through app updates. Optional Google login enables account synchronization as described below.
 
 ## Optional account sync
 
 Google login is optional. Without it, `jp-study-flashcard-review-progress` remains the local source of truth and the app works offline. After login, progress is still saved locally first; changes are batched to Firestore when a connection is available. Each card is stored separately at `users/{uid}/progress/{encoded-card-id}` with `schemaVersion`, `cardId`, `status`, `bookmarked`, `lastReviewed`, and a server-confirmed `updatedAt` timestamp. Lesson data is never uploaded.
 
 On a first sign-in with existing local progress, the app creates an account-scoped local backup and asks whether to merge, use cloud progress, or retain local progress for now. Merge retains cards unique to either side, retains bookmarks from both, and uses the newest trustworthy `lastReviewed` for conflicting answer states. Ties or missing timestamps are disclosed before confirmation and keep the local state. Logging out restores the pre-login guest snapshot; cloud progress and pending writes are never shown to the next account.
+
+Pending writes and progress snapshots are saved separately for each account and restored after reopening the app. Normal sync uses the newest complete card record, including explicit resets and bookmark removals; additive bookmark merging applies to the initial migration choice. Sync checks cloud progress at login, on reconnection, and with **立即同步**. It does not subscribe to live changes from another device.
+
+## Browsing and review checks
+
+The Library includes vocabulary, grammar, and school reference material. Expand **查看完整內容** to read notes, all examples, tables, and available source text. Results load 60 at a time; search still covers the entire archive. Chinese-to-Japanese flashcards exclude records without a school-provided Chinese meaning and disclose the omitted count.
+
+Regression checks for account synchronization run without any production Firebase access:
+
+```bash
+node scripts/test-progress-sync.mjs
+```
+
+Browser checks cover every available lesson, card navigation, full Library content, pagination, conjugation, responsive layouts, corrupt local counters, and offline reload. They require Playwright and an installed browser:
+
+```bash
+node scripts/test-app-browser.mjs
+```
+
+Use `PLAYWRIGHT_MODULE` for an externally installed/bundled Playwright package and `PLAYWRIGHT_CHANNEL=msedge` to use installed Microsoft Edge. Optional `AUDIT_SCREENSHOT_DIR` saves mobile screenshots for visual inspection.
 
 Deploy `firestore.rules` separately in the Firebase Console or with the Firebase CLI after review; committing it does not deploy it. The configured Authentication authorized domains must include `yuktun.github.io` and `sasukimm.github.io`, and Google must be enabled as a sign-in provider. The included `firebase.json` is for the Local Emulator Suite; do not point emulator tests at production data.
 

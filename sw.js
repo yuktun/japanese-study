@@ -1,5 +1,5 @@
 /* Japanese Study offline-first service worker. Bump CACHE_VERSION for each release. */
-const CACHE_VERSION='2026-09-26-manual-update-1';
+const CACHE_VERSION='2026-10-12-app-audit-1';
 const CACHE_PREFIX='jp-study-offline-';
 const CACHE_NAME=`${CACHE_PREFIX}${CACHE_VERSION}`;
 const READY_MARKER='__jp_study_offline_ready__';
@@ -11,6 +11,7 @@ const CORE_ASSETS=[
   './assets/japanese-study-icon.png',
   './app.js',
   './src/flashcard-review.mjs',
+  './src/study-content.mjs',
   './src/curriculum-order.mjs',
   './src/pwa-client.mjs',
   './src/japanese-speech.mjs',
